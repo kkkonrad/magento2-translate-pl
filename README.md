@@ -2,8 +2,6 @@ Polski pakiet językowy dla Magento 2
 ==========
 Repozytorium zawiera gotowy komponent z językiem polskim dla Magento 2.
 
-Tłumaczenia są synchronizowane ze zmianami dokonanymi w serwisie Crowdin.
-
 ## Instalacja i aktualizacja
 
 ### U użyciem composera (zalecane)
@@ -12,11 +10,11 @@ Tłumaczenia są synchronizowane ze zmianami dokonanymi w serwisie Crowdin.
 
 * jeżeli chcemy trzymać się tylko oficjalnych wydań pakietu (do użycia w działającym sklepie)
 ```
-$ composer require kkkonrad/magento2-polskie-tlumaczenie
+$ composer require kkkonrad/magento2-translate-pl
 ```
 * jeżeli zależy nam na wszystkich aktualnych zmianach (dla tłumaczy)
 ```
-$ composer require kkkonrad/magento2-polskie-tlumaczenie dev-develop
+$ composer require kkkonrad/magento2-translate-pl dev-develop
 ```
 
 Na koniec instalujemy treści statyczne z pobranym przed chwilą pakietem i czyścimy pamięci podręczne sklepu:
@@ -27,7 +25,7 @@ $ php bin/magento cache:flush
 
 #### Aktualizacja
 ```
-$ composer update kkkonrad/magento2-polskie-tlumaczenie
+$ composer update kkkonrad/magento2-translate-pl
 $ php bin/magento setup:static-content:deploy pl_PL
 $ php bin/magento cache:flush
 ```
