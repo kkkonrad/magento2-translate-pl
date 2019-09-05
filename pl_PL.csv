@@ -13895,7 +13895,7 @@ Subtotal,"Suma częściowa",module,Magento_RequisitionList
 Product,Produkt,module,Magento_RequisitionList
 SKU,SKU,module,Magento_RequisitionList
 "Excl. Tax","Bez podatku",module,Magento_RequisitionList
-"Edit item","Edit item",module,Magento_RequisitionList
+"Edit item",Edytuj,module,Magento_RequisitionList
 "Remove item","Usuń produkt",module,Magento_RequisitionList
 "Select all","Zaznacz wszystko",module,Magento_RequisitionList
 "With Selected","With Selected",module,Magento_RequisitionList
@@ -23052,7 +23052,7 @@ from,od,module,Magento_Catalog
 "Please enter a valid price range.","Please enter a valid price range.",module,Magento_CatalogSearch
 """identifiers"" of CMS blocks should be specified","""identifiers"" of CMS blocks should be specified",module,Magento_CmsGraphQl
 """Page id should be specified","""Page id should be specified",module,Magento_CmsGraphQl
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Customer
+"Invalid Form Key. Please refresh the page.","Nieprawidłowy klucz formularza. Proszę odświeżyć stronę.",module,Magento_Customer
 "The store view is not in the associated website.","The store view is not in the associated website.",module,Magento_Customer
 "Magento was installed with a table prefix. Please re-install without prefix.","Magento was installed with a table prefix. Please re-install without prefix.",module,Magento_Developer
 "No API Key was specified or an invalid API Key was specified.","No API Key was specified or an invalid API Key was specified.",module,Magento_Directory
@@ -23076,7 +23076,7 @@ from,od,module,Magento_Catalog
 """url"" argument should be specified and not empty","""url"" argument should be specified and not empty",module,Magento_UrlRewriteGraphQl
 Administrator,Administrator,module,Magento_User
 "%1 has been removed from your Wish List.","%1 has been removed from your Wish List.",module,Magento_Wishlist
-"Acceptance Mark","Acceptance Mark",module,Magento_Braintree
+"Acceptance Mark","Znak akceptacji",module,Magento_Braintree
 "Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Checkout
 or,lub,module,Magento_Checkout
 "* Required Fields","* wymagane pola",module,Magento_Checkout
@@ -23101,9 +23101,9 @@ Search,Szukaj,module,Magento_Ui
 "To Start","Do rozpoczęcia",module,Magento_Ui
 "To End","Do końca",module,Magento_Ui
 Today,Dziś,module,Magento_Ui
-"Place Order","Place Order",module,Magento_Vault
+"Place Order","Złóż zamówienie",module,Magento_Vault
 "Insert Variable","Insert Variable",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentovariable/editor_plugin.js
-"Insert Widget","Insert Widget",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentowidget/editor_plugin.js
+"Insert Widget","Wstaw widget",lib,lib/web/mage/adminhtml/wysiwyg/tiny_mce/plugins/magentowidget/editor_plugin.js
 "The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget.",lib,lib/web/mage/adminhtml/wysiwyg/widget.js
 "Forbidden extensions has been used. Avoid usage of ","Forbidden extensions has been used. Avoid usage of ",lib,lib/web/mage/validation.js
 "First character must be letter.","First character must be letter.",lib,lib/web/mage/validation.js
@@ -23212,3 +23212,400 @@ Upload,"Załaduj plik",module,Magento_Backend
 "3 columns","3 kolumny",module,Magento_Backend
 Configuration,Konfiguracja,module,Magento_Backend
 "View and edit cart","Wyświetl i edytuj koszyk",module,Magento_Checkout
+Frazy,Frazy,module,Kkkonrad_Translate29
+"Dodaj nową frazę","Dodaj nową frazę",module,Kkkonrad_Translate29
+"Edytuj nową frazę","Edytuj nową frazę",module,Kkkonrad_Translate29
+Back,Cofnij,module,Kkkonrad_Translate29
+"Save and Continue","Zapisz i kontynuuj",module,Kkkonrad_Translate29
+Save,Zapisz,module,Kkkonrad_Translate29
+Edytuj,Edytuj,module,Kkkonrad_Translate29
+"All elements was exported.","All elements was exported.",module,Kkkonrad_Translate29
+"All elements was imported.","All elements was imported.",module,Kkkonrad_Translate29
+"Lista fraz","Lista fraz",module,Kkkonrad_Translate29
+"Please correct the data sent.","Proszę poprawić przesyłane dane.",module,Kkkonrad_Translate29
+"A total of %1 element(s) have been deleted.","A total of %1 element(s) have been deleted.",module,Kkkonrad_Translate29
+"A total of %1 element(s) have been duplicated.","A total of %1 element(s) have been duplicated.",module,Kkkonrad_Translate29
+"A total of %1 element(s) have been translated.","A total of %1 element(s) have been translated.",module,Kkkonrad_Translate29
+Zastąp,Zastąp,module,Kkkonrad_Translate29
+"You have saved the phrase.","You have saved the phrase.",module,Kkkonrad_Translate29
+"Something went wrong while saving the data.","Something went wrong while saving the data.",module,Kkkonrad_Translate29
+"You have replace phrases.","You have replace phrases.",module,Kkkonrad_Translate29
+"A total of 1 element(s) have been translated.","A total of 1 element(s) have been translated.",module,Kkkonrad_Translate29
+"All elements was find.","All elements was find.",module,Kkkonrad_Translate29
+Translate,Przetłumacz,module,Kkkonrad_Translate29
+Edit,Edytuj,module,Kkkonrad_Translate29
+Replace,Zastąp,module,Kkkonrad_Translate29
+"There was an error while trying to process the request.","There was an error while trying to process the request.",module,Magento_AuthorizenetAcceptjs
+"This transaction cannot be refunded with its current status.","This transaction cannot be refunded with its current status.",module,Magento_AuthorizenetAcceptjs
+"Something went wrong in the payment gateway.","Wystąpił błąd w bramce płatności.",module,Magento_AuthorizenetAcceptjs
+"The authenticity of the gateway response could not be verified.","The authenticity of the gateway response could not be verified.",module,Magento_AuthorizenetAcceptjs
+"Authorize Only","Tylko autoryzacja",module,Magento_AuthorizenetAcceptjs
+"Authorize and Capture","Autoryzuj i przechwyć",module,Magento_AuthorizenetAcceptjs
+"Credit Card Type","Rodzaj karty kredytowej",module,Magento_AuthorizenetAcceptjs
+"Credit Card Number","Numer karty kredytowej",module,Magento_AuthorizenetAcceptjs
+"Expiration Date","Data ważności",module,Magento_AuthorizenetAcceptjs
+"Card Verification Number","Numer weryfikacyjny karty",module,Magento_AuthorizenetAcceptjs
+label,etykieta,module,Magento_Backend
+"The order #%1 cannot be processed.","The order #%1 cannot be processed.",module,Magento_Braintree
+"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request.",module,Magento_Braintree
+"Message is added to queue","Message is added to queue",module,Magento_Catalog
+"Update attributes for ' . . ' selected products","Update attributes for ' . . ' selected products",module,Magento_Catalog
+"The value of attribute(s) ""%1"" must be unique","The value of attribute(s) ""%1"" must be unique",module,Magento_Catalog
+"Sorry, something went wrong during product attributes update. Please see log for details.","Sorry, something went wrong during product attributes update. Please see log for details.",module,Magento_Catalog
+"Invalid attribute identifier for filter (%1)","Nieprawidłowy identyfikator filtru atrybutu (%1)",module,Magento_Catalog
+"Cannot resolve layered filter type","Cannot resolve layered filter type",module,Magento_CatalogGraphQl
+"Cannot resolve type","Cannot resolve type",module,Magento_CatalogGraphQl
+"Category doesn't exist","Category doesn't exist",module,Magento_CatalogGraphQl
+"""image_type"" value should be specified","""image_type"" value should be specified",module,Magento_CatalogGraphQl
+"currentPage value %1 specified is greater than the %2 page(s) available.","currentPage value %1 specified is greater than the %2 page(s) available.",module,Magento_CatalogGraphQl
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1",module,Magento_CatalogImportExport
+"Could not parse resource url.","Could not parse resource url.",module,Magento_CatalogImportExport
+"Something went wrong while updating the product(s) attributes.","Atrybuty produktów nie zostały zaktualizowane z powodu błędów.",module,Magento_CatalogInventory
+"Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.",module,Magento_CatalogUrlRewrite
+"%1: Line %2","%1: Line %2",module,Magento_Checkout
+"Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
+"We can't upload the file to current folder right now. Please try another folder.","We can't upload the file to current folder right now. Please try another folder.",module,Magento_Cms
+"The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist.",module,Magento_CmsGraphQl
+"Customer not logged in","Customer not logged in",module,Magento_Customer
+"No files for upload.","No files for upload.",module,Magento_Customer
+"There is no address id in setting default billing address.","There is no address id in setting default billing address.",module,Magento_Customer
+"Default billing address has been changed.","Default billing address has been changed.",module,Magento_Customer
+"We can't change default billing address right now.","We can't change default billing address right now.",module,Magento_Customer
+"There is no address id in setting default shipping address.","There is no address id in setting default shipping address.",module,Magento_Customer
+"Default shipping address has been changed.","Default shipping address has been changed.",module,Magento_Customer
+"We can't change default shipping address right now.","We can't change default shipping address right now.",module,Magento_Customer
+"A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Customer
+"There is no such address entity to delete.","There is no such address entity to delete.",module,Magento_Customer
+"We can't mass delete the addresses right now.","We can't mass delete the addresses right now.",module,Magento_Customer
+"Customer address has been updated.","Customer address has been updated.",module,Magento_Customer
+"New customer address has been added.","New customer address has been added.",module,Magento_Customer
+"There is no customer with such id.","There is no customer with such id.",module,Magento_Customer
+"We can't change customer address right now.","We can't change customer address right now.",module,Magento_Customer
+Street,Ulica,module,Magento_Customer
+"Set as default billing","Set as default billing",module,Magento_Customer
+"Set address as default billing","Set address as default billing",module,Magento_Customer
+"Are you sure you want to set the address as default billing address?","Are you sure you want to set the address as default billing address?",module,Magento_Customer
+"Set as default shipping","Set as default shipping",module,Magento_Customer
+"Set address as default shipping","Set address as default shipping",module,Magento_Customer
+"Are you sure you want to set the address as default shipping address?","Are you sure you want to set the address as default shipping address?",module,Magento_Customer
+"Are you sure you want to delete the address?","Are you sure you want to delete the address?",module,Magento_Customer
+"Additional addresses","Additional addresses",module,Magento_Customer
+State,Województwo,module,Magento_Customer
+Actions,Operacje,module,Magento_Customer
+"Required parameters are missing: %1","Required parameters are missing: %1",module,Magento_CustomerGraphQl
+"Customer Address %1 is set as default billing address and can not be deleted","Customer Address %1 is set as default billing address and can not be deleted",module,Magento_CustomerGraphQl
+"Customer Address %1 is set as default shipping address and can not be deleted","Customer Address %1 is set as default shipping address and can not be deleted",module,Magento_CustomerGraphQl
+"Could not find a address with ID ""%address_id""","Could not find a address with ID ""%address_id""",module,Magento_CustomerGraphQl
+"Current customer does not have permission to address with ID ""%address_id""","Current customer does not have permission to address with ID ""%address_id""",module,Magento_CustomerGraphQl
+"The current customer isn't authorized.","The current customer isn't authorized.",module,Magento_CustomerGraphQl
+"Customer with id ""%customer_id"" does not exist.","Customer with id ""%customer_id"" does not exist.",module,Magento_CustomerGraphQl
+"The account is locked.","The account is locked.",module,Magento_CustomerGraphQl
+"This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_CustomerGraphQl
+"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_CustomerGraphQl
+"Provide the current ""password"" to change ""email"".","Provide the current ""password"" to change ""email"".",module,Magento_CustomerGraphQl
+"Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value.",module,Magento_CustomerGraphQl
+"Specify the ""newPassword"" value.","Specify the ""newPassword"" value.",module,Magento_CustomerGraphQl
+"""input"" value should be specified","""input"" value should be specified",module,Magento_CustomerGraphQl
+"""model"" value should be specified","""model"" value should be specified",module,Magento_CustomerGraphQl
+"Address ""id"" value should be specified","Address ""id"" value should be specified",module,Magento_CustomerGraphQl
+"Specify the ""email"" value.","Specify the ""email"" value.",module,Magento_CustomerGraphQl
+"Specify the ""password"" value.","Specify the ""password"" value.",module,Magento_CustomerGraphQl
+"""Email should be specified","""Email should be specified",module,Magento_CustomerGraphQl
+"Currency not allowed for store %1","Currency not allowed for store %1",module,Magento_DirectoryGraphQl
+"Please correct the target currency","Please correct the target currency",module,Magento_DirectoryGraphQl
+"Requested store is not found","Wybrany sklep nie został odnaleziony",module,Magento_DirectoryGraphQl
+Unlimited,Nielimitowany,module,Magento_DownloadableGraphQl
+"The entity supplied to collection is invalid. Verify the entity and try again.","The entity supplied to collection is invalid. Verify the entity and try again.",module,Magento_Eav
+"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Eav
+"Cannot resolve EAV type","Cannot resolve EAV type",module,Magento_EavGraphQl
+"The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration.",module,Magento_Elasticsearch6
+"Contents of the specified CSS file could not be loaded or is empty","Contents of the specified CSS file could not be loaded or is empty",module,Magento_Email
+"Expected Delivery:","Expected Delivery:",module,Magento_Fedex
+"Mutation requests allowed only for POST requests","Mutation requests allowed only for POST requests",module,Magento_GraphQl
+Position,Pozycja,module,Magento_GroupedProduct
+" -- Not Selected --"," -- Not Selected --",module,Magento_ImportExport
+"Validation Strategy","Validation Strategy",module,Magento_ImportExport
+"File must be saved in UTF-8 encoding for proper import","File must be saved in UTF-8 encoding for proper import",module,Magento_ImportExport
+"What is this?","Co to jest?",module,Magento_ImportExport
+"Message is added to queue, wait to get your file soon","Message is added to queue, wait to get your file soon",module,Magento_ImportExport
+"Please provide export file name","Please provide export file name",module,Magento_ImportExport
+"There are no export file with such name %1","There are no export file with such name %1",module,Magento_ImportExport
+"Your export file is ready","Your export file is ready",module,Magento_ImportExport
+"You can pick up your file at export main page","You can pick up your file at export main page",module,Magento_ImportExport
+"Error during export process occurred","Error during export process occurred",module,Magento_ImportExport
+"Error during export process occurred. Please check logs for detail","Error during export process occurred. Please check logs for detail",module,Magento_ImportExport
+"New product data is added to the existing product data for the existing entries in the database. All fields except sku can be updated.","New product data is added to the existing product data for the existing entries in the database. All fields except sku can be updated.",module,Magento_ImportExport
+"The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>","The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>",module,Magento_ImportExport
+"Any entities in the import data that already exist in the database are deleted from the database.","Any entities in the import data that already exist in the database are deleted from the database.",module,Magento_ImportExport
+"Are you sure you wan't to delete a file?","Are you sure you wan't to delete a file?",module,Magento_ImportExport
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.",module,Magento_LayeredNavigation
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
+"Sorry, but we can't deliver to the destination country with this shipping module.","Przepraszam, ale nie dostarczamy do wybranego kraju w tym module wysyłki.",module,Magento_OfflineShipping
+"Please provide payment for the order.","Please provide payment for the order.",module,Magento_Payment
+Visa,Visa,module,Magento_Payment
+"American Express","American Express",module,Magento_Payment
+Gold,Gold,module,Magento_Paypal
+Blue,niebieski,module,Magento_Paypal
+Silver,Silver,module,Magento_Paypal
+Black,czarny,module,Magento_Paypal
+Vertical,Vertical,module,Magento_Paypal
+Horizontal,Horizontal,module,Magento_Paypal
+Pill,Pill,module,Magento_Paypal
+Rectangle,Rectangle,module,Magento_Paypal
+Medium,Średni,module,Magento_Paypal
+Large,Duży,module,Magento_Paypal
+Responsive,Responsive,module,Magento_Paypal
+Checkout,Zamówienie,module,Magento_Paypal
+Pay,Pay,module,Magento_Paypal
+"Buy Now","Buy Now",module,Magento_Paypal
+PayPal,PayPal,module,Magento_Paypal
+Installment,Installment,module,Magento_Paypal
+"PayPal Credit","PayPal Credit",module,Magento_Paypal
+"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons",module,Magento_Paypal
+"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - German ELV",module,Magento_Paypal
+"Incorrect CAPTCHA.","Niepoprawna CAPTCHA",module,Magento_PaypalCaptcha
+&nbsp;,&nbsp;,module,Magento_Persistent
+"Delete image in all store views","Delete image in all store views",module,Magento_ProductVideo
+"'The coupon code couldn't be applied: ' .","'The coupon code couldn't be applied: ' .",module,Magento_Quote
+"Shopping cart error: %message","Shopping cart error: %message",module,Magento_QuoteGraphQl
+"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku""",module,Magento_QuoteGraphQl
+"Could not add the product with SKU %sku to the shopping cart: %message","Could not add the product with SKU %sku to the shopping cart: %message",module,Magento_QuoteGraphQl
+"Missed ""sku"" in cart item data","Missed ""sku"" in cart item data",module,Magento_QuoteGraphQl
+"Missed ""qty"" in cart item data","Missed ""qty"" in cart item data",module,Magento_QuoteGraphQl
+"Please enter a number greater than 0 in this field.","Prosimy o podanie numeru większego od 0 w tym polu.",module,Magento_QuoteGraphQl
+"Could not find a cart with ID ""%masked_cart_id""","Could not find a cart with ID ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"Current user does not have an active cart.","Current user does not have an active cart.",module,Magento_QuoteGraphQl
+"Wrong store code specified for cart ""%masked_cart_id""","Wrong store code specified for cart ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"The current user cannot perform operations on cart ""%masked_cart_id""","The current user cannot perform operations on cart ""%masked_cart_id""",module,Magento_QuoteGraphQl
+"""Street Address"" cannot contain more than %1 lines.","""Street Address"" cannot contain more than %1 lines.",module,Magento_QuoteGraphQl
+"The billing address must contain either ""customer_address_id"" or ""address"".","The billing address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
+"The billing address cannot contain ""customer_address_id"" and ""address"" at the same time.","The billing address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
+"Using the ""use_for_shipping"" option with multishipping is not possible.","Using the ""use_for_shipping"" option with multishipping is not possible.",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping addresses.","You cannot specify multiple shipping addresses.",module,Magento_QuoteGraphQl
+"The shipping address must contain either ""customer_address_id"" or ""address"".","The shipping address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
+"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
+"You cannot specify multiple shipping methods.","You cannot specify multiple shipping methods.",module,Magento_QuoteGraphQl
+"Required parameter ""carrier_code"" is missing.","Required parameter ""carrier_code"" is missing.",module,Magento_QuoteGraphQl
+"Required parameter ""method_code"" is missing.","Required parameter ""method_code"" is missing.",module,Magento_QuoteGraphQl
+"Option type ""%1"" is not supported","Option type ""%1"" is not supported",module,Magento_QuoteGraphQl
+"%1 doesn't implement CustomizableOptionValueInterface","%1 doesn't implement CustomizableOptionValueInterface",module,Magento_QuoteGraphQl
+"Required parameter ""cart_id"" is missing","Required parameter ""cart_id"" is missing",module,Magento_QuoteGraphQl
+"Required parameter ""cart_items"" is missing","Required parameter ""cart_items"" is missing",module,Magento_QuoteGraphQl
+"""model"" value should be specified","""model"" value should be specified",module,Magento_QuoteGraphQl
+"Required parameter ""coupon_code"" is missing","Required parameter ""coupon_code"" is missing",module,Magento_QuoteGraphQl
+"A coupon is already applied to the cart. Please remove it to apply another","A coupon is already applied to the cart. Please remove it to apply another",module,Magento_QuoteGraphQl
+"Missing key ""model"" in cart address data","Missing key ""model"" in cart address data",module,Magento_QuoteGraphQl
+"Unsupported cart address type","Unsupported cart address type",module,Magento_QuoteGraphQl
+"Missing key ""product"" in cart data","Missing key ""product"" in cart data",module,Magento_QuoteGraphQl
+"Missing key ""type_id"" in product data","Missing key ""type_id"" in product data",module,Magento_QuoteGraphQl
+"Product ""%product_type"" type is not supported","Product ""%product_type"" type is not supported",module,Magento_QuoteGraphQl
+"Cart ID length should to be 32 symbols.","Cart ID length should to be 32 symbols.",module,Magento_QuoteGraphQl
+"Cart with ID ""%1"" already exists.","Cart with ID ""%1"" already exists.",module,Magento_QuoteGraphQl
+"Guest email for cart is missing. Please enter","Guest email for cart is missing. Please enter",module,Magento_QuoteGraphQl
+"Unable to place order: %message","Unable to place order: %message",module,Magento_QuoteGraphQl
+"Required parameter ""cart_id"" is missing.","Required parameter ""cart_id"" is missing.",module,Magento_QuoteGraphQl
+"Required parameter ""cart_item_id"" is missing.","Required parameter ""cart_item_id"" is missing.",module,Magento_QuoteGraphQl
+"Required parameter ""billing_address"" is missing","Required parameter ""billing_address"" is missing",module,Magento_QuoteGraphQl
+"Required parameter ""email"" is missing","Required parameter ""email"" is missing",module,Magento_QuoteGraphQl
+"Invalid email format","Invalid email format",module,Magento_QuoteGraphQl
+"The request is not allowed for logged in customers","The request is not allowed for logged in customers",module,Magento_QuoteGraphQl
+"Required parameter ""code"" for ""payment_method"" is missing.","Required parameter ""code"" for ""payment_method"" is missing.",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_addresses"" is missing","Required parameter ""shipping_addresses"" is missing",module,Magento_QuoteGraphQl
+"Required parameter ""shipping_methods"" is missing","Required parameter ""shipping_methods"" is missing",module,Magento_QuoteGraphQl
+"""model"" values should be specified","""model"" values should be specified",module,Magento_QuoteGraphQl
+"Required parameter ""cart_items"" is missing.","Required parameter ""cart_items"" is missing.",module,Magento_QuoteGraphQl
+"Required parameter ""cart_item_id"" for ""cart_items"" is missing.","Required parameter ""cart_item_id"" for ""cart_items"" is missing.",module,Magento_QuoteGraphQl
+"Required parameter ""quantity"" for ""cart_items"" is missing.","Required parameter ""quantity"" for ""cart_items"" is missing.",module,Magento_QuoteGraphQl
+"Could not find cart item with id: %1.","Could not find cart item with id: %1.",module,Magento_QuoteGraphQl
+"Could not update the product with SKU %sku: %message","Could not update the product with SKU %sku: %message",module,Magento_QuoteGraphQl
+"is undefined","is undefined",module,Magento_Rule
+"The creditmemo contains incorrect product items.","The creditmemo contains incorrect product items.",module,Magento_Sales
+"You can not refund shipping if there is no shipping amount.","You can not refund shipping if there is no shipping amount.",module,Magento_Sales
+"Product is not salable.","Produkt nie jest chodliwy.",module,Magento_Sales
+"Message is added to queue, wait to get your coupons soon","Message is added to queue, wait to get your coupons soon",module,Magento_SalesRule
+"Incorrect CAPTCHA","Niepoprawna CAPTCHA",module,Magento_SalesRule
+"Too many coupon code requests, please try again later.","Too many coupon code requests, please try again later.",module,Magento_SalesRule
+"Your coupons are ready","Your coupons are ready",module,Magento_SalesRule
+"You can check your coupons at sales rule page","You can check your coupons at sales rule page",module,Magento_SalesRule
+"Error during coupons generator process occurred","Error during coupons generator process occurred",module,Magento_SalesRule
+"Error during coupons generator process occurred. Please check logs for detail","Error during coupons generator process occurred. Please check logs for detail",module,Magento_SalesRule
+"Subtotal (Excl. Tax)","Suma częściowa (bez podatku)",module,Magento_SalesRule
+"Incorrect CAPTCHA","Niepoprawna CAPTCHA",module,Magento_SendFriend
+"You can't send messages more than %1 times an hour.","Nie możesz wysłać wiadomości ponad %1 razy na godzinę.",module,Magento_SendFriendGraphQl
+"The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_SendFriendGraphQl
+"Please provide Name for all of recipients.","Please provide Name for all of recipients.",module,Magento_SendFriendGraphQl
+"Please provide Email for all of recipients.","Please provide Email for all of recipients.",module,Magento_SendFriendGraphQl
+"Please provide Name of sender.","Please provide Name of sender.",module,Magento_SendFriendGraphQl
+"Please provide Email of sender.","Please provide Email of sender.",module,Magento_SendFriendGraphQl
+"Please provide Message.","Please provide Message.",module,Magento_SendFriendGraphQl
+"Requested store is not found","Wybrany sklep nie został odnaleziony",module,Magento_StoreGraphQl
+"""model"" value should be specified","""model"" value should be specified",module,Magento_UrlRewriteGraphQl
+"We can't find a role to delete.","We can't find a role to delete.",module,Magento_User
+"Specify the ""public_hash"" value.","Specify the ""public_hash"" value.",module,Magento_VaultGraphQl
+"Could not find a token using public hash: %1","Could not find a token using public hash: %1",module,Magento_VaultGraphQl
+"WebapiAsync config for ""%lookupKey"" does not exist.","WebapiAsync config for ""%lookupKey"" does not exist.",module,Magento_WebapiAsync
+"Incorrect CAPTCHA","Niepoprawna CAPTCHA",module,Magento_Wishlist
+"Missing key ""model"" in Wishlist Item value data","Missing key ""model"" in Wishlist Item value data",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist value data","Missing key ""model"" in Wishlist value data",module,Magento_WishlistGraphQl
+"The current user cannot perform operations on wishlist","The current user cannot perform operations on wishlist",module,Magento_WishlistGraphQl
+"Save credit card information for future use.","Save credit card information for future use.",module,Magento_PaypalCaptcha
+"Place Order","Złóż zamówienie",module,Magento_PaypalCaptcha
+"This element contains invalid data. Please resolve this before saving.","This element contains invalid data. Please resolve this before saving.",module,Magento_Ui
+Tooltip,Tooltip,module,Magento_Ui
+"Place Order","Złóż zamówienie",module,Magento_AuthorizenetAcceptjs
+"Go to Review Your Order","Przejdź do przeglądu zamówienia",module,Magento_Braintree
+"Continue to PayPal","Przejdź do PayPal",module,Magento_Braintree
+"Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
+"Sorry, there has been an error processing your request. Please try again later.","Niestety, nastąpił błąd podczas przetwarzania Twojego żądania. Proszę spróbować ponownie później.",module,Magento_Customer
+"Provided Zip/Postal Code seems to be invalid.","Wprowadzony kod pocztowy jest nieprawidłowy.",module,Magento_Customer
+" Example: "," Przykład: ",module,Magento_Customer
+"If you believe it is the right one you can ignore this notice.","Jeżeli uważasz że to prawda możesz zignorować to powiadomienie.",module,Magento_Customer
+"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Paypal
+"Get available payment methods","Get available payment methods",module,Magento_Sales
+"The file upload field is disabled.","The file upload field is disabled.",module,Magento_Ui
+"No marginal white space please","No marginal white space please",module,Magento_Ui
+"Please enter a valid percentage discount value greater than 0.","Please enter a valid percentage discount value greater than 0.",module,Magento_Ui
+"Please use only lowercase letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only lowercase letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",module,Magento_Ui
+"No marginal white space please","No marginal white space please",lib,lib/web/mage/validation.js
+Usuń,Usuń,module,Kkkonrad_Translate29
+ID,ID,module,Kkkonrad_Translate29
+en_US,en_US,module,Kkkonrad_Translate29
+pl_PL,pl_PL,module,Kkkonrad_Translate29
+Typ,Typ,module,Kkkonrad_Translate29
+Moduł,Moduł,module,Kkkonrad_Translate29
+"Phrase Information","Phrase Information",module,Kkkonrad_Translate29
+"Phrase Details","Phrase Details",module,Kkkonrad_Translate29
+"Phrase Id","Phrase Id",module,Kkkonrad_Translate29
+Type,Rodzaj,module,Kkkonrad_Translate29
+Module,Module,module,Kkkonrad_Translate29
+"Importuj dane z translate.csv","Importuj dane z translate.csv",module,Kkkonrad_Translate29
+"Export do pl_PL.csv","Export do pl_PL.csv",module,Kkkonrad_Translate29
+"Korekta duplikatów","Korekta duplikatów",module,Kkkonrad_Translate29
+Zastępowanie,Zastępowanie,module,Kkkonrad_Translate29
+Delete,Usuń,module,Kkkonrad_Translate29
+"Delete Phrase","Usuń frazę",module,Kkkonrad_Translate29
+"Are you sure you wan't to delete selected items?","Czy na pewno chcesz usunąć wszystkie zaznaczone towary?",module,Kkkonrad_Translate29
+Duplicate,Duplikuj,module,Kkkonrad_Translate29
+GT,GT,module,Kkkonrad_Translate29
+"Replace Information","Replace Information",module,Kkkonrad_Translate29
+"Replace Details","Replace Details",module,Kkkonrad_Translate29
+From,Od,module,Kkkonrad_Translate29
+To,Do,module,Kkkonrad_Translate29
+"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)",module,Magento_Authorizenet
+"Signature Key","Signature Key",module,Magento_Authorizenet
+Authorize.Net,Authorize.Net,module,Magento_AuthorizenetAcceptjs
+Enabled,Włączone,module,Magento_AuthorizenetAcceptjs
+"Basic Authorize.Net Settings","Basic Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+Title,Tytuł,module,Magento_AuthorizenetAcceptjs
+Environment,Środowisko,module,Magento_AuthorizenetAcceptjs
+"Payment Action","Akcja płatności",module,Magento_AuthorizenetAcceptjs
+"API Login ID","ID logowania API",module,Magento_AuthorizenetAcceptjs
+"Transaction Key","Klucz transakcji",module,Magento_AuthorizenetAcceptjs
+"Public Client Key","Public Client Key",module,Magento_AuthorizenetAcceptjs
+"Signature Key","Signature Key",module,Magento_AuthorizenetAcceptjs
+"Merchant MD5 (deprecated)","Merchant MD5 (deprecated)",module,Magento_AuthorizenetAcceptjs
+"Advanced Authorize.Net Settings","Advanced Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Accepted Currency","Akceptowana waluta",module,Magento_AuthorizenetAcceptjs
+Debug,"Tryb debug",module,Magento_AuthorizenetAcceptjs
+"Email Customer","Wyślij e-mail do klienta",module,Magento_AuthorizenetAcceptjs
+"Enable Credit Card Verification Field","Enable Credit Card Verification Field",module,Magento_AuthorizenetAcceptjs
+"Credit Card Types","Typy kart kredytowych",module,Magento_AuthorizenetAcceptjs
+"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_AuthorizenetAcceptjs
+"Payment from Specific Countries","Payment from Specific Countries",module,Magento_AuthorizenetAcceptjs
+"Minimum Order Total","Minimalna suma zamówienia",module,Magento_AuthorizenetAcceptjs
+"Maximum Order Total","Maksymalna suma zamówienia",module,Magento_AuthorizenetAcceptjs
+"Sort Order","Kolejność sortowania",module,Magento_AuthorizenetAcceptjs
+"Invalid request to gateway.","Invalid request to gateway.",module,Magento_AuthorizenetAcceptjs
+"Invalid gateway credentials.","Invalid gateway credentials.",module,Magento_AuthorizenetAcceptjs
+"Transaction has been declined. Please try again later.","Transakcja została odrzucona. Prosimy spróbować ponownie później.",module,Magento_AuthorizenetAcceptjs
+"Enable Template Path Hints for Storefront","Enable Template Path Hints for Storefront",module,Magento_Backend
+"Enable Template Path Hints for Admin","Enable Template Path Hints for Admin",module,Magento_Backend
+"Enable Frontend Resize","Enable Frontend Resize",module,Magento_Backend
+"Edit Product Design","Edit Product Design",module,Magento_Catalog
+"Edit Category Design","Edit Category Design",module,Magento_Catalog
+Advanced,Zaawansowane,module,Magento_Catalog
+"Applies to category pages","Applies to category pages",module,Magento_Catalog
+"Remember Category Pagination","Remember Category Pagination",module,Magento_Catalog
+"Changing may affect SEO and cache storage consumption.","Changing may affect SEO and cache storage consumption.",module,Magento_Catalog
+"Images Upload Configuration","Images Upload Configuration",module,Magento_Catalog
+"Jpeg quality for resized images 1-100%.","Jpeg quality for resized images 1-100%.",module,Magento_Catalog
+Cost,Koszt,module,Magento_Catalog
+"This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.","This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.",module,Magento_CatalogSearch
+"This value must be compatible with the corresponding setting in the configured search engine.","This value must be compatible with the corresponding setting in the configured search engine.",module,Magento_CatalogSearch
+"Edit Page Design","Edit Page Design",module,Magento_Cms
+"Invalidate tokens","Invalidate tokens",module,Magento_Customer
+"Update Address","Update Address",module,Magento_Customer
+"Middle Name/Initial","Drugie imię",module,Magento_Customer
+"Are you sure to delete selected address?","Are you sure to delete selected address?",module,Magento_Customer
+"Are you sure you want to delete the selected customers?","Are you sure you want to delete the selected customers?",module,Magento_Customer
+"Are you sure you want to unsubscribe the selected customers from the newsletter?","Are you sure you want to unsubscribe the selected customers from the newsletter?",module,Magento_Customer
+"The customer does not have default billing address","The customer does not have default billing address",module,Magento_Customer
+"The customer does not have default shipping address","The customer does not have default shipping address",module,Magento_Customer
+"Content Type (Non Domestic)","Content Type (Non Domestic)",module,Magento_Dhl
+"Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)","Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)",module,Magento_Dhl
+"Documents Allowed Methods","Documents Allowed Methods",module,Magento_Dhl
+"Non Documents Allowed Methods","Non Documents Allowed Methods",module,Magento_Dhl
+"Sandbox Mode","Tryb testowy",module,Magento_Dhl
+"Elasticsearch Server Hostname","Nazwa hosta serwera Elasticsearch",module,Magento_Elasticsearch6
+"Elasticsearch Server Port","Port serwera Elasticsearch",module,Magento_Elasticsearch6
+"Elasticsearch Index Prefix","Indeks prefiks Elasticsearch",module,Magento_Elasticsearch6
+"Enable Elasticsearch HTTP Auth","Włącz HTTP Auth w Elasticsearch",module,Magento_Elasticsearch6
+"Elasticsearch HTTP Username","Nazwa użytkownika HTTP Elasticsearch",module,Magento_Elasticsearch6
+"Elasticsearch HTTP Password","Hasło HTTP Elasticsearch",module,Magento_Elasticsearch6
+"Elasticsearch Server Timeout","Czas odpowiedzi serwera Elasticsearch",module,Magento_Elasticsearch6
+"Test Connection","Przetestuj połączenie",module,Magento_Elasticsearch6
+"File name","File name",module,Magento_ImportExport
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
+"<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.",module,Magento_Msrp
+"General Options","Opcje ogólne",module,Magento_Newsletter
+Enabled,Włączone,module,Magento_Newsletter
+"Customize Smart Buttons","Customize Smart Buttons",module,Magento_Paypal
+"Checkout Page","Checkout Page",module,Magento_Paypal
+"Customize Button","Customize Button",module,Magento_Paypal
+Label,Label,module,Magento_Paypal
+"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.",module,Magento_Paypal
+"Mexico Installment Period","Mexico Installment Period",module,Magento_Paypal
+"Brazil Installment Period","Brazil Installment Period",module,Magento_Paypal
+Layout,Układ,module,Magento_Paypal
+"Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Select Responsive to ensure the PayPal button renders correctly on mobile devices.",module,Magento_Paypal
+Shape,Shape,module,Magento_Paypal
+Color,Kolor,module,Magento_Paypal
+"Product Pages","Product Pages",module,Magento_Paypal
+"Cart Page","Cart Page",module,Magento_Paypal
+"Mini Cart","Mini Cart",module,Magento_Paypal
+Features,Zalety,module,Magento_Paypal
+"Disable Funding Options","Disable Funding Options",module,Magento_Paypal
+"PayPal will automatically display each enabled funding option to eligible buyers.
+                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
+                                offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
+                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
+                                offered and the currency offered by the merchant is USD.",module,Magento_Paypal
+"PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>",module,Magento_Paypal
+"CAPTCHA for ""Create user"", ""Forgot password"", ""Payflow Pro"" forms is always enabled if chosen.","CAPTCHA for ""Create user"", ""Forgot password"", ""Payflow Pro"" forms is always enabled if chosen.",module,Magento_PaypalCaptcha
+"
+                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
+                        <p>To learn more about new features, see our latest Release Notes in
+                        <a href=""https://devdocs.magento.com/magento-release-information.html""
+                        target=""_blank"">DevDocs' Release Information</a>.
+                        </p>","
+                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
+                        <p>To learn more about new features, see our latest Release Notes in
+                        <a href=""https://devdocs.magento.com/magento-release-information.html""
+                        target=""_blank"">DevDocs' Release Information</a>.
+                        </p>",module,Magento_ReleaseNotification
+Enabled,Włączone,module,Magento_Review
+"Allow Zero GrandTotal","Allow Zero GrandTotal",module,Magento_Sales
+"Allow Zero GrandTotal for Creditmemo","Allow Zero GrandTotal for Creditmemo",module,Magento_Sales
+"Include Discount Amount","Include Discount Amount",module,Magento_Sales
+"Move JS code to the bottom of the page","Move JS code to the bottom of the page",module,Magento_Theme
+"Display Report Bugs Link","Display Report Bugs Link",module,Magento_Theme
+"Show in Sidebar","Show in Sidebar",module,Magento_Wishlist
