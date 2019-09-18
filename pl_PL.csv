@@ -13520,7 +13520,7 @@ Edit,Edytuj,module,Magento_NegotiableQuote
 "No ordered items","Brak zamówionych przedmiotów",module,Magento_NegotiableQuote
 "Please enter a number greater than 0 in this field","Please enter a number greater than 0 in this field",module,Magento_NegotiableQuote
 "This is a required field.","To jest wymagane pole.",module,Magento_NegotiableQuote
-"Please enter a non-decimal number please","Please enter a non-decimal number please",module,Magento_NegotiableQuote
+"Please enter a non-decimal number please","Proszę wpisać liczbę całkowitą",module,Magento_NegotiableQuote
 "This is a required option.","Ta opcja jest wymagana.",module,Magento_NegotiableQuote
 "The field isn't complete.","Pole nie jest kompletne.",module,Magento_NegotiableQuote
 "Maximum length of the message is","Maximum length of the message is",module,Magento_NegotiableQuote
@@ -23500,34 +23500,34 @@ To,Do,module,Kkkonrad_Translate29
 "Signature Key","Signature Key",module,Magento_Authorizenet
 Authorize.Net,Authorize.Net,module,Magento_AuthorizenetAcceptjs
 Enabled,Włączone,module,Magento_AuthorizenetAcceptjs
-"Basic Authorize.Net Settings","Basic Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Basic Authorize.Net Settings","Standardowe opcje Authorize.Net",module,Magento_AuthorizenetAcceptjs
 Title,Tytuł,module,Magento_AuthorizenetAcceptjs
 Environment,Środowisko,module,Magento_AuthorizenetAcceptjs
 "Payment Action","Akcja płatności",module,Magento_AuthorizenetAcceptjs
 "API Login ID","ID logowania API",module,Magento_AuthorizenetAcceptjs
 "Transaction Key","Klucz transakcji",module,Magento_AuthorizenetAcceptjs
-"Public Client Key","Public Client Key",module,Magento_AuthorizenetAcceptjs
+"Public Client Key","Publiczny klucz klienta",module,Magento_AuthorizenetAcceptjs
 "Signature Key","Signature Key",module,Magento_AuthorizenetAcceptjs
 "Merchant MD5 (deprecated)","Merchant MD5 (deprecated)",module,Magento_AuthorizenetAcceptjs
-"Advanced Authorize.Net Settings","Advanced Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Advanced Authorize.Net Settings","Zaawansowane opcje Authorize.Net",module,Magento_AuthorizenetAcceptjs
 "Accepted Currency","Akceptowana waluta",module,Magento_AuthorizenetAcceptjs
 Debug,"Tryb debug",module,Magento_AuthorizenetAcceptjs
 "Email Customer","Wyślij e-mail do klienta",module,Magento_AuthorizenetAcceptjs
-"Enable Credit Card Verification Field","Enable Credit Card Verification Field",module,Magento_AuthorizenetAcceptjs
+"Enable Credit Card Verification Field","Włącz pole weryfikacji karty kredytowej",module,Magento_AuthorizenetAcceptjs
 "Credit Card Types","Typy kart kredytowych",module,Magento_AuthorizenetAcceptjs
-"Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_AuthorizenetAcceptjs
-"Payment from Specific Countries","Payment from Specific Countries",module,Magento_AuthorizenetAcceptjs
+"Payment from Applicable Countries","Płatność z odpowiednich krajów",module,Magento_AuthorizenetAcceptjs
+"Payment from Specific Countries","Płatność z wybranych krajów",module,Magento_AuthorizenetAcceptjs
 "Minimum Order Total","Minimalna suma zamówienia",module,Magento_AuthorizenetAcceptjs
 "Maximum Order Total","Maksymalna suma zamówienia",module,Magento_AuthorizenetAcceptjs
 "Sort Order","Kolejność sortowania",module,Magento_AuthorizenetAcceptjs
 "Invalid request to gateway.","Invalid request to gateway.",module,Magento_AuthorizenetAcceptjs
 "Invalid gateway credentials.","Invalid gateway credentials.",module,Magento_AuthorizenetAcceptjs
 "Transaction has been declined. Please try again later.","Transakcja została odrzucona. Prosimy spróbować ponownie później.",module,Magento_AuthorizenetAcceptjs
-"Enable Template Path Hints for Storefront","Enable Template Path Hints for Storefront",module,Magento_Backend
-"Enable Template Path Hints for Admin","Enable Template Path Hints for Admin",module,Magento_Backend
+"Enable Template Path Hints for Storefront","Włącz podpowiedzi szablonów dla strony sklepu",module,Magento_Backend
+"Enable Template Path Hints for Admin","Włącz podpowiedzi szablonów dla administracji",module,Magento_Backend
 "Enable Frontend Resize","Enable Frontend Resize",module,Magento_Backend
-"Edit Product Design","Edit Product Design",module,Magento_Catalog
-"Edit Category Design","Edit Category Design",module,Magento_Catalog
+"Edit Product Design","Edytuj wygląd produktu",module,Magento_Catalog
+"Edit Category Design","Edytuj wygląd kategorii",module,Magento_Catalog
 Advanced,Zaawansowane,module,Magento_Catalog
 "Applies to category pages","Applies to category pages",module,Magento_Catalog
 "Remember Category Pagination","Remember Category Pagination",module,Magento_Catalog
@@ -23537,15 +23537,15 @@ Advanced,Zaawansowane,module,Magento_Catalog
 Cost,Koszt,module,Magento_Catalog
 "This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.","This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.",module,Magento_CatalogSearch
 "This value must be compatible with the corresponding setting in the configured search engine.","This value must be compatible with the corresponding setting in the configured search engine.",module,Magento_CatalogSearch
-"Edit Page Design","Edit Page Design",module,Magento_Cms
+"Edit Page Design","Edytuj wygląd strony",module,Magento_Cms
 "Invalidate tokens","Invalidate tokens",module,Magento_Customer
-"Update Address","Update Address",module,Magento_Customer
+"Update Address","Zaktualizuj adres",module,Magento_Customer
 "Middle Name/Initial","Drugie imię",module,Magento_Customer
-"Are you sure to delete selected address?","Are you sure to delete selected address?",module,Magento_Customer
-"Are you sure you want to delete the selected customers?","Are you sure you want to delete the selected customers?",module,Magento_Customer
+"Are you sure to delete selected address?","Czy jesteś pewny że chcesz usunąć zaznaczony adres?",module,Magento_Customer
+"Are you sure you want to delete the selected customers?","Czy jesteś pewny że chcesz usunąć zaznaczonych użytkowników?",module,Magento_Customer
 "Are you sure you want to unsubscribe the selected customers from the newsletter?","Are you sure you want to unsubscribe the selected customers from the newsletter?",module,Magento_Customer
-"The customer does not have default billing address","The customer does not have default billing address",module,Magento_Customer
-"The customer does not have default shipping address","The customer does not have default shipping address",module,Magento_Customer
+"The customer does not have default billing address","Klient nie ma wybranego domyślnego adresy płatności.",module,Magento_Customer
+"The customer does not have default shipping address","Klient nie ma wybranego domyślnego adresy dostawy.",module,Magento_Customer
 "Content Type (Non Domestic)","Content Type (Non Domestic)",module,Magento_Dhl
 "Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)","Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)",module,Magento_Dhl
 "Documents Allowed Methods","Documents Allowed Methods",module,Magento_Dhl
@@ -23559,13 +23559,13 @@ Cost,Koszt,module,Magento_Catalog
 "Elasticsearch HTTP Password","Hasło HTTP Elasticsearch",module,Magento_Elasticsearch6
 "Elasticsearch Server Timeout","Czas odpowiedzi serwera Elasticsearch",module,Magento_Elasticsearch6
 "Test Connection","Przetestuj połączenie",module,Magento_Elasticsearch6
-"File name","File name",module,Magento_ImportExport
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.",module,Magento_LayeredNavigation
+"File name","Nazwa pliku",module,Magento_ImportExport
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Może być używany tylko jeśli typami atrybutu takimi jak Tak/Nie (wartość logiczna), menu rozwijane, wybór wielokrotny i cena.",module,Magento_LayeredNavigation
 "<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.",module,Magento_Msrp
 "General Options","Opcje ogólne",module,Magento_Newsletter
 Enabled,Włączone,module,Magento_Newsletter
 "Customize Smart Buttons","Customize Smart Buttons",module,Magento_Paypal
-"Checkout Page","Checkout Page",module,Magento_Paypal
+"Checkout Page","Strona składania zamówienia",module,Magento_Paypal
 "Customize Button","Customize Button",module,Magento_Paypal
 Label,Label,module,Magento_Paypal
 "The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.",module,Magento_Paypal
@@ -23573,18 +23573,16 @@ Label,Label,module,Magento_Paypal
 "Brazil Installment Period","Brazil Installment Period",module,Magento_Paypal
 Layout,Układ,module,Magento_Paypal
 "Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Select Responsive to ensure the PayPal button renders correctly on mobile devices.",module,Magento_Paypal
-Shape,Shape,module,Magento_Paypal
+Shape,Kształt,module,Magento_Paypal
 Color,Kolor,module,Magento_Paypal
-"Product Pages","Product Pages",module,Magento_Paypal
-"Cart Page","Cart Page",module,Magento_Paypal
-"Mini Cart","Mini Cart",module,Magento_Paypal
+"Product Pages","Strony produktów",module,Magento_Paypal
+"Cart Page","Strona koszyka",module,Magento_Paypal
+"Mini Cart","Mały koszyk",module,Magento_Paypal
 Features,Zalety,module,Magento_Paypal
-"Disable Funding Options","Disable Funding Options",module,Magento_Paypal
+"Disable Funding Options","Wyłącz opcje finansowania",module,Magento_Paypal
 "PayPal will automatically display each enabled funding option to eligible buyers.
                                 For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.",module,Magento_Paypal
+                                offered and the currency offered by the merchant is USD.","PayPal automatycznie wyświetli każdą włączoną opcję finansowania uprawnionym kupującym. Na przykład kredyt PayPal jest wyświetlany tylko kupującym w krajach, w których znajduje się kredyt PayPal jest oferowana, a walutą oferowaną przez sprzedwcę jest USD.",module,Magento_Paypal
 "PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                             You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                             <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
@@ -23603,9 +23601,10 @@ Features,Zalety,module,Magento_Paypal
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>",module,Magento_ReleaseNotification
 Enabled,Włączone,module,Magento_Review
-"Allow Zero GrandTotal","Allow Zero GrandTotal",module,Magento_Sales
-"Allow Zero GrandTotal for Creditmemo","Allow Zero GrandTotal for Creditmemo",module,Magento_Sales
-"Include Discount Amount","Include Discount Amount",module,Magento_Sales
-"Move JS code to the bottom of the page","Move JS code to the bottom of the page",module,Magento_Theme
-"Display Report Bugs Link","Display Report Bugs Link",module,Magento_Theme
-"Show in Sidebar","Show in Sidebar",module,Magento_Wishlist
+"Allow Zero GrandTotal","Pozwalaj na zerową cenę zamówienia",module,Magento_Sales
+"Allow Zero GrandTotal for Creditmemo","Pozwalaj na zerową cenę zamówienia na nocie korygującej",module,Magento_Sales
+"Include Discount Amount","Uwzględnij wartość zniżki",module,Magento_Sales
+"Move JS code to the bottom of the page","Przenieś kod JS na koniec strony",module,Magento_Theme
+"Display Report Bugs Link","Pokasz adres zgłaszania błedów",module,Magento_Theme
+"Show in Sidebar","Pokaż w pasku bocznym",module,Magento_Wishlist
+"You cannot use decimal quantity for this product.","Nie można użyć ilości dziesiętnej dla tego produktu.",module,Magento_CatalogInventory
