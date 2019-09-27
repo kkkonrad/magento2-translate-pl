@@ -150,7 +150,7 @@ Total,Łącznie,module,Dotdigitalgroup_Email
 "Additional Newsletter Subscriptions","Dodatkowe subskrypcje newsletterów",module,Dotdigitalgroup_Email
 "Data Fields","Data Fields",module,Dotdigitalgroup_Email
 "Leave a review","Leave a review",module,Dotdigitalgroup_Email
-"View Now","View Now",module,Dotdigitalgroup_Email
+"View Now","Pokaż teraz",module,Dotdigitalgroup_Email
 "Feefo Feedback","Feefo Feedback",module,Dotdigitalgroup_Email
 "See what our customers say about us","Zobacz co nasi klienci mówią o nas",module,Dotdigitalgroup_Email
 "Read Details","Przeczytaj szczegóły",module,Magento_AdminNotification
@@ -1331,7 +1331,7 @@ px.,px.,module,Magento_Catalog
 "Could not save group price","Nie można zapisać ceny grupowej",module,Magento_Catalog
 "Please provide valid data","Podaj poprawne dane",module,Magento_Catalog
 "Values of following attributes are invalid: %1","Wartości następujących atrybutów są nieprawidłowe: %1",module,Magento_Catalog
-"We can't create writeable directory ""%1"".","We can't create writeable directory ""%1"".",module,Magento_Catalog
+"We can't create writeable directory ""%1"".","Nie możemy utworzyć katalogu do zapisu ""%1"".",module,Magento_Catalog
 "The file upload failed.","Wysłanie pliku nie powiodło się.",module,Magento_Catalog
 "The product has required options.","Produkt ma wymagane opcje.",module,Magento_Catalog
 "Something went wrong while processing the request.","Coś się zepsuło podczas przetwarzania żądania.",module,Magento_Catalog
@@ -1857,7 +1857,7 @@ Store,Sklep,module,Magento_Config
 "Yes (301 Moved Permanently)","Tak (301 Stałe przekierowanie)",module,Magento_Config
 Yes,Tak,module,Magento_Config
 Specified,Wybrane,module,Magento_Config
-"Visible section not found.","Visible section not found.",module,Magento_Config
+"Visible section not found.","Nie znaleziono widocznej sekcji.",module,Magento_Config
 "Config form fieldset clone model required to be able to clone fields","Klon zestawu pól formularza konfiguracyjnego jest wymagany do klonowania pól",module,Magento_Config
 "%1: Instance of %2 is expected, got %3 instead","%1: Instance of %2 is expected, got %3 instead",module,Magento_Config
 "Invalid XML in file %1:\n%2","Nieprawidłowy kod XML w pliku %1:\n%2",module,Magento_Config
@@ -2441,7 +2441,7 @@ Name,Nazwa,module,Magento_Customer
 "%1 does not implement %2"," %1 nie implementuje %2",module,Magento_Deploy
 "File app/etc/%1 can't be read. Please check if it exists and has read permissions.","File app/etc/%1 can't be read. Please check if it exists and has read permissions.",module,Magento_Deploy
 "There are no sensitive configurations to fill","There are no sensitive configurations to fill",module,Magento_Deploy
-"Value can't be empty","Value can't be empty",module,Magento_Deploy
+"Value can't be empty","Wartość nie może być pusta",module,Magento_Deploy
 "A configuration with this path does not exist or is not sensitive","A configuration with this path does not exist or is not sensitive",module,Magento_Deploy
 "Cannot switch into given mode ""%1""","Nie można przełączyć do danego trybu ""%1""",module,Magento_Deploy
 "Wrong logger interface specified.","Wybrana została błędna instancja loggera.",module,Magento_Deploy
@@ -2732,7 +2732,7 @@ Dropdown,"Lista rozwijana",module,Magento_Eav
 "Invalid entity_type specified: %1","Określono nieprawidłowy typ jednostki: %1",module,Magento_Eav
 "Entity is not initialized","Jednostka nie została zainicjowana",module,Magento_Eav
 "Unknown parameter","Nieznany parametr",module,Magento_Eav
-"Unique constraint violation found","Unique constraint violation found",module,Magento_Eav
+"Unique constraint violation found","Znaleziono unikalne naruszenie ograniczenia",module,Magento_Eav
 "The attribute code '%1' is reserved by system. Please try another attribute code","Kod atrybutu '%1' jest zarezerwowany przez system. Spróbuj ponownie z innym kodem",module,Magento_Eav
 "An attribute code must not be more than %1 characters.","Kod atrybutu nie może mieć więcej niż %1 znaków.",module,Magento_Eav
 "Invalid default decimal value","Nieprawidłowa domyślna wartość dziesiętna",module,Magento_Eav
@@ -3543,7 +3543,7 @@ No,Nie,module,Magento_OfflineShipping
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Wartość Ttl ""%1"" nie jest prawidłowa. Proszę używać tylko cyfr większych lub równych zero.",module,Magento_PageCache
 "Built-in Cache","Wbudowana pamięć podręczna",module,Magento_PageCache
 "Varnish Cache (Recommended)","Varnish (Zalecane)",module,Magento_PageCache
-"Unsupported varnish version","Unsupported varnish version",module,Magento_PageCache
+"Unsupported varnish version","Nieobsługiwana wersja Varnish",module,Magento_PageCache
 "We cannot retrieve the payment method model object.","Nie można pobrać informacji modelu obiektu płatności.",module,Magento_Payment
 Month,Miesiąc,module,Magento_Payment
 Year,Rok,module,Magento_Payment
@@ -5271,7 +5271,7 @@ Store,Sklep,module,Magento_Search
 "Display in Suggested Terms","Wyświetlaj w sugerowanych frazach",module,Magento_Search
 "The synonym group has been deleted.","Usunięto grupę synonimów.",module,Magento_Search
 "An error was encountered while performing delete operation.","An error was encountered while performing delete operation.",module,Magento_Search
-"We can't find a synonym group to delete.","We can't find a synonym group to delete.",module,Magento_Search
+"We can't find a synonym group to delete.","Nie możemy znaleźć grupy synonimów do usunięcia.",module,Magento_Search
 "This synonyms group no longer exists.","Ta grupa synonimów już nie istnieje.",module,Magento_Search
 "Edit Synonym Group","Edycja grupy synonimów",module,Magento_Search
 "Synonym Group","Grupa synonimów",module,Magento_Search
@@ -5527,7 +5527,7 @@ Declined,Declined,module,Magento_Signifyd
 Pending,Oczekujący,module,Magento_Signifyd
 Canceled,Anulowane,module,Magento_Signifyd
 "In Review","W recenzji",module,Magento_Signifyd
-Unrequested,Unrequested,module,Magento_Signifyd
+Unrequested,Niepotrzebne,module,Magento_Signifyd
 "Learn more","Learn more",module,Magento_Signifyd
 "This order already has associated case entity","This order already has associated case entity",module,Magento_Signifyd
 "The case entity should not be empty.","The case entity should not be empty.",module,Magento_Signifyd
@@ -6017,7 +6017,7 @@ error_message,error_message,module,Magento_Ups
 None,Brak,module,Magento_Ups
 label,etykieta,module,Magento_Ups
 "United Parcel Service","United Parcel Service",module,Magento_Ups
-"United Parcel Service XML","United Parcel Service XML",module,Magento_Ups
+"United Parcel Service XML","XML usługi United Parcel Service",module,Magento_Ups
 "Edit URL Rewrite for a Category","Dodaj przekierowanie URL dla kategorii",module,Magento_UrlRewrite
 "Add URL Rewrite for a Category","Dodaj przekierowanie URL dla kategorii",module,Magento_UrlRewrite
 Category:,Kategoria:,module,Magento_UrlRewrite
@@ -6524,7 +6524,7 @@ Remove,Usuń,theme,frontend/Magento/luma
 "Clear All","Wyczyść wszystko",theme,frontend/Magento/luma
 "Shopping Options","Opcje zakupów",theme,frontend/Magento/luma
 "Activate Now","Aktywuj teraz",module,Mageplaza_Core
-"Update this license","Update this license",module,Mageplaza_Core
+"Update this license","Uaktualnij licencję",module,Mageplaza_Core
 "Invalid data.","Invalid data.",module,Mageplaza_Core
 Partners,Partnerzy,module,Mageplaza_Core
 "Mageplaza Marketplace","Mageplaza Marketplace",module,Mageplaza_Core
@@ -6533,7 +6533,7 @@ Announcement,Announcement,module,Mageplaza_Core
 "New & Update extensions","New &Update extensions",module,Mageplaza_Core
 "Promotions ","Promotions ",module,Mageplaza_Core
 "Module Information","Module Information",module,Mageplaza_Core
-Version,Version,module,Mageplaza_Core
+Version,Wersja,module,Mageplaza_Core
 "Register Name","Register Name",module,Mageplaza_Core
 "Register Email","Register Email",module,Mageplaza_Core
 "Product Key","Product Key",module,Mageplaza_Core
@@ -6553,7 +6553,7 @@ Version,Version,module,Mageplaza_Core
 "The payment has been accepted.","Płatność została zaakceptowana.",module,PayU_PaymentGateway
 "The payment has been denied.","Płatność została odrzucona.",module,PayU_PaymentGateway
 "We can't update the payment right now.","W tej chwili nie możemy zaktualizować płatności.",module,PayU_PaymentGateway
-"Unknown Action","Unknown Action",module,PayU_PaymentGateway
+"Unknown Action","Nieznana akcja",module,PayU_PaymentGateway
 "Session Validation Error","Session Validation Error",module,PayU_PaymentGateway
 "CVV Validation Error","CVV Validation Error",module,PayU_PaymentGateway
 "Wrong Request","Nieprawidłowe żądanie",module,PayU_PaymentGateway
@@ -6667,7 +6667,7 @@ No,Nie,module,Temando_Shipping
 "Magento Shipping ID","Magento Shipping ID",module,Temando_Shipping
 Reason,Powód,module,Temando_Shipping
 Action,Operacja,module,Temando_Shipping
-"View Shipment #%1","View Shipment #%1",module,Temando_Shipping
+"View Shipment #%1","Zobacz wysyłkę nr %1",module,Temando_Shipping
 "Dispatch Information","Dispatch Information",module,Temando_Shipping
 "Carrier Name","Carrier Name",module,Temando_Shipping
 "Date Created","Date Created",module,Temando_Shipping
@@ -6986,7 +6986,7 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Payment order: Payment is processed by PayU SA;The recipient's data, the payment title and the amount are provided to PayU SA by the recipient;The order is sent for processing when PayU SA receives your payment. The payment is transferred to the recipient within 1 hour, not later than until the end of the next business day;PayU SA does not charge any service fees.","Payment order: Payment is processed by PayU SA;The recipient's data, the payment title and the amount are provided to PayU SA by the recipient;The order is sent for processing when PayU SA receives your payment. The payment is transferred to the recipient within 1 hour, not later than until the end of the next business day;PayU SA does not charge any service fees.",module,PayU_PaymentGateway
 "The administrator of your personal data within the meaning of the Personal Data Protection Act of 29 August 1997 (Journal of Laws of 2002, No. 101, item 926 as amended) is PayU SA with the registered office in Poznań (60-166) at ul. Grunwaldzka 182. Your personal data will be processed according to the applicable provisions of law for archiving and service provision purposes. Your data will not be made available to other entities, except of entities authorized by law. You are entitled to access and edit your data. Data provision is voluntary but required to achieve the above-mentioned purposes.","The administrator of your personal data within the meaning of the Personal Data Protection Act of 29 August 1997 (Journal of Laws of 2002, No. 101, item 926 as amended) is PayU SA with the registered office in Poznań (60-166) at ul. Grunwaldzka 182. Your personal data will be processed according to the applicable provisions of law for archiving and service provision purposes. Your data will not be made available to other entities, except of entities authorized by law. You are entitled to access and edit your data. Data provision is voluntary but required to achieve the above-mentioned purposes.",module,PayU_PaymentGateway
 "Pay with a card","Pay with a card",module,PayU_PaymentGateway
-"Use new card","Use new card",module,PayU_PaymentGateway
+"Use new card","Użyj nowej karty",module,PayU_PaymentGateway
 "An unexpected error occurred. Please check your card details and try again.","An unexpected error occurred. Please check your card details and try again.",module,PayU_PaymentGateway
 "Place Order","Złóż zamówienie",module,PayU_PaymentGateway
 "Backup options","Opcje kopii zapasowych",lib,lib/web/mage/adminhtml/backup.js
@@ -7428,7 +7428,7 @@ Customers,Klienci,module,Dotdigitalgroup_Email
 "Abandoned Cart 2","Porzucony koszyk 2",module,Dotdigitalgroup_Email
 "Abandoned Cart 3","Porzucony koszyk 3",module,Dotdigitalgroup_Email
 Guests,Guests,module,Dotdigitalgroup_Email
-"Visitor action automation enrolment","Visitor action automation enrolment",module,Dotdigitalgroup_Email
+"Visitor action automation enrolment","Rejestracja automatyzacji działań odwiedzających",module,Dotdigitalgroup_Email
 "New Customer","Nowy klient",module,Dotdigitalgroup_Email
 "New Subscriber","New Subscriber",module,Dotdigitalgroup_Email
 "First Customer Order","First Customer Order",module,Dotdigitalgroup_Email
@@ -7464,7 +7464,7 @@ Passcode,Passcode,module,Dotdigitalgroup_Email
 "Coupon Codes URL","Coupon Codes URL",module,Dotdigitalgroup_Email
 "Order Recommendation","Order Recommendation",module,Dotdigitalgroup_Email
 "Related Products URL","Related Products URL",module,Dotdigitalgroup_Email
-"Upsell Products URL","Upsell Products URL",module,Dotdigitalgroup_Email
+"Upsell Products URL","Adres URL dla produktów alternatywnych",module,Dotdigitalgroup_Email
 "Crosssell Products URL","Crosssell Products URL",module,Dotdigitalgroup_Email
 "Cart Recommendation","Cart Recommendation",module,Dotdigitalgroup_Email
 "Product Recommendation","Product Recommendation",module,Dotdigitalgroup_Email
@@ -7482,7 +7482,7 @@ Wishlist,Schowek,module,Dotdigitalgroup_Email
 "Display Type","Typ wyświetlania",module,Dotdigitalgroup_Email
 "Related Products","Produkty powiązane",module,Dotdigitalgroup_Email
 "Items To Display","Items To Display",module,Dotdigitalgroup_Email
-"Upsell Products","Upsell Products",module,Dotdigitalgroup_Email
+"Upsell Products","Produkty alternatywne",module,Dotdigitalgroup_Email
 "Crosssell Products","Crosssell Products",module,Dotdigitalgroup_Email
 "Best Sellers","Best Sellers",module,Dotdigitalgroup_Email
 "Time Period","Time Period",module,Dotdigitalgroup_Email
@@ -7639,7 +7639,7 @@ Messages,Wiadomości,module,Dotdigitalgroup_Email
 "Import Mode","Import Mode",module,Dotdigitalgroup_Email
 "Import Status","Import Status",module,Dotdigitalgroup_Email
 "Started At","Started At",module,Dotdigitalgroup_Email
-"Updated Date","Updated Date",module,Dotdigitalgroup_Email
+"Updated Date","Zaktualizowana data",module,Dotdigitalgroup_Email
 "Order Id","ID zamówienia",module,Dotdigitalgroup_Email
 "Email Imported","Email Imported",module,Dotdigitalgroup_Email
 "Email Modified","Email Modified",module,Dotdigitalgroup_Email
@@ -8424,7 +8424,7 @@ CSV,CSV,module,Magento_CustomerImportExport
 "Change Email and Password Template","Zmień adres E-mail i hasło",module,Magento_Customer
 "Name and Address Options","Opcje nazwy i adresu",module,Magento_Customer
 "Number of Lines in a Street Address","Ilość linii w polu adresu",module,Magento_Customer
-"Valid range: 1-4","Valid range: 1-4",module,Magento_Customer
+"Valid range: 1-4","Prawidłowy zakres: 1-4",module,Magento_Customer
 "Show Prefix","Pokazuj prefiks",module,Magento_Customer
 "The title that goes before name (Mr., Mrs., etc.)","Tytuł pojawiający się przed imieniem (Mr., Mrs., itp.)",module,Magento_Customer
 "Prefix Dropdown Options","Rozwijane opcje prefiksu",module,Magento_Customer
@@ -9507,7 +9507,7 @@ Taxes,Podatki,module,Magento_Tax
 "This sets whether shipping amounts entered from Magento Admin or obtained from gateways include tax.","Czy koszty dostawy pobrane z Magento Admin lub pobrane z zewnątrz zawierają podatek.",module,Magento_Tax
 "Apply Customer Tax","Zastosuj podatek klienta",module,Magento_Tax
 "Apply Discount On Prices","Zastosuj zniżkę na cenach",module,Magento_Tax
-"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.",module,Magento_Tax
+"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Ostrzeżenie: aby zastosować rabat na ceny, w tym podatek i podatek po rabacie, ustaw Ceny katalogowe na ""Łącznie z podatkiem"".",module,Magento_Tax
 "Apply Tax On","Zastosuj podatek na",module,Magento_Tax
 "Enable Cross Border Trade","Włącz handel transgraniczny",module,Magento_Tax
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Kiedy cena katalog zawiera podatek, włączenie tego ustawienia naprawi cenę bez względu na to, jaka jest ustawiona stawka podatkowa klienta.",module,Magento_Tax
@@ -9844,7 +9844,7 @@ Status,Stan,module,Temando_Shipping
 "Delete Locations","Usuń lokalizacje",module,Temando_Shipping
 Type,Rodzaj,module,Temando_Shipping
 Name,Nazwa,module,Temando_Shipping
-"Unique Identifier","Unique Identifier",module,Temando_Shipping
+"Unique Identifier","Unikalny identyfikator",module,Temando_Shipping
 Address,Adres,module,Temando_Shipping
 Postcode,Postcode,module,Temando_Shipping
 Default,Domyślny,module,Temando_Shipping
@@ -10385,7 +10385,7 @@ Currency,Waluta,module,Magento_BraintreeTwo
 "The option couldn't be saved.","The option couldn't be saved.",module,Magento_Bundle
 """%fieldName"" is required. Enter and try again.","Parametr ""%fieldName"" jest wymagany. Wprowadź wartość i spróbuj ponownie.",module,Magento_Bundle
 "The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted.",module,Magento_Bundle
-"Unique constraint violation found","Unique constraint violation found",module,Magento_BundleStaging
+"Unique constraint violation found","Znaleziono unikalne naruszenie ograniczenia",module,Magento_BundleStaging
 Cancel,Anuluj,module,Magento_BundleStaging
 "Add Selected Products","Dodaj wybrane produkty",module,Magento_BundleStaging
 "Add Products to Option","Dodaj produkty do opcji",module,Magento_BundleStaging
@@ -10440,8 +10440,8 @@ Price,Cena,module,Magento_BundleStaging
 "The tier_price data is invalid. Verify the data and try again.","The tier_price data is invalid. Verify the data and try again.",module,Magento_Catalog
 "The group price couldn't be saved.","The group price couldn't be saved.",module,Magento_Catalog
 "The data was invalid. Verify the data and try again.","Dane są nieprawidłowe. Zweryfikuj je i spróbuj ponownie.",module,Magento_Catalog
-"Values in the %1 attributes are invalid. Verify the values and try again.","Values in the %1 attributes are invalid. Verify the values and try again.",module,Magento_Catalog
-"We can't create the ""%1"" writeable directory.","We can't create the ""%1"" writeable directory.",module,Magento_Catalog
+"Values in the %1 attributes are invalid. Verify the values and try again.","Wartości w atrybutach %1 są nieprawidłowe. Sprawdź wartości i spróbuj ponownie.",module,Magento_Catalog
+"We can't create the ""%1"" writeable directory.","Nie możemy utworzyć katalogu do zapisu ""%1"".",module,Magento_Catalog
 "The file upload failed. Try to upload again.","The file upload failed. Try to upload again.",module,Magento_Catalog
 "The product has required options. Enter the options and try again.","The product has required options. Enter the options and try again.",module,Magento_Catalog
 "The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","The group with the ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Catalog
@@ -10464,7 +10464,7 @@ Price,Cena,module,Magento_BundleStaging
 remaining,pozostałe,module,Magento_Catalog
 "too many","too many",module,Magento_Catalog
 "Allow Dynamic Media URLs","Zezwalaj na dynamiczne adresy URL dla mediów",module,Magento_Catalog
-"Use Static URLs for Media Content in WYSIWYG","Use Static URLs for Media Content in WYSIWYG",module,Magento_Catalog
+"Use Static URLs for Media Content in WYSIWYG","Zastosuj statyczne adresy URL dla multimediów w edytorze",module,Magento_Catalog
 "Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.",module,Magento_Catalog
 "Default Layouts","Domyślne szablony",module,Magento_Catalog
 "Default Product Layout","Domyślny szablon produktu",module,Magento_Catalog
@@ -10930,7 +10930,7 @@ Blocked,Blocked,module,Magento_Company
 "Company user","Użytkownik firmy",module,Magento_Company
 "Individual user","Individual user",module,Magento_Company
 Inactive,Nieaktywny,module,Magento_Company
-"Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".",module,Magento_Company
+"Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","Nie można ustawić ""zezwalaj"" na zasób, ponieważ jego zasoby nadrzędne są ustawione na ""odmowa"".",module,Magento_Company
 "Invalid login or password.","Nieprawidłowa nazwa użytkownika lub hasło.",module,Magento_Company
 "This account is locked.","To konto jest zablokowane.",module,Magento_Company
 "Your account is not yet approved. If you have questions, please contact the seller.","Twoje konto nie zostało jeszcze zatwierdzone. W razie pytań skontaktuj się ze sprzedawcą.",module,Magento_Company
@@ -10940,7 +10940,7 @@ Inactive,Nieaktywny,module,Magento_Company
 "No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Company
 "This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.","This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.",module,Magento_Company
 "You cannot delete a role when it is the only role in the company. You must create another role before deleting this role.","Nie można usunąć roli, jeśli jest to jedyna rola w firmie. Przed usunięciem tej roli musisz utworzyć inną rolę.",module,Magento_Company
-"User role with this name already exists. Enter a different name to save this role.","User role with this name already exists. Enter a different name to save this role.",module,Magento_Company
+"User role with this name already exists. Enter a different name to save this role.","Rola użytkownika o tej nazwie już istnieje. Wpisz inną nazwę, aby zapisać tę rolę.",module,Magento_Company
 "Cannot delete role with id %1","Nie można usunąć roli z id %1",module,Magento_Company
 "Type %1 is not an instance of %2","Type %1 is not an instance of %2",module,Magento_Company
 "The selected user is inactive. To continue, select another user or activate the current user.","The selected user is inactive. To continue, select another user or activate the current user.",module,Magento_Company
@@ -11110,7 +11110,7 @@ Proceed,Kontynuuj,module,Magento_Company
 "Cannot Delete Customer","Cannot Delete Customer",module,Magento_Company
 "Set Inactive","Set Inactive",module,Magento_Company
 "Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.",module,Magento_Company
-"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.",module,Magento_Company
+"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","Użytkownik z tym adresem e-mail już istnieje w systemie. Wpisz inny adres e-mail, aby kontynuować. Jeśli chcesz używać swojego bieżącego konta jako konta administratora, skontaktuj się ze sprzedawcą.",module,Magento_Company
 "Enable Company","Enable Company",module,Magento_Company
 "Company Configuration","Company Configuration",module,Magento_Company
 General,Ogólne,module,Magento_Company
@@ -11149,15 +11149,15 @@ All,Wszystko,module,Magento_Company
 "Legal Address (View)","Legal Address (View)",module,Magento_Company
 "Contacts (View)","Contacts (View)",module,Magento_Company
 "Company User Management","Company User Management",module,Magento_Company
-"View roles and permissions","View roles and permissions",module,Magento_Company
+"View roles and permissions","Wyświetl role i uprawnienia",module,Magento_Company
 "Manage roles and permissions","Manage roles and permissions",module,Magento_Company
-"View users and teams","View users and teams",module,Magento_Company
+"View users and teams","Wyświetl użytkowników i zespoły",module,Magento_Company
 "Manage users and teams","Manage users and teams",module,Magento_Company
 Sales,Sprzedaż,module,Magento_Company
 "Checkout (place order)","Checkout (place order)",module,Magento_Company
-"Use Pay On Account method","Use Pay On Account method",module,Magento_Company
+"Use Pay On Account method","Użyj metody płatności na konto",module,Magento_Company
 "View orders","Wyświetl zamówienia",module,Magento_Company
-"View orders of subordinate users","View orders of subordinate users",module,Magento_Company
+"View orders of subordinate users","Zobacz zamówienia podległych użytkowników",module,Magento_Company
 "Are you sure you want to set the selected companies as active?","Are you sure you want to set the selected companies as active?",module,Magento_Company
 "Set a Company as Active","Set a Company as Active",module,Magento_Company
 "Set Active","Set Active",module,Magento_Company
@@ -11213,7 +11213,7 @@ Users,Użytkownicy,module,Magento_Company
 "Order is canceled. We reverted %1 to the company credit.","Order is canceled. We reverted %1 to the company credit.",module,Magento_CompanyCredit
 "Order is canceled. The order amount is not reverted to the company credit.","Order is canceled. The order amount is not reverted to the company credit.",module,Magento_CompanyCredit
 "Order is cancelled. The order amount is not reverted to the company credit because the company to which this customer belongs does not exist.","Order is cancelled. The order amount is not reverted to the company credit because the company to which this customer belongs does not exist.",module,Magento_CompanyCredit
-unavailable.,unavailable.,module,Magento_CompanyCredit
+unavailable.,niedostępne.,module,Magento_CompanyCredit
 "We can't save the credit memo because the company associated with this customer does not exist.","Nie możemy zapisać noty kredytowej, ponieważ firma powiązana z tym klientem nie istnieje.",module,Magento_CompanyCredit
 "We can't save the credit memo because the company associated with customer is not active.","Nie możemy zapisać noty kredytowej, ponieważ firma powiązana z klientem nie jest aktywna.",module,Magento_CompanyCredit
 Yes,Tak,module,Magento_CompanyCredit
@@ -11312,7 +11312,7 @@ Comma-separated,"Oddzielone przecinkami",module,Magento_CompanyCredit
 "Send Email Copy Method","Send Email Copy Method",module,Magento_CompanyCredit
 "Allocated Email Template","Przydzielony szablon wiadomości e-mail",module,Magento_CompanyCredit
 "This email is sent to the Company Admin.","This email is sent to the Company Admin.",module,Magento_CompanyCredit
-"Updated Email Template","Updated Email Template",module,Magento_CompanyCredit
+"Updated Email Template","Zaktualizowany szablon wiadomości e-mail",module,Magento_CompanyCredit
 "Reimbursed Email Template","Reimbursed Email Template",module,Magento_CompanyCredit
 "Refunded Email Template","Refunded Email Template",module,Magento_CompanyCredit
 "Reverted Email Template","Reverted Email Template",module,Magento_CompanyCredit
@@ -11328,7 +11328,7 @@ Rate,Stawka,module,Magento_CompanyCredit
 "Convert Credit","Convert Credit",module,Magento_CompanyCredit
 Date,Data,module,Magento_CompanyCredit
 Operation,Operacja,module,Magento_CompanyCredit
-"Updated By","Updated By",module,Magento_CompanyCredit
+"Updated By","Zaktualizowano przez",module,Magento_CompanyCredit
 "Purchase Order","Wykup zamówienie",module,Magento_CompanyCredit
 "You will be charged for","Zostaniesz obciążony kosztami",module,Magento_CompanyCredit
 "Order Total",Podsumowanie,module,Magento_CompanyCredit
@@ -11345,7 +11345,7 @@ Operation,Operacja,module,Magento_CompanyCredit
 "Payment Methods","Metody płatności",module,Magento_CompanyPayment
 "By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.",module,Magento_CompanyPayment
 "Payment Information (View)","Payment Information (View)",module,Magento_CompanyPayment
-"Use config settings","Use config settings",module,Magento_CompanyPayment
+"Use config settings","Używaj ustawienia z konfiguracji",module,Magento_CompanyPayment
 "The class for ""%1"" type wasn't declared. Enter the class and try again.","The class for ""%1"" type wasn't declared. Enter the class and try again.",module,Magento_Config
 "The ""%1"" email address is incorrect. Verify the email address and try again.","The ""%1"" email address is incorrect. Verify the email address and try again.",module,Magento_Config
 "The time zone is incorrect. Verify the time zone and try again.","The time zone is incorrect. Verify the time zone and try again.",module,Magento_Config
@@ -13124,8 +13124,8 @@ Comment,Komentarz,module,Magento_MultipleWishlist
 "Unit Price","Cena jednostkowa",module,Magento_MultipleWishlist
 "Add to Wish List","Dodaj do listy życzeń",module,Magento_MultipleWishlist
 "The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.","The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.",module,Magento_Multishipping
-"Verify the shipping address information and continue.","Verify the shipping address information and continue.",module,Magento_Multishipping
-"Verify the billing address information and continue.","Verify the billing address information and continue.",module,Magento_Multishipping
+"Verify the shipping address information and continue.","Sprawdź informacje o adresie wysyłki i kontynuuj.",module,Magento_Multishipping
+"Verify the billing address information and continue.","Sprawdź informacje o adresie płatności i kontynuuj.",module,Magento_Multishipping
 "Set shipping methods for all addresses. Verify the shipping methods and try again.","Set shipping methods for all addresses. Verify the shipping methods and try again.",module,Magento_Multishipping
 "A payment method isn't defined. Verify and try again.","A payment method isn't defined. Verify and try again.",module,Magento_Multishipping
 "This payment method can't be used for shipping to multiple addresses. Change the payment method and try again.","This payment method can't be used for shipping to multiple addresses. Change the payment method and try again.",module,Magento_Multishipping
@@ -13192,7 +13192,7 @@ Cancel,Anuluj,module,Magento_NegotiableQuote
 "My Quotes","My Quotes",module,Magento_NegotiableQuote
 "created quote","created quote",module,Magento_NegotiableQuote
 "closed quote","closed quote",module,Magento_NegotiableQuote
-"updated quote","updated quote",module,Magento_NegotiableQuote
+"updated quote","zaktualizowany koszyk",module,Magento_NegotiableQuote
 "Percentage Discount - %1%","Percentage Discount - %1%",module,Magento_NegotiableQuote
 "Amount Discount - %1","Kwota rabatu - %1",module,Magento_NegotiableQuote
 "Proposed Price - %1","Proposed Price - %1",module,Magento_NegotiableQuote
@@ -13232,15 +13232,15 @@ Quotes,Quotes,module,Magento_NegotiableQuote
 "An error occurred while quote creation.","An error occurred while quote creation.",module,Magento_NegotiableQuote
 "%1 products require your attention. Please contact the Seller if you have any questions."," %1 produktów wymaga Twojej uwagi. W razie jakichkolwiek pytań skontaktuj się ze sprzedawcą.",module,Magento_NegotiableQuote
 "You closed the quote.","Zamknąłeś koszyk.",module,Magento_NegotiableQuote
-"We can't close the quote right now because of an error: %1.","We can't close the quote right now because of an error: %1.",module,Magento_NegotiableQuote
-"We can't close the quote right now.","We can't close the quote right now.",module,Magento_NegotiableQuote
+"We can't close the quote right now because of an error: %1.","Nie możemy teraz zamknąć oferty z powodu błędu: %1.",module,Magento_NegotiableQuote
+"We can't close the quote right now.","Nie możemy teraz zamknąć oferty.",module,Magento_NegotiableQuote
 "An error occurred while creating quote.","Wystąpił błąd podczas tworzenia koszyka.",module,Magento_NegotiableQuote
 "Quote with ID %1 was successfully created.","Quote with ID %1 was successfully created.",module,Magento_NegotiableQuote
 "The quote could not be created. Please try again later.","The quote could not be created. Please try again later.",module,Magento_NegotiableQuote
 "You have deleted the quote.","Usunąłeś koszyk.",module,Magento_NegotiableQuote
-"We can't delete the quote right now.","We can't delete the quote right now.",module,Magento_NegotiableQuote
+"We can't delete the quote right now.","Nie możemy teraz usunąć koszyka.",module,Magento_NegotiableQuote
 "You've removed the item from quote.","Usunąłeś przedmiot z koszyka.",module,Magento_NegotiableQuote
-"We can't delete the quote item right now.","We can't delete the quote item right now.",module,Magento_NegotiableQuote
+"We can't delete the quote item right now.","Nie możemy teraz usunąć elementu koszyka.",module,Magento_NegotiableQuote
 "You have updated the items in the quote.","Zaktualizowałeś pozycje w wycenie.",module,Magento_NegotiableQuote
 "We can't update the items right now.","Nie możemy teraz zaktualizować przedmiotów.",module,Magento_NegotiableQuote
 "We can't order the quote right now because of an error: %1.","Nie możemy teraz zamówić wyceny z powodu błędu: %1.",module,Magento_NegotiableQuote
@@ -13278,7 +13278,7 @@ System,System,module,Magento_NegotiableQuote
 "Quote Discount","Quote Discount",module,Magento_NegotiableQuote
 "Discount amount:","Discount amount:",module,Magento_NegotiableQuote
 "Cart Price:","Cart Price:",module,Magento_NegotiableQuote
-"Unable to update shipping address","Unable to update shipping address",module,Magento_NegotiableQuote
+"Unable to update shipping address","Nie można zaktualizować adresu wysyłki",module,Magento_NegotiableQuote
 "Cannot save removed quote item notification","Cannot save removed quote item notification",module,Magento_NegotiableQuote
 "Only for use within frontend area","Only for use within frontend area",module,Magento_NegotiableQuote
 "There is an error while saving comment.","There is an error while saving comment.",module,Magento_NegotiableQuote
@@ -13350,7 +13350,7 @@ message,wiadomość,module,Magento_NegotiableQuote
 "Something went wrong.","Coś poszło nie tak.",module,Magento_NegotiableQuote
 test,test,module,Magento_NegotiableQuote
 "No such entity.","No such entity.",module,Magento_NegotiableQuote
-"Validation error message","Validation error message",module,Magento_NegotiableQuote
+"Validation error message","Komunikat o błędzie sprawdzania poprawności",module,Magento_NegotiableQuote
 "Exception message","Exception message",module,Magento_NegotiableQuote
 "Message 1","Message 1",module,Magento_NegotiableQuote
 "Message 2","Message 2",module,Magento_NegotiableQuote
@@ -13492,7 +13492,7 @@ Update,Aktualizuj,module,Magento_NegotiableQuote
 "Expiration date for the Quote %quoteName has been reset so you can keep working on the quote.
     You can set a new expiration date if you wish.","Expiration date for the Quote %quoteName has been reset so you can keep working on the quote.
     You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
-"updated by buyer","updated by buyer",module,Magento_NegotiableQuote
+"updated by buyer","zaktualizowano przez kupującego",module,Magento_NegotiableQuote
 "The seller responded to your quote","The seller responded to your quote",module,Magento_NegotiableQuote
 "The Quote expires after","The Quote expires after",module,Magento_NegotiableQuote
 "Item in Quote","Item in Quote",module,Magento_NegotiableQuote
@@ -13553,11 +13553,11 @@ General,Ogólne,module,Magento_NegotiableQuote
 "Maximum file size","Maksymalna wielkość obrazka",module,Magento_NegotiableQuote
 "File size in MB. Note that this setting can be overridden by the server settings.","File size in MB. Note that this setting can be overridden by the server settings.",module,Magento_NegotiableQuote
 Enabled,Włączone,module,Magento_NegotiableQuote
-"Updated Quote Template (to Buyer)","Updated Quote Template (to Buyer)",module,Magento_NegotiableQuote
+"Updated Quote Template (to Buyer)","Zaktualizowany szablon wyceny (do kupującego)",module,Magento_NegotiableQuote
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_NegotiableQuote
 "Declined Quote Template (to Buyer)","Declined Quote Template (to Buyer)",module,Magento_NegotiableQuote
 "New Quote Template (to Seller)","New Quote Template (to Seller)",module,Magento_NegotiableQuote
-"Updated Quote Template (to Seller)","Updated Quote Template (to Seller)",module,Magento_NegotiableQuote
+"Updated Quote Template (to Seller)","Zaktualizowany szablon wyceny (do sprzedawcy)",module,Magento_NegotiableQuote
 "Quote Expiration (in 48 hrs)","Quote Expiration (in 48 hrs)",module,Magento_NegotiableQuote
 "Quote Expiration (in 24 hrs)","Quote Expiration (in 24 hrs)",module,Magento_NegotiableQuote
 "Expiration Date Reset","Expiration Date Reset",module,Magento_NegotiableQuote
@@ -13566,7 +13566,7 @@ Comma-separated,"Oddzielone przecinkami",module,Magento_NegotiableQuote
 "Send Quote Email Copy Method","Send Quote Email Copy Method",module,Magento_NegotiableQuote
 "Request, Edit, Delete","Request, Edit, Delete",module,Magento_NegotiableQuote
 "Checkout with quote","Checkout with quote",module,Magento_NegotiableQuote
-"View quotes of subordinate users","View quotes of subordinate users",module,Magento_NegotiableQuote
+"View quotes of subordinate users","Zobacz oferty podległych użytkowników",module,Magento_NegotiableQuote
 Product,Produkt,module,Magento_NegotiableQuote
 Quantity,Ilość,module,Magento_NegotiableQuote
 "Allow Quotes","Zezwalaj na cytaty",module,Magento_NegotiableQuote
@@ -13639,7 +13639,7 @@ Orders,Zamówienia,module,Magento_Paypal
 "File must be in .csv format and include ""SKU"" and ""QTY"" columns","File must be in .csv format and include ""SKU"" and ""QTY"" columns",module,Magento_QuickOrder
 "Choose File","Choose File",module,Magento_QuickOrder
 "Enter Multiple SKUs","Enter Multiple SKUs",module,Magento_QuickOrder
-"Use commas or paragraph to separate SKUs.","Use commas or paragraph to separate SKUs.",module,Magento_QuickOrder
+"Use commas or paragraph to separate SKUs.","Użyj przecinków lub akapitu, aby oddzielić kody SKU.",module,Magento_QuickOrder
 "Add to List","Dodaj do listy",module,Magento_QuickOrder
 "Order by SKU","Sortuj po SKU",module,Magento_QuickOrder
 "Enter SKU or Product Name","Wpisz SKU lub nazwę produktu",module,Magento_QuickOrder
@@ -13838,7 +13838,7 @@ Website,Witryna,module,Magento_Reminder
 "My Requisition Lists","My Requisition Lists",module,Magento_RequisitionList
 "The SKU was not found in the catalog.","Produkt nie został znaleziony w katalogu.",module,Magento_RequisitionList
 "We can't update your requisition list right now.","Nie możemy teraz zaktualizować listy zapotrzebowań.",module,Magento_RequisitionList
-"We can't add the item to the Requisition List right now: %1.","We can't add the item to the Requisition List right now: %1.",module,Magento_RequisitionList
+"We can't add the item to the Requisition List right now: %1.","Nie możemy teraz dodać elementu do listy zapotrzebowań: %1.",module,Magento_RequisitionList
 "We can't specify a requisition list.","Nie możemy podać listy zapotrzebowań.",module,Magento_RequisitionList
 "You must choose options for your item.","Musisz wybrać opcje dla swojego przedmiotu.",module,Magento_RequisitionList
 "We can't specify a product.","Nie możemy określić produktu.",module,Magento_RequisitionList
@@ -13868,7 +13868,7 @@ Exception,Exception,module,Magento_RequisitionList
 "Exception Message","Exception Message",module,Magento_RequisitionList
 View,Zobacz,module,Magento_RequisitionList
 "Add to Requisition List","Dodaj do listy zapotrzebowań",module,Magento_RequisitionList
-"Update Requisition List","Update Requisition List",module,Magento_RequisitionList
+"Update Requisition List","Zaktualizuj listę zapotrzebowań",module,Magento_RequisitionList
 "Create Requisition List","Create Requisition List",module,Magento_RequisitionList
 "Create New Requisition List","Create New Requisition List",module,Magento_RequisitionList
 Print,Drukuj,module,Magento_RequisitionList
@@ -13879,7 +13879,7 @@ item,item,module,Magento_RequisitionList
 "in requisition list","in requisition list",module,Magento_RequisitionList
 "Contact Us","Skontaktuj się z nami",module,Magento_RequisitionList
 "Add to Cart","Dodaj do koszyka",module,Magento_RequisitionList
-"Update List","Update List",module,Magento_RequisitionList
+"Update List","Zaktualizuj listę",module,Magento_RequisitionList
 "Delete Requisition List","Delete Requisition List",module,Magento_RequisitionList
 "You have no items in this requisition list.","Nie masz produktów na tej liście zapotrzebowań.",module,Magento_RequisitionList
 "Product Name","Nazwa produktu",module,Magento_RequisitionList
@@ -14678,7 +14678,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "We can't save the scheduled operation right now.","Nie można teraz zapisać zaplanowanej operacji.",module,Magento_ScheduledImportExport
 "We can't create directory ""%1""","Nie możemy utworzyć katalogu ""%1""",module,Magento_ScheduledImportExport
 "The directory ""%1"" is not writable.","Katalog ""%1"" nie jest zapisywalny.",module,Magento_ScheduledImportExport
-"We can't delete ""%1"" because the directory is not writable.","We can't delete ""%1"" because the directory is not writable.",module,Magento_ScheduledImportExport
+"We can't delete ""%1"" because the directory is not writable.","Nie możemy usunąć ""%1"", ponieważ katalog nie ma ustawionych praw do zapisu.",module,Magento_ScheduledImportExport
 "Scheduled Import","Harmonogram Importu",module,Magento_ScheduledImportExport
 "New Scheduled Import","Nowe harmonogram Importu",module,Magento_ScheduledImportExport
 "Scheduled Export","Harmonogram exportu",module,Magento_ScheduledImportExport
@@ -14874,14 +14874,14 @@ included,included,module,Magento_SharedCatalog
 "Manage Shared Catalog","Manage Shared Catalog",module,Magento_SharedCatalog
 "Enable Shared Catalog","Enable Shared Catalog",module,Magento_SharedCatalog
 "To select No, please <a href=""%s"">create</a> the Public Catalog first.","To select No, please <a href=""%s"">create</a> the Public Catalog first.",module,Magento_SharedCatalog
-"Use this field to change company's shared catalog","Use this field to change company's shared catalog",module,Magento_SharedCatalog
+"Use this field to change company's shared catalog","Użyj tego pola, aby zmienić udostępniony katalog firmy",module,Magento_SharedCatalog
 "Group/Shared Catalog","Group/Shared Catalog",module,Magento_SharedCatalog
 "Product In Shared Catalogs","Product In Shared Catalogs",module,Magento_SharedCatalog
 "Change Catalog?","Change Catalog?",module,Magento_SharedCatalog
 "The selected companies are already using a different shared catalog. This action will change a shared catalog for selected companies. Would you like to continue?","The selected companies are already using a different shared catalog. This action will change a shared catalog for selected companies. Would you like to continue?",module,Magento_SharedCatalog
 "The selected companies will be unlinked from the current shared catalog and linked to the default public catalog. Would you like to continue?","The selected companies will be unlinked from the current shared catalog and linked to the default public catalog. Would you like to continue?",module,Magento_SharedCatalog
 "Assign Catalog","Assign Catalog",module,Magento_SharedCatalog
-"Unassign Catalog","Unassign Catalog",module,Magento_SharedCatalog
+"Unassign Catalog","Nieprzypisany katalog",module,Magento_SharedCatalog
 ID,ID,module,Magento_SharedCatalog
 Company,Firma,module,Magento_SharedCatalog
 Country,Kraj,module,Magento_SharedCatalog
@@ -15285,7 +15285,7 @@ Stores,Sklepy,module,Magento_Support
 "New Report","Nowy raport",module,Magento_Support
 "Date Generated","Data wygenerowania",module,Magento_Support
 "Report Groups","Raport grupy",module,Magento_Support
-"Unknown schema type supplied","Unknown schema type supplied",module,Magento_Swagger
+"Unknown schema type supplied","Podano nieznany typ schematu",module,Magento_Swagger
 "Sending swatch values as package.","Sending swatch values as package.",module,Magento_Swatches
 More,More,module,Magento_Swatches
 "Related Products Rule","Powiązane reguły produktów",module,Magento_TargetRule
@@ -15418,7 +15418,7 @@ URL,"ADRES URL",module,Magento_Ui
 "The """""""" UI component element name is invalid. Verify the name and try again.","The """""""" UI component element name is invalid. Verify the name and try again.",module,Magento_Ui
 Select,Wybierz,module,Magento_Ui
 Apply,Zastosuj,module,Magento_Ui
-"was not uploaded","was not uploaded",module,Magento_Ui
+"was not uploaded","nie został przesłany",module,Magento_Ui
 "Entity with ID: %s doesn't exist","Entity with ID: %s doesn't exist",module,Magento_Ui
 "Open in new tab","Open in new tab",module,Magento_Ui
 "First character must be letter.","First character must be letter.",module,Magento_Ui
@@ -16617,8 +16617,8 @@ Large,Duży,module,Amazon_Core
 "Charge on Order","Charge on Order",module,Amazon_Core
 " -- Please Select --"," --Wybierz--",module,Amazon_Core
 "Euro Region","Euro Region",module,Amazon_Core
-"United Kingdom","United Kingdom",module,Amazon_Core
-"United States","United States",module,Amazon_Core
+"United Kingdom","Wielka Brytania",module,Amazon_Core
+"United States","Stany Zjednoczone",module,Amazon_Core
 Japan,Japan,module,Amazon_Core
 "Data Polling via Cron Job","Data Polling via Cron Job",module,Amazon_Core
 "Instant Payment Notifications","Instant Payment Notifications",module,Amazon_Core
@@ -16629,12 +16629,12 @@ Japan,Japan,module,Amazon_Core
 or,lub,module,Amazon_Core
 "I've already setup Pay with Amazon, I want to edit my settings","I've already setup Pay with Amazon, I want to edit my settings",module,Amazon_Core
 """In order to enable automatic account configuration using Amazon's secure key "" . 'exchange, please turn on secure admin pages in General > Web > Use secure URLs in Admin.'","""In order to enable automatic account configuration using Amazon's secure key "" . 'exchange, please turn on secure admin pages in General >Web >Use secure URLs in Admin.'",module,Amazon_Core
-"Updating your config with new keys, please wait...","Updating your config with new keys, please wait...",module,Amazon_Core
+"Updating your config with new keys, please wait...","Aktualizuję konfigurację o nowe klucze, proszę czekać...",module,Amazon_Core
 "Paste JSON credentials here","Paste JSON credentials here",module,Amazon_Core
 "Save Credentials","Save Credentials",module,Amazon_Core
 "Back to register or connect an account","Back to register or connect an account",module,Amazon_Core
 "Credentials JSON","Credentials JSON",module,Amazon_Core
-"Valid JSON credentials are required.","Valid JSON credentials are required.",module,Amazon_Core
+"Valid JSON credentials are required.","Wymagane są poprawne poświadczenia JSON.",module,Amazon_Core
 "Invalid JSON credentials entered, please try again.","Invalid JSON credentials entered, please try again.",module,Amazon_Core
 "Credential fields successfully updated and being saved.","Credential fields successfully updated and being saved.",module,Amazon_Core
 "One or more of your credential fields did not parse correctly. Please review your entry and try again.","One or more of your credential fields did not parse correctly. Please review your entry and try again.",module,Amazon_Core
@@ -16643,7 +16643,7 @@ or,lub,module,Amazon_Core
 "You will be redirected to the cart shortly.","Wkrótce zostaniesz przekierowany do koszyka.",module,Amazon_Payment
 "Transaction has been declined. Please try again later.","Transakcja została odrzucona. Prosimy spróbować ponownie później.",module,Amazon_Payment
 "Something went wrong during Gateway request.","Something went wrong during Gateway request.",module,Amazon_Payment
-"VoidClient - Unable to Close/Cancel order - bad status response.","VoidClient - Unable to Close/Cancel order - bad status response.",module,Amazon_Payment
+"VoidClient - Unable to Close/Cancel order - bad status response.","VoidClient - Nie można zamknąć / anulować zamówienia - zła odpowiedź statusu.",module,Amazon_Payment
 "The refund amount or the Amazon Order ID is incorrect.","The refund amount or the Amazon Order ID is incorrect.",module,Amazon_Payment
 "Amazon Pay refund successful.","Pomyślnie zrealizowano zwrot Amazon Pay.",module,Amazon_Payment
 "Unable to cancel the order or the Amazon Order ID is incorrect.","Unable to cancel the order or the Amazon Order ID is incorrect.",module,Amazon_Payment
@@ -16722,12 +16722,12 @@ Discount,Zniżka,module,Klarna_Core
 "Order with id ""%1"" does not exist.","Order with id ""%1"" does not exist.",module,Klarna_Core
 "Order with Reservation ID ""%1"" does not exist.","Order with Reservation ID ""%1"" does not exist.",module,Klarna_Core
 "Order with session_id ""%1"" does not exist.","Order with session_id ""%1"" does not exist.",module,Klarna_Core
-"Warning store address has not been set under Store Information.","Warning store address has not been set under Store Information.",module,Klarna_Core
+"Warning store address has not been set under Store Information.","Ostrzegawczy adres sklepu nie został ustawiony w obszarze Informacje o sklepie.",module,Klarna_Core
 "Store(s) affected: ","Dotyczy sklepów:",module,Klarna_Core
 "Click here to go to <a href=""%1"">General Configuration</a> and change your settings.","Click here to go to <a href=""%1"">General Configuration</a> and change your settings.",module,Klarna_Core
-"Warning debug mode should only be enabled when test mode is active","Warning debug mode should only be enabled when test mode is active",module,Klarna_Core
+"Warning debug mode should only be enabled when test mode is active","Ostrzegawczy tryb debugowania powinien być włączony tylko wtedy, gdy aktywny jest tryb testowy",module,Klarna_Core
 "Click here to go to <a href=""%1"">Klarna Configuration</a> and change your settings.","Click here to go to <a href=""%1"">Klarna Configuration</a> and change your settings.",module,Klarna_Core
-"Warning the following countries are configured to require a region","Warning the following countries are configured to require a region",module,Klarna_Core
+"Warning the following countries are configured to require a region","Ostrzeżenie: następujące kraje są skonfigurowane tak, aby wymagać regionu",module,Klarna_Core
 link,link,module,Klarna_Kp
 "Click on this %1 to visit the Klarna Merchant Onboarding Page and request credentials.","Click on this %1 to visit the Klarna Merchant Onboarding Page and request credentials.",module,Klarna_Kp
 "Unable to release authorization for the token %1","Unable to release authorization for the token %1",module,Klarna_Kp
@@ -16765,14 +16765,14 @@ link,link,module,Klarna_Kp
 "Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Produkt %1 został dodany do <a href=""%2"">koszyka</a>.",module,Magento_Checkout
 "Page not found","Nie znaleziono strony",module,Magento_Customer
-"We are unable to process your request. Please, try again later.","We are unable to process your request. Please, try again later.",module,Magento_Multishipping
+"We are unable to process your request. Please, try again later.","Nie możemy przetworzyć Twojego żądania. Spróbuj ponownie później.",module,Magento_Multishipping
 "We have saved your subscription.","Zapisaliśmy twoją subskrypcję.",module,Magento_Newsletter
 "A confirmation request has been sent.","A confirmation request has been sent.",module,Magento_Newsletter
 "We have removed your newsletter subscription.","Usunęliśmy Twoją subskrypcję biuletynu.",module,Magento_Newsletter
 "We have updated your subscription.","Zaktualizowaliśmy twoją subskrypcję.",module,Magento_Newsletter
 "Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Wartość listy dostępu "" %1"" jest nieprawidłowa. Proszę używać tylko adresów IP i nazw hostów.",module,Magento_PageCache
 "System configuration is not found for report event type ""%1""","System configuration is not found for report event type ""%1""",module,Magento_Reports
-"Update Totals","Update Totals",module,Magento_Sales
+"Update Totals","Uaktualnij łączną kwotę",module,Magento_Sales
 "Page not found.","Nie znaleziono strony.",module,Magento_Sales
 "An email confirming the order is underway has been sent to the customer.","Wiadomość e-mail z potwierdzeniem realizacji zamówienia została wysłana do klienta.",module,Magento_Shipping
 "The store cannot be switched.","The store cannot be switched.",module,Magento_Store
@@ -16825,7 +16825,7 @@ Batches,"Partie wysyłek",module,Temando_Shipping
 "Unable to remove shipment assignments.","Unable to remove shipment assignments.",module,Temando_Shipping
 "Unable to save shipment reference.","Unable to save shipment reference.",module,Temando_Shipping
 "RMA is not available","RMA is not available",module,Temando_Shipping
-"View Return Shipment","View Return Shipment",module,Temando_Shipping
+"View Return Shipment","Zobacz przesyłkę zwrotną",module,Temando_Shipping
 "No applicable shipping cost found in webservice response.","No applicable shipping cost found in webservice response.",module,Temando_Shipping
 "Entity type '%1' cannot be processed.","Entity type '%1' cannot be processed.",module,Temando_Shipping
 "The '%1' operation is not supported for '%2' entities.","The '%1' operation is not supported for '%2' entities.",module,Temando_Shipping
@@ -16851,7 +16851,7 @@ Batch-id,Batch-id,module,Temando_Shipping
 "Download Documentation","Download Documentation",module,Temando_Shipping
 "Ship to Name","Ship to Name",module,Temando_Shipping
 "Items Ordered","Zamówione produkty",module,Temando_Shipping
-"View Shipment","View Shipment",module,Temando_Shipping
+"View Shipment","Zobacz wysyłkę",module,Temando_Shipping
 "This is alternative method of producing a shipping label that will not use Magento Shipping.","This is alternative method of producing a shipping label that will not use Magento Shipping.",module,Temando_Shipping
 "Return From Address","Return From Address",module,Temando_Shipping
 "Return To Location","Return To Location",module,Temando_Shipping
@@ -16886,7 +16886,7 @@ Description,Opis,module,Temando_Shipping
 "Item details are not available for this shipment.","Item details are not available for this shipment.",module,Temando_Shipping
 "Address Type","Typ adresu",module,Temando_Shipping
 "Adult Signature Required","Wymagany podpis osoby pełnoletniej",module,Temando_Shipping
-"Unattended Delivery","Unattended Delivery",module,Temando_Shipping
+"Unattended Delivery","Dostawa bez nadzoru",module,Temando_Shipping
 "Collection Point Delivery","Collection Point Delivery",module,Temando_Shipping
 "Delivery Availability Requested","Delivery Availability Requested",module,Temando_Shipping
 "Direct Delivery Only","Direct Delivery Only",module,Temando_Shipping
@@ -16926,7 +16926,7 @@ Vertex,Vertex,module,Vertex_Tax
 "Unable to delete Order Invoice Sent status","Unable to delete Order Invoice Sent status",module,Vertex_Tax
 "Please change your base currency to US Dollars to ensure tax liability is calculated correctly.","Please change your base currency to US Dollars to ensure tax liability is calculated correctly.",module,Vertex_Tax
 "Click here to go to <a href=""%1"">Currency Setup</a> and change your settings.","Click here to go to <a href=""%1"">Currency Setup</a> and change your settings.",module,Vertex_Tax
-"Unknown error encountered during API Request","Unknown error encountered during API Request",module,Vertex_Tax
+"Unknown error encountered during API Request","Napotkano nieznany błąd podczas żądania API",module,Vertex_Tax
 "Could not submit invoice to Vertex.","Could not submit invoice to Vertex.",module,Vertex_Tax
 "Could not submit refund to Vertex.","Could not submit refund to Vertex.",module,Vertex_Tax
 "Could not save Vertex invoice refund comment","Could not save Vertex invoice refund comment",module,Vertex_Tax
@@ -16936,10 +16936,10 @@ Vertex,Vertex,module,Vertex_Tax
 "The Vertex invoice has been refunded.","The Vertex invoice has been refunded.",module,Vertex_Tax
 "The Vertex invoice has been sent.","The Vertex invoice has been sent.",module,Vertex_Tax
 Test,Test,module,Vertex_Tax
-"Unit Test","Unit Test",module,Vertex_Tax
+"Unit Test","Test jednostkowy",module,Vertex_Tax
 "No Such Entity","No Such Entity",module,Vertex_Tax
-"Valued customer","Valued customer",module,Amazon_Payment
-"Unfortunately Amazon Pay declined the payment for your order in our online shop %storeName. Please contact us.","Unfortunately Amazon Pay declined the payment for your order in our online shop %storeName. Please contact us.",module,Amazon_Payment
+"Valued customer","Ważny klient",module,Amazon_Payment
+"Unfortunately Amazon Pay declined the payment for your order in our online shop %storeName. Please contact us.","Niestety Amazon Pay odrzucił płatność za zamówienie w naszym sklepie internetowym %storeName. Proszę skontaktuj się z nami.",module,Amazon_Payment
 "Kind regards","Kind regards",module,Amazon_Payment
 "Thank you very much for your order at %storeName","Thank you very much for your order at %storeName",module,Amazon_Payment
 "Amazon Pay was not able to process your payment","Usługa Amazon Pay nie mogła przetworzyć Twojej płatności",module,Amazon_Payment
@@ -16996,7 +16996,7 @@ Options,Options,module,Amazon_Core
 "Enable Login with Amazon","Enable Login with Amazon",module,Amazon_Core
 "Payment Action","Akcja płatności",module,Amazon_Core
 "Authorization Mode","Authorization Mode",module,Amazon_Core
-"Update Mechanism","Update Mechanism",module,Amazon_Core
+"Update Mechanism","Zaktualizuj mechanizm",module,Amazon_Core
 Advanced,Zaawansowane,module,Amazon_Core
 Frontend,Frontend,module,Amazon_Core
 "Button Display Language","Button Display Language",module,Amazon_Core
@@ -17016,7 +17016,7 @@ Logging,Rejestrowanie,module,Amazon_Core
                             If the field is empty, the buttons will be visible to all clients.","Comma separated. The ""Login with Amazon"" and ""Amazon Pay"" buttons will<em>only</em>be rendered for clients having the above IPs.
                             If the field is empty, the buttons will be visible to all clients.",module,Amazon_Core
 "Developer Logs","Developer Logs",module,Amazon_Core
-"Unfortunately it is not possible to use Amazon Pay for this order, please choose another payment method.","Unfortunately it is not possible to use Amazon Pay for this order, please choose another payment method.",module,Amazon_Payment
+"Unfortunately it is not possible to use Amazon Pay for this order, please choose another payment method.","Niestety nie można użyć Amazon Pay do tego zamówienia, proszę wybrać inną metodę płatności.",module,Amazon_Payment
 "Processing Failure - unable to authorize transaction.","Processing Failure - unable to authorize transaction.",module,Amazon_Payment
 "Unable to authorize transaction.","Unable to authorize transaction.",module,Amazon_Payment
 "Buyer did not specify valid Amazon Wallet payment method.","Buyer did not specify valid Amazon Wallet payment method.",module,Amazon_Payment
@@ -17057,7 +17057,7 @@ Logging,Rejestrowanie,module,Amazon_Core
 Newsletter,Newsletter,module,Dotdigitalgroup_Email
 "Success Email Template","Szablon wiadomości o powodzeniu",module,Dotdigitalgroup_Email
 "Subscription Confirmation","Subscription Confirmation",module,Dotdigitalgroup_Email
-"Unsubscribe Success","Unsubscribe Success",module,Dotdigitalgroup_Email
+"Unsubscribe Success","Anulowanie subskrypcji zakończone pozytywnie",module,Dotdigitalgroup_Email
 "New Order Confirmation","New Order Confirmation",module,Dotdigitalgroup_Email
 "New Order Confirmation For Guest","New Order Confirmation For Guest",module,Dotdigitalgroup_Email
 "Order Update","Order Update",module,Dotdigitalgroup_Email
@@ -17136,7 +17136,7 @@ Consent,Consent,module,Dotdigitalgroup_Email
 "See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.","See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.",module,Magento_Backend
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.",module,Magento_Braintree
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Pamiętaj, aby włączyć zaawansowaną ochronę przed oszustwami na koncie Braintree w sekcji Ustawienia / Przetwarzanie",module,Magento_Braintree
-"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.",module,Magento_Braintree
+"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Służy do integracji narzędzia bezpośredniego oszustwa. Pamiętaj, aby skontaktować się również z <a href=""mailto:accounts@braintreepayments.com"">account@braintreepayments.com</a>, aby skonfigurować konto Kount.",module,Magento_Braintree
 "Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.",module,Magento_Braintree
 "It is recommended to set this value to ""PayPal"" per store views.","Zalecane jest ustawienia tej wartości na ""PayPal"" na każy widok sklepu.",module,Magento_Braintree
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Ta funkcja wymaga włączenia po raz pierwszy poprzez wsparcie techniczne PayPal.",module,Magento_Braintree
@@ -17282,11 +17282,11 @@ PDF,PDF,module,Magento_Customer
 "Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.",module,Magento_Signifyd
 "Please put your store into maintenance mode and redeploy static files after changing strategy","Please put your store into maintenance mode and redeploy static files after changing strategy",module,Magento_Translation
 "If enabled, can be used by functional tests for extended reporting","If enabled, can be used by functional tests for extended reporting",module,Magento_Ui
-"Use this key to retrieve collected js errors","Use this key to retrieve collected js errors",module,Magento_Ui
+"Use this key to retrieve collected js errors","Użyj tego klucza, aby pobrać zebrane błędy JS",module,Magento_Ui
 "This feature applies only to CMS, Catalog and Store APIs. Please consult your developers for details on potential security risks.","This feature applies only to CMS, Catalog and Store APIs. Please consult your developers for details on potential security risks.",module,Magento_WebapiSecurity
 "10 by default. Max - 10000","10 by default. Max - 10000",module,Magento_Wishlist
 "255 by default","255 by default",module,Magento_Wishlist
-Version,Version,module,Temando_Shipping
+Version,Wersja,module,Temando_Shipping
 "Enabled for RMA","Włączone dla RMA",module,Temando_Shipping
 "Enable Collection Points at Checkout","Enable Collection Points at Checkout",module,Temando_Shipping
 "Countries Available for Collection Points","Countries Available for Collection Points",module,Temando_Shipping
@@ -23233,7 +23233,7 @@ label,etykieta,module,Magento_Backend
 "The order #%1 cannot be processed.","The order #%1 cannot be processed.",module,Magento_Braintree
 "The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request.",module,Magento_Braintree
 "Message is added to queue","Message is added to queue",module,Magento_Catalog
-"Update attributes for ' . . ' selected products","Update attributes for ' . . ' selected products",module,Magento_Catalog
+"Update attributes for ' . . ' selected products","Zaktualizuj atrybuty dla ' . . ' wybranych produktów",module,Magento_Catalog
 "The value of attribute(s) ""%1"" must be unique","The value of attribute(s) ""%1"" must be unique",module,Magento_Catalog
 "Sorry, something went wrong during product attributes update. Please see log for details.","Sorry, something went wrong during product attributes update. Please see log for details.",module,Magento_Catalog
 "Invalid attribute identifier for filter (%1)","Nieprawidłowy identyfikator filtru atrybutu (%1)",module,Magento_Catalog
@@ -23242,7 +23242,7 @@ label,etykieta,module,Magento_Backend
 "Category doesn't exist","Category doesn't exist",module,Magento_CatalogGraphQl
 """image_type"" value should be specified","Należy podać wartość ""image_type""",module,Magento_CatalogGraphQl
 "currentPage value %1 specified is greater than the %2 page(s) available.","currentPage value %1 specified is greater than the %2 page(s) available.",module,Magento_CatalogGraphQl
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1",module,Magento_CatalogImportExport
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Wartość atrybutu podrzędnego ""type"" w atrybucie ""custom_options"" zawiera niepoprawną wartość, dopuszczalne wartości to: %1",module,Magento_CatalogImportExport
 "Could not parse resource url.","Could not parse resource url.",module,Magento_CatalogImportExport
 "Something went wrong while updating the product(s) attributes.","Atrybuty produktów nie zostały zaktualizowane z powodu błędów.",module,Magento_CatalogInventory
 "Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.",module,Magento_CatalogUrlRewrite
@@ -23254,17 +23254,17 @@ label,etykieta,module,Magento_Backend
 "No files for upload.","No files for upload.",module,Magento_Customer
 "There is no address id in setting default billing address.","There is no address id in setting default billing address.",module,Magento_Customer
 "Default billing address has been changed.","Default billing address has been changed.",module,Magento_Customer
-"We can't change default billing address right now.","We can't change default billing address right now.",module,Magento_Customer
+"We can't change default billing address right now.","Nie możemy teraz zmienić domyślnego adresu płatności.",module,Magento_Customer
 "There is no address id in setting default shipping address.","There is no address id in setting default shipping address.",module,Magento_Customer
 "Default shipping address has been changed.","Default shipping address has been changed.",module,Magento_Customer
-"We can't change default shipping address right now.","We can't change default shipping address right now.",module,Magento_Customer
+"We can't change default shipping address right now.","Nie możemy teraz zmienić domyślnego adresu wysyłki.",module,Magento_Customer
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Customer
 "There is no such address entity to delete.","There is no such address entity to delete.",module,Magento_Customer
 "We can't mass delete the addresses right now.","Nie możemy teraz masowo usunąć adresów.",module,Magento_Customer
 "Customer address has been updated.","Customer address has been updated.",module,Magento_Customer
 "New customer address has been added.","New customer address has been added.",module,Magento_Customer
 "There is no customer with such id.","There is no customer with such id.",module,Magento_Customer
-"We can't change customer address right now.","We can't change customer address right now.",module,Magento_Customer
+"We can't change customer address right now.","Nie możemy teraz zmienić adresu klienta.",module,Magento_Customer
 Street,Ulica,module,Magento_Customer
 "Set as default billing","Set as default billing",module,Magento_Customer
 "Set address as default billing","Set address as default billing",module,Magento_Customer
@@ -23308,7 +23308,7 @@ Unlimited,Nielimitowany,module,Magento_DownloadableGraphQl
 "Mutation requests allowed only for POST requests","Mutation requests allowed only for POST requests",module,Magento_GraphQl
 Position,Pozycja,module,Magento_GroupedProduct
 " -- Not Selected --"," -- Not Selected --",module,Magento_ImportExport
-"Validation Strategy","Validation Strategy",module,Magento_ImportExport
+"Validation Strategy","Strategia walidacji",module,Magento_ImportExport
 "File must be saved in UTF-8 encoding for proper import","File must be saved in UTF-8 encoding for proper import",module,Magento_ImportExport
 "What is this?","Co to jest?",module,Magento_ImportExport
 "Message is added to queue, wait to get your file soon","Message is added to queue, wait to get your file soon",module,Magento_ImportExport
@@ -23337,7 +23337,7 @@ Gold,Gold,module,Magento_Paypal
 Blue,niebieski,module,Magento_Paypal
 Silver,Silver,module,Magento_Paypal
 Black,czarny,module,Magento_Paypal
-Vertical,Vertical,module,Magento_Paypal
+Vertical,Pionowo,module,Magento_Paypal
 Horizontal,Horizontal,module,Magento_Paypal
 Pill,Pill,module,Magento_Paypal
 Rectangle,Rectangle,module,Magento_Paypal
@@ -23369,7 +23369,7 @@ Installment,Installment,module,Magento_Paypal
 """Street Address"" cannot contain more than %1 lines.","Adres nie może zawierać więcej niż %1 wierszy.",module,Magento_QuoteGraphQl
 "The billing address must contain either ""customer_address_id"" or ""address"".","The billing address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
 "The billing address cannot contain ""customer_address_id"" and ""address"" at the same time.","The billing address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
-"Using the ""use_for_shipping"" option with multishipping is not possible.","Using the ""use_for_shipping"" option with multishipping is not possible.",module,Magento_QuoteGraphQl
+"Using the ""use_for_shipping"" option with multishipping is not possible.","Korzystanie z opcji ""use_for_shipping"" w przypadku multipippingu nie jest możliwe.",module,Magento_QuoteGraphQl
 "You cannot specify multiple shipping addresses.","Nie można podać wielu adresów wysyłki.",module,Magento_QuoteGraphQl
 "The shipping address must contain either ""customer_address_id"" or ""address"".","The shipping address must contain either ""customer_address_id"" or ""address"".",module,Magento_QuoteGraphQl
 "The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.",module,Magento_QuoteGraphQl
@@ -23384,7 +23384,7 @@ Installment,Installment,module,Magento_Paypal
 "Required parameter ""coupon_code"" is missing","Required parameter ""coupon_code"" is missing",module,Magento_QuoteGraphQl
 "A coupon is already applied to the cart. Please remove it to apply another","A coupon is already applied to the cart. Please remove it to apply another",module,Magento_QuoteGraphQl
 "Missing key ""model"" in cart address data","Missing key ""model"" in cart address data",module,Magento_QuoteGraphQl
-"Unsupported cart address type","Unsupported cart address type",module,Magento_QuoteGraphQl
+"Unsupported cart address type","Nieobsługiwany typ adresu koszyka",module,Magento_QuoteGraphQl
 "Missing key ""product"" in cart data","Missing key ""product"" in cart data",module,Magento_QuoteGraphQl
 "Missing key ""type_id"" in product data","Brak klucza ""type_id"" w danych produktu",module,Magento_QuoteGraphQl
 "Product ""%product_type"" type is not supported","Produkt typu "" %typ_produktu"" nie jest obsługiwany",module,Magento_QuoteGraphQl
