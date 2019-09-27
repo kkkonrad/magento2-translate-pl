@@ -8,16 +8,12 @@ Repozytorium zawiera gotowy komponent z językiem polskim dla Magento 2.
 
 #### Instalacja
 
-* jeżeli chcemy trzymać się tylko oficjalnych wydań pakietu (do użycia w działającym sklepie)
 ```
-$ composer require kkkonrad/magento2-translate-pl
-```
-* jeżeli zależy nam na wszystkich aktualnych zmianach (dla tłumaczy)
-```
-$ composer require kkkonrad/magento2-translate-pl dev-develop
+$ composer require kkkonrad/magento2-translate-pl dev-master
 ```
 
 Na koniec instalujemy treści statyczne z pobranym przed chwilą pakietem i czyścimy pamięci podręczne sklepu:
+
 ```
 $ php bin/magento setup:static-content:deploy pl_PL
 $ php bin/magento cache:flush
