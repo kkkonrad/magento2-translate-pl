@@ -16794,15 +16794,15 @@ Batches,"Partie wysyłek",module,Temando_Shipping
 "Enter country and postal code to search for a collection point.","Enter country and postal code to search for a collection point.",module,Temando_Shipping
 "There were %1 results for your search.","There were %1 results for your search.",module,Temando_Shipping
 "No Collection Points found.","No Collection Points found.",module,Temando_Shipping
-"Unable to save search parameters.","Unable to save search parameters.",module,Temando_Shipping
+"Unable to save search parameters.","Nie można zapisać parametrów wyszukiwania.",module,Temando_Shipping
 "Unable to delete search parameters.","Unable to delete search parameters.",module,Temando_Shipping
 "Unable to delete collection points.","Unable to delete collection points.",module,Temando_Shipping
-"Unable to select collection point.","Unable to select collection point.",module,Temando_Shipping
+"Unable to select collection point.","Nie można wybrać punktu odbioru.",module,Temando_Shipping
 "Please set API credentials before enabling Magento Shipping.","Please set API credentials before enabling Magento Shipping.",module,Temando_Shipping
 "Magento Shipping authentication failed. Please check your credentials.","Magento Shipping authentication failed. Please check your credentials.",module,Temando_Shipping
 "Delivery option processing failed.","Delivery option processing failed.",module,Temando_Shipping
 "Unable to delete carrier.","Unable to delete carrier.",module,Temando_Shipping
-"Unable to save shipping services.","Unable to save shipping services.",module,Temando_Shipping
+"Unable to save shipping services.","Nie można zapisać usług wysyłkowych.",module,Temando_Shipping
 "Shipping services for address ""%1"" could not be deleted.","Shipping services for address ""%1"" could not be deleted.",module,Temando_Shipping
 "Collection point with id ""%1"" does not exist.","Collection point with id ""%1"" does not exist.",module,Temando_Shipping
 "Unable to save collection point.","Unable to save collection point.",module,Temando_Shipping
@@ -16823,7 +16823,7 @@ Batches,"Partie wysyłek",module,Temando_Shipping
 "Unable to delete packaging.","Unable to delete packaging.",module,Temando_Shipping
 "Unable to assign shipments.","Unable to assign shipments.",module,Temando_Shipping
 "Unable to remove shipment assignments.","Unable to remove shipment assignments.",module,Temando_Shipping
-"Unable to save shipment reference.","Unable to save shipment reference.",module,Temando_Shipping
+"Unable to save shipment reference.","Nie można zapisać numeru referencyjnego przesyłki.",module,Temando_Shipping
 "RMA is not available","RMA is not available",module,Temando_Shipping
 "View Return Shipment","Zobacz przesyłkę zwrotną",module,Temando_Shipping
 "No applicable shipping cost found in webservice response.","No applicable shipping cost found in webservice response.",module,Temando_Shipping
