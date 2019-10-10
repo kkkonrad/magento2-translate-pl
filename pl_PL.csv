@@ -6791,7 +6791,7 @@ Password:,Hasło:,module,Magento_Customer
 "Please confirm your %store_name account","Please confirm your %store_name account",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","Musisz potwierdzić e-mail %customer_email przed możesz zalogować (link obowiązuje tylko raz):",module,Magento_Customer
 "Confirm Your Account","Potwierdź konto",module,Magento_Customer
-"Thank you for confirming your %store_name account.","Dziękuję za potwierdzenie konta na %store_name.",module,Magento_Customer
+"Thank you for confirming your %store_name account.","Dziękujemy za potwierdzenie konta klienta na %store_name.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Zaloguj się na naszej stronie i ustaw hasło, kliknij na ten <a href=""%create_password_url"">link</a>:",module,Magento_Customer
 "Your %store_name email has been changed","Twój e-mail %store_name został zmieniony",module,Magento_Customer
 "Hello,","Witamy,",module,Magento_Customer
@@ -22344,7 +22344,7 @@ Cute.,Uroczy.,module,Magento_Sample
 "This T is a no brainer-solid color","Ten T nie jest jednorodnym kolorem",module,Magento_Sample
 "This T is a no brainer-solid color, pairs with everything, and keeps me cool. What more could I want during my run?","Ten T nie jest jednorodnym kolorem, łączy się ze wszystkim i utrzymuje mnie w spokoju. Czego więcej mogłem chcieć podczas mojego biegu?",module,Magento_Sample
 "Thank you! ","Dziękujemy Ci!",module,Magento_Sample
-"Thank you! I'm so sick of inappropriate workout clothes. This is exactly what I was looking for. Cover yourselves up, ladies!","Dziękujemy Ci! Mamy dość nieodpowiednich ubrań treningowych. Właśnie tego szukałem. Okażcie się, panie!",module,Magento_Sample
+"Thank you! I'm so sick of inappropriate workout clothes. This is exactly what I was looking for. Cover yourselves up, ladies!","Dziękuję Ci! Mam dość nieodpowiednich ubrań treningowych. Właśnie tego szukałem. Zakryjcie się, panie!",module,Magento_Sample
 "Um, NOT flattering at ALL.","W żadnym razie nie pochlebia.",module,Magento_Sample
 "Um, NOT flattering at ALL. Too tight and short.","W żadnym razie nie pochlebia. Zbyt ciasne i krótkie.",module,Magento_Sample
 "Like the color .sleeves were too tight. ","Podobnie jak kolor .seleeve były zbyt ciasne.",module,Magento_Sample
