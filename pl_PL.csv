@@ -6816,7 +6816,7 @@ Password:,Hasło:,module,Magento_Customer
 "Email Address","Adres e-mail",module,Magento_Customer
 "Currency Update Warnings","Ostrzeżenia aktualizacji waluty",module,Magento_Directory
 Footer,Stopka,module,Magento_Email
-"Thank you, %store_name","Dziękuję, %store_name",module,Magento_Email
+"Thank you, %store_name","Dziękujemy, %store_name",module,Magento_Email
 Header,Nagłówek,module,Magento_Email
 "Gift Message (optional)","Wiadomość podarunkowa (opcjonalnie)",module,Magento_GiftMessage
 To:,Do:,module,Magento_GiftMessage
@@ -6852,9 +6852,9 @@ Delete,Usuń,module,Magento_GiftMessage
 "Cancel coupon","Anuluj kupon",module,Magento_SalesRule
 "Credit memo for your %store_name order","Faktura korygująca do zamówienia %store_name",module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
-"Thank you for your order from %store_name.","Dziękuję za Twoje zamówienie z %store_name.",module,Magento_Sales
+"Thank you for your order from %store_name.","Dziękujemy za Twoje zamówienie w %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Status zamówienia można sprawdzić po <a href=""%account_url"">zalogowaniu się do swojego konta</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Jeśli masz pytania dotyczące Twojego zamówienia, możesz napisz do nas na <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Jeśli masz pytania dotyczące Twojego zamówienia, możesz napisać do nas na <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","lub zadzwoń do nas na <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Nasze godziny pracy:<span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Twoja korekta #%creditmemo_id do zamówienia #%order_id",module,Magento_Sales
@@ -6869,8 +6869,8 @@ Delete,Usuń,module,Magento_GiftMessage
 "%customer_name,","%customer_name,",module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Kiedy twoja paczka będzie już w drodze wyślemy tobie numer do śledzenia transportu.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie<span class=""no-link"">#%increment_id</span>",module,Magento_Sales
-"Placed on <span class=""no-link"">%created_at</span>","Umieszczony na<span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Gdy Twoja przesyłka zostanie wysłane, prześlemy Ci e-mail z linkiem umożliwiającym śledzenie Twego zamówienia.",module,Magento_Sales
+"Placed on <span class=""no-link"">%created_at</span>","Złożone dnia <span class=""no-link"">%created_at</span>",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Gdy Twoja przesyłka zostanie wysłana, prześlemy Ci wiadomość e-mail z linkiem umożliwiającym śledzenie zamówienia.",module,Magento_Sales
 "Update to your %store_name order","Aktualizacja do zamówienia w sklepie %store_name",module,Magento_Sales
 "Your %store_name order has shipped","Twoje zamówienie w sklepie %store_name zostało wysłane",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",module,Magento_Sales
@@ -6908,7 +6908,7 @@ Filters,Filtry,module,Magento_Ui
 "There was recently a request to change the password for your account.","Otrzymaliśmy żądanie zmiany hasła dla Twojego konta.",module,Magento_User
 "If you requested this change, reset your password here:","Jeśli zażądałeś zmiany, zresetuj swoje hasło tutaj:",module,Magento_User
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jeśli nie chcesz zmieniać hasła, możesz zignorować ten komunikat i hasło pozostanie niezmienione.",module,Magento_User
-"Thank you,","Dziękuję,",module,Magento_User
+"Thank you,","Dziękujemy,",module,Magento_User
 "New %changes for %user_name","New %changes for %user_name",module,Magento_User
 "Hello,","Witamy,",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","Otrzymaliśmy prośbę o zmianę następujących informacji na Twoim koncie %store_name: %changes.",module,Magento_User
@@ -6943,9 +6943,9 @@ Footer,Stopka,theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Godziny pracy:< br / ><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Faktura korygująca do zamówienia %store_name",theme,frontend/Magento/luma
-"Thank you for your order from %store_name.","Dziękuję za Twoje zamówienie z %store_name.",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","Dziękujemy za Twoje zamówienie w %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Status zamówienia można sprawdzić po <a href=""%account_url"">zalogowaniu się do swojego konta</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Jeśli masz pytania dotyczące Twojego zamówienia, możesz napisz do nas na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Jeśli masz pytania dotyczące Twojego zamówienia, możesz napisać do nas na <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Twoja korekta #%creditmemo_id do zamówienia #%order_id",theme,frontend/Magento/luma
 "Billing Info","Informacje rozliczeniowe",theme,frontend/Magento/luma
 "Shipping Info","Informacje wysyłkowe",theme,frontend/Magento/luma
@@ -6960,7 +6960,7 @@ Footer,Stopka,theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
 "Once your package ships we will send you a tracking number.","Kiedy twoja paczka będzie już w drodze wyślemy tobie numer do śledzenia transportu.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie<span class=""no-link"">#%increment_id</span>",theme,frontend/Magento/luma
-"Placed on <span class=""no-link"">%created_at</span>","Umieszczony na<span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","Złożone dnia <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 "Update to your %store_name order","Aktualizacja do zamówienia w sklepie %store_name",theme,frontend/Magento/luma
 "Your %store_name order has shipped","Twoje zamówienie w sklepie %store_name zostało wysłane",theme,frontend/Magento/luma
 "Your shipping confirmation is below. Thank you again for your business.","Potwierdzenie wysyłki jest poniżej. Jeszcze raz dziękuję za twoje zamówienie.",theme,frontend/Magento/luma
@@ -6968,14 +6968,14 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Update to your %store_name shipment","Aktualizacja do przesyłki %store_name",theme,frontend/Magento/luma
 "Your %store_name repay order","Twoje zamówienie spłaty %store_name",module,PayU_PaymentGateway
 "%customer_name,","%customer_name,",module,PayU_PaymentGateway
-"Thank you for your order from %store_name.","Dziękuję za Twoje zamówienie z %store_name.",module,PayU_PaymentGateway
+"Thank you for your order from %store_name.","Dziękujemy za Twoje zamówienie w %store_name.",module,PayU_PaymentGateway
 "You can repay this order by <a href=""%repay_url"">this link</a>.","You can repay this order by <a href=""%repay_url"">this link</a>.",module,PayU_PaymentGateway
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Status zamówienia można sprawdzić po <a href=""%account_url"">zalogowaniu się do swojego konta</a>.",module,PayU_PaymentGateway
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Jeśli masz pytania dotyczące Twojego zamówienia, możesz napisz do nas na <a href=""mailto:%store_email"">%store_email</a>",module,PayU_PaymentGateway
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Jeśli masz pytania dotyczące Twojego zamówienia, możesz napisać do nas na <a href=""mailto:%store_email"">%store_email</a>",module,PayU_PaymentGateway
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","lub zadzwoń do nas  pod numer <a href=""tel:%store_phone"">%store_phone</a>",module,PayU_PaymentGateway
 "Our hours are <span class=""no-link"">%store_hours</span>.","Nasze godziny pracy:<span class=""no-link"">%store_hours</span>.",module,PayU_PaymentGateway
 "Your Order <span class=""no-link"">#%increment_id</span>","Twoje zamówienie<span class=""no-link"">#%increment_id</span>",module,PayU_PaymentGateway
-"Placed on <span class=""no-link"">%created_at</span>","Umieszczony na<span class=""no-link"">%created_at</span>",module,PayU_PaymentGateway
+"Placed on <span class=""no-link"">%created_at</span>","Złożone dnia <span class=""no-link"">%created_at</span>",module,PayU_PaymentGateway
 "Billing Info","Informacje rozliczeniowe",module,PayU_PaymentGateway
 "Shipping Info","Informacje wysyłkowe",module,PayU_PaymentGateway
 "Payment Method","Metoda płatności",module,PayU_PaymentGateway
@@ -13472,7 +13472,7 @@ Update,Aktualizuj,module,Magento_NegotiableQuote
 "Dear %merchant_name,","Dear %merchant_name,",module,Magento_NegotiableQuote
 "New quote","New quote",module,Magento_NegotiableQuote
 "submitted by buyer","wysłano przez kupującego",module,Magento_NegotiableQuote
-"Thank you,","Dziękuję,",module,Magento_NegotiableQuote
+"Thank you,","Dziękujemy,",module,Magento_NegotiableQuote
 %store_name,%store_name,module,Magento_NegotiableQuote
 "Dear %customer_name,","Dear %customer_name,",module,Magento_NegotiableQuote
 "Your quote","Twój koszyk",module,Magento_NegotiableQuote
@@ -14423,7 +14423,7 @@ Answers,Odpowiedzi,module,Magento_Rma
 "If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","Jeśli masz jakiekolwiek pytania o zwrocie, prosimy o kontakt na <a href=""mailto:%support_email"">%support_email</a>.",module,Magento_Rma
 "%store_name: Return #%increment_id update","%store_name: Return #%increment_id update",module,Magento_Rma
 "We received your return request. You will be notified when your request is reviewed.","Otrzymaliśmy zwrot wniosku. Użytkownik będzie powiadamiany, gdy żądanie jest przeglądane.",module,Magento_Rma
-"Placed on %created_at","Umieszczony na %created_at",module,Magento_Rma
+"Placed on %created_at","Złożone dnia %created_at",module,Magento_Rma
 "Click Details for more required fields.","Kliknij przycisk Szczegóły po więcej wymaganych pól.",module,Magento_Rma
 "Create Packages","Utwórz paczkę",module,Magento_Rma
 "Add Package","Dodaj paczkę",module,Magento_Rma
@@ -16941,7 +16941,7 @@ Test,Test,module,Vertex_Tax
 "Valued customer","Ważny klient",module,Amazon_Payment
 "Unfortunately Amazon Pay declined the payment for your order in our online shop %storeName. Please contact us.","Niestety Amazon Pay odrzucił płatność za zamówienie w naszym sklepie internetowym %storeName. Proszę skontaktuj się z nami.",module,Amazon_Payment
 "Kind regards","Kind regards",module,Amazon_Payment
-"Thank you very much for your order at %storeName","Thank you very much for your order at %storeName",module,Amazon_Payment
+"Thank you very much for your order at %storeName","Bardzo dziękujemy za złożenie zamówienia w sklepie %store_name.",module,Amazon_Payment
 "Amazon Pay was not able to process your payment","Usługa Amazon Pay nie mogła przetworzyć Twojej płatności",module,Amazon_Payment
 "Please go to <a href=""%amazonAccountUrl"">%amazonAccountUrl</a> and update the payment information for your order","Please go to <a href=""%amazonAccountUrl"">%amazonAccountUrl</a> and update the payment information for your order",module,Amazon_Payment
 "Afterwards we will automatically request payment again from Amazon Pay and you will receive a confirmation email","Następnie automatycznie zażądamy zapłaty od Amazon Pay, a otrzymasz e-mail z potwierdzeniem",module,Amazon_Payment
@@ -22343,8 +22343,8 @@ Cute.,Uroczy.,module,Magento_Sample
 "There's a ton of other t-shirts I'd choose over this one. It's not soft at all and the fabric feels like sandpaper next to my skin-was really hoping for better.","Jest mnóstwo innych t-shirtów, które wybiorę nad tym. Nie jest wcale miękki, a tkanina wygląda jak papier ścierny obok mojej skóry - naprawdę liczyła na coś lepszego.",module,Magento_Sample
 "This T is a no brainer-solid color","Ten T nie jest jednorodnym kolorem",module,Magento_Sample
 "This T is a no brainer-solid color, pairs with everything, and keeps me cool. What more could I want during my run?","Ten T nie jest jednorodnym kolorem, łączy się ze wszystkim i utrzymuje mnie w spokoju. Czego więcej mogłem chcieć podczas mojego biegu?",module,Magento_Sample
-"Thank you! ","Dziękuję Ci!",module,Magento_Sample
-"Thank you! I'm so sick of inappropriate workout clothes. This is exactly what I was looking for. Cover yourselves up, ladies!","Dziękuję Ci! Mam dość nieodpowiednich ubrań treningowych. Właśnie tego szukałem. Okażcie się, panie!",module,Magento_Sample
+"Thank you! ","Dziękujemy Ci!",module,Magento_Sample
+"Thank you! I'm so sick of inappropriate workout clothes. This is exactly what I was looking for. Cover yourselves up, ladies!","Dziękujemy Ci! Mamy dość nieodpowiednich ubrań treningowych. Właśnie tego szukałem. Okażcie się, panie!",module,Magento_Sample
 "Um, NOT flattering at ALL.","W żadnym razie nie pochlebia.",module,Magento_Sample
 "Um, NOT flattering at ALL. Too tight and short.","W żadnym razie nie pochlebia. Zbyt ciasne i krótkie.",module,Magento_Sample
 "Like the color .sleeves were too tight. ","Podobnie jak kolor .seleeve były zbyt ciasne.",module,Magento_Sample
