@@ -13282,7 +13282,7 @@ System,System,module,Magento_NegotiableQuote
 %1%," %1%",module,Magento_NegotiableQuote
 "%1 - deleted","%1 - usunięte",module,Magento_NegotiableQuote
 "Cart rule deleted.","Cart rule deleted.",module,Magento_NegotiableQuote
-"Products %1","Products %1",module,Magento_NegotiableQuote
+"Products %1","Produkty %1",module,Magento_NegotiableQuote
 "Product %1","Produkt %1",module,Magento_NegotiableQuote
 New,Nowy,module,Magento_NegotiableQuote
 "Client reviewed","Client reviewed",module,Magento_NegotiableQuote
@@ -25122,7 +25122,7 @@ Filter,Filtr,module,MageSuite_ContentConstructorAdmin
 Ascending,Rosnąco,module,MageSuite_ContentConstructorAdmin
 Descending,Malejąco,module,MageSuite_ContentConstructorAdmin
 "Show ",Pokaż,module,MageSuite_ContentConstructorAdmin
-"products ","products ",module,MageSuite_ContentConstructorAdmin
+"products ",produkty,module,MageSuite_ContentConstructorAdmin
 "Category ID","ID kategorii",module,MageSuite_ContentConstructorAdmin
 "Mobile Layout","Mobile Layout",module,MageSuite_ContentConstructorAdmin
 "Tablet Layout","Tablet Layout",module,MageSuite_ContentConstructorAdmin
@@ -25245,7 +25245,7 @@ Filter,Filtr,module,MageSuite_ContentConstructorAsset
 Ascending,Rosnąco,module,MageSuite_ContentConstructorAsset
 Descending,Malejąco,module,MageSuite_ContentConstructorAsset
 "Show ",Pokaż,module,MageSuite_ContentConstructorAsset
-"products ","products ",module,MageSuite_ContentConstructorAsset
+"products ",produkty,module,MageSuite_ContentConstructorAsset
 "Category ID","ID kategorii",module,MageSuite_ContentConstructorAsset
 "Mobile Layout","Mobile Layout",module,MageSuite_ContentConstructorAsset
 "Tablet Layout","Tablet Layout",module,MageSuite_ContentConstructorAsset
