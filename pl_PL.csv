@@ -23242,7 +23242,7 @@ label,etykieta,module,Magento_Backend
 "Something went wrong while updating the product(s) attributes.","Atrybuty produktów nie zostały zaktualizowane z powodu błędów.",module,Magento_CatalogInventory
 "Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.",module,Magento_CatalogUrlRewrite
 "%1: Line %2","%1: Line %2",module,Magento_Checkout
-"Please select at least one product to add to cart","Please select at least one product to add to cart",module,Magento_Checkout
+"Please select at least one product to add to cart","Proszę zaznaczyć chociaż jeden produkt",module,Magento_Checkout
 "We can't upload the file to current folder right now. Please try another folder.","Nie możemy teraz przesłać pliku do bieżącego folderu. Spróbuj innego folderu.",module,Magento_Cms
 "The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist.",module,Magento_CmsGraphQl
 "Customer not logged in","Customer not logged in",module,Magento_Customer
@@ -24087,7 +24087,7 @@ Preview,Podgląd,module,MageSuite_ContentConstructorAdmin
 "Select CMS Block","Select CMS Block",module,MageSuite_ContentConstructorAdmin
 "Reset default styles of CMS Static Block","Reset default styles of CMS Static Block",module,MageSuite_ContentConstructorAdmin
 "Page not found.","Nie znaleziono strony.",module,MageSuite_ContentConstructorFrontend
-"Add to cart","Add to cart",module,MageSuite_ContentConstructorFrontend
+"Add to cart","Dodaj do koszyka",module,MageSuite_ContentConstructorFrontend
 Configure,Konfiguruj,module,MageSuite_ContentConstructorFrontend
 "Teaser image","Teaser image",module,MageSuite_ContentConstructorFrontend
 "Additional filter must implement interface FilterInterface","Additional filter must implement interface FilterInterface",module,MageSuite_ContentConstructorFrontend
@@ -26207,3 +26207,7 @@ Setup,Setup,module,Yotpo_Yotpo
 "Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).","Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).",module,Yotpo_Yotpo
 "Orders Sync Statuses","Orders Sync Statuses",module,Yotpo_Yotpo
 "Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.","Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.",module,Yotpo_Yotpo
+"Thank you!",Dziękujemy!,theme,frontend/Creativestyle/theme-creativeshop
+"New user","Nowy użytkownik",theme,frontend/Creativestyle/theme-creativeshop
+"I have an account","Mam konto",theme,frontend/Creativestyle/theme-creativeshop
+Display:,Pokaż:,theme,frontend/Creativestyle/theme-creativeshop
