@@ -16483,7 +16483,7 @@ Patterns,Wzory,module,Magento_Catalog
 "Delivery method","Sposób dostawy",module,Magento_Sales
 "Cart Subtotal","Suma częściowa",module,Magento_Tax
 "Item in Cart","Produkt w Koszyku",module,Magento_Checkout
-"Items in Cart","Produkty w Koszyku",module,Magento_Checkout
+"Items in Cart","Produkty w koszyku",module,Magento_Checkout
 "Ship To","Adres dostawy",module,Magento_Checkout
 "Click <a class=""u-default-link-anim"" href=""%1"">here</a> to continue shopping.","Kliknij <a class=""u-default-link-anim"" href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Checkout
 "Your Shopping Cart","Twój Koszyk",module,Magento_Checkout
