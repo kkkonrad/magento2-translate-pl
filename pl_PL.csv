@@ -24607,9 +24607,9 @@ Reset,Resetuj,module,Smile_ElasticsuiteCatalog
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Smile_ElasticsuiteCatalog
 Save,Zapisz,module,Smile_ElasticsuiteCatalog
 "1 product","1 produkt",module,Smile_ElasticsuiteCatalog
-"<%- count %> products","<%- count %> produkty/-ów)",module,Smile_ElasticsuiteCatalog
+"<%- count %> products","<%- count %> produkty/ów",module,Smile_ElasticsuiteCatalog
 "No products in the selected range.","Brak produktów w wybranym zakresie.",module,Smile_ElasticsuiteCatalog
-"Search Configuration","Search Configuration",module,Smile_ElasticsuiteCatalog
+"Search Configuration","Konfigurację wyszukiwania",module,Smile_ElasticsuiteCatalog
 "Can be used only with catalog input type Text field, Dropdown, Multiple Select and Price.","Może być używany tylko z typem wprowadzania do katalogu Pole tekstowe, menu rozwijane, wybór wielokrotny i cena.",module,Smile_ElasticsuiteCatalog
 "Display in autocomplete","Display in autocomplete",module,Smile_ElasticsuiteCatalog
 "Facet coverage rate","Facet coverage rate",module,Smile_ElasticsuiteCatalog
@@ -24630,9 +24630,9 @@ Last,Ostatnie,module,Smile_ElasticsuiteCatalog
 "Display Precision","Display Precision",module,Smile_ElasticsuiteCatalog
 "The number of digits to use for precision when displaying.","The number of digits to use for precision when displaying.",module,Smile_ElasticsuiteCatalog
 "No exact results found for: <b>'%1'</b>. The displayed items are the closest matches.","No exact results found for: <b>'%1'</b>. The displayed items are the closest matches.",module,Smile_ElasticsuiteCatalog
-"No search specified.","No search specified.",module,Smile_ElasticsuiteCatalog
+"No search specified.","Nie określono wyszukiwania.",module,Smile_ElasticsuiteCatalog
 "This search no longer exists.","To wyszukiwanie już nie istnieje.",module,Smile_ElasticsuiteCatalog
-"Search results for ""%1""","Search results for ""%1""",module,Smile_ElasticsuiteCatalog
+"Search results for ""%1""","Wyniki wyszukiwania dla "" %1""",module,Smile_ElasticsuiteCatalog
 "Unable to save positions.","Unable to save positions.",module,Smile_ElasticsuiteCatalog
 "'search' or 'filter' input argument is required.","Wymagany jest argument wejściowy ""szukaj"" lub ""filtruj"".",module,Smile_ElasticsuiteCatalog
 Auto,Automatycznie,module,Smile_ElasticsuiteCatalog
@@ -25280,8 +25280,8 @@ Search,Szukaj,module,Smile_ElasticsuiteCatalog
 Blacklisted,"Na czarnej liście",module,Smile_ElasticsuiteCatalog
 Visible,Widoczny,module,Smile_ElasticsuiteCatalog
 "Show less","Show less",module,Smile_ElasticsuiteCatalog
-"No value matching the search <b>%s</b>.","No value matching the search <b>%s</b>.",module,Smile_ElasticsuiteCatalog
-"Search (%s)","Search (%s)",module,Smile_ElasticsuiteCatalog
+"No value matching the search <b>%s</b>.","Brak wartości pasującej do wyszukiwania <b> %s</b>.",module,Smile_ElasticsuiteCatalog
+"Search (%s)","Szukaj (%s)",module,Smile_ElasticsuiteCatalog
 "Invalid Pickup ID ""%1"".","Invalid Pickup ID ""%1"".",module,Temando_Shipping
 "Please wait.","Please wait.",module,Temando_Shipping
 "Are you sure you want to cancel this pickup?","Are you sure you want to cancel this pickup?",module,Temando_Shipping
