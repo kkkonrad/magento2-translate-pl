@@ -935,7 +935,7 @@ SKU,SKU,module,Magento_CatalogWidget
 "Add to Cart","Dodaj do koszyka",module,Magento_CatalogWidget
 "In stock","W magazynie",module,Magento_CatalogWidget
 "Out of stock","Brak na stanie",module,Magento_CatalogWidget
-"Add to Wish List","Dodaj do listy życzeń",module,Magento_CatalogWidget
+"Add to Wish List","Dodaj do schowka",module,Magento_CatalogWidget
 "Add to Compare",Porównaj,module,Magento_CatalogWidget
 Root,Baza,module,Magento_Catalog
 Delete,Usuń,module,Magento_Catalog
@@ -1526,7 +1526,7 @@ Role,Rola,module,Magento_Catalog
 "Add to Cart","Dodaj do koszyka",module,Magento_Catalog
 "In stock","W magazynie",module,Magento_Catalog
 "Out of stock","Brak na stanie",module,Magento_Catalog
-"Add to Wish List","Dodaj do listy życzeń",module,Magento_Catalog
+"Add to Wish List","Dodaj do schowka",module,Magento_Catalog
 "You have no items to compare.","Nie dodałeś żadnych produktów do porównania.",module,Magento_Catalog
 "Remove This Item","Usuń ten element",module,Magento_Catalog
 Compare,Porównaj,module,Magento_Catalog
@@ -4289,7 +4289,7 @@ Error,Błąd,module,Magento_Reports
 "Add to Cart","Dodaj do koszyka",module,Magento_Reports
 "In stock","W magazynie",module,Magento_Reports
 "Out of stock","Brak na stanie",module,Magento_Reports
-"Add to Wish List","Dodaj do listy życzeń",module,Magento_Reports
+"Add to Wish List","Dodaj do schowka",module,Magento_Reports
 "Add to Compare",Porównaj,module,Magento_Reports
 "Recently Compared","Ostatnio porównywane",module,Magento_Reports
 "Learn More","Dowiedz się więcej",module,Magento_Reports
@@ -6487,7 +6487,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Add All to Cart","Dodaj wszystko do koszyka",module,Magento_Wishlist
 "Update Wish List","Aktualizacja listy życzeń",module,Magento_Wishlist
 "Move to Wishlist","Przenieś do listy życzeń",module,Magento_Wishlist
-"Add to Wish List","Dodaj do listy życzeń",module,Magento_Wishlist
+"Add to Wish List","Dodaj do schowka",module,Magento_Wishlist
 "View Product","Zobacz produkt",module,Magento_Wishlist
 Qty,Ilość,module,Magento_Wishlist
 "Add to Cart","Dodaj do koszyka",module,Magento_Wishlist
@@ -9780,7 +9780,7 @@ Action,Operacja,module,Magento_Wishlist
 Configure,Konfiguruj,module,Magento_Wishlist
 Delete,Usuń,module,Magento_Wishlist
 "Product Details and Comment","Szczegóły i komentarze produktu",module,Magento_Wishlist
-"Add To Wishlist","Dodaj do listy życzeń",module,Magento_Wishlist
+"Add To Wishlist","Dodaj do schowka",module,Magento_Wishlist
 "Account Dashboard",Panel,theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
@@ -13115,7 +13115,7 @@ Comment,Komentarz,module,Magento_MultipleWishlist
 "All Websites","Wszystkie witryny",module,Magento_MultipleWishlist
 "Product Info","Informacje o produkcie",module,Magento_MultipleWishlist
 "Unit Price","Cena jednostkowa",module,Magento_MultipleWishlist
-"Add to Wish List","Dodaj do listy życzeń",module,Magento_MultipleWishlist
+"Add to Wish List","Dodaj do schowka",module,Magento_MultipleWishlist
 "The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.","The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.",module,Magento_Multishipping
 "Verify the shipping address information and continue.","Sprawdź informacje o adresie wysyłki i kontynuuj.",module,Magento_Multishipping
 "Verify the billing address information and continue.","Sprawdź informacje o adresie płatności i kontynuuj.",module,Magento_Multishipping
@@ -24081,7 +24081,7 @@ Reorder,"Zamów ponownie",module,MageSuite_Frontend
 "Print Order","Wydrukuj zamówienie",module,MageSuite_Frontend
 "In stock","W magazynie",module,MageSuite_Frontend
 "Out of stock","Brak na stanie",module,MageSuite_Frontend
-"Add to Wish List","Dodaj do listy życzeń",module,MageSuite_Frontend
+"Add to Wish List","Dodaj do schowka",module,MageSuite_Frontend
 "Add to Wishlist","Dodaj do schowka",module,MageSuite_Frontend
 "<h1>Access Denied</h1>You don't have permision to view this page.","<h1>Access Denied</h1>You don't have permision to view this page.",module,MageSuite_Gdpr
 "Payment details are not shown. It may contain personal data.","Payment details are not shown. It may contain personal data.",module,MageSuite_Gdpr
@@ -25368,7 +25368,7 @@ Newsletter,Newsletter,theme,frontend/Creativestyle/theme-creativeshop
 "Trusted Shops certified","Certyfikat Trusted Shops",theme,frontend/Creativestyle/theme-creativeshop
 "Shipping methods:","Metody wysyłki:",theme,frontend/Creativestyle/theme-creativeshop
 "Payment methods:","Metody Płatności:",theme,frontend/Creativestyle/theme-creativeshop
-"Add to Wish List","Dodaj do listy życzeń",theme,frontend/Creativestyle/theme-creativeshop
+"Add to Wish List","Dodaj do schowka",theme,frontend/Creativestyle/theme-creativeshop
 "Cms page","Strona CMS",theme,frontend/Creativestyle/theme-creativeshop
 "<div class=""amazon-payment-logo""></div><div class=""amazon-payment-byline"">The convenient, trusted way to pay.<br/>Let your customers check out in just a few clicks or taps using the shipping and payment info already stored in their Amazon account.</div>","<div class=""amazon-payment-logo""></div><div class=""amazon-payment-byline"">Wygodny, zaufany sposób płatności. <br/>Pozwól swoim klientom na zakup za pomocą kilku kliknięć, korzystając z informacji o wysyłce i płatnościach, które są już zapisane na ich koncie Amazon.</div>",module,Amazon_Core
 "Show Amazon Pay button on product page","Pokaż przycisk Amazon Pay na stronie produktu",module,Amazon_Core
