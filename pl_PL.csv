@@ -24607,8 +24607,8 @@ Reset,Resetuj,module,Smile_ElasticsuiteCatalog
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Smile_ElasticsuiteCatalog
 Save,Zapisz,module,Smile_ElasticsuiteCatalog
 "1 product","1 produkt",module,Smile_ElasticsuiteCatalog
-"<%- count %> products","<%- count %> products",module,Smile_ElasticsuiteCatalog
-"No products in the selected range.","No products in the selected range.",module,Smile_ElasticsuiteCatalog
+"<%- count %> products","<%- count %> produkty/-ów)",module,Smile_ElasticsuiteCatalog
+"No products in the selected range.","Brak produktów w wybranym zakresie.",module,Smile_ElasticsuiteCatalog
 "Search Configuration","Search Configuration",module,Smile_ElasticsuiteCatalog
 "Can be used only with catalog input type Text field, Dropdown, Multiple Select and Price.","Może być używany tylko z typem wprowadzania do katalogu Pole tekstowe, menu rozwijane, wybór wielokrotny i cena.",module,Smile_ElasticsuiteCatalog
 "Display in autocomplete","Display in autocomplete",module,Smile_ElasticsuiteCatalog
