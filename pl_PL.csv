@@ -4069,7 +4069,7 @@ Duration:,"Czas trwania:",module,Magento_ProductVideo
 "We found an invalid request for adding product to quote.","Znaleźliśmy błędne polecenia dodania produktu do zapytania.",module,Magento_Quote
 "Product that you are trying to add is not available.","Produktu, który próbujesz dodać, nie jest dostępny.",module,Magento_Quote
 "This is the wrong quote item id to update configuration.","To jest nieprawidłowe id produktu zapytania do aktualizacji konfiguracji.",module,Magento_Quote
-"This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki nie jest dostępna. By jej użyć skontaktuj się z nami.",module,Magento_Quote
+"This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki jest niedostępna. Aby skorzystać z tej metody wysyłki, skontaktuj się z nami.",module,Magento_Checkout
 "The address model is not defined.","Model adresu nie został zdefiniowany.",module,Magento_Quote
 "The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","Adres całkowity modelu powinien zostać przedłużony z 
@@ -26162,3 +26162,4 @@ Display:,Pokaż:,theme,frontend/Creativestyle/theme-creativeshop
 "Shipping on the next working day","Wysyłka następnego dnia roboczego",theme,frontend/Creativestyle/theme-creativeshop
 "Shipping on %1","Wysyłka w %1",theme,frontend/Creativestyle/theme-creativeshop
 "Express delivery","Przesyłka ekspresowa",theme,frontend/Creativestyle/theme-creativeshop
+"This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki jest niedostępna. Aby skorzystać z tej metody wysyłki, skontaktuj się z nami.",module,Magento_Quote
