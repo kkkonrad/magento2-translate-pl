@@ -26163,3 +26163,4 @@ Display:,Pokaż:,theme,frontend/Creativestyle/theme-creativeshop
 "Shipping on %1","Wysyłka w %1",theme,frontend/Creativestyle/theme-creativeshop
 "Express delivery","Przesyłka ekspresowa",theme,frontend/Creativestyle/theme-creativeshop
 "This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki jest niedostępna. Aby skorzystać z tej metody wysyłki, skontaktuj się z nami.",module,Magento_Quote
+Wednesday,Wtorek,module,MageSuite_ProductPositiveIndicators
