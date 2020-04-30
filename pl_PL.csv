@@ -26178,3 +26178,4 @@ Sunday,Niedziela,module,MageSuite_ProductPositiveIndicators
 "Bestseller Score By Sale - Descending","Wynik bestsellera według sprzedaży - malejąco",module,MageSuite_Sorting
 "Bestseller Score By Sale - Ascending","Wynik bestsellera według sprzedaży - rosnąco",module,MageSuite_Sorting
 Discounts,Rabaty,module,Magento_Checkout
+More,Więcej,module,MageSuite_ContentConstructorFrontend
