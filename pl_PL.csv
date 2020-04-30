@@ -76,7 +76,7 @@ Rules,Reguły,module,Dotdigitalgroup_Email
 "The rule has been saved.","Reguła została zapisana.",module,Dotdigitalgroup_Email
 Done.,Gotowe.,module,Dotdigitalgroup_Email
 Wishlists,"Listy życzeń",module,Dotdigitalgroup_Email
-"Wishlist Report","Raport z listy życzeń",module,Dotdigitalgroup_Email
+"Wishlist Report","Raport z listy ulubionych",module,Dotdigitalgroup_Email
 "An error occurred while saving your subscription preferences.","Wystąpił błąd podczas zapisywania preferencji subskrypcji.",module,Dotdigitalgroup_Email
 "The subscription preferences has been saved.","Preferencje subskrypcji zostały zapisane.",module,Dotdigitalgroup_Email
 "You are not authorised to view content of this page.","Nie masz uprawnień do przeglądania treści tej strony.",module,Dotdigitalgroup_Email
@@ -419,7 +419,7 @@ Submit,Prześlij,module,Magento_Backend
 "An error occurred while clearing the JavaScript/CSS cache.","Wystąpił błąd podczas czyszczenia pamięci cache JavaScript/CSS.",module,Magento_Backend
 "The static files cache has been cleaned.","Odświeżono pamięć podręczną plików statycznych.",module,Magento_Backend
 "You flushed the cache storage.","Odświeżono wszystkie pamięci podręczne.",module,Magento_Backend
-"The Magento cache storage has been flushed.","Składowanie cache Magento zostało opróżnione.",module,Magento_Backend
+"The Magento cache storage has been flushed.","Pamięć podręczna Magento została opróżniona",module,Magento_Backend
 "Cache Management","Pamięć podręczna",module,Magento_Backend
 "You can't change status of cache type(s) in production mode","Nie można zmienić stanu typów pamięci podręcznej w trybie produkcyjnym",module,Magento_Backend
 "%1 cache type(s) disabled.","Pomyślnie wyłączone pamięci podręczne: %1.",module,Magento_Backend
@@ -6472,7 +6472,7 @@ Comment,Komentarz,module,Magento_Wishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 produkt(y) został dodany do koszyka: %2.",module,Magento_Wishlist
 Comment:,Komentarz:,module,Magento_Wishlist
 "We cannot retrieve the Wish List.","Nie możemy pobrać listy życzeń.",module,Magento_Wishlist
-"%1's Wishlist","Schowek %1",module,Magento_Wishlist
+"%1's Wishlist","Ulubione %1",module,Magento_Wishlist
 "We can't specify a wish list item.","Nie możemy dokładnie określić elementów listy życzeń.",module,Magento_Wishlist
 "The product does not exist.","Produkt nie istnieje.",module,Magento_Wishlist
 "Test Phrase","Fraza testowa",module,Magento_Wishlist
@@ -6486,7 +6486,7 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Share Wish List","Podziel się listą życzeń",module,Magento_Wishlist
 "Add All to Cart","Dodaj wszystko do koszyka",module,Magento_Wishlist
 "Update Wish List","Aktualizacja listy życzeń",module,Magento_Wishlist
-"Move to Wishlist","Przenieś do listy życzeń",module,Magento_Wishlist
+"Move to Wishlist","Przenieś do listy ulubionych",module,Magento_Wishlist
 "Add to Wish List","Dodaj do schowka",module,Magento_Wishlist
 "View Product","Zobacz produkt",module,Magento_Wishlist
 Qty,Ilość,module,Magento_Wishlist
@@ -6503,7 +6503,7 @@ Edit,Edytuj,module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Wishlist
 "See Details","Zobacz szczegóły",module,Magento_Wishlist
 "Options Details","Szczegóły opcji",module,Magento_Wishlist
-"RSS link to %1's wishlist","Link RSS do schowka %1",module,Magento_Wishlist
+"RSS link to %1's wishlist","Link RSS do ulubionych %1",module,Magento_Wishlist
 "RSS Feed","Kanał RSS",module,Magento_Wishlist
 Product,Produkt,module,Magento_Wishlist
 Back,Cofnij,module,Magento_Wishlist
@@ -7435,7 +7435,7 @@ Guests,Goście,module,Dotdigitalgroup_Email
 "Customer Order","Zamówienie klienta",module,Dotdigitalgroup_Email
 "Guest Order","Zamówienie gościa",module,Dotdigitalgroup_Email
 "Approved Review","Zatwierdzony przegląd",module,Dotdigitalgroup_Email
-"New Wishlist","Nowa lista życzeń",module,Dotdigitalgroup_Email
+"New Wishlist","Nowa lista ulubionych",module,Dotdigitalgroup_Email
 "Order Status Automation Enrolment","Zapis automatyzacji statusu zamówienia",module,Dotdigitalgroup_Email
 Customer,Klient,module,Dotdigitalgroup_Email
 "Review Settings","Ustawienia recenzji",module,Dotdigitalgroup_Email
@@ -7473,11 +7473,11 @@ Passcode,"Kod dostępu",module,Dotdigitalgroup_Email
 "Most Viewed URL","Najczęściej oglądany adres URL",module,Dotdigitalgroup_Email
 "Product Push URL","Push URL produktu",module,Dotdigitalgroup_Email
 "Recently Viewed","Ostatnio oglądane",module,Dotdigitalgroup_Email
-Wishlist,Schowek,module,Dotdigitalgroup_Email
-"Wishlist Content","Zawartość listy życzeń",module,Dotdigitalgroup_Email
-"Wishlist Related URL","Adres URL schowka dla produktów powiązanych",module,Dotdigitalgroup_Email
-"Wishlist Upsell Products URL","Adres URL schowka dla produktów alternatywnych",module,Dotdigitalgroup_Email
-"Wishlist Crosssell Products URL","Adres URL schowka dla produktów krzyżowych",module,Dotdigitalgroup_Email
+Wishlist,Ulubione,module,Dotdigitalgroup_Email
+"Wishlist Content","Zawartość listy ulubionych",module,Dotdigitalgroup_Email
+"Wishlist Related URL","Adres URL ulubionych dla produktów powiązanych",module,Dotdigitalgroup_Email
+"Wishlist Upsell Products URL","Adres URL ulubionych dla produktów alternatywnych",module,Dotdigitalgroup_Email
+"Wishlist Crosssell Products URL","Adres URL ulubionych dla produktów krzyżowych",module,Dotdigitalgroup_Email
 "Dynamic Products","Produkty dynamiczne",module,Dotdigitalgroup_Email
 "Display Type","Typ wyświetlania",module,Dotdigitalgroup_Email
 "Related Products","Produkty powiązane",module,Dotdigitalgroup_Email
@@ -7581,7 +7581,7 @@ Developer,Programista,module,Dotdigitalgroup_Email
 "Date Range","Zakres dat",module,Dotdigitalgroup_Email
 "Reset Order Data","Zresetuj dane zamówienia",module,Dotdigitalgroup_Email
 "Reset Review Data","Zresetuj dane przeglądu",module,Dotdigitalgroup_Email
-"Reset Wishlist Data","Zresetuj dane listy życzeń",module,Dotdigitalgroup_Email
+"Reset Wishlist Data","Zresetuj dane listy ulubionych",module,Dotdigitalgroup_Email
 "Reset Catalog Data","Zresetuj dane katalogu",module,Dotdigitalgroup_Email
 "Debug Mode","Tryb debugowania",module,Dotdigitalgroup_Email
 "Set the number in seconds that api calls greater will be logged.","XXX Set the number in seconds that api calls greater will be logged.",module,Dotdigitalgroup_Email
@@ -7646,9 +7646,9 @@ Messages,Wiadomości,module,Dotdigitalgroup_Email
 "Review Imported","Recenzja zaimportowana",module,Dotdigitalgroup_Email
 "Add New Rule","Dodaj nową regułę",module,Dotdigitalgroup_Email
 Id,ID,module,Dotdigitalgroup_Email
-"Wishlist Id","Identyfikator schowka",module,Dotdigitalgroup_Email
+"Wishlist Id","Identyfikator ulubionych",module,Dotdigitalgroup_Email
 Items,Pozycje,module,Dotdigitalgroup_Email
-"Wishlist Imported","Lista życzeń została zaimportowana",module,Dotdigitalgroup_Email
+"Wishlist Imported","Lista ulubionych została zaimportowana",module,Dotdigitalgroup_Email
 "Show Toolbar","Pokaż pasek narzędzi",module,Magento_AdminNotification
 "Show List","Pokaż listę",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Używaj HTTPS do pobierania kanałów",module,Magento_AdminNotification
@@ -8157,7 +8157,7 @@ Template,Szablon,module,Magento_Catalog
 Image,Obraz,module,Magento_Catalog
 "Learn More Link","Link Dowiedz Się Więcej ",module,Magento_Catalog
 "Buttons to show","Przycisk do wyświetlenia",module,Magento_Catalog
-"Add to Wishlist","Dodaj do schowka",module,Magento_Catalog
+"Add to Wishlist","Dodaj do ulubionych",module,Magento_Catalog
 "Viewed Products Grid Template","Szablon siatki oglądanych produktów",module,Magento_Catalog
 "Viewed Products List Template","Szablon listy oglądanych produktów",module,Magento_Catalog
 "Viewed Products Sidebar Template","Oglądane szablony pasków bocznych",module,Magento_Catalog
@@ -9778,7 +9778,7 @@ Action,Operacja,module,Magento_Wishlist
 Configure,Konfiguruj,module,Magento_Wishlist
 Delete,Usuń,module,Magento_Wishlist
 "Product Details and Comment","Szczegóły i komentarze produktu",module,Magento_Wishlist
-"Add To Wishlist","Dodaj do schowka",module,Magento_Wishlist
+"Add To Wishlist","Dodaj do ulubionych",module,Magento_Wishlist
 "Account Dashboard",Panel,theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
@@ -12983,7 +12983,7 @@ ZIP,"Kod pocztowy",module,Magento_MultipleLocationInventory
 Status,Stan,module,Magento_MultipleLocationInventory
 Phone,Telefon,module,Magento_MultipleLocationInventory
 Fax,Faks,module,Magento_MultipleLocationInventory
-Wishlist,Schowek,module,Magento_MultipleWishlist
+Wishlist,Ulubione,module,Magento_MultipleWishlist
 "Customer's Wish List Report","Raport listy życzeń klienta",module,Magento_MultipleWishlist
 "My Wish Lists","Moje listy życzeń",module,Magento_MultipleWishlist
 "1 item in wish list","1. produkt na liście życzeń",module,Magento_MultipleWishlist
@@ -15696,7 +15696,7 @@ Cancel,Anuluj,module,Magento_Widget
 "Inserting a widget does not create a widget instance.","Wstawienie widgetu nie tworzy instancji widgetu.",module,Magento_Widget
 "The Wish List item can't load at this time. Please try again later.","W tej chwili nie można załadować listy ze schowka. Spróbuj ponownie później.",module,Magento_Wishlist
 "The cart item doesn't exist.","Produkt w koszyku nie istnieje.",module,Magento_Wishlist
-"You must login or register to add items to your wishlist.","Musisz się zalogować lub zarejestrować żeby dodawać produkty do listy życzeń.",module,Magento_Wishlist
+"You must login or register to add items to your wishlist.","Musisz się zalogować lub zarejestrować żeby dodawać produkty do listy ulubionych.",module,Magento_Wishlist
 "Special Price","Cena promocyjna",module,Magento_Wishlist
 "Regular Price","Normalna cena",module,Magento_Wishlist
 "Credit card type","Rodzaj karty kredytowej",module,Magento_Worldpay
@@ -17265,9 +17265,9 @@ PDF,PDF,module,Magento_Customer
 "If enabled, will collect statistic of products added to Compare List","Jeśli ta opcja jest włączona, zbiera statystyki produktów dodanych do listy porównania",module,Magento_Reports
 "Enable ""Product Added To Cart"" Report","Włącz raport ""Produkt dodany do koszyka""",module,Magento_Reports
 "If enabled, will collect statistic of products added to Cart","Jeśli ta opcja jest włączona, zbiera statystyki produktów dodanych do koszyka",module,Magento_Reports
-"Enable ""Product Added To WishList"" Report","Włącz raport ""Produkt dodany do listy życzeń""",module,Magento_Reports
-"If enabled, will collect statistic of products added to WishList","Jeśli ta opcja jest włączona, zbierze statystyki produktów dodanych do listy towarów.",module,Magento_Reports
-"Enable ""Share WishList"" Report","Włącz raport ""Udostępnij schowek""",module,Magento_Reports
+"Enable ""Product Added To WishList"" Report","Włącz raport ""Produkt dodany do listy ulubionych""",module,Magento_Reports
+"If enabled, will collect statistic of products added to WishList","Jeśli ta opcja jest włączona, zbierze statystyki produktów dodanych do listy ulubionych.",module,Magento_Reports
+"Enable ""Share WishList"" Report","Włącz raport ""Udostępnij listę ulubionych""",module,Magento_Reports
 "If enabled, will collect statistic of shared WishLists","Jeśli ta opcja jest włączona, zbierze statystyki udostępnionych schowków",module,Magento_Reports
 "Grid Settings","Ustawienia siatki",module,Magento_Sales
 "Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.",module,Magento_Signifyd
@@ -23401,9 +23401,9 @@ Installment,Rata,module,Magento_Paypal
 "Could not find a token using public hash: %1","Nie można znaleźć tokena za pomocą publicznego skrótu:% 1",module,Magento_VaultGraphQl
 "WebapiAsync config for ""%lookupKey"" does not exist.","Konfiguracja WebapiAsync dla „% lookupKey” nie istnieje.",module,Magento_WebapiAsync
 "Incorrect CAPTCHA","Niepoprawna CAPTCHA",module,Magento_Wishlist
-"Missing key ""model"" in Wishlist Item value data","Brakujący klucz ""model"" w danych wartości pozycji listy życzeń",module,Magento_WishlistGraphQl
-"Missing key ""model"" in Wishlist value data","Brakujący klucz ""model"" w danych wartości listy życzeń",module,Magento_WishlistGraphQl
-"The current user cannot perform operations on wishlist","Bieżący użytkownik nie może wykonywać operacji na liście życzeń",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist Item value data","Brakujący klucz ""model"" w danych wartości pozycji ulubionych",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist value data","Brakujący klucz ""model"" w danych wartości ulubionych",module,Magento_WishlistGraphQl
+"The current user cannot perform operations on wishlist","Bieżący użytkownik nie może wykonywać operacji na liście ulubionych",module,Magento_WishlistGraphQl
 "Save credit card information for future use.","Zapisz informacje o karcie kredytowej do wykorzystania w przyszłości.",module,Magento_PaypalCaptcha
 "Place Order","Złóż zamówienie",module,Magento_PaypalCaptcha
 "This element contains invalid data. Please resolve this before saving.","Ten element zawiera nieprawidłowe dane. Proszę rozwiązać to przed zapisaniem.",module,Magento_Ui
@@ -23669,7 +23669,7 @@ translate,Tłumaczyć,module,Magento_Translation
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Widget
 "Widget(s) with ID(s) %1 were not found","Widget(y) o identyfikatorach %1 nie został znaleziony",module,Magento_Widget
 "No such entity with instance_id = %instance_id","Brak takiej encji z instance_id = %instance_id",module,Magento_Widget
-"Cannot add product without stock to wishlist.","Nie można dodać produktu bez dostępnego stanu w schowku",module,Magento_Wishlist
+"Cannot add product without stock to wishlist.","Nie można dodać produktu bez dostępnego stanu w ulubionych",module,Magento_Wishlist
 "The current customer isn't authorized.","Obecny klient nie jest autoryzowany.",module,Magento_WishlistGraphQl
 "Braintree can't be initialized.","Braintree nie może zostać zainicjowany.",module,Magento_Braintree
 "Some payment input fields are invalid.","Niektóre pola wprowadzania płatności są nieprawidłowe.",module,Magento_Braintree
@@ -24078,7 +24078,7 @@ Reorder,"Zamów ponownie",module,MageSuite_Frontend
 "In stock","W magazynie",module,MageSuite_Frontend
 "Out of stock","Brak na stanie",module,MageSuite_Frontend
 "Add to Wish List","Dodaj do schowka",module,MageSuite_Frontend
-"Add to Wishlist","Dodaj do schowka",module,MageSuite_Frontend
+"Add to Wishlist","Dodaj do ulubionych",module,MageSuite_Frontend
 "<h1>Access Denied</h1>You don't have permision to view this page.","<h1>Odmowa dostępu</h1>Nie masz uprawnień do przeglądania tej strony.",module,MageSuite_Gdpr
 "Payment details are not shown. It may contain personal data.","Szczegóły płatności nie są wyświetlane. Może zawierać dane osobowe.",module,MageSuite_Gdpr
 "Bad Request","Błędne zapytanie",module,MageSuite_GoogleApi
@@ -25343,7 +25343,7 @@ Login,Logowanie,theme,frontend/Creativestyle/theme-creativeshop
 Logout,Wyloguj,theme,frontend/Creativestyle/theme-creativeshop
 "Edit address","Edytuj adres",theme,frontend/Creativestyle/theme-creativeshop
 Account,Konto,theme,frontend/Creativestyle/theme-creativeshop
-Wishlist,Schowek,theme,frontend/Creativestyle/theme-creativeshop
+Wishlist,Ulubione,theme,frontend/Creativestyle/theme-creativeshop
 Newsletter,Newsletter,theme,frontend/Creativestyle/theme-creativeshop
 "My product Reviews","Recenzje moich produktów",theme,frontend/Creativestyle/theme-creativeshop
 "My orders","Moje zamówienia",theme,frontend/Creativestyle/theme-creativeshop
@@ -25570,7 +25570,7 @@ Holidays,Wakacje,module,MageSuite_ProductPositiveIndicators
 "Enable Popular Icon","Włącz popularną ikonę",module,MageSuite_ProductPositiveIndicators
 "Remove item","Usuń produkt",module,MageSuite_ProductTile
 New,Nowy,module,MageSuite_ProductTile
-"Add to Wishlist","Dodaj do schowka",module,MageSuite_ProductTile
+"Add to Wishlist","Dodaj do ulubionych",module,MageSuite_ProductTile
 "Add to Compare",Porównaj,module,MageSuite_ProductTile
 "In stock","W magazynie",module,MageSuite_ProductTile
 "Out of stock","Brak na stanie",module,MageSuite_ProductTile
@@ -26177,3 +26177,4 @@ Sunday,Niedziela,module,MageSuite_ProductPositiveIndicators
 "Bestseller Score By Turnover - Descending","Wynik bestsellera według obrotu - malejąco",module,MageSuite_Sorting
 "Bestseller Score By Sale - Descending","Wynik bestsellera według sprzedaży - malejąco",module,MageSuite_Sorting
 "Bestseller Score By Sale - Ascending","Wynik bestsellera według sprzedaży - rosnąco",module,MageSuite_Sorting
+Discounts,Rabaty,module,Magento_Checkout
