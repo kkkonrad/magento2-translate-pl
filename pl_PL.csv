@@ -75,7 +75,7 @@ Rules,Reguły,module,Dotdigitalgroup_Email
 "Rule already exist for website ' . . '. You can only have one rule per website.","Reguła już istnieje dla strony internetowej "". . "". Możesz mieć tylko jedną regułę na stronę.",module,Dotdigitalgroup_Email
 "The rule has been saved.","Reguła została zapisana.",module,Dotdigitalgroup_Email
 Done.,Gotowe.,module,Dotdigitalgroup_Email
-Wishlists,"Listy życzeń",module,Dotdigitalgroup_Email
+Wishlists,Ulubione,module,Dotdigitalgroup_Email
 "Wishlist Report","Raport z listy Ulubionych",module,Dotdigitalgroup_Email
 "An error occurred while saving your subscription preferences.","Wystąpił błąd podczas zapisywania preferencji subskrypcji.",module,Dotdigitalgroup_Email
 "The subscription preferences has been saved.","Preferencje subskrypcji zostały zapisane.",module,Dotdigitalgroup_Email
@@ -3301,7 +3301,7 @@ Database,"Baza danych",module,Magento_MediaStorage
 "Unable to save file: %1","Nie udało się zapisać pliku: %1",module,Magento_MediaStorage
 "To see product price, add this item to your cart. You can always remove it later.","Dodaj ten produkt do koszyka, żeby zobaczyć jego cenę. Możesz go zawsze później usunąć.",module,Magento_Msrp
 "See price before order confirmation.","Zobacz cenę przed potwierdzeniem zamówienia.",module,Magento_Msrp
-"On Gesture","Na życzenie",module,Magento_Msrp
+"On Gesture","Na gest",module,Magento_Msrp
 "In Cart","W koszyku",module,Magento_Msrp
 "Before Order Confirmation","Przed potwierdzeniem zamówienia",module,Magento_Msrp
 "Use config","Użyj konfiguracji",module,Magento_Msrp
@@ -4222,7 +4222,7 @@ ID,ID,module,Magento_Reports
 "Products in carts","Produkty w koszyku",module,Magento_Reports
 Carts,Koszyki,module,Magento_Reports
 Name,Nazwa,module,Magento_Reports
-"Wish Lists","Listy życzeń",module,Magento_Reports
+"Wish Lists",Ulubione,module,Magento_Reports
 "Wish List Purchase","Zakup z Ulubionych",module,Magento_Reports
 "Wish List vs. Regular Order","Ulubione względem zwykłego zamówienia",module,Magento_Reports
 "Times Deleted","Razy Usuwane",module,Magento_Reports
@@ -4278,9 +4278,9 @@ Error,Błąd,module,Magento_Reports
 "Show By","Pokaż wg",module,Magento_Reports
 "Select Date","Wybierz datę",module,Magento_Reports
 "Customers that have Wish List: %1","Klienci posiadający Ulubione: %1",module,Magento_Reports
-"Number of Wish Lists: %1","Liczba schowków: %1",module,Magento_Reports
+"Number of Wish Lists: %1","Liczba list ulubionych: %1",module,Magento_Reports
 "Number of items bought from a Wish List: %1","Ilość produktów zakupionych z Ulubionych: %1",module,Magento_Reports
-"Number of times Wish Lists have been shared (emailed): %1","Ilość razy kiedy zawartość schowka została wysłana do innych: %1",module,Magento_Reports
+"Number of times Wish Lists have been shared (emailed): %1","Ilość razy kiedy zawartość ulubionych została wysłana do innych: %1",module,Magento_Reports
 "Number of Wish List referrals: %1","Ilość osób poleconych za pośrednictwem Ulubionych: %1",module,Magento_Reports
 "Number of Wish List conversions: %1","Ilość osób poleconych za pośrednictwem Ulubionych: %1",module,Magento_Reports
 "Show Report For:","Pokaż raport dla:",module,Magento_Reports
@@ -6426,7 +6426,7 @@ All,Wszystko,module,Magento_Widget
 Apply,Zastosuj,module,Magento_Widget
 Page,Strona,module,Magento_Widget
 "Wish List",Ulubione,module,Magento_Wishlist
-"Wish List Sharing","Udostępnianie listy życzeń",module,Magento_Wishlist
+"Wish List Sharing","Udostępnianie ulubionych",module,Magento_Wishlist
 "My Wish List","Moje Ulubione",module,Magento_Wishlist
 "%1's Wish List","%1 Ulubionych",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
@@ -12360,7 +12360,7 @@ Customers,Klienci,module,Magento_GiftRegistry
 "Something went wrong while sharing the gift registry.","Coś poszło nie tak podczas dzielenia się rejestrem prezentów.",module,Magento_GiftRegistry
 "You updated the gift registry items.","Zaktualizowałeś produkty rejestru prezentów.",module,Magento_GiftRegistry
 "We couldn't update the gift registry.","Nie można zaktualizować rejestru prezentów.",module,Magento_GiftRegistry
-"The wish list item has been added to this gift registry.","Produkt z listy życzeń został dodany do Ulubionych.",module,Magento_GiftRegistry
+"The wish list item has been added to this gift registry.","Produkt z ulubionych został dodany do rejestru podarunków.",module,Magento_GiftRegistry
 "We couldn’t add your wish list items to your gift registry.","Nie można było dodać produktów z Twojej listy Ulubionych do Twojego rejestru prezentów.",module,Magento_GiftRegistry
 "Please enter correct search options.","Proszę wpisać poprawne opcje wyszukiwania.",module,Magento_GiftRegistry
 "Please enter at least 2 letters of the first name.","Podaj co najmniej 2 litery imienia.",module,Magento_GiftRegistry
@@ -12985,7 +12985,7 @@ Phone,Telefon,module,Magento_MultipleLocationInventory
 Fax,Faks,module,Magento_MultipleLocationInventory
 Wishlist,Ulubione,module,Magento_MultipleWishlist
 "Customer's Wish List Report","Raport z listy Ulubionych klienta",module,Magento_MultipleWishlist
-"My Wish Lists","Moje listy życzeń",module,Magento_MultipleWishlist
+"My Wish Lists","Moje ulubione produkty",module,Magento_MultipleWishlist
 "1 item in wish list","1. produkt w Ulubionych.",module,Magento_MultipleWishlist
 "%1 items in wish list","%1 produktów w Ulubionych",module,Magento_MultipleWishlist
 "Wish List Search","Szukanie w Ulubionych",module,Magento_MultipleWishlist
@@ -13031,7 +13031,7 @@ Customers,Klienci,module,Magento_MultipleWishlist
 "Please enter a valid email address.","Prosimy wpisać poprawny adres e-mail",module,Magento_MultipleWishlist
 "Please enter at least 2 letters of the first name.","Podaj co najmniej 2 litery imienia.",module,Magento_MultipleWishlist
 "Please enter at least 2 letters of the last name.","Podaj co najmniej 2 litery nazwiska.",module,Magento_MultipleWishlist
-"Sign in to edit wish lists.","Zaloguj się, aby edytować listę życzeń.",module,Magento_MultipleWishlist
+"Sign in to edit wish lists.","Zaloguj się, aby edytować ulubione.",module,Magento_MultipleWishlist
 "The wish list is not assigned to your account and can't be edited.","Lista Ulubionych nie jest przypisana do Twojego konta i nie może być edytowana.",module,Magento_MultipleWishlist
 "Provide the wish list name.","Podaj nazwę listy Ulubionych.",module,Magento_MultipleWishlist
 "Wish list ""%1"" already exists.","Ulubione ""%1"" już istnieje.",module,Magento_MultipleWishlist
@@ -13040,7 +13040,7 @@ Customers,Klienci,module,Magento_MultipleWishlist
 "Unknown Magento error","Nieznany błąd Magento",module,Magento_MultipleWishlist
 InvalidArgumentException,InvalidArgumentException,module,Magento_MultipleWishlist
 Refresh,Odśwież,module,Magento_MultipleWishlist
-"All Wish Lists","Wszystkie listy życzeń",module,Magento_MultipleWishlist
+"All Wish Lists","Wszystkie listy ulubionych",module,Magento_MultipleWishlist
 Item,Pozycja,module,Magento_MultipleWishlist
 Qty,Ilość,module,Magento_MultipleWishlist
 Price,Cena,module,Magento_MultipleWishlist
@@ -13087,12 +13087,12 @@ Cancel,Anuluj,module,Magento_MultipleWishlist
 "Please select items to move.","Wybierz elementy do przeniesienia.",module,Magento_MultipleWishlist
 "Please select items to copy.","Wybierz elementy do skopiowania.",module,Magento_MultipleWishlist
 "Are you sure you want to delete your wish list? This action can't be undone.","Czy na pewno chcesz usunąć z Ulubionych? Tej akcji nie można cofnąć.",module,Magento_MultipleWishlist
-"Wish Lists","Listy życzeń",module,Magento_MultipleWishlist
-"Enable Multiple Wish Lists","Włącz wiele list życzeń",module,Magento_MultipleWishlist
-"Number of Multiple Wish Lists","Liczba list życzeń",module,Magento_MultipleWishlist
-"The number of multiple wish lists should be equal to or more than 2.","Liczba listy życzeń powinna być równa lub większa niż 2.",module,Magento_MultipleWishlist
-"My Wish Lists Link","Mój link listy życzeń",module,Magento_MultipleWishlist
-"Display Wish Lists Summary","Wyświetl podsumowanie schowka",module,Magento_MultipleWishlist
+"Wish Lists","Listy ulubionych",module,Magento_MultipleWishlist
+"Enable Multiple Wish Lists","Włącz wiele list ulubionych",module,Magento_MultipleWishlist
+"Number of Multiple Wish Lists","Liczba list ulubionych",module,Magento_MultipleWishlist
+"The number of multiple wish lists should be equal to or more than 2.","Liczba listy ulubionych powinna być równa lub większa niż 2.",module,Magento_MultipleWishlist
+"My Wish Lists Link","Mój link produktów ulubionych ",module,Magento_MultipleWishlist
+"Display Wish Lists Summary","Wyświetl podsumowanie ulubionych",module,Magento_MultipleWishlist
 "Wish List Search Description","Opis wyszukiwania w Ulubionych",module,Magento_MultipleWishlist
 "Quick Search Form Types","Typ formularza szybkiego wyszukiwania",module,Magento_MultipleWishlist
 Template,Szablon,module,Magento_MultipleWishlist
@@ -17263,7 +17263,7 @@ PDF,PDF,module,Magento_Customer
 "Enable ""Product Added To WishList"" Report","Włącz raport ""Produkt dodany do listy Ulubionych""",module,Magento_Reports
 "If enabled, will collect statistic of products added to WishList","Jeśli ta opcja jest włączona, zbierze statystyki produktów dodanych do listy Ulubionych.",module,Magento_Reports
 "Enable ""Share WishList"" Report","Włącz raport ""Udostępnij listę Ulubionych""",module,Magento_Reports
-"If enabled, will collect statistic of shared WishLists","Jeśli ta opcja jest włączona, zbierze statystyki udostępnionych schowków",module,Magento_Reports
+"If enabled, will collect statistic of shared WishLists","Jeśli ta opcja jest włączona, zbierze statystyki udostępnionych list ulubionych",module,Magento_Reports
 "Grid Settings","Ustawienia siatki",module,Magento_Sales
 "Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.",module,Magento_Signifyd
 "Please put your store into maintenance mode and redeploy static files after changing strategy","Przełącz swój sklep w tryb konserwacji i ponownie wdróż pliki statyczne po zmianie strategii",module,Magento_Translation
