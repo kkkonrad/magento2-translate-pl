@@ -76,7 +76,7 @@ Rules,Reguły,module,Dotdigitalgroup_Email
 "The rule has been saved.","Reguła została zapisana.",module,Dotdigitalgroup_Email
 Done.,Gotowe.,module,Dotdigitalgroup_Email
 Wishlists,"Listy życzeń",module,Dotdigitalgroup_Email
-"Wishlist Report","Raport z listy ulubionych",module,Dotdigitalgroup_Email
+"Wishlist Report","Raport z listy Ulubionych",module,Dotdigitalgroup_Email
 "An error occurred while saving your subscription preferences.","Wystąpił błąd podczas zapisywania preferencji subskrypcji.",module,Dotdigitalgroup_Email
 "The subscription preferences has been saved.","Preferencje subskrypcji zostały zapisane.",module,Dotdigitalgroup_Email
 "You are not authorised to view content of this page.","Nie masz uprawnień do przeglądania treści tej strony.",module,Dotdigitalgroup_Email
@@ -935,7 +935,7 @@ SKU,SKU,module,Magento_CatalogWidget
 "Add to Cart","Dodaj do koszyka",module,Magento_CatalogWidget
 "In stock","W magazynie",module,Magento_CatalogWidget
 "Out of stock","Brak na stanie",module,Magento_CatalogWidget
-"Add to Wish List","Dodaj do schowka",module,Magento_CatalogWidget
+"Add to Wish List","Dodaj do Ulubionych",module,Magento_CatalogWidget
 "Add to Compare",Porównaj,module,Magento_CatalogWidget
 Root,Baza,module,Magento_Catalog
 Delete,Usuń,module,Magento_Catalog
@@ -1526,7 +1526,7 @@ Role,Rola,module,Magento_Catalog
 "Add to Cart","Dodaj do koszyka",module,Magento_Catalog
 "In stock","W magazynie",module,Magento_Catalog
 "Out of stock","Brak na stanie",module,Magento_Catalog
-"Add to Wish List","Dodaj do schowka",module,Magento_Catalog
+"Add to Wish List","Dodaj do Ulubionych",module,Magento_Catalog
 "You have no items to compare.","Nie dodałeś żadnych produktów do porównania.",module,Magento_Catalog
 "Remove This Item","Usuń ten element",module,Magento_Catalog
 Compare,Porównaj,module,Magento_Catalog
@@ -2136,7 +2136,7 @@ Locked,Zablokowane,module,Magento_Customer
 "Deleted Stores","Usunięte sklepy",module,Magento_Customer
 "Add Locale","Dodawanie ustawień regionalnych",module,Magento_Customer
 "Add Date","Dodaj datę",module,Magento_Customer
-"Days in Wish List","Dni w liście życzeń",module,Magento_Customer
+"Days in Wish List","Dni w Ulubionych",module,Magento_Customer
 Unlock,Odblokuj,module,Magento_Customer
 No,Nie,module,Magento_Customer
 Yes,Tak,module,Magento_Customer
@@ -2235,8 +2235,8 @@ Customers,Klienci,module,Magento_Customer
 "Customer has been unlocked successfully.","Klient został pomyślnie odblokowany.",module,Magento_Customer
 "Online Customers","Klienci online",module,Magento_Customer
 "Customers Now Online","Klienci Online",module,Magento_Customer
-"Please define Wish List item ID.","Proszę określić identyfikator elementu listy życzeń.",module,Magento_Customer
-"Please load Wish List item.","Proszę załadować elementy listy życzeń.",module,Magento_Customer
+"Please define Wish List item ID.","Proszę określić identyfikator elementu Ulubione",module,Magento_Customer
+"Please load Wish List item.","Proszę załadować elementy Ulubionych.",module,Magento_Customer
 "Login successful.","Logowanie udane.",module,Magento_Customer
 "Invalid login or password.","Nieprawidłowa nazwa użytkownika lub hasło.",module,Magento_Customer
 """%1"" section source is not supported","""%1"" sekcja źródła nie jest obsługiwana",module,Magento_Customer
@@ -4223,8 +4223,8 @@ ID,ID,module,Magento_Reports
 Carts,Koszyki,module,Magento_Reports
 Name,Nazwa,module,Magento_Reports
 "Wish Lists","Listy życzeń",module,Magento_Reports
-"Wish List Purchase","Lista życzeń zakupu",module,Magento_Reports
-"Wish List vs. Regular Order","Lista życzeń względem zwykłego zamówienia",module,Magento_Reports
+"Wish List Purchase","Zakup z Ulubionych",module,Magento_Reports
+"Wish List vs. Regular Order","Ulubione względem zwykłego zamówienia",module,Magento_Reports
 "Times Deleted","Razy Usuwane",module,Magento_Reports
 "Index type is not valid","Typ indeksu nie jest prawidłowa",module,Magento_Reports
 Reports,Raporty,module,Magento_Reports
@@ -4243,8 +4243,8 @@ Reports,Raporty,module,Magento_Reports
 Review,Opinia,module,Magento_Reports
 Reviews,Opinie,module,Magento_Reports
 "Customers Report","Raporty klientów",module,Magento_Reports
-"Customer Reviews Report","Raport Opinii klientów",module,Magento_Reports
-"Product Reviews Report","Raport ocenianych produktów",module,Magento_Reports
+"Customer Reviews Report","Raport Opinii Klientów",module,Magento_Reports
+"Product Reviews Report","Raport Opinii Produktów",module,Magento_Reports
 "Product Reviews","Opinie produktu",module,Magento_Reports
 Details,Szczegóły,module,Magento_Reports
 Sales,Sprzedaż,module,Magento_Reports
@@ -4277,19 +4277,19 @@ Bestsellers,Bestsellery,module,Magento_Reports
 Error,Błąd,module,Magento_Reports
 "Show By","Pokaż wg",module,Magento_Reports
 "Select Date","Wybierz datę",module,Magento_Reports
-"Customers that have Wish List: %1","Klienci posiadający schowek: %1",module,Magento_Reports
+"Customers that have Wish List: %1","Klienci posiadający Ulubione: %1",module,Magento_Reports
 "Number of Wish Lists: %1","Liczba schowków: %1",module,Magento_Reports
-"Number of items bought from a Wish List: %1","Ilość produktów zakupionych ze schowka: %1",module,Magento_Reports
+"Number of items bought from a Wish List: %1","Ilość produktów zakupionych z Ulubionych: %1",module,Magento_Reports
 "Number of times Wish Lists have been shared (emailed): %1","Ilość razy kiedy zawartość schowka została wysłana do innych: %1",module,Magento_Reports
-"Number of Wish List referrals: %1","Ilość osób poleconych za pośrednictwem schowka: %1",module,Magento_Reports
-"Number of Wish List conversions: %1","Ilość osób poleconych za pośrednictwem schowka: %1",module,Magento_Reports
+"Number of Wish List referrals: %1","Ilość osób poleconych za pośrednictwem Ulubionych: %1",module,Magento_Reports
+"Number of Wish List conversions: %1","Ilość osób poleconych za pośrednictwem Ulubionych: %1",module,Magento_Reports
 "Show Report For:","Pokaż raport dla:",module,Magento_Reports
 "All Websites","Wszystkie witryny",module,Magento_Reports
 "Recently Viewed","Ostatnio oglądane",module,Magento_Reports
 "Add to Cart","Dodaj do koszyka",module,Magento_Reports
 "In stock","W magazynie",module,Magento_Reports
 "Out of stock","Brak na stanie",module,Magento_Reports
-"Add to Wish List","Dodaj do schowka",module,Magento_Reports
+"Add to Wish List","Dodaj do Ulubionych",module,Magento_Reports
 "Add to Compare",Porównaj,module,Magento_Reports
 "Recently Compared","Ostatnio porównywane",module,Magento_Reports
 "Learn More","Dowiedz się więcej",module,Magento_Reports
@@ -4357,7 +4357,7 @@ Websites,Witryny,module,Magento_Review
 "Store: %1 <br/>","Sklep: %1<br/>",module,Magento_Review
 "Click <a href=""%1"">here</a> to see the review.","Kliknij <a href=""%1"">tutaj</a>żeby zobaczyć opinię.",module,Magento_Review
 "Product: ""%1"" reviewed by: %2","Produkt: ""%1"" oceniony przez: %2",module,Magento_Review
-"Pending Reviews RSS","RSS oczekujących recenzji",module,Magento_Review
+"Pending Reviews RSS","RSS oczekujących opinii",module,Magento_Review
 "Reviews %1","Opinie %1",module,Magento_Review
 Reviews,Opinie,module,Magento_Review
 "The review has been deleted.","Opinia została usunięta.",module,Magento_Review
@@ -4395,14 +4395,14 @@ Pending,Oczekujący,module,Magento_Review
 Rating,Ocena,module,Magento_Review
 Actions,Operacje,module,Magento_Review
 "See Details","Zobacz szczegóły",module,Magento_Review
-"You have submitted no reviews.","Nie masz jeszcze zgłoszonych żadnych recenzji.",module,Magento_Review
+"You have submitted no reviews.","Nie masz jeszcze zgłoszonych żadnych opinii.",module,Magento_Review
 Back,Cofnij,module,Magento_Review
 "My Recent Reviews","Moje ostatnie opinie",module,Magento_Review
 "View All","Zobacz wszystkie",module,Magento_Review
 "Average Customer Rating:","Średnia ocena klientów:",module,Magento_Review
 "Your Review","Twoja ocena",module,Magento_Review
 "Submitted on %1","Wysłano na %1",module,Magento_Review
-"Back to My Reviews","Wróć do swoich recenzji",module,Magento_Review
+"Back to My Reviews","Wróć do swoich opinii ",module,Magento_Review
 "Ratings Review Summary","Podsumowanie przeglądu oceny",module,Magento_Review
 "Be the first to review this product","Oceń ten produkt jako pierwszy",module,Magento_Review
 "Write Your Own Review","Napisz własną recenzję",module,Magento_Review
@@ -4412,7 +4412,7 @@ Back,Cofnij,module,Magento_Review
 "%1 %2"," %1 %2",module,Magento_Review
 Summary,Podsumowanie,module,Magento_Review
 "Submit Review","Dodaj recenzję",module,Magento_Review
-"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Recenzje. Proszę <a href=""%1"">Zaloguj się</a> lub <a href=""%2"">Załóż konto</a>",module,Magento_Review
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Opinie. Proszę <a href=""%1"">Zaloguj się</a> lub <a href=""%2"">Załóż konto</a>",module,Magento_Review
 "Add Your Review","Dodaj swoją recenzję",module,Magento_Review
 "%1 Review(s)","%1 recenzja(i)",module,Magento_Review
 "Review by","Recenzowany przez",module,Magento_Review
@@ -4421,7 +4421,7 @@ Summary,Podsumowanie,module,Magento_Review
 "Average Customer Rating","Średnia ocena klientów",module,Magento_Review
 "Product Rating:","Ocena produktu:",module,Magento_Review
 "Product Review (submitted on %1):","Recenzja produktu (zgłoszona %1):",module,Magento_Review
-"Back to Product Reviews","Wróć do recenzji produktu",module,Magento_Review
+"Back to Product Reviews","Wróć do opinii produktu",module,Magento_Review
 "Page not found.","Nie znaleziono strony.",module,Magento_Rss
 Feed,Kanał,module,Magento_Rss
 "Miscellaneous Feeds","Różne kanały",module,Magento_Rss
@@ -4644,7 +4644,7 @@ Quantity,Ilość,module,Magento_Sales
 "Recently Viewed Products","Ostatnio oglądane produkty",module,Magento_Sales
 "Last Ordered Items","Ostatnio zamówione przedmioty",module,Magento_Sales
 "Recently Viewed","Ostatnio oglądane",module,Magento_Sales
-"Wish List","Lista życzeń",module,Magento_Sales
+"Wish List",Ulubione,module,Magento_Sales
 "Please select a store","Prosimy wybrać sklep",module,Magento_Sales
 "Order Totals","Sumy zamówienia",module,Magento_Sales
 "Shipping Incl. Tax (%1)","Dostawa z podatkiem (%1)",module,Magento_Sales
@@ -4867,7 +4867,7 @@ Sales,Sprzedaż,module,Magento_Sales
 Home,"Strona główna",module,Magento_Sales
 "Go to Home Page","Przejdź na stronę główną",module,Magento_Sales
 "You entered incorrect data. Please try again.","Wpisałeś nieprawidłowe dane. Proszę spróbować ponownie.",module,Magento_Sales
-"We can't find this wish list.","Nie udało się odnaleźć tej listy życzeń.",module,Magento_Sales
+"We can't find this wish list.","Nie udało się odnaleźć tej listy Ulubionych.",module,Magento_Sales
 "We could not add a product to cart by the ID ""%1"".","Nie można dodać produktu do koszyka przez ID ""%1"".",module,Magento_Sales
 "There is an error in one of the option rows.","W jednym z rzędów opcji jest błąd.",module,Magento_Sales
 "Shipping Address: ","Adres dla dostawy:",module,Magento_Sales
@@ -5111,7 +5111,7 @@ Subtotal:,"Suma częściowa:",module,Magento_Sales
 "Custom Price","Niestandardowa cena",module,Magento_Sales
 "Please select","Proszę wybrać",module,Magento_Sales
 "Move to Shopping Cart","Przenieś do koszyka",module,Magento_Sales
-"Move to Wish List","Przenieś do listy życzeń",module,Magento_Sales
+"Move to Wish List","Przenieś do listy Ulubionych.",module,Magento_Sales
 "Subscribe to Newsletter","Subskrybuj newsletter",module,Magento_Sales
 "Click to change shipping method","Kliknij, aby zmienić metodę wysyłki",module,Magento_Sales
 "Sorry, no quotes are available for this order.","Nie istnieje żaden koszyk przypisany do tego zamówienia.",module,Magento_Sales
@@ -6425,55 +6425,55 @@ All,Wszystko,module,Magento_Widget
 "Open Chooser","Otwórz selektor",module,Magento_Widget
 Apply,Zastosuj,module,Magento_Widget
 Page,Strona,module,Magento_Widget
-"Wish List","Lista życzeń",module,Magento_Wishlist
+"Wish List",Ulubione,module,Magento_Wishlist
 "Wish List Sharing","Udostępnianie listy życzeń",module,Magento_Wishlist
-"My Wish List","Moja lista życzeń",module,Magento_Wishlist
-"%1's Wish List","%1 listy życzeń",module,Magento_Wishlist
+"My Wish List","Moje Ulubione",module,Magento_Wishlist
+"%1's Wish List","%1 Ulubionych",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
 "We can't specify a product.","Nie możemy określić produktu.",module,Magento_Wishlist
-"We can't add the item to Wish List right now: %1.","Aktualnie nie możemy dodać elementu do listy życzeń: %1.",module,Magento_Wishlist
-"We can't add the item to Wish List right now.","Aktualnie nie możemy dodać elementu do listy życzeń.",module,Magento_Wishlist
+"We can't add the item to Wish List right now: %1.","Aktualnie nie możemy dodać elementu do Ulubionych: %1.",module,Magento_Wishlist
+"We can't add the item to Wish List right now.","Aktualnie nie możemy dodać elementu do Ulubionych.",module,Magento_Wishlist
 "You added %1 to your shopping cart.","Dodałeś %1 do koszyka.",module,Magento_Wishlist
 "This product(s) is out of stock.","Ten produkt jest niedostępny na magazynie.",module,Magento_Wishlist
 "We can't add the item to the cart right now.","Nie można teraz dodać produktu do koszyka.",module,Magento_Wishlist
-"We can't load the Wish List item right now.","Nie można teraz wczytać produktu z listy życzeń.",module,Magento_Wishlist
+"We can't load the Wish List item right now.","Nie można teraz wczytać produktu z Ulubionych.",module,Magento_Wishlist
 "We can't configure the product right now.","Nie można teraz skonfigurować produktu.",module,Magento_Wishlist
 "The requested cart item doesn't exist.","Produkt żądany z koszyka nie istnieje.",module,Magento_Wishlist
-"%1 has been moved to your wish list.","%1 został przeniesiony do Twojej listy życzeń.",module,Magento_Wishlist
-"We can't move the item to the wish list.","Nie możemy przenieść elementu do listy życzeń.",module,Magento_Wishlist
-"We can't delete the item from Wish List right now because of an error: %1.","Nie możemy usunąć elementu z listy życzeń. Wystąpił błąd: %1.",module,Magento_Wishlist
-"We can't delete the item from the Wish List right now.","Aktualnie nie możemy usunąć elementu z listy życzeń.",module,Magento_Wishlist
+"%1 has been moved to your wish list.","%1 został przeniesiony do Ulubionych",module,Magento_Wishlist
+"We can't move the item to the wish list.","Nie możemy przenieść elementu do Ulubionych.",module,Magento_Wishlist
+"We can't delete the item from Wish List right now because of an error: %1.","Nie możemy usunąć elementu z Ulubionych. Wystąpił błąd: %1.",module,Magento_Wishlist
+"We can't delete the item from the Wish List right now.","Aktualnie nie możemy usunąć elementu z Ulubionych.",module,Magento_Wishlist
 "Message length must not exceed %1 symbols","Długość komunikatu nie może przekraczać %1 znaków",module,Magento_Wishlist
 "Please enter an email address.","Podaj adres e-mail.",module,Magento_Wishlist
-"This wish list can be shared %1 more times.","Lista może być udostępniona jeszcze %1 razy.",module,Magento_Wishlist
+"This wish list can be shared %1 more times.","Lista Ulubionych może być udostępniona jeszcze %1 razy.",module,Magento_Wishlist
 "Please enter a valid email address.","Prosimy wpisać poprawny adres e-mail",module,Magento_Wishlist
-"Your wish list has been shared.","Schowek został udostępniony.",module,Magento_Wishlist
-"We can't delete item from Wish List right now.","Nie można teraz usunąć produktu z listy życzeń.",module,Magento_Wishlist
+"Your wish list has been shared.","Ulubione zostały udostępnione.",module,Magento_Wishlist
+"We can't delete item from Wish List right now.","Nie można teraz usunąć produktu z Ulubionych.",module,Magento_Wishlist
 "Can't save description %1","Nie można zapisać opisu %1",module,Magento_Wishlist
-"Can't update wish list","Nie można zaktualizować listy życzeń",module,Magento_Wishlist
-"%1 has been updated in your Wish List.","%1 został zaktualizowany na liście życzeń.",module,Magento_Wishlist
-"We can't update your Wish List right now.","Nie można teraz zaktualizować listy życzeń.",module,Magento_Wishlist
-"The requested Wish List doesn't exist.","Żądana lista życzeń nie istnieje.",module,Magento_Wishlist
-"We can't create the Wish List right now.","Nie możemy teraz stworzyć listy życzeń.",module,Magento_Wishlist
+"Can't update wish list","Nie można zaktualizować listy Ulubionych",module,Magento_Wishlist
+"%1 has been updated in your Wish List.","%1 został zaktualizowany w Ulubionych.",module,Magento_Wishlist
+"We can't update your Wish List right now.","Nie można teraz zaktualizować listy Ulubionych",module,Magento_Wishlist
+"The requested Wish List doesn't exist.","Żądana lista Ulubionych nie istnieje.",module,Magento_Wishlist
+"We can't create the Wish List right now.","Nie możemy teraz stworzyć listy Ulubionych.",module,Magento_Wishlist
 "%1 items","%1 elementów",module,Magento_Wishlist
 "1 item","1 element",module,Magento_Wishlist
 Comment,Komentarz,module,Magento_Wishlist
-"Display number of items in wish list","Wyświetl liczbę elementów na liście życzeń",module,Magento_Wishlist
+"Display number of items in wish list","Wyświetl liczbę elementów na liście Ulubionych.",module,Magento_Wishlist
 "Display item quantities","Wyświetlaj ilości produktów",module,Magento_Wishlist
 "An item option with code %1 already exists.","Opcja produktu z kodem %1 już istnieje.",module,Magento_Wishlist
-"We can't specify a wish list.","Nie możemy dokładnie określić listy życzeń.",module,Magento_Wishlist
+"We can't specify a wish list.","Nie możemy dokładnie określić listy Ulubionych.",module,Magento_Wishlist
 "Cannot specify product.","Nie można ustalić produktu.",module,Magento_Wishlist
 "Product is not salable.","Produkt nie jest chodliwy.",module,Magento_Wishlist
 "Invalid item option format.","Nieprawidłowy format opcji elementu.",module,Magento_Wishlist
 "%1 for ""%2"".","%1 na ""%2"".",module,Magento_Wishlist
 "We can't add this item to your shopping cart right now.","Teraz nie ma możliwości dodania tego produktu do Twojego koszyka.",module,Magento_Wishlist
 "We couldn't add the following product(s) to the shopping cart: %1.","Nie udało się dodać następującego produktu (następujących produktów) do koszyka: %1.",module,Magento_Wishlist
-"We can't update the Wish List right now.","Nie możemy teraz stworzyć listy życzeń.",module,Magento_Wishlist
+"We can't update the Wish List right now.","Nie możemy teraz stworzyć listy Ulubionych.",module,Magento_Wishlist
 "%1 product(s) have been added to shopping cart: %2.","%1 produkt(y) został dodany do koszyka: %2.",module,Magento_Wishlist
 Comment:,Komentarz:,module,Magento_Wishlist
-"We cannot retrieve the Wish List.","Nie możemy pobrać listy życzeń.",module,Magento_Wishlist
+"We cannot retrieve the Wish List.","Nie możemy pobrać listy z Ulubionych.",module,Magento_Wishlist
 "%1's Wishlist","Ulubione %1",module,Magento_Wishlist
-"We can't specify a wish list item.","Nie możemy dokładnie określić elementów listy życzeń.",module,Magento_Wishlist
+"We can't specify a wish list item.","Nie możemy dokładnie określić elementów Ulubionych.",module,Magento_Wishlist
 "The product does not exist.","Produkt nie istnieje.",module,Magento_Wishlist
 "Test Phrase","Fraza testowa",module,Magento_Wishlist
 message,wiadomość,module,Magento_Wishlist
@@ -6483,11 +6483,11 @@ LocalizedException,LocalizedException,module,Magento_Wishlist
 "Product Exception.","Błąd produktu.",module,Magento_Wishlist
 "Localized Exception.","Zlokalizowanie wyjątku.",module,Magento_Wishlist
 "Are you sure you want to remove this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_Wishlist
-"Share Wish List","Podziel się listą życzeń",module,Magento_Wishlist
+"Share Wish List","Podziel się listą Ulubionych.",module,Magento_Wishlist
 "Add All to Cart","Dodaj wszystko do koszyka",module,Magento_Wishlist
-"Update Wish List","Aktualizacja listy życzeń",module,Magento_Wishlist
-"Move to Wishlist","Przenieś do listy ulubionych",module,Magento_Wishlist
-"Add to Wish List","Dodaj do schowka",module,Magento_Wishlist
+"Update Wish List","Aktualizuj Ulubione",module,Magento_Wishlist
+"Move to Wishlist","Przenieś do listy Ulubionych",module,Magento_Wishlist
+"Add to Wish List","Dodaj do Ulubionych",module,Magento_Wishlist
 "View Product","Zobacz produkt",module,Magento_Wishlist
 Qty,Ilość,module,Magento_Wishlist
 "Add to Cart","Dodaj do koszyka",module,Magento_Wishlist
@@ -6498,24 +6498,24 @@ Edit,Edytuj,module,Magento_Wishlist
 "Remove Item","Usuń produkt",module,Magento_Wishlist
 "Remove item","Usuń produkt",module,Magento_Wishlist
 "Add to Compare",Porównaj,module,Magento_Wishlist
-"This Wish List has no Items","Ta lista życzeń nie zawiera żadnych produktów",module,Magento_Wishlist
-"%1 has been added to your Wish List.","Produkt %1 został dodany do listy życzeń.",module,Magento_Wishlist
+"This Wish List has no Items","Ta lista Ulubionych nie zawiera żadnych produktów",module,Magento_Wishlist
+"%1 has been added to your Wish List.","Produkt %1 został dodany do Ulubionych.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Wishlist
 "See Details","Zobacz szczegóły",module,Magento_Wishlist
 "Options Details","Szczegóły opcji",module,Magento_Wishlist
-"RSS link to %1's wishlist","Link RSS do ulubionych %1",module,Magento_Wishlist
+"RSS link to %1's wishlist","Link RSS do Ulubionych %1",module,Magento_Wishlist
 "RSS Feed","Kanał RSS",module,Magento_Wishlist
 Product,Produkt,module,Magento_Wishlist
 Back,Cofnij,module,Magento_Wishlist
-"Wish List is empty now.","Lista życzeń jest pusta.",module,Magento_Wishlist
+"Wish List is empty now.","Ulubione jest pusta.",module,Magento_Wishlist
 "* Required Fields","* pola wymagane",module,Magento_Wishlist
 "Sharing Information","Współdzielone informacja",module,Magento_Wishlist
 "Email addresses, separated by commas","Adresy e-mail rozdzielane przecinkami",module,Magento_Wishlist
-"Check here to link an RSS feed to your Wish List.","Sprawdź tutaj żeby podlinkować RSS do swojej listy życzeń.",module,Magento_Wishlist
+"Check here to link an RSS feed to your Wish List.","Sprawdź tutaj żeby podlinkować RSS do swojej listy Ulubionych.",module,Magento_Wishlist
 "Last Added Items","Ostatnio dodane produkty",module,Magento_Wishlist
 "Remove This Item","Usuń ten element",module,Magento_Wishlist
-"Go to Wish List","Przejdź do listy życzeń",module,Magento_Wishlist
-"You have no items in your wish list.","Nie masz żadnych produktów na liście życzeń.",module,Magento_Wishlist
+"Go to Wish List","Przejdź do listy Ulubionych.",module,Magento_Wishlist
+"You have no items in your wish list.","Nie masz żadnych produktów w Ulubionych.",module,Magento_Wishlist
 "Now Shopping by","Kupuj przez",theme,frontend/Magento/luma
 Previous,Poprzedni,theme,frontend/Magento/luma
 Remove,Usuń,theme,frontend/Magento/luma
@@ -6915,10 +6915,10 @@ Filters,Filtry,module,Magento_Ui
 "If you have not authorized this action, please contact us immediately at %store_email","Jeśli nie autoryzowałeś tej akcji, prosimy o natychmiastowy kontakt na adres %store_email",module,Magento_User
 "or call us at %store_phone","lub zadzwoń do nas na %store_phone",module,Magento_User
 "Thanks,","Dziękujemy,",module,Magento_User
-"Take a look at %customer_name's Wish List","Spójrz na listę życzeń użytkownika %customer_name",module,Magento_Wishlist
-"%customer_name wants to share this Wish List from %store_name with you:","%customer_name chce się z tobą podzielić tą listą życzeń z %store_name:",module,Magento_Wishlist
+"Take a look at %customer_name's Wish List","Spójrz na Ulubione użytkownika %customer_name",module,Magento_Wishlist
+"%customer_name wants to share this Wish List from %store_name with you:","%customer_name chce się z tobą podzielić z Ulubionymi  z %store_name:",module,Magento_Wishlist
 "Message from %customer_name:","Wiadomość od %customer_name:",module,Magento_Wishlist
-"View all Wish List items","Zobacz wszystkie elementy listy życzeń",module,Magento_Wishlist
+"View all Wish List items","Zobacz wszystkie elementy Ulubionych.",module,Magento_Wishlist
 "Welcome to %store_name","Witamy w %store_name",theme,frontend/Magento/luma
 "%name,","%name,",theme,frontend/Magento/luma
 "Welcome to %store_name.","Witamy w %store_name.",theme,frontend/Magento/luma
@@ -7435,24 +7435,24 @@ Guests,Goście,module,Dotdigitalgroup_Email
 "Customer Order","Zamówienie klienta",module,Dotdigitalgroup_Email
 "Guest Order","Zamówienie gościa",module,Dotdigitalgroup_Email
 "Approved Review","Zatwierdzony przegląd",module,Dotdigitalgroup_Email
-"New Wishlist","Nowa lista ulubionych",module,Dotdigitalgroup_Email
+"New Wishlist","Nowa lista Ulubionych",module,Dotdigitalgroup_Email
 "Order Status Automation Enrolment","Zapis automatyzacji statusu zamówienia",module,Dotdigitalgroup_Email
 Customer,Klient,module,Dotdigitalgroup_Email
 "Review Settings","Ustawienia recenzji",module,Dotdigitalgroup_Email
 "The system will send the reminder after the above mentioned amount of days upon order status selected above.","System wyśle ​​przypomnienie po upływie wyżej wymienionej liczby dni od statusu zamówienia wybranego powyżej.",module,Dotdigitalgroup_Email
 "Delay Period (Days)","Okres opóźnienia (dni)",module,Dotdigitalgroup_Email
 "Campaign to send","Kampania do wysłania",module,Dotdigitalgroup_Email
-"Please provide the anchor used on product pages for reviews e.g. #reviews","Podaj kotwicę używaną na stronach produktu do recenzji, np. #reviews",module,Dotdigitalgroup_Email
-"Reviews Anchor","Kotwica recenzji",module,Dotdigitalgroup_Email
+"Please provide the anchor used on product pages for reviews e.g. #reviews","Podaj kotwicę używaną na stronach produktu do opinii, np. #opinie",module,Dotdigitalgroup_Email
+"Reviews Anchor","Kotwica opinii",module,Dotdigitalgroup_Email
 "Feefo Feedback Engine","Feefo Feedback Engine",module,Dotdigitalgroup_Email
 "Feefo Logon","Logowanie Feefo",module,Dotdigitalgroup_Email
 "Number of reviews to display per product.","Liczba recenzji do wyświetlenia produktu.",module,Dotdigitalgroup_Email
-"Reviews Per Product","Recenzje na produkt",module,Dotdigitalgroup_Email
+"Reviews Per Product","Opinie na produkt",module,Dotdigitalgroup_Email
 "Enter name of logo template.","Wpisz nazwę szablonu logo.",module,Dotdigitalgroup_Email
 "Logo Template (Optional)","Szablon logo (opcjonalnie)",module,Dotdigitalgroup_Email
 "Service Score URL","Adres URL wyniku usługi",module,Dotdigitalgroup_Email
 "Enter Feefo logon above before using this URL.","Wprowadź powyższe logowanie Feefo przed użyciem tego adresu URL.",module,Dotdigitalgroup_Email
-"Product Reviews URL","URL recenzji produktu",module,Dotdigitalgroup_Email
+"Product Reviews URL","URL Opinii Produktu",module,Dotdigitalgroup_Email
 "Dynamic Content","Treść dynamiczna",module,Dotdigitalgroup_Email
 "External Dynamic Url","Zewnętrzny dynamiczny adres URL",module,Dotdigitalgroup_Email
 "Secure code for dynamic URLs","Bezpieczny kod dla dynamicznych adresów URL",module,Dotdigitalgroup_Email
@@ -7474,10 +7474,10 @@ Passcode,"Kod dostępu",module,Dotdigitalgroup_Email
 "Product Push URL","Push URL produktu",module,Dotdigitalgroup_Email
 "Recently Viewed","Ostatnio oglądane",module,Dotdigitalgroup_Email
 Wishlist,Ulubione,module,Dotdigitalgroup_Email
-"Wishlist Content","Zawartość listy ulubionych",module,Dotdigitalgroup_Email
-"Wishlist Related URL","Adres URL ulubionych dla produktów powiązanych",module,Dotdigitalgroup_Email
-"Wishlist Upsell Products URL","Adres URL ulubionych dla produktów alternatywnych",module,Dotdigitalgroup_Email
-"Wishlist Crosssell Products URL","Adres URL ulubionych dla produktów krzyżowych",module,Dotdigitalgroup_Email
+"Wishlist Content","Zawartość listy Ulubionych",module,Dotdigitalgroup_Email
+"Wishlist Related URL","Adres URL Ulubionych dla produktów powiązanych",module,Dotdigitalgroup_Email
+"Wishlist Upsell Products URL","Adres URL Ulubionych dla produktów alternatywnych",module,Dotdigitalgroup_Email
+"Wishlist Crosssell Products URL","Adres URL Ulubionych dla produktów krzyżowych",module,Dotdigitalgroup_Email
 "Dynamic Products","Produkty dynamiczne",module,Dotdigitalgroup_Email
 "Display Type","Typ wyświetlania",module,Dotdigitalgroup_Email
 "Related Products","Produkty powiązane",module,Dotdigitalgroup_Email
@@ -7571,7 +7571,7 @@ Developer,Programista,module,Dotdigitalgroup_Email
 "Contact Sync","Synchronizacja kontaktów",module,Dotdigitalgroup_Email
 "Subscriber Sync","Synchronizacja subskrybenta",module,Dotdigitalgroup_Email
 "Order Sync","Synchronizacja zamówienia",module,Dotdigitalgroup_Email
-"Wishlist Sync","Synchronizacja listy życzeń",module,Dotdigitalgroup_Email
+"Wishlist Sync","Synchronizacja listy Ulubionych",module,Dotdigitalgroup_Email
 "Review Sync","Przejrzyj synchronizację",module,Dotdigitalgroup_Email
 "Catalog Sync","Synchronizacja katalogu",module,Dotdigitalgroup_Email
 "Importer Sync","Synchronizacja importera",module,Dotdigitalgroup_Email
@@ -7581,7 +7581,7 @@ Developer,Programista,module,Dotdigitalgroup_Email
 "Date Range","Zakres dat",module,Dotdigitalgroup_Email
 "Reset Order Data","Zresetuj dane zamówienia",module,Dotdigitalgroup_Email
 "Reset Review Data","Zresetuj dane przeglądu",module,Dotdigitalgroup_Email
-"Reset Wishlist Data","Zresetuj dane listy ulubionych",module,Dotdigitalgroup_Email
+"Reset Wishlist Data","Zresetuj dane listy Ulubionych ",module,Dotdigitalgroup_Email
 "Reset Catalog Data","Zresetuj dane katalogu",module,Dotdigitalgroup_Email
 "Debug Mode","Tryb debugowania",module,Dotdigitalgroup_Email
 "Set the number in seconds that api calls greater will be logged.","XXX Set the number in seconds that api calls greater will be logged.",module,Dotdigitalgroup_Email
@@ -7597,7 +7597,7 @@ Connection,Połączenie,module,Dotdigitalgroup_Email
 "Manage Cron Timings","Zarządzaj czasami Cron",module,Dotdigitalgroup_Email
 Contact,Kontakt,module,Dotdigitalgroup_Email
 Order,Zamówienie,module,Dotdigitalgroup_Email
-"Review And Wishlist","Recenzja i schowek",module,Dotdigitalgroup_Email
+"Review And Wishlist","Recenzja i Ulubione",module,Dotdigitalgroup_Email
 "All Websites","Wszystkie witryny",module,Dotdigitalgroup_Email
 Delete,Usuń,module,Dotdigitalgroup_Email
 "Delete items","Usuń pozycje",module,Dotdigitalgroup_Email
@@ -7646,9 +7646,9 @@ Messages,Wiadomości,module,Dotdigitalgroup_Email
 "Review Imported","Recenzja zaimportowana",module,Dotdigitalgroup_Email
 "Add New Rule","Dodaj nową regułę",module,Dotdigitalgroup_Email
 Id,ID,module,Dotdigitalgroup_Email
-"Wishlist Id","Identyfikator ulubionych",module,Dotdigitalgroup_Email
+"Wishlist Id","Identyfikator Ulubionych",module,Dotdigitalgroup_Email
 Items,Pozycje,module,Dotdigitalgroup_Email
-"Wishlist Imported","Lista ulubionych została zaimportowana",module,Dotdigitalgroup_Email
+"Wishlist Imported","Lista Ulubionych została zaimportowana",module,Dotdigitalgroup_Email
 "Show Toolbar","Pokaż pasek narzędzi",module,Magento_AdminNotification
 "Show List","Pokaż listę",module,Magento_AdminNotification
 "Use HTTPS to Get Feed","Używaj HTTPS do pobierania kanałów",module,Magento_AdminNotification
@@ -8157,7 +8157,7 @@ Template,Szablon,module,Magento_Catalog
 Image,Obraz,module,Magento_Catalog
 "Learn More Link","Link Dowiedz Się Więcej ",module,Magento_Catalog
 "Buttons to show","Przycisk do wyświetlenia",module,Magento_Catalog
-"Add to Wishlist","Dodaj do ulubionych",module,Magento_Catalog
+"Add to Wishlist","Dodaj do Ulubionych",module,Magento_Catalog
 "Viewed Products Grid Template","Szablon siatki oglądanych produktów",module,Magento_Catalog
 "Viewed Products List Template","Szablon listy oglądanych produktów",module,Magento_Catalog
 "Viewed Products Sidebar Template","Oglądane szablony pasków bocznych",module,Magento_Catalog
@@ -9214,7 +9214,7 @@ Description,Opis,module,Magento_Reports
 undefined,niezdefiniowany,module,Magento_Reports
 "By Customers",Klienci,module,Magento_Review
 "By Products",Produkty,module,Magento_Review
-"Allow Guests to Write Reviews","Pozwól gościom na pisanie recenzji",module,Magento_Review
+"Allow Guests to Write Reviews","Pozwól gościom na pisanie opinii",module,Magento_Review
 Active,Aktywny,module,Magento_Review
 Inactive,Nieaktywny,module,Magento_Review
 "RSS Feeds Section","Dział kanałów RSS",module,Magento_Rss
@@ -9755,7 +9755,7 @@ Product,Produkt,module,Magento_Widget
 "Select Product...","Wybierz produkt...",module,Magento_Widget
 Conditions,Warunki,module,Magento_Widget
 "Widget ID","ID widgetu",module,Magento_Widget
-"Wish List Section","Sekcja listy życzeń",module,Magento_Wishlist
+"Wish List Section","Sekcja Ulubionych.",module,Magento_Wishlist
 "Share Options","Opcje współdzielenia",module,Magento_Wishlist
 "Email Sender",Nadawca,module,Magento_Wishlist
 "Email Template","Szablon e-mail",module,Magento_Wishlist
@@ -9764,8 +9764,8 @@ Conditions,Warunki,module,Magento_Widget
 "Email Text Length Limit","Ograniczenie długości tekstu wiadomości e-mail",module,Magento_Wishlist
 "General Options","Opcje ogólne",module,Magento_Wishlist
 Enabled,Włączone,module,Magento_Wishlist
-"My Wish List Link","Mój link listy życzeń",module,Magento_Wishlist
-"Display Wish List Summary","Wyświetl podsumowanie schowka",module,Magento_Wishlist
+"My Wish List Link","Mój link Ulubionych",module,Magento_Wishlist
+"Display Wish List Summary","Wyświetl podsumowanie Ulubionych.",module,Magento_Wishlist
 "Enable RSS","Włącz RSS",module,Magento_Wishlist
 "No Items Found","Nie znaleziono produktów",module,Magento_Wishlist
 "Product Name","Nazwa produktu",module,Magento_Wishlist
@@ -9773,12 +9773,12 @@ Enabled,Włączone,module,Magento_Wishlist
 Quantity,Ilość,module,Magento_Wishlist
 "Add Locale","Dodawanie ustawień regionalnych",module,Magento_Wishlist
 "Add Date","Dodaj datę",module,Magento_Wishlist
-"Days in Wish List","Dni w liście życzeń",module,Magento_Wishlist
+"Days in Wish List","Dni w Ulubionych",module,Magento_Wishlist
 Action,Operacja,module,Magento_Wishlist
 Configure,Konfiguruj,module,Magento_Wishlist
 Delete,Usuń,module,Magento_Wishlist
 "Product Details and Comment","Szczegóły i komentarze produktu",module,Magento_Wishlist
-"Add To Wishlist","Dodaj do ulubionych",module,Magento_Wishlist
+"Add To Wishlist","Dodaj do Ulubionych",module,Magento_Wishlist
 "Account Dashboard",Panel,theme,frontend/Magento/luma
 "Address Book","Książka adresowa",theme,frontend/Magento/luma
 "Account Information","Dane konta",theme,frontend/Magento/luma
@@ -9893,7 +9893,7 @@ SKU,SKU,module,Magento_AdvancedCheckout
 "Recently Viewed Products (%1)","Ostatnio oglądane (%1)",module,Magento_AdvancedCheckout
 "Add to Shopping Cart by SKU","Dodaj do koszyka po SKU",module,Magento_AdvancedCheckout
 "Add to Shopping Cart","Dodaj do koszyka",module,Magento_AdvancedCheckout
-"Wish List (%1)","Lista życzeń (%1)",module,Magento_AdvancedCheckout
+"Wish List (%1)","Ulubione (%1)",module,Magento_AdvancedCheckout
 Apply,Zastosuj,module,Magento_AdvancedCheckout
 Configure,Konfiguruj,module,Magento_AdvancedCheckout
 "Add to Order by SKU","Dodaj do zamówienia po SKU",module,Magento_AdvancedCheckout
@@ -9917,8 +9917,8 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "The ordered item needs to be loaded. Load the item and try again.","Zamówiony produkt musi być wprowadzony. Wprowadź produkt i spróbuj ponownie.",module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","Identyfikator przedmiotu oferty musi zostać odebrany. Ustaw identyfikator i spróbuj ponownie.",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","Zamówiony produkt musi zostać wczytany. Wprowadź produkt i spróbuj ponownie.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","Identyfikator elementu na liście życzeń musi być nadany. Ustaw identyfikator i spróbuj ponownie.",module,Magento_AdvancedCheckout
-"The wish list item needs to be loaded. Load the item and try again.","Element na liście życzeń musi być załadowany. Załaduj identyfikator i spróbuj ponownie.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","Identyfikator elementu w Ulubionych  musi być nadany. Ustaw identyfikator i spróbuj ponownie.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","Element w Ulubionych musi być załadowany. Załaduj identyfikator i spróbuj ponownie.",module,Magento_AdvancedCheckout
 "An error has occurred. See error log for details.","Wystąpił błąd. Sprawdź dziennik błędów, by uzyskać szczegółowe informacje.",module,Magento_AdvancedCheckout
 "You cannot configure a product.","Nie możesz skonfigurować produktu.",module,Magento_AdvancedCheckout
 "You removed the items.","Usunięto elementy.",module,Magento_AdvancedCheckout
@@ -9941,7 +9941,7 @@ Customers,Klienci,module,Magento_AdvancedCheckout
 "You have not entered a product SKU.","Nie podałeś SKU produktu.",module,Magento_AdvancedCheckout
 "We can't add a product to cart by id ""%1"".","Nie udało się dodać do koszyka produktu o ID „%1”.",module,Magento_AdvancedCheckout
 "Something went wrong while reordering this product.","Wystąpił problem podczas zmiany kolejności tego produktu.",module,Magento_AdvancedCheckout
-"We can't find this wish list.","Nie udało się odnaleźć tej listy życzeń.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","Nie udało się odnaleźć tej listy Ulubionych.",module,Magento_AdvancedCheckout
 "You added %1 product to your shopping cart.","Produkty dodane do koszyka: %1.",module,Magento_AdvancedCheckout
 "You added %1 products to your shopping cart.","Produkty dodane do koszyka: %1.",module,Magento_AdvancedCheckout
 "%1 product requires your attention.","Produkty wymagające sprawdzenia: %1.",module,Magento_AdvancedCheckout
@@ -9966,7 +9966,7 @@ Action,Operacja,module,Magento_AdvancedCheckout
 "Total %1 product(s)","Produkty: %1",module,Magento_AdvancedCheckout
 Subtotal:,"Suma częściowa:",module,Magento_AdvancedCheckout
 "Please select","Proszę wybrać",module,Magento_AdvancedCheckout
-"Move to Wish List","Przenieś do listy życzeń",module,Magento_AdvancedCheckout
+"Move to Wish List","Przenieś do listy Ulubionych.",module,Magento_AdvancedCheckout
 "No item specified.","Nie wybrano produktu.",module,Magento_AdvancedCheckout
 "Are you sure you want to remove this item?","Czy na pewno chcesz usunąć tę pozycję?",module,Magento_AdvancedCheckout
 "SKU number",SKU,module,Magento_AdvancedCheckout
@@ -11752,7 +11752,7 @@ was,było,module,Magento_CustomerSegment
 "was not","nie było",module,Magento_CustomerSegment
 "If Product %1 %2 and matches %3 of these Conditions:","Jeśli produkt %1 %2 i spełnia %3 z warunków:",module,Magento_CustomerSegment
 "Shopping Cart",Koszyk,module,Magento_CustomerSegment
-"Wish List","Lista życzeń",module,Magento_CustomerSegment
+"Wish List",Ulubione,module,Magento_CustomerSegment
 found,znaleziono,module,Magento_CustomerSegment
 "not found","nie znaleziono",module,Magento_CustomerSegment
 "If Product is %1 in the %2 with %3 of these Conditions match:","Jeśli produkt jest %1 w %2 z %3 z warunków:",module,Magento_CustomerSegment
@@ -12360,8 +12360,8 @@ Customers,Klienci,module,Magento_GiftRegistry
 "Something went wrong while sharing the gift registry.","Coś poszło nie tak podczas dzielenia się rejestrem prezentów.",module,Magento_GiftRegistry
 "You updated the gift registry items.","Zaktualizowałeś produkty rejestru prezentów.",module,Magento_GiftRegistry
 "We couldn't update the gift registry.","Nie można zaktualizować rejestru prezentów.",module,Magento_GiftRegistry
-"The wish list item has been added to this gift registry.","Produkt z listy życzeń został dodany to rejestru prezentów.",module,Magento_GiftRegistry
-"We couldn’t add your wish list items to your gift registry.","Nie można było dodać produktów z Twojej listy życzeń do twojego rejestru prezentów.",module,Magento_GiftRegistry
+"The wish list item has been added to this gift registry.","Produkt z listy życzeń został dodany do Ulubionych.",module,Magento_GiftRegistry
+"We couldn’t add your wish list items to your gift registry.","Nie można było dodać produktów z Twojej listy Ulubionych do Twojego rejestru prezentów.",module,Magento_GiftRegistry
 "Please enter correct search options.","Proszę wpisać poprawne opcje wyszukiwania.",module,Magento_GiftRegistry
 "Please enter at least 2 letters of the first name.","Podaj co najmniej 2 litery imienia.",module,Magento_GiftRegistry
 "Please enter at least 2 letters of the last name.","Podaj co najmniej 2 litery nazwiska.",module,Magento_GiftRegistry
@@ -12497,8 +12497,8 @@ View,Zobacz,module,Magento_GiftRegistry
 "You have successfully created the new gift registry ""%registry_name"".","Pomyślnie utworzono nowy rejestr prezentów ""%registry_name"".",module,Magento_GiftRegistry
 "Your Gift Registry Message","Twoje wiadomości rejestru prezentów.",module,Magento_GiftRegistry
 "Now you can add products to your gift registry.","Teraz można dodać produkty do swojej listy prezentowej.",module,Magento_GiftRegistry
-"Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Po prostu przejdź do <a href=""%store_url"">%store_name</a> i dodaj produkty, które chcesz w twoim koszyku lub liście życzeń.",module,Magento_GiftRegistry
-"You can then add the products to your registry from your shopping cart or wish list page.","Możesz potem dodać produkty do listy prezentowej z koszyka lub schowka.",module,Magento_GiftRegistry
+"Simply browse to <a href=""%store_url"">%store_name</a> and add the products you want to your shopping cart or wish list.","Po prostu przejdź do <a href=""%store_url"">%store_name</a> i dodaj produkty, które chcesz w twoim koszyku lub Ulubionych.",module,Magento_GiftRegistry
+"You can then add the products to your registry from your shopping cart or wish list page.","Możesz potem dodać produkty do listy prezentowej z koszyka lub Ulubionych.",module,Magento_GiftRegistry
 "You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.","Można także udostępnić go znajomym i rodzinie logując się na swoje konto i przechodząc do rejestru prezentów.",module,Magento_GiftRegistry
 "Or you can email the following link and gift registry ID to them:","Albo możesz napisać na poniższy link i rejestru upominków identyfikatora do nich:",module,Magento_GiftRegistry
 "Registry Location:","Lokalizacji rejestru:",module,Magento_GiftRegistry
@@ -12984,35 +12984,35 @@ Status,Stan,module,Magento_MultipleLocationInventory
 Phone,Telefon,module,Magento_MultipleLocationInventory
 Fax,Faks,module,Magento_MultipleLocationInventory
 Wishlist,Ulubione,module,Magento_MultipleWishlist
-"Customer's Wish List Report","Raport listy życzeń klienta",module,Magento_MultipleWishlist
+"Customer's Wish List Report","Raport z listy Ulubionych klienta",module,Magento_MultipleWishlist
 "My Wish Lists","Moje listy życzeń",module,Magento_MultipleWishlist
-"1 item in wish list","1. produkt na liście życzeń",module,Magento_MultipleWishlist
-"%1 items in wish list","%1 produktów na liście życzeń",module,Magento_MultipleWishlist
-"Wish List Search","Szukaj listy życzeń",module,Magento_MultipleWishlist
+"1 item in wish list","1. produkt w Ulubionych.",module,Magento_MultipleWishlist
+"%1 items in wish list","%1 produktów w Ulubionych",module,Magento_MultipleWishlist
+"Wish List Search","Szukanie w Ulubionych",module,Magento_MultipleWishlist
 "Select Search Type","Wybierz typ wyszukiwania",module,Magento_MultipleWishlist
 Reports,Raporty,module,Magento_MultipleWishlist
 Customers,Klienci,module,Magento_MultipleWishlist
-"Customer Wish List Report","Raport listy życzeń klienta",module,Magento_MultipleWishlist
-"Wish list ""%1"" was saved.","Lista życzeń ""%1"" została zapisana.",module,Magento_MultipleWishlist
-"We can't create the wish list right now.","Nie możemy teraz stworzyć listy życzeń.",module,Magento_MultipleWishlist
+"Customer Wish List Report","Raport Ulubionych klienta",module,Magento_MultipleWishlist
+"Wish list ""%1"" was saved.","Ulubione ""%1"" została zapisana.",module,Magento_MultipleWishlist
+"We can't create the wish list right now.","Nie możemy teraz stworzyć Ulubionych.",module,Magento_MultipleWishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_MultipleWishlist
 """%1"" was copied to %2.","""%1"" został skopiowany do %2.",module,Magento_MultipleWishlist
 "We can't find the item.","Nie możemy znaleźć produktu.",module,Magento_MultipleWishlist
 """%1"" is already present in %2.","""%1"" jest już obecny w %2.",module,Magento_MultipleWishlist
 "We can't copy ""%1"".","Nie można skopiować ""%1"".",module,Magento_MultipleWishlist
-"We can't copy the wish list item.","Nie można skopiować elementu listy życzeń.",module,Magento_MultipleWishlist
+"We can't copy the wish list item.","Nie można skopiować elementu Ulubionych.",module,Magento_MultipleWishlist
 "We can't find %1 items.","Nie można znaleźć produktów %1.",module,Magento_MultipleWishlist
 "We can't copy %1 items.","Nie można skopiować produktów %1.",module,Magento_MultipleWishlist
 "%1 items are already present in %2: %3.","%1 produkty są już obecne w %2: %3.",module,Magento_MultipleWishlist
 "%1 items were copied to %2: %3.","%1 produkty zostały skopiowane do %2: %3.",module,Magento_MultipleWishlist
-"The default wish list can't be deleted.","Domyślnego schowka nie można usunąć.",module,Magento_MultipleWishlist
-"Wish List ""%1"" has been deleted.","Usunięto schowek ""%1"".",module,Magento_MultipleWishlist
-"We can't delete the wish list right now.","Nie możesz teraz usunąć listy życzeń.",module,Magento_MultipleWishlist
-"Could not create a wish list.","Nie można utworzyć listy życzeń.",module,Magento_MultipleWishlist
+"The default wish list can't be deleted.","Domyślne Ulubione nie można usunąć.",module,Magento_MultipleWishlist
+"Wish List ""%1"" has been deleted.","Usunięto Ulubione ""%1"".",module,Magento_MultipleWishlist
+"We can't delete the wish list right now.","Nie możesz teraz usunąć listy Ulubionych.",module,Magento_MultipleWishlist
+"Could not create a wish list.","Nie można utworzyć listy Ulubione",module,Magento_MultipleWishlist
 """%1"" was moved to %2.","""%1"" zostało przeniesione do %2.",module,Magento_MultipleWishlist
 "We can't find an item with this ID.","Nie możemy znaleźć produktu z tym identyfikatorem.",module,Magento_MultipleWishlist
 "We cannot move ""%1"".","Nie można skopiować ""%1"".",module,Magento_MultipleWishlist
-"We can't move the wish list item.","Nie można przenieść produktu listy życzeń.",module,Magento_MultipleWishlist
+"We can't move the wish list item.","Nie można przenieść produktu z Ulubionych",module,Magento_MultipleWishlist
 "%1 items cannot be moved: %2.","Produkty %1 nie mogą być przeniesione: %2.",module,Magento_MultipleWishlist
 "We can't move %1 items.","Nie można przenieść produktu %1.",module,Magento_MultipleWishlist
 "%1 items were moved to %2: %3.","%1 produkty zostały przeniesione do %2: %3.",module,Magento_MultipleWishlist
@@ -13026,16 +13026,16 @@ Customers,Klienci,module,Magento_MultipleWishlist
 "All Forms","Wszystkie formularze",module,Magento_MultipleWishlist
 "Owner Name","Nazwa Właściciela",module,Magento_MultipleWishlist
 "Owner Email","Adres e-mail właściciela",module,Magento_MultipleWishlist
-"%1's Wish List","%1 listy życzeń",module,Magento_MultipleWishlist
-"%1's Wish List (%2)","%1 listy życzeń (%2)",module,Magento_MultipleWishlist
+"%1's Wish List","%1 Ulubionych",module,Magento_MultipleWishlist
+"%1's Wish List (%2)","%1 Ulubionych (%2)",module,Magento_MultipleWishlist
 "Please enter a valid email address.","Prosimy wpisać poprawny adres e-mail",module,Magento_MultipleWishlist
 "Please enter at least 2 letters of the first name.","Podaj co najmniej 2 litery imienia.",module,Magento_MultipleWishlist
 "Please enter at least 2 letters of the last name.","Podaj co najmniej 2 litery nazwiska.",module,Magento_MultipleWishlist
 "Sign in to edit wish lists.","Zaloguj się, aby edytować listę życzeń.",module,Magento_MultipleWishlist
-"The wish list is not assigned to your account and can't be edited.","Ten schowek nie jest przypisany do twojego konta i nie może być edytowany.",module,Magento_MultipleWishlist
-"Provide the wish list name.","Podaj nazwę listy życzeń.",module,Magento_MultipleWishlist
-"Wish list ""%1"" already exists.","Lista życzeń ""%1"" już istnieje.",module,Magento_MultipleWishlist
-"Only %1 wish list(s) can be created.","Maksymalna liczba list życzeń jaką można utworzyć to %1.",module,Magento_MultipleWishlist
+"The wish list is not assigned to your account and can't be edited.","Lista Ulubionych nie jest przypisana do Twojego konta i nie może być edytowana.",module,Magento_MultipleWishlist
+"Provide the wish list name.","Podaj nazwę listy Ulubionych.",module,Magento_MultipleWishlist
+"Wish list ""%1"" already exists.","Ulubione ""%1"" już istnieje.",module,Magento_MultipleWishlist
+"Only %1 wish list(s) can be created.","Maksymalna liczba Ulubionych jaką można utworzyć to %1.",module,Magento_MultipleWishlist
 "Test Phrase","Fraza testowa",module,Magento_MultipleWishlist
 "Unknown Magento error","Nieznany błąd Magento",module,Magento_MultipleWishlist
 InvalidArgumentException,InvalidArgumentException,module,Magento_MultipleWishlist
@@ -13048,37 +13048,37 @@ Remove,Usuń,module,Magento_MultipleWishlist
 "Add To Order","Dodaj do zamówienia",module,Magento_MultipleWishlist
 "Configure and Add to Order","Konfiguruj i dodaj do zamówienia",module,Magento_MultipleWishlist
 "No items","Brak produktów",module,Magento_MultipleWishlist
-"Delete Wish List","Usuń listę życzeń",module,Magento_MultipleWishlist
+"Delete Wish List","Usuń listę Ulubionych.",module,Magento_MultipleWishlist
 Owner,Właściciel,module,Magento_MultipleWishlist
 Name,Nazwa,module,Magento_MultipleWishlist
 Updated,Zaktualizowano,module,Magento_MultipleWishlist
-"Wish List Items","Produkty na liście życzeń",module,Magento_MultipleWishlist
+"Wish List Items","Produkty na liście Ulubionych",module,Magento_MultipleWishlist
 "You must select items to add to the cart.","Należy dodać produkty do koszyka.",module,Magento_MultipleWishlist
 "Add to Cart","Dodaj do koszyka",module,Magento_MultipleWishlist
 Back,Cofnij,module,Magento_MultipleWishlist
 "Add to:","Dodaj do:",module,Magento_MultipleWishlist
-"Create New Wish List","Utwórz nową listę życzeń",module,Magento_MultipleWishlist
-"Move to Wish List","Przenieś do listy życzeń",module,Magento_MultipleWishlist
-"Copy to Wish List","Kopiuj do listy życzeń",module,Magento_MultipleWishlist
+"Create New Wish List","Utwórz nową listę Ulubionych.",module,Magento_MultipleWishlist
+"Move to Wish List","Przenieś do listy Ulubionych.",module,Magento_MultipleWishlist
+"Copy to Wish List","Kopiuj do Ulubionych",module,Magento_MultipleWishlist
 "Search Options","Opcje wyszukiwania",module,Magento_MultipleWishlist
 "Required Fields","Pola wymagane",module,Magento_MultipleWishlist
 "First Name",Imię,module,Magento_MultipleWishlist
 "Last Name",Nazwisko,module,Magento_MultipleWishlist
 Search,Szukaj,module,Magento_MultipleWishlist
 "Search Results","Wyniki wyszukiwania",module,Magento_MultipleWishlist
-"Wish List Name","Nazwa listy życzeń",module,Magento_MultipleWishlist
+"Wish List Name","Nazwa Ulubionych",module,Magento_MultipleWishlist
 Actions,Operacje,module,Magento_MultipleWishlist
 View,Zobacz,module,Magento_MultipleWishlist
 "Your search returned no results.","Brak wyników wyszukiwania.",module,Magento_MultipleWishlist
-"Wish List","Lista życzeń",module,Magento_MultipleWishlist
-"Create Wish List","Utwórz listę życzeń",module,Magento_MultipleWishlist
-"Edit Wish List","Edytuj listę życzeń",module,Magento_MultipleWishlist
+"Wish List",Ulubione,module,Magento_MultipleWishlist
+"Create Wish List","Utwórz Ulubione.",module,Magento_MultipleWishlist
+"Edit Wish List","Edytuj Ulubione",module,Magento_MultipleWishlist
 Edit,Edytuj,module,Magento_MultipleWishlist
-"Public Wish List","Publiczna lista życzeń",module,Magento_MultipleWishlist
-"Private Wish List","Prywatna listy życzeń",module,Magento_MultipleWishlist
+"Public Wish List","Publiczna lista Ulubionych.",module,Magento_MultipleWishlist
+"Private Wish List","Prywatna lista Ulubionych",module,Magento_MultipleWishlist
 "Select all","Zaznacz wszystko",module,Magento_MultipleWishlist
-"Move Selected to Wish List","Przenieś zaznaczone do listy życzeń",module,Magento_MultipleWishlist
-"Copy Selected to Wish List","Kopiuj zaznaczone do listy życzeń",module,Magento_MultipleWishlist
+"Move Selected to Wish List","Przenieś zaznaczone do listy Ulubionych.",module,Magento_MultipleWishlist
+"Copy Selected to Wish List","Kopiuj zaznaczone do Ulubionych",module,Magento_MultipleWishlist
 "Search By","Szukaj według",module,Magento_MultipleWishlist
 "Please enter at least two letters.","Podaj co najmniej 2 litery.",module,Magento_MultipleWishlist
 Close,Zamknij,module,Magento_MultipleWishlist
@@ -13086,17 +13086,17 @@ Save,Zapisz,module,Magento_MultipleWishlist
 Cancel,Anuluj,module,Magento_MultipleWishlist
 "Please select items to move.","Wybierz elementy do przeniesienia.",module,Magento_MultipleWishlist
 "Please select items to copy.","Wybierz elementy do skopiowania.",module,Magento_MultipleWishlist
-"Are you sure you want to delete your wish list? This action can't be undone.","Czy na pewno chcesz usunąć z listę życzeń? Tej akcji nie można cofnąć.",module,Magento_MultipleWishlist
+"Are you sure you want to delete your wish list? This action can't be undone.","Czy na pewno chcesz usunąć z Ulubionych? Tej akcji nie można cofnąć.",module,Magento_MultipleWishlist
 "Wish Lists","Listy życzeń",module,Magento_MultipleWishlist
 "Enable Multiple Wish Lists","Włącz wiele list życzeń",module,Magento_MultipleWishlist
 "Number of Multiple Wish Lists","Liczba list życzeń",module,Magento_MultipleWishlist
 "The number of multiple wish lists should be equal to or more than 2.","Liczba listy życzeń powinna być równa lub większa niż 2.",module,Magento_MultipleWishlist
 "My Wish Lists Link","Mój link listy życzeń",module,Magento_MultipleWishlist
 "Display Wish Lists Summary","Wyświetl podsumowanie schowka",module,Magento_MultipleWishlist
-"Wish List Search Description","Opis wyszukiwania schowka",module,Magento_MultipleWishlist
+"Wish List Search Description","Opis wyszukiwania w Ulubionych",module,Magento_MultipleWishlist
 "Quick Search Form Types","Typ formularza szybkiego wyszukiwania",module,Magento_MultipleWishlist
 Template,Szablon,module,Magento_MultipleWishlist
-"Wish List Search Template","Domyślny szablon wyszukiwania",module,Magento_MultipleWishlist
+"Wish List Search Template","Domyślny szablon wyszukiwania Ulubionych",module,Magento_MultipleWishlist
 CSV,CSV,module,Magento_MultipleWishlist
 "Excel XML","Excel XML",module,Magento_MultipleWishlist
 Added,Dodane,module,Magento_MultipleWishlist
@@ -13107,13 +13107,13 @@ Private,Prywatny,module,Magento_MultipleWishlist
 Product,Produkt,module,Magento_MultipleWishlist
 SKU,SKU,module,Magento_MultipleWishlist
 Comment,Komentarz,module,Magento_MultipleWishlist
-"Wish List Quantity","Ilość Listy Życzeń",module,Magento_MultipleWishlist
+"Wish List Quantity","Ilość Ulubionych",module,Magento_MultipleWishlist
 "Store Quantity","Ilość Sklepów",module,Magento_MultipleWishlist
 "Surplus / Deficit","Nadwyżki / deficytu",module,Magento_MultipleWishlist
 "All Websites","Wszystkie witryny",module,Magento_MultipleWishlist
 "Product Info","Informacje o produkcie",module,Magento_MultipleWishlist
 "Unit Price","Cena jednostkowa",module,Magento_MultipleWishlist
-"Add to Wish List","Dodaj do schowka",module,Magento_MultipleWishlist
+"Add to Wish List","Dodaj do Ulubionych",module,Magento_MultipleWishlist
 "The maximum quantity can't be more than %1 when shipping to multiple addresses. Change the quantity and try again.","Maksymalna ilość nie może być większa niż %1 przy wysyłce na wiele adresów. Zmień ilość i spróbuj ponownie.",module,Magento_Multishipping
 "Verify the shipping address information and continue.","Sprawdź informacje o adresie wysyłki i kontynuuj.",module,Magento_Multishipping
 "Verify the billing address information and continue.","Sprawdź informacje o adresie płatności i kontynuuj.",module,Magento_Multishipping
@@ -13599,7 +13599,7 @@ Authorize,Autoryzujautoryzuj,module,Magento_Paypal
 "Save for later use.","Zapisz do późniejszego wykorzystania.",module,Magento_Paypal
 Orders,Zamówienia,module,Magento_Paypal
 "Payment Amount Authorization","Autoryzacja kwoty płatności",module,Magento_Paypal
-"Persist Wish List","Trwały schowek",module,Magento_PersistentHistory
+"Persist Wish List","Trwała Lista Ulubionych",module,Magento_PersistentHistory
 "Persist Recently Ordered Items","Zachowuj ostatnio zamówione produkty",module,Magento_PersistentHistory
 "Persist Currently Compared Products","Zachowuj aktualnie porównywane produkty",module,Magento_PersistentHistory
 "Persist Comparison History","Zachowuj historię porównań",module,Magento_PersistentHistory
@@ -13780,20 +13780,20 @@ found,znaleziono,module,Magento_Reminder
 "Total shopping cart items quantity %1 %2:","Suma ilości koszyka zakupowego %1 %2:",module,Magento_Reminder
 "Virtual Only","Tylko wirtualne",module,Magento_Reminder
 "Shopping cart %1 only virtual items","koszyk %1 tylko wirtualne przedmioty",module,Magento_Reminder
-"Wish List","Lista życzeń",module,Magento_Reminder
+"Wish List",Ulubione,module,Magento_Reminder
 "Shopping Cart",Koszyk,module,Magento_Reminder
-"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","Lista życzeń nie jest pusta i została opuszczona %1 %2 dni i %3 tych warunków:",module,Magento_Reminder
-"The root wish list condition should have a days value of 1 or greater.","Stan listy życzeń powinien mieć wartość dni 1 lub większą.",module,Magento_Reminder
+"The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","Ulubione nie jest pusta i została opuszczona %1 %2 dni i %3 tych warunków:",module,Magento_Reminder
+"The root wish list condition should have a days value of 1 or greater.","Stan listy Ulubionych powinien mieć wartość dni 1 lub większą.",module,Magento_Reminder
 "Product Attributes","Cechy produktu",module,Magento_Reminder
 "Product %1","Produkt %1",module,Magento_Reminder
 "Number of Items","Ilość produktów",module,Magento_Reminder
-"Number of wish list items %1 %2","Liczba elementów listy życzeń %1 %2",module,Magento_Reminder
+"Number of wish list items %1 %2","Liczba elementów Ulubionych %1 %2",module,Magento_Reminder
 Sharing,Udostępnianie,module,Magento_Reminder
-"Wish List %1 shared","Lista życzeń %1 udostępniona",module,Magento_Reminder
+"Wish List %1 shared","Ulubione %1 udostępniona",module,Magento_Reminder
 is,jest,module,Magento_Reminder
 "is not","nie jest",module,Magento_Reminder
-"The item was added to wish list %1, store view %2.","Produkt został dodany do listy życzeń %1, widok sklepu %2",module,Magento_Reminder
-"If an item is %1 in the wish list and %2 of these conditions match:","Jeśli produkt jest %1 w liście życzeń i %2 jedne z tych warunków daje prawdę:",module,Magento_Reminder
+"The item was added to wish list %1, store view %2.","Produkt został dodany do Ulubionych %1, widok sklepu %2",module,Magento_Reminder
+"If an item is %1 in the wish list and %2 of these conditions match:","Jeśli produkt jest %1 w Ulubionych i %2 jedne z tych warunków daje prawdę:",module,Magento_Reminder
 "Condition type is unexpected","Typ warunku jest nieakceptowany",module,Magento_Reminder
 "The valid number of minutes needs to be entered. Enter and try again.","Należy wprowadzić prawidłową liczbę minut. Wejdź i spróbuj ponownie.",module,Magento_Reminder
 "The Cron expression was unable to be saved.","Nie można zapisać wyrażenia Cron.",module,Magento_Reminder
@@ -14091,7 +14091,7 @@ ID,ID,module,Magento_Reward
 "Earn %s for purchases your invitees make.","Zyskaj %s po zakupach zaproszonych przez Ciebie osób.",module,Magento_Reward
 "You can reward up to %s invitee purchase(s).","Możesz nagrodzić do %s zakupów z zaproszeń.",module,Magento_Reward
 "Submit a review now and earn %1 after the review is approved.","Dodaj swoją recenzję teraz i zyskaj %1 po tym, jak zostanie ona zatwierdzona.",module,Magento_Reward
-"You can reward up to %1 new reviews(s).","Możesz nagrodzić do %1 nowych recenzji.",module,Magento_Reward
+"You can reward up to %1 new reviews(s).","Możesz nagrodzić do %1 nowych opinii.",module,Magento_Reward
 Return,Zwrot,module,Magento_Rma
 Returns,Zwroty,module,Magento_Rma
 "Create Returns","Utworzyć zwroty",module,Magento_Rma
@@ -14928,12 +14928,7 @@ Quantity,Ilość,module,Magento_SharedCatalog
                     <p>Benefits:<ul>
                     <li>Grow your business without fear of fraud</li>
                     <li>Accept more orders and maximize your revenue</li>
-                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
-                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
-                   <p>Benefits:<ul>
-                   <li>Grow your business without fear of fraud</li>
-                   <li>Accept more orders and maximize your revenue</li>
-                   <li>Automate order review and shift fraud off your plate</li></ul></p>",module,Magento_Signifyd
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatycznie sprawdza twoje zamówienia pod kątem oszustw, informując w kilka sekund, które zamówienia wysłać, a które odrzucić. Wspieramy nasze zatwierdzenia 100% ochroną przed zwrotem kosztów, zwracając Ci pełną kwotę zamówienia plus opłaty, jeśli kiedykolwiek otrzymasz fałszywe obciążenie zwrotne. <p> Korzyści: <ul> <li> Rozwijaj swoją firmę bez obawy o oszustwo </li> <li> Przyjmuj więcej zamówień i maksymalizuj swoje przychody </li> <li> Zautomatyzuj przegląd zamówień i pozbąć się oszustw. </ li> </ul> </p>",module,Magento_Signifyd
 "<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.",module,Magento_Signifyd
 "This search no longer exists.","To wyszukiwanie już nie istnieje.",module,Magento_Solr
 "We were unable to perform the search because of a search engine misconfiguration.","Nie udało nam się przeprowadzić wyszukiwania ze względu na błędny silnik wyszukiwania.",module,Magento_Solr
@@ -15694,9 +15689,9 @@ Stock,Zapasy,module,Magento_VisualMerchandiser
 "Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Ustaw unikalne kombinacje państwo-województwo w ramach tego samego stałego podatku od produktów. Sprawdź kombinacje i spróbuj ponownie.",module,Magento_Weee
 Cancel,Anuluj,module,Magento_Widget
 "Inserting a widget does not create a widget instance.","Wstawienie widgetu nie tworzy instancji widgetu.",module,Magento_Widget
-"The Wish List item can't load at this time. Please try again later.","W tej chwili nie można załadować listy ze schowka. Spróbuj ponownie później.",module,Magento_Wishlist
+"The Wish List item can't load at this time. Please try again later.","W tej chwili nie można załadować listy z Ulubionych. Spróbuj ponownie później.",module,Magento_Wishlist
 "The cart item doesn't exist.","Produkt w koszyku nie istnieje.",module,Magento_Wishlist
-"You must login or register to add items to your wishlist.","Musisz się zalogować lub zarejestrować żeby dodawać produkty do listy ulubionych.",module,Magento_Wishlist
+"You must login or register to add items to your wishlist.","Musisz się zalogować lub zarejestrować żeby dodawać produkty do listy Ulubionych.",module,Magento_Wishlist
 "Special Price","Cena promocyjna",module,Magento_Wishlist
 "Regular Price","Normalna cena",module,Magento_Wishlist
 "Credit card type","Rodzaj karty kredytowej",module,Magento_Worldpay
@@ -15782,8 +15777,8 @@ Settings,Ustawienia,theme,frontend/Magento/blank
 "Ordered item is not loaded.","Zamówiony produkt nie został załadowany.",module,Magento_AdvancedCheckout
 "Quote item id is not received.","Nie otrzymano ID elementu zapytania.",module,Magento_AdvancedCheckout
 "Quote item is not loaded.","Element zapytania nie jest załadowany.",module,Magento_AdvancedCheckout
-"The wish list item id is not received.","Nie otrzymano ID pozycji listy życzeń.",module,Magento_AdvancedCheckout
-"The wish list item is not loaded.","Nie udało się załadować pozycji listy życzeń.",module,Magento_AdvancedCheckout
+"The wish list item id is not received.","Nie otrzymano ID pozycji Ulubionych.",module,Magento_AdvancedCheckout
+"The wish list item is not loaded.","Nie udało się załadować pozycji z Ulubionych.",module,Magento_AdvancedCheckout
 "The file is corrupt.","Plik jest uszkodzony.",module,Magento_AdvancedCheckout
 Banners,Banery,module,Magento_Banner
 "Add Banner","Dodaj baner",module,Magento_Banner
@@ -15873,7 +15868,7 @@ Banner,Baner,module,Magento_Banner
 "Please specify an email.","Proszę podać e-mail.",module,Magento_Invitation
 "This invitation is addressed to a current customer: ""%1"".","To zaproszenie skierowane jest do obecnego klienta: ""%1"".",module,Magento_Invitation
 "You need more permissions to access this.","Potrzebujesz więcej uprawnień, aby uzyskać dostęp do tej sekcji.",module,Magento_Logging
-"You can't delete the default wish list.","Nie możesz usunąć domyślnej listy życzeń.",module,Magento_MultipleWishlist
+"You can't delete the default wish list.","Nie możesz usunąć domyślnej listy Ulubionych.",module,Magento_MultipleWishlist
 "To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","W celu użycia Płatności Zaawansowanych PayPal, musisz skonfigurować konto Płatności Zaawansowanych PayPal na stronie PayPal.",module,Magento_Paypal
 "Unknown quote total specified","Określono nieznaną kwotę",module,Magento_Reminder
 "Unknown attribute specified","Nieznane określenie cechy",module,Magento_Reminder
@@ -16300,7 +16295,7 @@ LocalizedException,LocalizedException,module,Magento_Reminder
 "Last updated: %1. To refresh last day's <a href=\"%2\">statistics</a>, click <a href=\"%3\">here</a>.","Ostania aktualizacja: %1. W celu odświeżenia <a href=\"%2\">statystyk</a> z ostatniego dnia, kliknij <a href=\"%3\">tutaj</a>.",module,Magento_Reports
 "Best Sellers Report","Raport najlepszych sprzedaży",module,Magento_Reports
 "Active Category","Aktywna kategoria",module,Magento_Catalog
-"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Recenzje. Proszę <a href=""%1"">Zaloguj się</a> lub <a href=""%2"">Załóż konto</a>",module,Magento_Review
+"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Opinie. Proszę <a href=""%1"">Zaloguj się</a> lub <a href=""%2"">Załóż konto</a>",module,Magento_Review
 "Use config","Użyj konfiguracji",module,Magento_Rma
 "Create New Order for New Customer in %1","Utwórz nowe zamówienie dla nowego klienta w %1",module,Magento_Sales
 "We will authorize %1 after the payment is approved at the payment gateway.","Możemy zezwolić %1, po zatwierdzeniu płatności przez bramkę płatności.",module,Magento_Sales
@@ -16469,7 +16464,7 @@ Version:,Wersja:,module,Magento_VersionsCms
 "Authentication header is absent.","Nagłówek uwierzytelniania jest nieobecny.",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file.","REST i SOAP konfiguracje, wygenerowany plik WSDL.",module,Magento_Webapi
 "We found a duplicate of website, country and state fields for a fixed product tax","Znaleziono zduplikowaną stronę, kraj lub województwo w zdefiniowanych stawkach podatków",module,Magento_Weee
-"Are you sure you want to remove this product from your Wish List?","Czy na pewno chcesz usunąć wszystkie przedmioty ze schowka?",module,Magento_Wishlist
+"Are you sure you want to remove this product from your Wish List?","Czy na pewno chcesz usunąć wszystkie przedmioty z Ulubionych?",module,Magento_Wishlist
 "View cart","Zobacz koszyk",module,Magento_Checkout
 Cart,Koszyk,module,Magento_Checkout
 "Go to Checkout","Do kasy",module,Magento_Checkout
@@ -16519,7 +16514,7 @@ Defaults,Domyślne,module,Magento_Catalog
 "Your Addresses","Twoje Adresy",module,Magento_Customer
 "Your Order History","Historia twoich zamówień",module,Magento_Sales
 "Select a newsletter to which you want to subscribe","Wybierz newsletter na który chcesz się zapisać",module,Module_Customer
-"Products you added to wish list","Produkty, które dodałeś do listy życzeń",module,Magento_Wishlist
+"Products you added to wish list","Produkty, które dodałeś do Ulubionych",module,Magento_Wishlist
 "Customer Dashboard","Panel Klienta",module,Magento_Customer
 Worth,Wartość,,module
 "Total price for all quantities of the product","Cena całkowita za wszystkie sztuki tego produktu",module,Magento_Checkout
@@ -17043,7 +17038,7 @@ Logging,Rejestrowanie,module,Amazon_Core
 "New Account Confirmation","Potwierdzenie utworzenia nowego konta",module,Dotdigitalgroup_Email
 "Forgot Password","Zapomniane hasło",module,Dotdigitalgroup_Email
 "Remind Password","Przypomnij hasło",module,Dotdigitalgroup_Email
-"Wish List Sharing","Udostępnianie listy życzeń",module,Dotdigitalgroup_Email
+"Wish List Sharing","Udostępnianie Ulubionych.",module,Dotdigitalgroup_Email
 "Forgot Admin Password","Zapomniałem hasła administratora",module,Dotdigitalgroup_Email
 Newsletter,Newsletter,module,Dotdigitalgroup_Email
 "Success Email Template","Szablon wiadomości o powodzeniu",module,Dotdigitalgroup_Email
@@ -17265,9 +17260,9 @@ PDF,PDF,module,Magento_Customer
 "If enabled, will collect statistic of products added to Compare List","Jeśli ta opcja jest włączona, zbiera statystyki produktów dodanych do listy porównania",module,Magento_Reports
 "Enable ""Product Added To Cart"" Report","Włącz raport ""Produkt dodany do koszyka""",module,Magento_Reports
 "If enabled, will collect statistic of products added to Cart","Jeśli ta opcja jest włączona, zbiera statystyki produktów dodanych do koszyka",module,Magento_Reports
-"Enable ""Product Added To WishList"" Report","Włącz raport ""Produkt dodany do listy ulubionych""",module,Magento_Reports
-"If enabled, will collect statistic of products added to WishList","Jeśli ta opcja jest włączona, zbierze statystyki produktów dodanych do listy ulubionych.",module,Magento_Reports
-"Enable ""Share WishList"" Report","Włącz raport ""Udostępnij listę ulubionych""",module,Magento_Reports
+"Enable ""Product Added To WishList"" Report","Włącz raport ""Produkt dodany do listy Ulubionych""",module,Magento_Reports
+"If enabled, will collect statistic of products added to WishList","Jeśli ta opcja jest włączona, zbierze statystyki produktów dodanych do listy Ulubionych.",module,Magento_Reports
+"Enable ""Share WishList"" Report","Włącz raport ""Udostępnij listę Ulubionych""",module,Magento_Reports
 "If enabled, will collect statistic of shared WishLists","Jeśli ta opcja jest włączona, zbierze statystyki udostępnionych schowków",module,Magento_Reports
 "Grid Settings","Ustawienia siatki",module,Magento_Sales
 "Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.",module,Magento_Signifyd
@@ -23058,7 +23053,7 @@ from,od,module,Magento_Catalog
 "(Children Only)","(Tylko podrzędna)",module,Magento_SalesRule
 """url"" argument should be specified and not empty","Argument ""url"" powinien być określony i nie może być pusty",module,Magento_UrlRewriteGraphQl
 Administrator,Administrator,module,Magento_User
-"%1 has been removed from your Wish List.","%1 został usunięty z Twojej listy życzeń.",module,Magento_Wishlist
+"%1 has been removed from your Wish List.","%1 został usunięty z Ulubionych.",module,Magento_Wishlist
 "Acceptance Mark","Znak akceptacji",module,Magento_Braintree
 "Something went wrong with your request. Please try again later.","Coś poszło nie tak z twoją prośbą. Spróbuj ponownie później.",module,Magento_Checkout
 or,lub,module,Magento_Checkout
@@ -23401,9 +23396,9 @@ Installment,Rata,module,Magento_Paypal
 "Could not find a token using public hash: %1","Nie można znaleźć tokena za pomocą publicznego skrótu:% 1",module,Magento_VaultGraphQl
 "WebapiAsync config for ""%lookupKey"" does not exist.","Konfiguracja WebapiAsync dla „% lookupKey” nie istnieje.",module,Magento_WebapiAsync
 "Incorrect CAPTCHA","Niepoprawna CAPTCHA",module,Magento_Wishlist
-"Missing key ""model"" in Wishlist Item value data","Brakujący klucz ""model"" w danych wartości pozycji ulubionych",module,Magento_WishlistGraphQl
-"Missing key ""model"" in Wishlist value data","Brakujący klucz ""model"" w danych wartości ulubionych",module,Magento_WishlistGraphQl
-"The current user cannot perform operations on wishlist","Bieżący użytkownik nie może wykonywać operacji na liście ulubionych",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist Item value data","Brakujący klucz ""model"" w danych wartości pozycji Ulubionych",module,Magento_WishlistGraphQl
+"Missing key ""model"" in Wishlist value data","Brakujący klucz ""model"" w danych wartości Ulubionych",module,Magento_WishlistGraphQl
+"The current user cannot perform operations on wishlist","Bieżący użytkownik nie może wykonywać operacji na liście Ulubionych",module,Magento_WishlistGraphQl
 "Save credit card information for future use.","Zapisz informacje o karcie kredytowej do wykorzystania w przyszłości.",module,Magento_PaypalCaptcha
 "Place Order","Złóż zamówienie",module,Magento_PaypalCaptcha
 "This element contains invalid data. Please resolve this before saving.","Ten element zawiera nieprawidłowe dane. Proszę rozwiązać to przed zapisaniem.",module,Magento_Ui
@@ -23644,7 +23639,7 @@ Discount,Zniżka,module,Magento_QuoteGraphQl
 """model"" value should be specified","Należy podać wartość ""model""",module,Magento_RelatedProductGraphQl
 "Disable Notice","Wyłącz powiadomienie",module,Magento_Reports
 "You don’t have permission to perform this operation. The selected review must be in Pending Status.","Nie masz uprawnień do wykonania tej operacji. Wybrana recenzja musi mieć status Oczekujący.",module,Magento_Review
-"You don’t have permission to perform this operation. Selected reviews must be in Pending Status only.","Nie masz uprawnień do wykonania tej operacji. Wybrane recenzje muszą mieć tylko status Oczekujący.",module,Magento_Review
+"You don’t have permission to perform this operation. Selected reviews must be in Pending Status only.","Nie masz uprawnień do wykonania tej operacji. Wybrane opinii muszą mieć tylko status Oczekujący.",module,Magento_Review
 "Invalid field","Nieprawidłowe pole",module,Magento_Rule
 "Frontend Label","Etykieta Frontendu",module,Magento_Sales
 "Shipping & Handling (%1)","Wysyłka i obsługa (%1)",module,Magento_Sales
@@ -23669,7 +23664,7 @@ translate,Tłumaczyć,module,Magento_Translation
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Widget
 "Widget(s) with ID(s) %1 were not found","Widget(y) o identyfikatorach %1 nie został znaleziony",module,Magento_Widget
 "No such entity with instance_id = %instance_id","Brak takiej encji z instance_id = %instance_id",module,Magento_Widget
-"Cannot add product without stock to wishlist.","Nie można dodać produktu bez dostępnego stanu w ulubionych",module,Magento_Wishlist
+"Cannot add product without stock to wishlist.","Nie można dodać produktu bez dostępnego stanu w Ulubionych",module,Magento_Wishlist
 "The current customer isn't authorized.","Obecny klient nie jest autoryzowany.",module,Magento_WishlistGraphQl
 "Braintree can't be initialized.","Braintree nie może zostać zainicjowany.",module,Magento_Braintree
 "Some payment input fields are invalid.","Niektóre pola wprowadzania płatności są nieprawidłowe.",module,Magento_Braintree
@@ -23895,14 +23890,14 @@ Rating,Ocena,theme,frontend/Creativestyle/theme-creativeshop
 Review,Opinia,theme,frontend/Creativestyle/theme-creativeshop
 Actions,Operacje,theme,frontend/Creativestyle/theme-creativeshop
 "See Details","Zobacz szczegóły",theme,frontend/Creativestyle/theme-creativeshop
-"You have submitted no reviews.","Nie masz jeszcze zgłoszonych żadnych recenzji.",theme,frontend/Creativestyle/theme-creativeshop
+"You have submitted no reviews.","Nie masz jeszcze zgłoszonych żadnych opinii.",theme,frontend/Creativestyle/theme-creativeshop
 Back,Cofnij,theme,frontend/Creativestyle/theme-creativeshop
 "My Recent Reviews","Moje ostatnie opinie",theme,frontend/Creativestyle/theme-creativeshop
 "View All","Zobacz wszystkie",theme,frontend/Creativestyle/theme-creativeshop
 "Average Customer Rating:","Średnia ocena klientów:",theme,frontend/Creativestyle/theme-creativeshop
 "Your Review","Twoja ocena",theme,frontend/Creativestyle/theme-creativeshop
 "Submitted on %1","Wysłano na %1",theme,frontend/Creativestyle/theme-creativeshop
-"Back to My Reviews","Wróć do swoich recenzji",theme,frontend/Creativestyle/theme-creativeshop
+"Back to My Reviews","Wróć do swoich opinii ",theme,frontend/Creativestyle/theme-creativeshop
 "Be the first to review this product","Oceń ten produkt jako pierwszy",theme,frontend/Creativestyle/theme-creativeshop
 "You're reviewing:","Napisz opinię o produkcie:",theme,frontend/Creativestyle/theme-creativeshop
 "Select your rating","Wybierz swoją ocenę",theme,frontend/Creativestyle/theme-creativeshop
@@ -23912,16 +23907,16 @@ Bad,Zły,theme,frontend/Creativestyle/theme-creativeshop
 "Could be better","Może być lepiej",theme,frontend/Creativestyle/theme-creativeshop
 Good,Dobry,theme,frontend/Creativestyle/theme-creativeshop
 "Very good!","Bardzo dobrze!",theme,frontend/Creativestyle/theme-creativeshop
-"Click on stars to rate","Kliknij gwiazdki, aby ocenić",theme,frontend/Creativestyle/theme-creativeshop
+"Click on stars to rate","Kliknij na gwiazdki, aby ocenić",theme,frontend/Creativestyle/theme-creativeshop
 "Please select one of each of the ratings above.","Wybierz jedną z powyższych ocen.",theme,frontend/Creativestyle/theme-creativeshop
 "%1 %2"," %1 %2",theme,frontend/Creativestyle/theme-creativeshop
 Nickname,Autor,theme,frontend/Creativestyle/theme-creativeshop
 Summary,Podsumowanie,theme,frontend/Creativestyle/theme-creativeshop
 "Submit Review","Dodaj recenzję",theme,frontend/Creativestyle/theme-creativeshop
-"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Recenzje. Proszę <a href=""%1"">Zaloguj się</a> lub <a href=""%2"">Załóż konto</a>",theme,frontend/Creativestyle/theme-creativeshop
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać Opinie. Proszę <a href=""%1"">Zaloguj się</a> lub <a href=""%2"">Załóż konto</a>",theme,frontend/Creativestyle/theme-creativeshop
 "Overall rating","Ogólna ocena",theme,frontend/Creativestyle/theme-creativeshop
-reviews,Opinie,theme,frontend/Creativestyle/theme-creativeshop
-star,gwiazda,theme,frontend/Creativestyle/theme-creativeshop
+reviews,opinie,theme,frontend/Creativestyle/theme-creativeshop
+star,gwiazdka,theme,frontend/Creativestyle/theme-creativeshop
 stars,gwiazdki,theme,frontend/Creativestyle/theme-creativeshop
 "Add Review","Dodaj recenzję",theme,frontend/Creativestyle/theme-creativeshop
 "Close search","Zamknij wyszukiwanie",theme,frontend/Creativestyle/theme-creativeshop
@@ -23962,9 +23957,9 @@ All,Wszystko,theme,frontend/Creativestyle/theme-creativeshop
 "Decrement product quantity icon","Ikona zmniejszenia ilości produktu",theme,frontend/Creativestyle/theme-creativeshop
 "Increment product quantity icon","Ikona przyrostu ilości produktu",theme,frontend/Creativestyle/theme-creativeshop
 "Toggle mobile navigation","Przełącz nawigację mobilną",theme,frontend/Creativestyle/theme-creativeshop
-"Go to Wish List","Przejdź do listy życzeń",theme,frontend/Creativestyle/theme-creativeshop
-"You have no items in your wish list.","Nie masz żadnych produktów na liście życzeń.",theme,frontend/Creativestyle/theme-creativeshop
-"This Wish List has no Items","Ta lista życzeń nie zawiera żadnych produktów",theme,frontend/Creativestyle/theme-creativeshop
+"Go to Wish List","Przejdź do listy Ulubionych.",theme,frontend/Creativestyle/theme-creativeshop
+"You have no items in your wish list.","Nie masz żadnych produktów w Ulubionych.",theme,frontend/Creativestyle/theme-creativeshop
+"This Wish List has no Items","Lista Ulubionych nie zawiera żadnych produktów",theme,frontend/Creativestyle/theme-creativeshop
 items,przedmiotów,theme,frontend/Creativestyle/theme-creativeshop
 From,Od,theme,frontend/Creativestyle/theme-creativeshop
 To,Do,theme,frontend/Creativestyle/theme-creativeshop
@@ -24077,8 +24072,8 @@ Reorder,"Zamów ponownie",module,MageSuite_Frontend
 "Print Order","Wydrukuj zamówienie",module,MageSuite_Frontend
 "In stock","W magazynie",module,MageSuite_Frontend
 "Out of stock","Brak na stanie",module,MageSuite_Frontend
-"Add to Wish List","Dodaj do schowka",module,MageSuite_Frontend
-"Add to Wishlist","Dodaj do ulubionych",module,MageSuite_Frontend
+"Add to Wish List","Dodaj do Ulubionych",module,MageSuite_Frontend
+"Add to Wishlist","Dodaj do Ulubionych",module,MageSuite_Frontend
 "<h1>Access Denied</h1>You don't have permision to view this page.","<h1>Odmowa dostępu</h1>Nie masz uprawnień do przeglądania tej strony.",module,MageSuite_Gdpr
 "Payment details are not shown. It may contain personal data.","Szczegóły płatności nie są wyświetlane. Może zawierać dane osobowe.",module,MageSuite_Gdpr
 "Bad Request","Błędne zapytanie",module,MageSuite_GoogleApi
@@ -24861,14 +24856,14 @@ Product,Produkt,module,Vertex_Tax
 "Vertex Flexible Field","Pole elastyczne wierzchołki",module,Vertex_Tax
 Unmapped,"Niezmapowane  ",module,Vertex_Tax
 "Emails Sent","E-mail Wysłany",module,Yotpo_Yotpo
-"Avg. Star Rating","Śr. Ocena w skali gwiazdkowej",module,Yotpo_Yotpo
-"Collected Reviews","Zebrane recenzje",module,Yotpo_Yotpo
+"Avg. Star Rating","Średnia ocena",module,Yotpo_Yotpo
+"Collected Reviews","Zebrane opinie",module,Yotpo_Yotpo
 "Collected Photos","Zebrane zdjęcia",module,Yotpo_Yotpo
-"Published Reviews","Opublikowane recenzje",module,Yotpo_Yotpo
+"Published Reviews","Opublikowane opinii",module,Yotpo_Yotpo
 "Engagement Rate","Stopień zaangażowania",module,Yotpo_Yotpo
 "Get Started",Zacznij,module,Yotpo_Yotpo
 "Launch Yotpo","Uruchom Yotpo",module,Yotpo_Yotpo
-"Yotpo Reviews","Recenzje Yotpo",module,Yotpo_Yotpo
+"Yotpo Reviews","Opinie Yotpo",module,Yotpo_Yotpo
 "Please make sure the APP KEY and SECRET you've entered are correct","Upewnij się, że KLUCZ APLIKACJI i SEKRET zostały wprowadzone poprawnie",module,Yotpo_Yotpo
 """Request to API failed! "" .","""Żądanie interfejsu API nie powiodło się!"".",module,Yotpo_Yotpo
 "The APP KEY you've entered is already in use by another store on this system. Note that Yotpo requires a unique set of APP KEY & SECRET for each store.","Wpisany klucz aplikacji APP KEY jest już używany przez inny sklep w tym systemie. Pamiętaj, że Yotpo wymaga unikalnego zestawu APP KEY i SECRET dla każdego sklepu.",module,Yotpo_Yotpo
@@ -24882,9 +24877,9 @@ Unmapped,"Niezmapowane  ",module,Vertex_Tax
 "User-generated content metrics gathered from your Yotpo dashboards.","Dane dotyczące treści generowane przez użytkowników zebrane z pulpitów nawigacyjnych Yotpo.",module,Yotpo_Yotpo
 "Yotpo Settings","Ustawienia Yotpo",module,Yotpo_Yotpo
 "Great brands are built<br>on happy customers","Świetne marki budowane są <br>na zadowolonych klientach",module,Yotpo_Yotpo
-"Yotpo is already installed in your Magento store!<br>Connect your Yotpo account to your store to accelerate growth<br>with a full suite of solutions for customer reviews and visual marketing.","Yotpo jest już zainstalowane w Twoim sklepie Magento! <br>Połącz swoje konto Yotpo ze swoim sklepem, aby przyspieszyć rozwój <br>z pełnym pakietem rozwiązań do recenzji klientów i marketingu wizualnego.",module,Yotpo_Yotpo
-"Reviews & Ratings","Recenzje i oceny",module,Yotpo_Yotpo
-"Turn customer content into sales by collecting and leveraging reviews, ratings, and Q&A with Yotpo’s AI-powered solutions.","Zamień treści klientów w sprzedaż, zbierając i wykorzystując recenzje, oceny oraz pytania i odpowiedzi za pomocą rozwiązań opartych na sztucznej inteligencji Yotpo.",module,Yotpo_Yotpo
+"Yotpo is already installed in your Magento store!<br>Connect your Yotpo account to your store to accelerate growth<br>with a full suite of solutions for customer reviews and visual marketing.","Yotpo jest już zainstalowane w Twoim sklepie Magento! <br>Połącz swoje konto Yotpo ze swoim sklepem, aby przyspieszyć rozwój <br>z pełnym pakietem rozwiązań dla opinii klientów i marketingu wizualnego.",module,Yotpo_Yotpo
+"Reviews & Ratings","Opinie i oceny",module,Yotpo_Yotpo
+"Turn customer content into sales by collecting and leveraging reviews, ratings, and Q&A with Yotpo’s AI-powered solutions.","Zamień treści klientów w sprzedaż, zbierając i wykorzystując opinie, oceny oraz pytania i odpowiedzi za pomocą rozwiązań opartych na sztucznej inteligencji Yotpo.",module,Yotpo_Yotpo
 "Visual Marketing","Marketing wizualny",module,Yotpo_Yotpo
 "Collect, curate, and showcase customer photos and videos in fully customizable shoppable galleries across your site.","Zbieraj, opiekuj się i prezentuj zdjęcia i filmy klientów we w pełni konfigurowalnych galeriach do zakupów w całej witrynie.",module,Yotpo_Yotpo
 "Consumer Insights","Statystyki o klientach",module,Yotpo_Yotpo
@@ -25345,7 +25340,7 @@ Logout,Wyloguj,theme,frontend/Creativestyle/theme-creativeshop
 Account,Konto,theme,frontend/Creativestyle/theme-creativeshop
 Wishlist,Ulubione,theme,frontend/Creativestyle/theme-creativeshop
 Newsletter,Newsletter,theme,frontend/Creativestyle/theme-creativeshop
-"My product Reviews","Recenzje moich produktów",theme,frontend/Creativestyle/theme-creativeshop
+"My product Reviews","Opinie moich produktów",theme,frontend/Creativestyle/theme-creativeshop
 "My orders","Moje zamówienia",theme,frontend/Creativestyle/theme-creativeshop
 "Order details","Szczegóły zamówienia",theme,frontend/Creativestyle/theme-creativeshop
 "Search entire store here...","Szukaj w sklepie...",theme,frontend/Creativestyle/theme-creativeshop
@@ -25364,7 +25359,7 @@ Newsletter,Newsletter,theme,frontend/Creativestyle/theme-creativeshop
 "Trusted Shops certified","Certyfikat Trusted Shops",theme,frontend/Creativestyle/theme-creativeshop
 "Shipping methods:","Metody wysyłki:",theme,frontend/Creativestyle/theme-creativeshop
 "Payment methods:","Metody Płatności:",theme,frontend/Creativestyle/theme-creativeshop
-"Add to Wish List","Dodaj do schowka",theme,frontend/Creativestyle/theme-creativeshop
+"Add to Wish List","Dodaj do Ulubionych",theme,frontend/Creativestyle/theme-creativeshop
 "Cms page","Strona CMS",theme,frontend/Creativestyle/theme-creativeshop
 "<div class=""amazon-payment-logo""></div><div class=""amazon-payment-byline"">The convenient, trusted way to pay.<br/>Let your customers check out in just a few clicks or taps using the shipping and payment info already stored in their Amazon account.</div>","<div class=""amazon-payment-logo""></div><div class=""amazon-payment-byline"">Wygodny, zaufany sposób płatności. <br/>Pozwól swoim klientom na zakup za pomocą kilku kliknięć, korzystając z informacji o wysyłce i płatnościach, które są już zapisane na ich koncie Amazon.</div>",module,Amazon_Core
 "Show Amazon Pay button on product page","Pokaż przycisk Amazon Pay na stronie produktu",module,Amazon_Core
@@ -25570,7 +25565,7 @@ Holidays,Wakacje,module,MageSuite_ProductPositiveIndicators
 "Enable Popular Icon","Włącz popularną ikonę",module,MageSuite_ProductPositiveIndicators
 "Remove item","Usuń produkt",module,MageSuite_ProductTile
 New,Nowy,module,MageSuite_ProductTile
-"Add to Wishlist","Dodaj do ulubionych",module,MageSuite_ProductTile
+"Add to Wishlist","Dodaj do Ulubionych",module,MageSuite_ProductTile
 "Add to Compare",Porównaj,module,MageSuite_ProductTile
 "In stock","W magazynie",module,MageSuite_ProductTile
 "Out of stock","Brak na stanie",module,MageSuite_ProductTile
@@ -26113,9 +26108,9 @@ Comma-separated,"Oddzielone przecinkami",module,Temando_Shipping
 "Vertex tax calculation data","Dane do obliczenia podatku Vertex",module,Vertex_Tax
 "Vertex Messages","Wiadomości Vertex",module,Vertex_Tax
 Yotpo,Yotpo,module,Yotpo_Yotpo
-"Product Reviews Settings","Ustawienia recenzji produktów",module,Yotpo_Yotpo
+"Product Reviews Settings","Ustawienia opinii produktów",module,Yotpo_Yotpo
 "Yotpo Analytics","Yotpo Analytics",module,Yotpo_Yotpo
-"Reviews and Visual Marketing","Recenzje i marketing wizualny",module,Yotpo_Yotpo
+"Reviews and Visual Marketing","Opinie i marketing wizualny",module,Yotpo_Yotpo
 Setup,Ustawienia,module,Yotpo_Yotpo
 "Enable Yotpo","Włącz Yotpo",module,Yotpo_Yotpo
 "To connect Yotpo to your store, enter your <a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" title=""App Key and API Secret"" target=""_blank"" style=""color:#2b7dbd"">App Key and API Secret</a> in the fields below and save your configuration.","Aby połączyć Yotpo ze swoim sklepem, wprowadź swój <a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento- store"" title=""Klucz aplikacji i tajny interfejs API"" target=""_blank"" style=""color: #2b7dbd "">Klucz aplikacji i tajny interfejs API</a>w poniższych polach i zapisz konfigurację.",module,Yotpo_Yotpo
@@ -26125,11 +26120,11 @@ Setup,Ustawienia,module,Yotpo_Yotpo
 "<a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" target=""_blank"" title=""I can't find my API Secret"" style=""color:#2b7dbd"">I can't find my API Secret</a>","<a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" target=""_ blank"" title=""Nie mogę znaleźć mojego tajnego interfejsu API"" style=""color: #2b7dbd"">Nie mogę znaleźć mojego tajnego interfejsu API</a>",module,Yotpo_Yotpo
 "Module Version","Wersja modułu",module,Yotpo_Yotpo
 "Widget Settings","Ustawienia widżetu",module,Yotpo_Yotpo
-"Show Reviews Widget","Pokaż widżet recenzji",module,Yotpo_Yotpo
+"Show Reviews Widget","Pokaż widżet opinii",module,Yotpo_Yotpo
 "Show star rating on category pages","Pokaż liczbę gwiazdek na stronach kategorii",module,Yotpo_Yotpo
 "Show star rating on product pages","Pokaż liczbę gwiazdek na stronach produktów",module,Yotpo_Yotpo
 "Show Q&A Bottom-line","Pokaż dolną linię dla pytań i odpowiedzi",module,Yotpo_Yotpo
-"Hide Magento Reviews","Ukryj recenzje Magento",module,Yotpo_Yotpo
+"Hide Magento Reviews","Ukryj Opinie Magento",module,Yotpo_Yotpo
 "Enable Debug Mode","Włącz tryb debugowania",module,Yotpo_Yotpo
 "Enable in order to log all Yotpo processes when Magento debug mode enabled.","Włącz, aby rejestrować wszystkie procesy Yotpo, gdy włączony jest tryb debugowania Magento.",module,Yotpo_Yotpo
 "Sync Settings","Ustawienia synchronizacji",module,Yotpo_Yotpo
@@ -26179,3 +26174,4 @@ Sunday,Niedziela,module,MageSuite_ProductPositiveIndicators
 "Bestseller Score By Sale - Ascending","Wynik bestsellera według sprzedaży - rosnąco",module,MageSuite_Sorting
 Discounts,Rabaty,module,Magento_Checkout
 More,Więcej,module,MageSuite_ContentConstructorFrontend
+"Create an account","Utwórz konto",theme,frontend/Creativestyle/theme-creativeshop
