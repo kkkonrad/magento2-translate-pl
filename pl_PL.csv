@@ -26215,7 +26215,7 @@ More,Więcej,module,MageSuite_ContentConstructorFrontend
             <span class=""cs-topbar__opening-hours"">{{config path=""general/store_information/hours""}}</span>
         </div>","        <div class=""cs-topbar__hotline"">
             <a class=""cs-topbar__phone-number"" href=""tel:{{config path=""general/store_information/phone""}}"">{{config path=""general/store_information/phone""}}</a>
-            <span class=""cs-topbar__opening-hours-label"">Jesteśmy dostępni: </span>
+            <span class=""cs-topbar__opening-hours-label"">Jesteśmy dostępni:    </span>
             <span class=""cs-topbar__opening-hours"">{{config path=""general/store_information/hours""}}</span>
         </div>",module,Magento_Sample
 "Header (Top Bar) - USPs","Nagłówek (górny pasek) - dostawa",module,Magento_Sample
