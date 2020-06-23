@@ -665,7 +665,7 @@ Delete,Usuń,module,Magento_Braintree
 Dynamic,Dynamiczny,module,Magento_Bundle
 Fixed,Stały,module,Magento_Bundle
 "Create New Option","Utwórz nową opcję",module,Magento_Bundle
-"Bundle Items","Produkty w pakiecie",module,Magento_Bundle
+"Bundle Items","Powiązane elementy",module,Magento_Bundle
 "Add Products to Option","Dodaj produkty do opcji",module,Magento_Bundle
 Close,Zamknij,module,Magento_Bundle
 "Delete Option","Usuń opcję",module,Magento_Bundle
@@ -677,15 +677,15 @@ Price,Cena,module,Magento_Bundle
 Delete,Usuń,module,Magento_Bundle
 "Use Default Value","Użyj wartości domyślnej",module,Magento_Bundle
 "There is no defined renderer for ""%1"" option type.","Nie ma wybranego generatora dla typu opcji ""%1"".",module,Magento_Bundle
-"Only implemented for bundle product","Wdrożone jedynie dla pakietu produktów",module,Magento_Bundle
-"Product with specified sku: ""%1"" is not a bundle product","Produkt o sku: ""%1"" nie jest pakietem produktów",module,Magento_Bundle
-"Bundle product could not contain another composite product","Pakiet produktu nie może zawierać innego produktu złożonego",module,Magento_Bundle
+"Only implemented for bundle product","Wdrożone jedynie dla produktów powiązanych",module,Magento_Bundle
+"Product with specified sku: ""%1"" is not a bundle product","Produkt o sku: ""%1"" nie jest produktem powiązanym",module,Magento_Bundle
+"Bundle product could not contain another composite product","Produkt powiązany nie może zawierać innego produktu złożonego",module,Magento_Bundle
 "Id field of product link is required","Wymagane pole Id łącza produktu",module,Magento_Bundle
 "Can not find product link with id ""%1""","Nie znaleziono produktu związanego z ID ""%1""",module,Magento_Bundle
 "Could not save child: ""%1""","Nie można zapisać: ""%1""",module,Magento_Bundle
 "Product with specified sku: ""%1"" does not contain option: ""%2""","Produkt o sku: ""%1"" nie zawiera opcji: ""%2""",module,Magento_Bundle
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Dziecko z określonym sku: ""%1"" już przypisane do produktu: ""%2""",module,Magento_Bundle
-"Product with specified sku: %1 is not a bundle product","Produkt o sku: %1 nie jest pakietem produktów",module,Magento_Bundle
+"Product with specified sku: %1 is not a bundle product","Produkt o sku: %1 nie jest produktem powiązanym",module,Magento_Bundle
 "Requested bundle option product doesn't exist","Żądany pakiet opcji produktu nie istnieje",module,Magento_Bundle
 "%fieldName is a required field.","%fieldName jest polem wymaganym.",module,Magento_Bundle
 "Requested option doesn't exist","Żądana opcja nie istnieje",module,Magento_Bundle
@@ -724,7 +724,7 @@ Name,Nazwa,module,Magento_Bundle
 None,Brak,module,Magento_Bundle
 Quantity:,Ilość:,module,Magento_Bundle
 "Choose a selection...","Wybierz selekcje...",module,Magento_Bundle
-"Ship Bundle Items","Dostawa powiązanych produktów",module,Magento_Bundle
+"Ship Bundle Items","Dostawa powiązanych elementów",module,Magento_Bundle
 Position,Pozycja,module,Magento_Bundle
 "There are no products in this option.","Brak produktów w tej opcji.",module,Magento_Bundle
 Default,Domyślny,module,Magento_Bundle
@@ -10371,11 +10371,11 @@ Amount,Kwota,module,Magento_BraintreeTwo
 "Settlement Batch ID","Partia Rozliczeń ID",module,Magento_BraintreeTwo
 Currency,Waluta,module,Magento_BraintreeTwo
 "This is implemented for bundle products only.","Wdrożone jedynie dla produktów będących częścią zestawu.",module,Magento_Bundle
-"The product with the ""%1"" SKU isn't a bundle product.","Produkt o SKU ""%1"" nie może być częścią zestawu.",module,Magento_Bundle
-"The bundle product can't contain another composite product.","Zestaw nie może zawierać w sobie innego zestawu.",module,Magento_Bundle
+"The product with the ""%1"" SKU isn't a bundle product.","Produkt o SKU ""%1"" nie może być częścią produktu powiązanego.",module,Magento_Bundle
+"The bundle product can't contain another composite product.","Produkt powiązany nie może zawierać w sobie innego zestawu.",module,Magento_Bundle
 "The product link needs an ID field entered. Enter and try again.","Link do produktu musi mieć wypełnione pole ID. Wprowadź dane do pola ID i spróbuj ponownie.",module,Magento_Bundle
 "The product link with the ""%1"" ID field wasn't found. Verify the ID and try again.","Link do produktu o ID ""%1"" nie został odnaleziony. Sprawdź ID i spróbuj ponownie.",module,Magento_Bundle
-"The bundle product doesn't exist. Review your request and try again.","Ten zestaw nie istnieje. Sprawdź swoje zapytanie i spróbuj ponownie.",module,Magento_Bundle
+"The bundle product doesn't exist. Review your request and try again.","Ten produkt powiązany nie istnieje. Sprawdź swoje zapytanie i spróbuj ponownie.",module,Magento_Bundle
 "The option that was requested doesn't exist. Verify the entity and try again.","Opcja, o którą prosisz nie istnieje. Sprawdź swoje zapytanie i spróbuj ponownie.",module,Magento_Bundle
 "The option couldn't be saved.","Nie można zapisać opcji.",module,Magento_Bundle
 """%fieldName"" is required. Enter and try again.","Parametr ""%fieldName"" jest wymagany. Wprowadź wartość i spróbuj ponownie.",module,Magento_Bundle
@@ -13360,7 +13360,7 @@ Maximum,Maksimum,module,Magento_NegotiableQuote
 "Sender Email","E-mail nadawcy",module,Magento_NegotiableQuote
 "Recipient Name","Nazwa odbiorcy",module,Magento_NegotiableQuote
 "Recipient Email","E-mail odbiorcy",module,Magento_NegotiableQuote
-"Bundle Items","Produkty w pakiecie",module,Magento_NegotiableQuote
+"Bundle Items","Powiązane elementy",module,Magento_NegotiableQuote
 "Order Placed From Quote","Zamówienie złożone z oferty",module,Magento_NegotiableQuote
 Comments,Komentarze,module,Magento_NegotiableQuote
 "Request Declined. Reason:","Żądanie odrzucone. Powód:",module,Magento_NegotiableQuote
@@ -14232,7 +14232,7 @@ Price,Cena,module,Magento_Rma
 "You saved the RMA request.","Zapisano żądanie RMA.",module,Magento_Rma
 "You did not email your customer. Please check your email settings.","Nie utworzono emalia klienta. Proszę sprawdzić ustawienia e-mail.",module,Magento_Rma
 "You submitted the RMA request.","Zgłoszono żądanie RMA.",module,Magento_Rma
-"No items for bundle product","Brak przedmiotów dla tego produktu grupowanego",module,Magento_Rma
+"No items for bundle product","Brak elementów dla tego produktu powiązanego",module,Magento_Rma
 "The wrong order ID or item ID was requested.","Nieprawidłowy identyfikator zamówienia lub produktu.",module,Magento_Rma
 "Page not found.","Nie znaleziono strony.",module,Magento_Rma
 "Shipping Labels are not allowed.","Etykiety wysyłkowe nie są dozwolone.",module,Magento_Rma
@@ -26175,3 +26175,102 @@ Sunday,Niedziela,module,MageSuite_ProductPositiveIndicators
 Discounts,Rabaty,module,Magento_Checkout
 More,Więcej,module,MageSuite_ContentConstructorFrontend
 "Create an account","Utwórz konto",theme,frontend/Creativestyle/theme-creativeshop
+"Google Merchant Center Category","Kategoria Google Merchant Center",module,Magento_Sample
+"Category Url","URL kategorii",module,Magento_Sample
+"Simplified bundle product","Uproszczony produkt powiązany",module,Magento_Sample
+"Category Identifier","Identyfikator kategorii",module,Magento_Sample
+"Content Constructor Content","Treść konstruktora treści",module,Magento_Sample
+"Layout Update XML Backup","Kopia zapasowa aktualizacji szablonu XML",module,Magento_Sample
+"Offer price","Cena oferty",module,Magento_Sample
+"Offer from","Oferta od",module,Magento_Sample
+"Offer to","Oferta do",module,Magento_Sample
+"Offer limit","Limit oferty",module,Magento_Sample
+"Initial Amount of products","Początkowa ilość produktów",module,Magento_Sample
+"Meta Robots","Metatag Robots",module,Magento_Sample
+"Category Featured Products","Kategoria polecane produkty",module,Magento_Sample
+"Bestseller Score By Amount","Bestseller według ilości sprzedaży",module,Magento_Sample
+"Bestseller Score By Turnover","Bestseller według wyników obrotu",module,Magento_Sample
+"Bestseller Score Multiplier","Mnożnik punktacji dla Bestseller",module,Magento_Sample
+"Bestseller Score By Sale","Bestseller według wyników sprzedaży",module,Magento_Sample
+"Only X Available Qty","Dostępne tylko X sztuk",module,Magento_Sample
+"Recently Bought Badge","Ostatnio kupiona odznaka",module,Magento_Sample
+"Recently Bought: Order Period","Ostatnio kupione: okres zamówienia",module,Magento_Sample
+"Recently Bought: Minimal Value","Ostatnio kupione: minimalna wartość",module,Magento_Sample
+"Recently Bought: Ordered Sum","Ostatnio kupione: zamówiona suma",module,Magento_Sample
+"Popular Icon Categories","Kategorie popularnych ikon",module,Magento_Sample
+"Expected Delivery: Use Specific Shipping Time","Oczekiwana dostawa: użyj określonego czasu wysyłki",module,Magento_Sample
+"Expected Delivery: Specific Shipping Time","Oczekiwana dostawa: określony czas wysyłki",module,Magento_Sample
+"Canonical URL","Kanoniczny adres URL",module,Magento_Sample
+"Is virtual category","Jest kategorią wirtualną",module,Magento_Sample
+"Use store positions","Użyj pozycji w widoku sklepu",module,Magento_Sample
+"Item Length","Długość elementu",module,Magento_Sample
+"Item Width","Szerokość elementu",module,Magento_Sample
+"Item Height","Wysokość elementu",module,Magento_Sample
+"Packaging Type","Rodzaj opakowania",module,Magento_Sample
+"Featured Products","Polecane produkty",module,Magento_Sample
+"Header (Top Bar) - Hotline","Nagłówek (górny pasek) - infolinia",module,Magento_Sample
+"        <div class=""cs-topbar__hotline"">
+            <a class=""cs-topbar__phone-number"" href=""tel:{{config path=""general/store_information/phone""}}"">{{config path=""general/store_information/phone""}}</a>
+            <span class=""cs-topbar__opening-hours-label"">Our lines are open: </span>
+            <span class=""cs-topbar__opening-hours"">{{config path=""general/store_information/hours""}}</span>
+        </div>","        <div class=""cs-topbar__hotline"">
+            <a class=""cs-topbar__phone-number"" href=""tel:{{config path=""general/store_information/phone""}}"">{{config path=""general/store_information/phone""}}</a>
+            <span class=""cs-topbar__opening-hours-label"">Jesteśmy dostępni: </span>
+            <span class=""cs-topbar__opening-hours"">{{config path=""general/store_information/hours""}}</span>
+        </div>",module,Magento_Sample
+"Header (Top Bar) - USPs","Nagłówek (górny pasek) - dostawa",module,Magento_Sample
+"        <ul class=""cs-topbar__list cs-topbar__list--featured"">
+            <li class=""cs-topbar__list-item""><span class=""cs-topbar__text"">Discreet and rapid delivery</span></li>
+            <li class=""cs-topbar__list-item""><span class=""cs-topbar__text"">All offers include VAT</span></li>
+            <li class=""cs-topbar__list-item""><span class=""cs-topbar__text"">24h delivery</span></li>
+        </ul>","        <ul class=""cs-topbar__list cs-topbar__list--featured"">
+            <li class=""cs-topbar__list-item""><span class=""cs-topbar__text"">Dyskretna i szybka dostawa</span></li>
+            <li class=""cs-topbar__list-item""><span class=""cs-topbar__text"">Wszystkie oferty zawierają podatek VAT</span></li>
+            <li class=""cs-topbar__list-item""><span class=""cs-topbar__text"">Dostawa 24h</span></li>
+        </ul>",module,Magento_Sample
+"Footer Links - 1","Linki stopki - kolumna 1",module,Magento_Sample
+"        <ul class=""cs-footer-links"">
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Custom Link 4"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Custom Link 5"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+        </ul>","        <ul class=""cs-footer-links"">
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""O nas"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Dane firmy"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Polityka prywatności"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Nasza oferta"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Pakowanie na prezent"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+        </ul>",module,Magento_Sample
+"Footer Links - 2","Linki stopki - kolumna 2",module,Magento_Sample
+"        <ul class=""cs-footer-links"">
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Custom Link 4"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Custom Link 5"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Custom Link 6"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+        </ul>","        <ul class=""cs-footer-links"">
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Regulamin"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Dokumenty"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Dostawa"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Płatność"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Bezpieczne zakupy"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Reklamacje"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+        </ul>",module,Magento_Sample
+"Footer Links - 3","Linki stopki - kolumna 3",module,Magento_Sample
+"        <ul class=""cs-footer-links"">
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Custom Link 3"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item""><a href=""{{store direct_url=""contact""}}"">Contact us</a></li>
+        </ul>","        <ul class=""cs-footer-links"">
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Nasz adres""  template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Mapa"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item"">{{widget type=""Magento\Cms\Block\Widget\Page\Link"" anchor_text=""Odstąpienie od umowy"" template=""widget/link/link_inline.phtml"" page_id=""3""}}</li>
+            <li class=""cs-footer-links__item""><a href=""{{store direct_url=""contact""}}"">Skontaktuj się z nami</a></li>
+        </ul>",module,Magento_Sample
+"Refund Adjustments","Korekty zwrotu",module,Magento_Sample
+"Order Gift Wrapping","Zamów opakowanie prezentów",module,Magento_Sample
+"Item Gift Wrapping","Opakowanie elementu prezentu",module,Magento_Sample
+"Printed Gift Card","Wydrukowana karta upominkowa",module,Magento_Sample
