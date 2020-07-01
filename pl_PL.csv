@@ -26274,3 +26274,7 @@ More,Więcej,module,MageSuite_ContentConstructorFrontend
 "Order Gift Wrapping","Zamów opakowanie prezentów",module,Magento_Sample
 "Item Gift Wrapping","Opakowanie elementu prezentu",module,Magento_Sample
 "Printed Gift Card","Wydrukowana karta upominkowa",module,Magento_Sample
+"Back to category","Wróć do kategorii",module,MageSuite_ProductNavigation
+"Back to results","Wróć do wyników wyszukiwania",module,MageSuite_ProductNavigation
+"Previous product","Poprzedni produkt",module,MageSuite_ProductNavigation
+"Next product","Następny produkt",module,MageSuite_ProductNavigation
