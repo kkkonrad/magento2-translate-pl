@@ -960,7 +960,7 @@ Year,Rok,module,Magento_Catalog
 "WYSIWYG Editor",Edytor,module,Magento_Catalog
 "Add Product","Dodaj produkt",module,Magento_Catalog
 label,etykieta,module,Magento_Catalog
-"Product Attributes","Cechy produktu",module,Magento_Catalog
+"Product Attributes","Atrybuty produktu",module,Magento_Catalog
 "Add New Attribute","Dodaj cechę",module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
 "Save Attribute","Zapisz cechę",module,Magento_Catalog
@@ -1041,7 +1041,7 @@ Empty,Pusty,module,Magento_Catalog
 "Save & New","Zapisz i dodaj nowy",module,Magento_Catalog
 "Save & Duplicate","Zapisz i duplikuj",module,Magento_Catalog
 "Save & Close","Zapisz i zamknij",module,Magento_Catalog
-Attributes,Cechy,module,Magento_Catalog
+Attributes,Atrybuty,module,Magento_Catalog
 Change,Zmień,module,Magento_Catalog
 "Advanced Inventory","Stan magazynowy",module,Magento_Catalog
 Websites,Witryny,module,Magento_Catalog
@@ -1087,7 +1087,7 @@ Quantity,Ilość,module,Magento_Catalog
 Edit,Edytuj,module,Magento_Catalog
 "Are you sure?","Czy na pewno tego chcesz?",module,Magento_Catalog
 "Change Status","Zmień status",module,Magento_Catalog
-"Update Attributes","Aktualizuj cechy",module,Magento_Catalog
+"Update Attributes","Aktualizuj atrybuty",module,Magento_Catalog
 "start typing to search category","zacznij pisać by szukać kategorii",module,Magento_Catalog
 "New Category","Nowa kategoria",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","Obrazki (.gif, .jpg, .png)",module,Magento_Catalog
@@ -1133,7 +1133,7 @@ Categories,Kategorie,module,Magento_Catalog
 "Unable to add attribute","Nie można dodać atrybutu",module,Magento_Catalog
 "Please, specify attributes","Proszę określić cechy",module,Magento_Catalog
 Catalog,Katalog,module,Magento_Catalog
-"Manage Product Attributes","Zarządzaj cechami produktu",module,Magento_Catalog
+"Manage Product Attributes","Zarządzaj atrybutami produktu",module,Magento_Catalog
 "We can't delete the attribute.","Nie można usunąć tego atrybutu.",module,Magento_Catalog
 "You deleted the product attribute.","Atrybut produktu został usunięty.",module,Magento_Catalog
 "We can't find an attribute to delete.","Nie odnaleziono atrybutu.",module,Magento_Catalog
@@ -1897,7 +1897,7 @@ Configurations,Konfiguracje,module,Magento_ConfigurableProduct
 "Attribute Values","Wartości cechy",module,Magento_ConfigurableProduct
 "Bulk Images &amp; Price","Większość obrazów &amp; cena",module,Magento_ConfigurableProduct
 "Create New Attribute","Utwórz nową cechę",module,Magento_ConfigurableProduct
-"Select Attributes","Wybierz cechy",module,Magento_ConfigurableProduct
+"Select Attributes","Wybierz atrybuty",module,Magento_ConfigurableProduct
 Summary,Podsumowanie,module,Magento_ConfigurableProduct
 "Choose an Option...","Wybierz opcję...",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Ta cecha jest używana w konfigurowalnych produktach.",module,Magento_ConfigurableProduct
@@ -1943,7 +1943,7 @@ Price,Cena,module,Magento_ConfigurableProduct
 Quantity,Ilość,module,Magento_ConfigurableProduct
 Weight,Waga,module,Magento_ConfigurableProduct
 Status,Stan,module,Magento_ConfigurableProduct
-Attributes,Cechy,module,Magento_ConfigurableProduct
+Attributes,Atrybuty,module,Magento_ConfigurableProduct
 Actions,Operacje,module,Magento_ConfigurableProduct
 "Custom options with price type ""percent"" is not available for configurable product.","Niestandardowe opcje z ceną typu ""procent"" nie są dostępne dla konfigurowalnego produktu.",module,Magento_ConfigurableProduct
 "This group contains attributes used in configurable products. Please move these attributes to another group and try again.","Ta grupa zawiera cechy użyte w produktach konfigurowalnych. Przenieś te cechy do innej grupy i ponów próbę.",module,Magento_ConfigurableProduct
@@ -1984,7 +1984,7 @@ Select,Wybierz,module,Magento_ConfigurableProduct
 "Apply single quantity to each SKUs","Zastosuj jedną ilości do każdego SKU",module,Magento_ConfigurableProduct
 "Apply unique quantity by attribute to each SKU","Zastosuj indywidualne ilości po atrybucie do każdego SKU",module,Magento_ConfigurableProduct
 "Skip quantity at this time","Pomiń ilość w tej chwili",module,Magento_ConfigurableProduct
-"Step 1: Select Attributes","Krok 1: Wybierz cechy",module,Magento_ConfigurableProduct
+"Step 1: Select Attributes","Krok 1: Wybierz atrybuty",module,Magento_ConfigurableProduct
 "Selected Attributes:","Wybrane cechy:",module,Magento_ConfigurableProduct
 "Step 4: Summary","Krok 4: Podsumowanie",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
@@ -3111,7 +3111,7 @@ Delete,Usuń,module,Magento_ImportExport
 "Custom Action","Akcja niestandardowa",module,Magento_ImportExport
 "Error message","Komunikat błędu",module,Magento_ImportExport
 "URL key for specified store already exists.","Klucz URL dla wybranego sklepu już istnieje.",module,Magento_ImportExport
-"Entity Attributes","Cechy jednostki",module,Magento_ImportExport
+"Entity Attributes","Atrybutyj ednostki",module,Magento_ImportExport
 Continue,Kontynuuj,module,Magento_ImportExport
 "Validation Results","Rezultat walidacji",module,Magento_ImportExport
 "Indexer Management","Zarządzanie indeksacją",module,Magento_Indexer
@@ -7731,7 +7731,7 @@ Design,Wygląd,module,Magento_Backend
 Schedule,Harmonogram,module,Magento_Backend
 "Content translation","Tłumaczenie treści",module,Magento_Backend
 Settings,Ustawienia,module,Magento_Backend
-Attributes,Cechy,module,Magento_Backend
+Attributes,Atrybuty,module,Magento_Backend
 "Other Settings",Inne,module,Magento_Backend
 "Data Transfer","Transfer danych",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
@@ -8212,7 +8212,7 @@ System,System,module,Magento_Catalog
 "Change status","Zmień status",module,Magento_Catalog
 Enable,Włącz,module,Magento_Catalog
 Disable,Wyłącz,module,Magento_Catalog
-"Update attributes","Aktualizuj cechy",module,Magento_Catalog
+"Update attributes","Aktualizuj atrybuty",module,Magento_Catalog
 Overview,Podgląd,module,Magento_Catalog
 "Skip to the end of the images gallery","Przejdź na koniec galerii",module,Magento_Catalog
 "Skip to the beginning of the images gallery","Przejdź na początek galerii",module,Magento_Catalog
@@ -11367,7 +11367,7 @@ SKU,SKU,module,Magento_ConfigurableProductStaging
 Price,Cena,module,Magento_ConfigurableProductStaging
 Quantity,Ilość,module,Magento_ConfigurableProductStaging
 Weight,Waga,module,Magento_ConfigurableProductStaging
-Attributes,Cechy,module,Magento_ConfigurableProductStaging
+Attributes,Atrybuty,module,Magento_ConfigurableProductStaging
 "Attribute Code","Kod cechy",module,Magento_ConfigurableProductStaging
 "Attribute Label","Etykieta cechy",module,Magento_ConfigurableProductStaging
 Required,Wymagane,module,Magento_ConfigurableProductStaging
@@ -11538,7 +11538,7 @@ Properties,Właściwości,module,Magento_CustomerCustomAttributes
 "Visible to Customer","Widoczny dla klienta",module,Magento_CustomerCustomAttributes
 No,Nie,module,Magento_CustomerCustomAttributes
 Yes,Tak,module,Magento_CustomerCustomAttributes
-"Customer Attributes","Cechy klienta",module,Magento_CustomerCustomAttributes
+"Customer Attributes","Atrybuty klienta",module,Magento_CustomerCustomAttributes
 "Edit Customer Attribute ""%1""","Edycja cechy klienta: %1",module,Magento_CustomerCustomAttributes
 "New Customer Attribute","Nowy atrybut klienta",module,Magento_CustomerCustomAttributes
 "This is used internally. Make sure you don't use spaces or more than %1 symbols.","Ta wartość jest używana wewnętrznie. Upewnij się, że nie ma spacji lub więcej niż %1 symboli.",module,Magento_CustomerCustomAttributes
@@ -11559,14 +11559,14 @@ General,Ogólne,module,Magento_CustomerCustomAttributes
 Save,Zapisz,module,Magento_CustomerCustomAttributes
 Remove,Usuń,module,Magento_CustomerCustomAttributes
 Cancel,Anuluj,module,Magento_CustomerCustomAttributes
-Attributes,Cechy,module,Magento_CustomerCustomAttributes
+Attributes,Atrybuty,module,Magento_CustomerCustomAttributes
 "Form Type Information","Formularz typu informacji",module,Magento_CustomerCustomAttributes
 "Type Code","Kod typu",module,Magento_CustomerCustomAttributes
 Label,Etykieta,module,Magento_CustomerCustomAttributes
 Theme,Temat,module,Magento_CustomerCustomAttributes
 System,System,module,Magento_CustomerCustomAttributes
 Customer,Klient,module,Magento_CustomerCustomAttributes
-"Manage Customer Address Attributes","Zarządzanie cechami adresu klienta",module,Magento_CustomerCustomAttributes
+"Manage Customer Address Attributes","Zarządzanie atrybutami adresu klienta",module,Magento_CustomerCustomAttributes
 "You cannot delete this attribute.","Nie można usunąć tego atrybutu.",module,Magento_CustomerCustomAttributes
 "You deleted the customer address attribute.","Usunięto cechę adresu.",module,Magento_CustomerCustomAttributes
 "We can't delete the customer address attribute right now.","W tym momencie nie można usunąć cechy adresu.",module,Magento_CustomerCustomAttributes
@@ -11713,7 +11713,7 @@ Products,Produkty,module,Magento_CustomerSegment
 "Wrong ""ApplyTo"" type","Niewłaściwy typ ""ApplyTo""",module,Magento_CustomerSegment
 Customer,Klient,module,Magento_CustomerSegment
 "If Customer Addresses match %1 of these Conditions:","Jeśli adres klienta spełnia %1 z warunków:",module,Magento_CustomerSegment
-"Address Attributes","Cechy adresu",module,Magento_CustomerSegment
+"Address Attributes","Właściwości adresu",module,Magento_CustomerSegment
 "Customer Address %1","Adres klienta %1",module,Magento_CustomerSegment
 "Default Address","Domyślny adres",module,Magento_CustomerSegment
 Billing,Rozliczenie,module,Magento_CustomerSegment
@@ -11743,7 +11743,7 @@ subscribed,subskrybowało,module,Magento_CustomerSegment
 "Order Status","Stan zamówienia",module,Magento_CustomerSegment
 Any,Dowolny,module,Magento_CustomerSegment
 "Order Status %1 %2:","Status zamówienia %1 %2:",module,Magento_CustomerSegment
-"Product Attributes","Cechy produktu",module,Magento_CustomerSegment
+"Product Attributes","Atrybuty produktu",module,Magento_CustomerSegment
 "Product %1","Produkt %1",module,Magento_CustomerSegment
 "Date Ranges","Zakresy dat",module,Magento_CustomerSegment
 viewed,obejrzało,module,Magento_CustomerSegment
@@ -12300,7 +12300,7 @@ Code,Kod,module,Magento_GiftRegistry
 Label,Etykieta,module,Magento_GiftRegistry
 "Sort Order","Kolejność sortowania",module,Magento_GiftRegistry
 "Is Listed","Znajduje się na liście",module,Magento_GiftRegistry
-Attributes,Cechy,module,Magento_GiftRegistry
+Attributes,Atrybuty,module,Magento_GiftRegistry
 [GLOBAL],[GLOBALNY],module,Magento_GiftRegistry
 [WEBSITE],[WITRYNA],module,Magento_GiftRegistry
 "[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_GiftRegistry
@@ -13784,7 +13784,7 @@ found,znaleziono,module,Magento_Reminder
 "Shopping Cart",Koszyk,module,Magento_Reminder
 "The wish list is not empty and abandoned %1 %2 days and %3 of these conditions match:","Ulubione nie jest pusta i została opuszczona %1 %2 dni i %3 tych warunków:",module,Magento_Reminder
 "The root wish list condition should have a days value of 1 or greater.","Stan listy Ulubionych powinien mieć wartość dni 1 lub większą.",module,Magento_Reminder
-"Product Attributes","Cechy produktu",module,Magento_Reminder
+"Product Attributes","Atrybuty produktu",module,Magento_Reminder
 "Product %1","Produkt %1",module,Magento_Reminder
 "Number of Items","Ilość produktów",module,Magento_Reminder
 "Number of wish list items %1 %2","Liczba elementów Ulubionych %1 %2",module,Magento_Reminder
@@ -14644,7 +14644,7 @@ Password,Hasło,module,Magento_ScheduledImportExport
 "Export File Information","Informacje o pliku eksportu",module,Magento_ScheduledImportExport
 "Export Failed Emails","Eksport wiadomości E-mail nie powiódł się",module,Magento_ScheduledImportExport
 "File Format","Format pliku",module,Magento_ScheduledImportExport
-"Entity Attributes","Cechy jednostki",module,Magento_ScheduledImportExport
+"Entity Attributes","Atrybuty jednostki",module,Magento_ScheduledImportExport
 "Import Settings","Ustawienia importu",module,Magento_ScheduledImportExport
 "Import File Information","Informacje o pliku eksportu",module,Magento_ScheduledImportExport
 "Import Failed Emails","Eksport wiadomości E-mail nie powiódł się",module,Magento_ScheduledImportExport
@@ -15106,7 +15106,7 @@ Model,Model,module,Magento_Support
 "Increment Model","Model obsługi przyrostu",module,Magento_Support
 "Main Table","Główna tabela",module,Magento_Support
 "Additional Attribute Table","Tabela dodatkowych cech",module,Magento_Support
-"New Eav Attributes","Nowe cechy EAV",module,Magento_Support
+"New Eav Attributes","Nowe atrybuty EAV",module,Magento_Support
 "Product Eav Attributes","Cechy EAV produktu",module,Magento_Support
 "Rma Item Eav Attributes","Rma produkt Eav atrybuty",module,Magento_Support
 "User Defined Eav Attributes","Cechy EAV zdefiniowane przez użytkownika",module,Magento_Support
@@ -15256,7 +15256,7 @@ Top,"Na górze",module,Magento_Support
 Data,Dane,module,Magento_Support
 Modules,Moduły,module,Magento_Support
 Logs,Logi,module,Magento_Support
-Attributes,Cechy,module,Magento_Support
+Attributes,Atrybuty,module,Magento_Support
 Events,Zdarzenia,module,Magento_Support
 Cron,Cron,module,Magento_Support
 Design,Wygląd,module,Magento_Support
@@ -15332,7 +15332,7 @@ Up-sells,"Produkty alternatywne",module,Magento_TargetRule
 Cross-sells,"Sprzedaże krzyżowe",module,Magento_TargetRule
 "The attribute's model class name is invalid. Verify the name and try again.","Nazwa klasy modelu atrybutu jest nieprawidłowa. Sprawdź nazwę i spróbuj ponownie.",module,Magento_TargetRule
 "This attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_), and be sure the code begins with a letter.","Kod tej cechy jest nieprawidłowy. Proszę używać tylko liter (a-z), cyfr (0-9) lub podkreślnika (_), oraz upewnić się, że kod zaczyna się od litery.",module,Magento_TargetRule
-"Product Attributes","Cechy produktu",module,Magento_TargetRule
+"Product Attributes","Atrybuty produktu",module,Magento_TargetRule
 "Both Selected and Rule-Based","Zarówno wybrane jak i oparte na regułach",module,Magento_TargetRule
 "Selected Only","Tylko wybrane",module,Magento_TargetRule
 "Rule-Based Only","Oparte tylko na regułach",module,Magento_TargetRule
@@ -25288,16 +25288,16 @@ Edit,Edytuj,module,Vertex_Tax
 "Check Status and Balance","Sprawdź status i równowagę",theme,frontend/Creativestyle/theme-creativeshop
 "To Top","Do góry",theme,frontend/Creativestyle/theme-creativeshop
 "We can't find products matching the query.","Nie możemy znaleźć produktów pasujących do zapytania.",theme,frontend/Creativestyle/theme-creativeshop
-"We are the right partner for you","Jesteśmy dla Ciebie odpowiednim partnerem",theme,frontend/Creativestyle/theme-creativeshop
-"This is why",Dlatego,theme,frontend/Creativestyle/theme-creativeshop
+"We are the right partner for you","Dlaczego zakupy u nas ?",theme,frontend/Creativestyle/theme-creativeshop
+"This is why","Oto dlaczego:",theme,frontend/Creativestyle/theme-creativeshop
 "We will deliver your order without any cost","Dostarczymy twoje zamówienie bez żadnych kosztów",theme,frontend/Creativestyle/theme-creativeshop
 "Safe packing","Bezpieczne pakowanie",theme,frontend/Creativestyle/theme-creativeshop
 "All packages are safely packed with durable boxes","Wszystkie paczki są bezpiecznie zapakowane w trwałe pudełka",theme,frontend/Creativestyle/theme-creativeshop
-Support,"Wsparcie techniczne",theme,frontend/Creativestyle/theme-creativeshop
+Support,"Napisz do nas",theme,frontend/Creativestyle/theme-creativeshop
 "If you have any question or need help just contact us","Jeśli masz jakieś pytania lub potrzebujesz pomocy, skontaktuj się z nami",theme,frontend/Creativestyle/theme-creativeshop
 "Always on time","Zawsze na czas",theme,frontend/Creativestyle/theme-creativeshop
 "Select fast delivery service for 24h shipment","Wybierz usługę szybkiej dostawy dla przesyłki 24h",theme,frontend/Creativestyle/theme-creativeshop
-Service,Usługa,theme,frontend/Creativestyle/theme-creativeshop
+Service,"Gwarancja jakości",theme,frontend/Creativestyle/theme-creativeshop
 "All our products have 2 years warranty service provided by our store","Wszystkie nasze produkty objęte są 2-letnią gwarancją zapewnianą przez nasz sklep",theme,frontend/Creativestyle/theme-creativeshop
 "Measurement on site","Pomiary na miejscu",theme,frontend/Creativestyle/theme-creativeshop
 "Not sure what size to choose? Contact us, we will fit your needs","Nie wiesz, jaki rozmiar wybrać? Skontaktuj się z nami, dopasujemy twoje potrzeby",theme,frontend/Creativestyle/theme-creativeshop
@@ -25632,7 +25632,7 @@ Accounts,Konta,module,Dotdigitalgroup_Email
 "If different from above, provide the text that is displayed on your registration and checkout form to get consent from your customers and guests. If provided, this text will also be displayed in the customer's newsletter subscription page.","Jeśli różni się od powyższego, podaj tekst wyświetlany w formularzu rejestracyjnym i kasowym, aby uzyskać zgodę klientów i gości. Jeśli jest podany, ten tekst będzie również wyświetlany na stronie subskrypcji biuletynu klienta.",module,Dotdigitalgroup_Email
 "Consent text provided on registration, account dashboard and checkout","Treść zgody podany przy rejestracji, panelu konta i kasie",module,Dotdigitalgroup_Email
 "Selected product attribute(s) will be imported in order and catalog syncs.","Wybrane atrybuty produktu zostaną zaimportowane w kolejności i synchronizacji katalogu.",module,Dotdigitalgroup_Email
-"Product Attributes","Cechy produktu",module,Dotdigitalgroup_Email
+"Product Attributes","Atrybuty produktu",module,Dotdigitalgroup_Email
 "The number of hours to wait before expiring an abandoned cart when a contact is pending opt in","Liczba godzin oczekiwania przed wygaśnięciem porzuconego koszyka, gdy kontakt oczekuje na akceptację",module,Dotdigitalgroup_Email
 "Expire Time","Data ważności",module,Dotdigitalgroup_Email
 "Other Text (Will Apply To Other Remaining Text)","Inny tekst (będzie stosowany do pozostałego tekstu)",module,Dotdigitalgroup_Email
@@ -25959,7 +25959,7 @@ ID,ID,module,Smile_ElasticsuiteCatalog
 "Clear all products positions and blacklist status ? All products will be reset to be visible and in 'Automatic Sort'.","Czy wyczyścić wszystkie pozycje produktów i status czarnej listy? Wszystkie produkty zostaną zresetowane, aby były widoczne oraz w ""Sortowaniu automatycznym"".",module,Smile_ElasticsuiteCatalog
 Products,Produkty,module,Smile_ElasticsuiteCatalog
 Categories,Kategorie,module,Smile_ElasticsuiteCatalog
-Attributes,Cechy,module,Smile_ElasticsuiteCatalog
+Attributes,Atrybuty,module,Smile_ElasticsuiteCatalog
 General,Ogólne,module,Smile_ElasticsuiteCore
 "Fulltext Base Settings","Ustawienia podstawowe Fulltext",module,Smile_ElasticsuiteCore
 "Minimum Should Match","Minimum powinno pasować",module,Smile_ElasticsuiteCore
