@@ -9250,7 +9250,7 @@ To,Do,module,Magento_SalesRule
 Apply,Zastosuj,module,Magento_SalesRule
 "Discount Amount",Zniżka,module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Maksymalna zniżka ilościowa jest stosowana dla",module,Magento_SalesRule
-"Discount Qty Step (Buy X)","Kroki ilości zniżek (kup X)",module,Magento_SalesRule
+"Discount Qty Step (Buy X)","Krok zniżki (kup X)",module,Magento_SalesRule
 "Discount amount is applied to subtotal only","Kwota rabatu dotyczy tylko sumy częściowej",module,Magento_SalesRule
 "Discount amount is applied to subtotal and shipping amount separately","Kwota rabatu jest stosowana oddzielnie do kwoty częściowej i wysyłki",module,Magento_SalesRule
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRule
@@ -14579,7 +14579,7 @@ Actions,Operacje,module,Magento_SalesRuleStaging
 Apply,Zastosuj,module,Magento_SalesRuleStaging
 "Discount Amount",Zniżka,module,Magento_SalesRuleStaging
 "Maximum Qty Discount is Applied To","Maksymalna zniżka ilościowa jest stosowana dla",module,Magento_SalesRuleStaging
-"Discount Qty Step (Buy X)","Kroki ilości zniżek (kup X)",module,Magento_SalesRuleStaging
+"Discount Qty Step (Buy X)","Krok zniżki (kup X)",module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Zastosuj do kosztu dostawy",module,Magento_SalesRuleStaging
 "Discard subsequent rules","Odrzuć kolejne reguły",module,Magento_SalesRuleStaging
 Labels,Etykiety,module,Magento_SalesRuleStaging
