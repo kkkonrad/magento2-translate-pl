@@ -26278,3 +26278,615 @@ More,Więcej,module,MageSuite_ContentConstructorFrontend
 "Back to results","Wróć do wyników wyszukiwania",module,MageSuite_ProductNavigation
 "Previous product","Poprzedni produkt",module,MageSuite_ProductNavigation
 "Next product","Następny produkt",module,MageSuite_ProductNavigation
+"Description Extra","Dodatkowy opis",module,Magento_Sample
+"Video File","Plik wideo",module,Magento_Sample
+"Has Video","Ma wideo",module,Magento_Sample
+"14K Gold","14K złoto",module,Magento_Sample
+"Sterling Silver","Srebro standardowe",module,Magento_Sample
+Acrylic,Akryl,module,Magento_Sample
+Cashmere,Kaszmir,module,Magento_Sample
+Silk,Jedwab,module,Magento_Sample
+Viscose,Wiskoza,module,Magento_Sample
+"Above Knee","Nad kolanem",module,Magento_Sample
+"Below Knee","Poniżej kolana",module,Magento_Sample
+"Ankle Length","Długość kostki",module,Magento_Sample
+"Halter Top","Halter Top",module,Magento_Sample
+"Short Sleeve","Krótki rękaw",module,Magento_Sample
+"Long Sleeve","Długi rękaw",module,Magento_Sample
+"3/4 Sleeve","Rękaw 3/4",module,Magento_Sample
+"Slim Fit","XXX Slim Fit",module,Magento_Sample
+"Wide Leg","Szerokie nogawki",module,Magento_Sample
+"Full Length","Pełna długość",module,Magento_Sample
+"Straight Leg","Noga prosta",module,Magento_Sample
+"Open Front","Otwarty przód",module,Magento_Sample
+Scoopneck,Scoopneck,module,Magento_Sample
+Button-down,"Zapinana na guziki",module,Magento_Sample
+Infinity,Nieskończoność,module,Magento_Sample
+Braided,Spleciony,module,Magento_Sample
+Lasercut,"Cięcie laserowe",module,Magento_Sample
+Woven,Tkanina,module,Magento_Sample
+Peach,Brzoskwinia,module,Magento_Sample
+Lilac,Liliowy,module,Magento_Sample
+Rain,Deszcz,module,Magento_Sample
+Mint,Miętowy,module,Magento_Sample
+Lily,Lilia,module,Magento_Sample
+Latte,Latte,module,Magento_Sample
+Cocoa,Kakao,module,Magento_Sample
+2,2,module,Magento_Sample
+4,4,module,Magento_Sample
+6,6,module,Magento_Sample
+8,8,module,Magento_Sample
+10,10,module,Magento_Sample
+12,12,module,Magento_Sample
+Dresses,Sukienki,module,Magento_Sample
+"Fashion Accessories","Akcesoria modowe",module,Magento_Sample
+"Fashion Bottoms","Modne spodnie",module,Magento_Sample
+"Fashion Tops","Modne ubrania",module,Magento_Sample
+Accessories,Akcesoria,module,Magento_Sample
+Belts,Paski,module,Magento_Sample
+Jewelry,Biżuteria,module,Magento_Sample
+Scarves,Szaliki,module,Magento_Sample
+"Blouses & Shirts","Bluzki i koszule",module,Magento_Sample
+Sweaters,Swetry,module,Magento_Sample
+"Pants & Shorts","Spodnie i szorty",module,Magento_Sample
+Skirts,Spódnice,module,Magento_Sample
+"Shop The Look","Kupuj wygląd",module,Magento_Sample
+"Minimalist Sensibility","Minimalistyczna wrażliwość",module,Magento_Sample
+"Outside the Lines","Poza liniami",module,Magento_Sample
+"Carefree Days","Beztroskie dni",module,Magento_Sample
+"Perfectly Beachy","Idealnie Beachy",module,Magento_Sample
+"Retire your LBD","Wycofaj LBD",module,Magento_Sample
+"Timeless Sophistication","Ponadczasowa finezja",module,Magento_Sample
+Necklace,Naszyjnik,module,Magento_Sample
+"Cirque Earrings","Kolczyki Cirque",module,Magento_Sample
+"Sol Earrings","Kolczyki Sol",module,Magento_Sample
+Bangles,Bransoletki,module,Magento_Sample
+"<p>Gold & coral chandelier earrings.</p><ul><li>2.5 inch length</li><li>18K gold</li><li>Fish hook style</li></ul>","<p>Złote i koralowe kolczyki żyrandolowe.</p><ul><li>Długość 2,5 cala</li><li>18-karatowe złoto</li><li>W stylu haczyka na ryby</li></ul>",module,Magento_Sample
+"<p>Silver & aqua chandelier earrings.</p><ul><li>2.5 inch length</li><li>Sterling silver</li><li>Fish hook style</li></ul>","<p>Srebrne i turkusowe kolczyki żyrandolowe.</p><ul><li>Długość 2,5 cala</li><li>Srebro próby 925</li><li>W stylu haczyka na ryby</li></ul>",module,Magento_Sample
+"<p>A medley of brightly colored glass seed beads.</p><ul><li>20 inch length</li><li>Goldtone</li><li>Lobster clasp</li></ul>","<p>Składanka kolorowych koralików szklanych.</p><ul><li>Długość 20 cali</li><li>Goldtone</li><li>Zapięcie homara</li></ul>",module,Magento_Sample
+"<p>A medley of brightly colored glass seed beads.</p><ul><li>20 inch length</li><li>Silvertone</li><li>Lobster clasp</li></ul>","<p>Kompilacja kolorowych koralików szklanych.</p><ul><li>Długość 20 cali</li><li>Silvertone</li><li>Zapięcie klasyczne</li></ul>",module,Magento_Sample
+"<p>Simple, elegant silver stud earrings. </p><ul><li>3/8 inch diameter </li><li>Sterling silver</li><li>Post back</li></ul>","<p>Proste, eleganckie srebrne kolczyki sztyfty.</p><ul><li>Średnica 3/8 cala</li><li>Srebro standardowe</li><li>Opublikuj z powrotem</li></ul>",module,Magento_Sample
+"<p>Simple, elegant gold stud earrings.</p><ul><li>3/8 inch diameter </li><li>18K gold</li><li>Post back</li></ul>","<p>Proste, eleganckie złote kolczyki na sztyfcie.</p><ul><li>Średnica 3/8 cala</li><li>18-karatowe złoto</li><li>Post z powrotem</li></ ul >",module,Magento_Sample
+"<p>Simple, silver hoop earrings complement every outfit without feeling overstated. </p><ul><li>1.5 inch diameter</li><li>Silver-plated</li><li>Snap-top closure</li></ul>","<p>Proste, srebrne kolczyki w kształcie kółek uzupełniają każdy strój bez uczucia przesady.</p><ul><li>Średnica 1,5 cala</li><li>Posrebrzane</li><li>Zamknięcie na zatrzask</li></ul>",module,Magento_Sample
+"<p>Simple, gold hoop earrings complement every outfit without feeling overstated. </p><ul><li>1.5 inch diameter</li><li>14K gold</li><li>Snap-top closure</li></ul>","<p>Proste, złote kolczyki w kształcie kółek uzupełniają każdą stylizację bez uczucia przesady.</p><ul><li>1,5 cala średnicy</li><li>14K złoto</li><li>Zamknięcie na zatrzask</li></ul>",module,Magento_Sample
+"<p>Made for mixing & matching, these bangles can be worn simply or with additional bracelets for more advanced accessorizing. </p><ul><li>Set of 8</li><li>7 inch diameter</li><li>14K gold</li></ul>","<p>Stworzone do mieszania i dopasowywania, te bransoletki można nosić po prostu lub z dodatkowymi bransoletkami, aby uzyskać bardziej zaawansowane akcesoria.</p><ul><li>Zestaw 8 sztuk</li><li>7 cali średnicy</li><li>14K złota</li></ul>",module,Magento_Sample
+"<p>Made for mixing & matching, these bangles can be worn simply or with additional bracelets for more advanced accessorizing. </p><ul><li>Set of 20</li><li>7 inch diameter</li><li>14K gold</li></ul>","<p>Te bransoletki, stworzone do mieszania i dopasowywania, można nosić po prostu lub z dodatkowymi bransoletkami, aby uzyskać bardziej zaawansowane akcesoria.</p><ul><li>Zestaw 20 sztuk</li><li>7 cali średnicy</li><li>14K złoto</li></ul>",module,Magento_Sample
+"<p>Made for mixing & matching, these bangles can be worn simply or with additional bracelets for more advanced accessorizing. </p><ul><li>Set of 2</li><li>6.5 inch diameter</li><li>14K gold, onyx, turquoise</li></ul>","<p>Te bransoletki, stworzone do mieszania i dopasowywania, można  nosić z dodatkowymi bransoletkami, aby uzyskać bardziej zaawansowane akcesoria.</p><ul><li>Zestaw 2 sztuk</li><li>6,5 cala średnicy</li><li>14K złoto, onyks, turkus</li></ul>",module,Magento_Sample
+"<p>Made for mixing & matching, these bangles can be worn simply or with additional bracelets for more advanced accessorizing. </p><ul><li>Set of 4</li><li>7.5 inch diameter</li><li>Sterling Silver</li></ul>","<p>Te bransoletki, stworzone do miksowania i dopasowywania, można nosić po prostu lub z dodatkowymi bransoletkami, aby uzyskać bardziej zaawansowane akcesoria.</p><ul><li>Zestaw 4 sztuk</li><li>7,5 cala średnicy</li><li>Srebro Sterling</li></ul>",module,Magento_Sample
+"<p>Indulge in our personal styling service that uses a combination of expert stylists and technology to handpick apparel and accessories based on your budget, size and style. This is a great treat for yourself, or someone you think may need a little style intervention. ;-)</p><p>Quantity is per 15 minute consultation</p>","<p>Zanurz się w naszej usłudze stylizacji osobistej, która wykorzystuje połączenie profesjonalnych stylistów i technologii do doboru odzieży i akcesoriów na podstawie Twojego budżetu, rozmiaru i stylu. To świetna uczta dla Ciebie lub kogoś, kogo uważasz, że może potrzebować niewielkiej interwencji stylistycznej. ;-)</p><p>Ilość dotyczy 15 minut konsultacji</p>",module,Magento_Sample
+"Tired of stressing over the right accessory combination? We’ve done the work for you. All combinations shown here have been vetted and tested out on the town by our in-house stylists.","Masz dość stresu związanego z odpowiednią kombinacją akcesoriów? Wykonaliśmy dla Ciebie pracę. Wszystkie pokazane tutaj kombinacje zostały sprawdzone i przetestowane w mieście przez naszych wewnętrznych stylistów.",module,Magento_Sample
+"<p>If you have a passion for life and letting the breeze take you where it may, Salt Water is your ultimate must-have resource. You'll find it all here:</p>
+<ul>
+<li>Outfitting ideas that bring a breath of the shore inside your closet</li>
+<li>Local fashion flavors from communities all over the globe</li>
+<li>Balance, strength and endurance.</li>
+<li>Dream destinations and the color palettes they inspire.</li>
+</ul>","<p>Jeśli pasjonujesz się życiem i pozwalasz, by wiatr zabrał Cię dokądkolwiek się da, słona woda jest Twoim niezbędnym źródłem. Znajdziesz to wszystko tutaj:</p>
+<ul>
+<li>Pomysły na wyposażenie, które wprowadzą powiew świeżej bryzy do Twojej szafy</li>
+<li>Lokalne smaki mody pochodzące od społeczności z całego świata</li>
+<li>Równowaga, siła i wytrzymałość.</li>
+<li>Wymarzone miejsca docelowe i inspirowane nimi palety kolorów.</li>
+</ul>",module,Magento_Sample
+"This trio is designed for versatility. Brighten up a simple look or add another layer of “wow” to an already vibrant ensemble. Go as big and bold, or understated as you're in the mood to be.","To trio zostało zaprojektowane z myślą o wszechstronności. Rozjaśnij prosty wygląd lub dodaj kolejną warstwę ""wow"" do już żywego zespołu. Idź tak duży i odważny lub skromny, jak masz ochotę.",module,Magento_Sample
+"<p>The Jillian Top takes a wardrobe essential and kicks it up a notch with soft, heathered material and lace detail. Next time you feel like wearing a t-shirt, grab this instead. Comfort can look this good.  </p><p>Features:</p><ul><li>Crewneck</li><li>Capped sleeve</li><li>Sits on the hips</li><li>Longer back hemline</li><li>Machine wash, line dry</li></ul>","<p>Bluzka Jillian to niezbędny element garderoby. Podkreśla ją miękkim, ciepłym materiałem i koronkowymi detalami. Następnym razem, gdy będziesz mieć ochotę założyć koszulkę, weź ją. Komfort może wyglądać tak dobrze.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Krótki rękaw</li><li>Oparty na biodrach</li><li>Dłuższy tył z tyłu</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Valeria Tank features two layers of possibility. The loose fit flatters without impacting comfort and the tiered material hangs beautifully. Wear alone or add a belt for a little more definition. </p><p>Features:</p><ul><li>Scoop neck</li><li>Sleeveless</li><li>Sits below the hips</li><li>Two layers</li><li>Machine wash, tumble dry low</li></ul>","<p>Valeria Tank ma dwie możliwości. Luźny krój schlebia bez wpływu na wygodę, a warstwowy materiał pięknie się układa. Noś samodzielnie lub dodaj pasek, aby uzyskać trochę więcej wyrazu.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Bez rękawów</li><li>Siada poniżej bioder</li><li>Dwie warstwy </li><li>Prać w pralce, suszyć w suszarce bębnowej w niskiej temperaturze</li></ul>",module,Magento_Sample
+"<p>The Vitalia Top is all about mixing it up. An interesting mix of cotton &amp; rayon materials makes this top hard to pin down. Wear it casual or dress it up. There are no rules here. </p><p>Features:</p><ul><li>V-neck</li><li>Capped sleeve</li><li>Sits on the hips</li><li>Faux wrap detail</li><li>Dry clean recommended</li></ul>","<p>W Vitalia Top chodzi o to, aby to połączyć. Ciekawa mieszanka bawełny i sztucznego jedwabiu sprawia, że ​​ten top jest trudny do przypięcia. Noś go na co dzień lub ubierz. Nie ma tu żadnych zasad.</p><p>Cechy :</p><ul><li>V- dekolt</li><li>Zakryte rękawy</li><li>Oparte na biodrach</li><li>Sztuczne szczegóły zawijania</li><li>zalecane czyszczenie chemiczne</li></ul>",module,Magento_Sample
+"<p>The Emilia Lace Top is made to spice up your wardrobe without making you feel uncomfortable. Gorgeous open lace detail, back buttons, and the fun, cropped length will give you a little extra pep in your step.  </p><p>Features:</p><ul><li>Crewneck </li><li>Button down back</li><li>Short sleeve</li><li>Cropped</li><li>Dry clean recommended</li></ul>","<p>Top Emilia Lace jest stworzony, aby urozmaicić Twoją garderobę, nie wywołując przy tym dyskomfortu. Cudowny, otwarty detal z koronki, guziki z tyłu i zabawna, przycięta długość dodadzą Ci trochę energii na Twoim kroku.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Zapięcie na guziki z tyłu</li><li>Krótki rękaw</li><li>Przycięte</ li ><li>Zalecane czyszczenie chemiczne</li></ul>",module,Magento_Sample
+"<p>The Aurora Blouse is ready to go wherever you are. This top is wrinkle resistant, so it packs beautifully and hangs perfectly. Tabbed detail at the shoulders and dual pockets offer just the right amount of thoughtful design. </p><p>Features:</p><ul><li>Button down</li><li>Sleeveless </li><li>Falls below the hips</li><li>Shoulder tabs, pockets</li><li>Dry clean recommended</li></ul>","<p>Bluzka Aurora jest gotowa do użycia, gdziekolwiek jesteś. Ten top jest odporny na zmarszczki, dzięki czemu pięknie się pakuje i doskonale się zawiesza. Detale z zakładkami na ramionach i podwójne kieszenie zapewniają odpowiednią ilość przemyślanego projektu.</p><p>Cechy :</p><ul><li>Przycisk w dół</li><li>Bez rękawów</li><li>Opada poniżej bioder</li><li>Zakładki na ramiona, kieszenie</li><li>zalecane czyszczenie chemiczne</li></ul>",module,Magento_Sample
+"<p>The Serena Blouse is made with a silk rayon blend that will keep you feeling light and airy. Resistant to watermarks, you can feel confident in any temperature while looking flawless. </p><p>Features:</p><ul><li>Button down</li><li>Sleeveless </li><li>Sits at the hips</li><li>Spread collar</li><li>Dry clean recommended</li></ul>","<p>Bluzka Serena jest uszyta z mieszanki jedwabiu, która zapewni Ci lekkość i przewiewność. Odporny na znaki wodne, możesz czuć się pewnie w każdej temperaturze i wyglądać nieskazitelnie.</p><p>Cechy :</p><ul><li>Na guziki</li><li>Bez rękawów</li><li>Siedzi na biodrach</li><li>Rozciągany kołnierz </li><li>Zalecane czyszczenie chemiczne</li></ul>",module,Magento_Sample
+"<p>The Isabella Blouse is a wonderful balance of grace and comfort. The attention to detail is notable, from the open design along the shoulders, to the perfectly placed seams, to the peplum waist. </p><p>Features:</p><ul><li>Button down</li><li>Sleeveless </li><li>Sits at the waist</li><li>Open design along the shoulders</li><li>Dry clean recommended</li></ul>","<p>Bluzka Isabella to wspaniała równowaga między wdziękiem a wygodą. Uwagę zwraca dbałość o szczegóły, od otwartego kroju wzdłuż ramion, przez idealnie dopasowane szwy, aż po talię typu peplum.</p><p>Cechy :</p><ul><li>Na guziki</li><li>Bez rękawów</li><li>Siedzi w talii</li><li>Otwarty krój wzdłuż ramiona</li><li>Zalecane pranie chemiczne</li></ul>",module,Magento_Sample
+"<p>The Cora Tank carries intrigue both coming and going. The delicate lace panel in the front, the slight a-line form, and the open back design make this top a target for compliments galore.  </p><p>Features:</p><ul><li>Crewneck</li><li>Sleeveless </li><li>Sits at the waist</li><li>Front lace panel and open back</li><li>Hand wash, line dry</li></ul>","<p>Cora Tank intryguje każdego. Delikatny koronkowy panel z przodu, lekka linia w kształcie litery A i otwarty tył sprawiają, że ten top jest celem dla wielu koneserów mody.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Bez rękawów</li><li>Układa się doskonale w talii</li><li>Koronkowy panel z przodu i z tyłu</li><li>Pierz ręczne, susz na sznurku</li></ul>",module,Magento_Sample
+"<p>The Anna Draped Top hangs beautifully in the all the right places. The soft, sheer material offers graceful lines and seamless movement. Back lace detail and tie at the neckline complete the look.  </p><p>Features:</p><ul><li>Draped neckline</li><li>Capped sleeves</li><li>Hits at the hips</li><li>Lace detail back &amp; tie neckline</li><li>Hand wash, line dry</li></ul>","<p>Anna Draped Top pięknie wisi we wszystkich odpowiednich miejscach. Miękki, prześwitujący materiał zapewnia wdzięczne linie i płynny ruch. Koronkowy detal z tyłu i wiązanie przy dekolcie dopełniają całości.</p><p>Cechy :</p><ul><li>Drapowany dekolt</li><li>Zakryte rękawy</li><li>Układa się w biodrach</li><li>Koronkowe detale i dekolt</li><li>pranie ręczne, suszenie na sznurku</li></ul>",module,Magento_Sample
+"<p>The Susana Draped Tank is made of heathered jersey material and flaunts a draped, wrapover front. This sleeveless top doesn't sacrifice comfort for style. Yes, you can have it all. </p><p>Features:</p><ul><li>V-neck</li><li>Sleeveless</li><li>Hits at the waist</li><li>Wrapover front</li><li>Machine wash, line dry</li></ul>","<p>Drapowany podkoszulek Susana jest wykonany z ciepłego golfu i prezentuje fałdowany, zawijany przód. Ten top bez rękawów nie rezygnuje z komfortu na rzecz stylu. Tak, możesz mieć to wszystko.</p><p>Cechy :</p><ul><li>V- dekolt</li><li>bez rękawów</li><li>Uderzenia w talii</li><li>Przód z garderoby</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Chloe Shell is stunning on its own or as a layering piece. Made with soft, silk blend fabric, this top is flattering on every body type. The cap sleeves and detailed stitching offer just the right amount of femininity.  </p><p>Features:</p><ul><li>Scoop neck</li><li>Capped sleeve</li><li>Hits below the waist</li><li>Stitching detail</li><li>Dry clean only </li></ul>","<p>Chloe Shell jest oszałamiający sam w sobie lub jako element warstwowy. Uszyty z miękkiej mieszanki jedwabiu, ten top pasuje do każdego typu sylwetki. Rękawy cap i szczegółowe szwy zapewniają odpowiedni powiew kobiecości.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Zakryte rękawy</li><li>Uderzenia poniżej talii</li><li>Szwy</li><li>Tylko czyścić chemicznie</li></ul>",module,Magento_Sample
+"<p>The Penelope Peasant Blouse will quickly become one of the most versatile pieces of your wardrobe. The classic sheer gauze material is a nod to this timeless style. Accessorize and make it your own.</p><p>Features:</p><ul><li>Crewneck</li><li>Long sleeve</li><li>Hits below the waist</li><li>Keyhole detail</li><li>Machine, line dry</li></ul>","<p>Bluzka Penelope Peasant szybko stanie się jednym z najbardziej uniwersalnych elementów Twojej garderoby. Klasyczny, prześwitujący materiał z gazy to ukłon w stronę tego ponadczasowego stylu. Uzupełnij i stwórz własny.</p><p>Cechy:</p><ul><li>Bluza</li><li>Długi rękaw</li><li>Hity poniżej talii</ li ><li>Bogata w detale</li><li>Pierz w pralce, linia sucha</li></ul>",module,Magento_Sample
+"<p>The Lorena Cardigan is a simple way to dress up any outfit while remaining comfortable. Wide sleeves provide ease of movement while the back offers beautiful inset floral detail. </p><p>Features:</p><ul><li>Open front</li><li>Short sleeve</li><li>Hits low on the hips</li><li>Back inset detail</li><li>Hand wash, line dry</li></ul>","<p>Kardigan Lorena to prosty sposób na ubieranie się w każdy strój, pozostając jednocześnie wygodnym. Szerokie rękawy zapewniają swobodę ruchów, a na plecach piękne kwiatowe wstawki.</p><p>Cechy :</p><ul><li>Otwarty przód</li><li>Krótki rękaw</li><li>Uderzenia nisko w biodrach</li><li>Tył ze wstawką z detalami</li><li>Prać ręcznie, wysuszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Echo Sweater is sure to become your favorite weekend staple. Soft material and easy fit make it the perfect option for reading a book on the deck, or grabbing a cup of coffee with a friend. </p><p>Features:</p><ul><li>Crewneck</li><li>3/4 sleeve</li><li>Sits below waist</li><li>Two front pockets</li><li>Machine wash, line dry</li></ul>","<p>Sweter Echo z pewnością stanie się Twoim ulubionym dodatkiem na weekend. Miękki materiał i łatwe dopasowanie sprawiają, że jest to idealna opcja do czytania książki na pokładzie lub na filiżankę kawy z przyjacielem.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Rękaw 3/4</li><li>Układa się poniżej talii</li><li>Dwie kieszenie z przodu</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Corina Sweater is delicate and sweet with a hint of mystique. This heathered knit beauty has an inset lace back that is slightly unexpected. You'll be looking for opportunities to walk away.  </p><p>Features:</p><ul><li>Crewneck</li><li>3/4 sleeve</li><li>Cropped</li><li>Back lace detail</li><li>Dry clean only</li></ul>","<p>Sweter Corina jest delikatny i słodki z nutą mistycyzmu. Ta dzianinowa piękność ma wstawkę z koronki, która jest nieco nieoczekiwana. Będziesz szukał okazji do odejścia.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Rękaw 3/4</li><li>Przycięty</li><li>Koronkowy detal z tyłu </li><li>Tylko czyścić chemicznie</li></ul>",module,Magento_Sample
+"<p>The Helena Cardigan is understated yet elegant. Great for keeping you warm without feeling constricted. The soft lines of this sweater provide endless comfort while keeping you looking flawless.  </p><p>Features:</p><ul><li>Open front</li><li>Long sleeve</li><li>Sits below the hip</li><li>Loose fit</li><li>Machine wash, line dry</li></ul>","<p>Cardigan Helena jest skromny, a jednocześnie elegancki. Doskonały do ​​utrzymywania ciepła bez uczucia ściśnięcia. Miękkie linie tego swetra zapewniają niekończący się komfort, jednocześnie zachowując doskonały wygląd.</p><p>Cechy :</p><ul><li>Otwarty przód</li><li>Długi rękaw</li><li>Układa się poniżej bioder</li><li>Luźny krój</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Roxana Sweater will perk your closet right up. This bold boucle top is the right choice for those days when you're seeking a sunny disposition. Soft fabric and loose fit will keep you feeling good. </p><p>Features:</p><ul><li>Crewneck</li><li>Long sleeve</li><li>Cropped</li><li>Loose fit</li><li>Machine wash, line dry</li></ul>","<p>Sweter Roxana od razu ożywi Twoją szafę. Ten odważny kręcony top  to właściwy wybór na te dni, kiedy szukasz słonecznej atmosfery. Miękki materiał i luźny krój zapewnią Ci dobre samopoczucie.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Długi rękaw</li><li>Przycięty</li><li>Luźny krój</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Brigid Cardigan brings texture and richness to any outfit. Perfect over a tank and jeans or your favorite sundress. This sweater can be dressed up or down depending on your mood. </p><p>Features:</p><ul><li>Open front</li><li>3/4 sleeve</li><li>Sit below the hip</li><li>Versatile</li><li>Machine wash, line dry</li></ul>","<p>Brigid Cardigan wnosi teksturę i bogactwo do każdego stroju. Idealne na podkoszulek i dżinsy lub ulubioną sukienkę. Ten sweter można ubrać lub ubrać w zależności od nastroju.</p><p>Cechy :</p><ul><li>Otwarty przód</li><li>3/4 rękaw</li><li>Usiądź poniżej bioder</li><li>Wszechstronny</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Sabina Cardigan is perfect for those days when you want to look good without a whole lot of effort. Breathable cotton combined with a hood and pockets will have you looking perfectly put together.</p><p>Features:</p><ul><li>Open front</li><li>Long sleeve</li><li>Hits just below the waist</li><li>Hooded, side pockets</li><li>Dry clean recommended</li></ul>","<p>Kardigan Sabina jest idealny na te dni, kiedy chcesz dobrze wyglądać bez większego wysiłku. Oddychająca bawełna w połączeniu z kapturem i kieszeniami sprawi, że będziesz wyglądać idealnie.</p><p>Cechy:</p><ul><li>Otwarty przód</li><li>Długi rękaw</li><li>Układa się tuż poniżej talii</li><li>Kieszenie boczne z kapturem</li><li>Zalecane pranie chemiczne</li></ul>",module,Magento_Sample
+"<p>The Hanna Sweater will make you feel like you're sitting overlooking the ocean, no matter where you are. This sheer cotton sweater is fabulous over a tank top and feels perfectly beachy. </p><p>Features:</p><ul><li>Crewneck</li><li>3/4 sleeve</li><li>Hits just below the waist</li><li>Great for layering</li><li>Machine wash, line dry</li></ul>","<p>Sweter Hanna sprawi, że poczujesz się, jakbyś siedział z widokiem na ocean, bez względu na to, gdzie jesteś. Ten prześwitujący bawełniany sweter jest fantastyczny na podkoszulek i idealnie plażowy.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Rękaw 3/4</li><li>Uderzenia tuż poniżej talii</li><li>Doskonały do ​​nakładania warstw</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Rosalina Cardigan is the definition of easy going. This lightweight cotton sweater has a fun little swing and just enough extra material to wrap it around you a little tighter when the temperature requires. </p><p>Features:</p><ul><li>Open front </li><li>Long sleeve</li><li>Hits below the hip</li><li>Great with a belt</li><li>Machine wash, line dry</li></ul>","<p>Kardigan Rosalina to definicja beztroski. Ten lekki bawełniany sweter ma zabawną małą huśtawkę i wystarczającą ilość dodatkowego materiału, aby owinąć go trochę mocniej, gdy wymaga tego temperatura.</p><p>Cechy :</p><ul><li>Otwarty przód</li><li>Długi rękaw</li><li>Układa się poniżej bioder</li><li>Pasuje z paskiem</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Phoebe Cardigan is a great addition to any tank dress. Perfect to have for those warm days that turn into chilly nights. Keeps arms warm without hiding what you're wearing underneath.</p><p>Features:</p><ul><li>Open front </li><li>Short sleeve</li><li>Hits mid-thigh</li><li>Great with a belt</li><li>Machine wash, line dry</li></ul>","<p>Kardigan Phoebe to wspaniały dodatek do każdej sukienki na ramiączkach. Idealny na te ciepłe dni, które zamieniają się w chłodne noce. Zapewnia ciepło ramionom bez chowania tego, co masz na sobie.</p><p>Cechy:</p><ul><li>Otwarty przód</li><li>Krótki rękaw</li><li>Świetne z paskiem</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Juno Sweater is a good time waiting to happen. This fun &amp; functional two-layer cotton sweater combines subtlety with a hint of bold personality. Pair with shorts or jeans and get outside.</p><p>Features:</p><ul><li>Two layer open weave</li><li>Long sleeve</li><li>Sits on the hip</li><li>Fitted </li><li>Machine wash, line dry</li></ul>","<p>Sweter Juno to dobry czas na czekanie. Ten zabawny i funkcjonalny dwuwarstwowy sweter bawełniany łączy w sobie subtelność z nutą odważnej osobowości. Połącz ze spodenkami lub dżinsami i wyjdź na zewnątrz.</p><p>Cechy:</p><ul><li>Dwuwarstwowy splot otwarty</li><li>Długi rękaw</li><li>Siada biodra</li><li>Dopasowane</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Carina Cardigan is the perfect complement to a breezy summer evening. The loose knit, lightweight cotton fabric moves with you and provides just the right amount of breathable warmth.</p><p>Features:</p><ul><li>Open front </li><li>3/4 sleeve</li><li>Tapered to hip </li><li>Specked design </li><li>Dry clean recommended </li></ul>","<p>Kardigan Carina to idealne uzupełnienie wietrznego letniego wieczoru. Luźna dzianina, lekka bawełniana tkanina porusza się wraz z Tobą i zapewnia odpowiednią ilość oddychającego ciepła.</p><p>Cechy:</p><ul><li>Otwarty przód</li><li>3/4 rękawy</li><li>Zwężane do bioder</li><li>Cętkowany krój</li><li>Zalecane pranie chemiczne</li></ul>",module,Magento_Sample
+"<p>The Isadora Skirt has just the right amount of flounce to make it playful and yet still chic. Lovely wrap detail and draped layering in the front add a bit of sophistication to the lush print. </p><p>Features:</p><ul><li>Side zip</li><li>Length: 17""</li><li>Hits mid thigh</li><li>Set on waist</li><li>Dry clean recommended</li></ul>","<p>Spódnica Isadora ma odpowiednią ilość falbanki, aby była zabawna, a jednocześnie szykowna. Urocze zawijane detal i fałdowane warstwy z przodu dodają nieco wyrafinowania bujnemu nadrukowi.</p><p>Cechy :</p><ul><li>Boczny zamek</li><li>Długość: 17 ""</li><li>Układa się do połowy uda</li><li>Komplet w pasie</li><li>zalecane pranie chemiczne</li></ul>",module,Magento_Sample
+"<p>The Pomona Skirt lets you appear slightly wild, while still maintaining your composure. You don't need to do much in seeking a companion for this skirt. A simple tank or tee will do.   </p><p>Features:</p><ul><li>Pull on</li><li>Length: 43""</li><li>Hits below ankle</li><li>Elastic waistband</li><li>Machine wash, line dry</li></ul>","<p>Spódnica Pomona pozwala wyglądać nieco dziko, zachowując jednocześnie spokój. Nie musisz wiele robić, szukając towarzyszki dla tej spódnicy. Wystarczy zwykły czołg lub koszulka.</p><p>Cechy :</p><ul><li>Naciągnij</li><li>Długość: 43 ""</li><li>Trafienia poniżej kostki</li><li>Elastyczny pas</li><li>Prać w pralce, suszyć na linii</li></ul>",module,Magento_Sample
+"<p>The Samara Skirt has a nice fit and flare feel to it. It hugs closely down through the hips and gracefully extends down past the ankles. The jersey material and complex pattern compliment every figure. </p><p>Features:</p><ul><li>Pull on</li><li>Length: 43""</li><li>Hits below ankle</li><li>Elastic waistband</li><li>Machine wash, line dry</li></ul>","<p>Spódnica Samara jest przyjemnie dopasowana i rozszerzana. Przylega ściśle do bioder i wdzięcznie sięga za kostki. Dżersejowy materiał i złożony wzór doskonale pasują do każdej sylwetki.</p><p>Cechy :</p><ul><li>Naciągnij</li><li>Długość: 43 ""</li><li>Układa się poniżej kostki</li><li>Elastyczny pas</li><li>Prać w pralce, suszyć na linii</li></ul>",module,Magento_Sample
+"<p>The Iona Skirt is quite unique. Its lines are generous and flattering, without hugging the body too close. Pleating in the front as well as two long walking slits make this skirt extremely easy to wear. </p><p>Features:</p><ul><li>Pull on</li><li>Length: 42""</li><li>Hits below ankle</li><li>Front walking slits</li><li>Machine wash, line dry</li></ul>","<p>Spódnica Iona jest wyjątkowa. Jej linie są hojne i eleganckie, bez zbytniego przystawania do ciała. Plisowanie z przodu oraz dwa długie rozcięcia do chodzenia sprawiają, że ta spódnica jest niezwykle łatwa w noszeniu.</p><p>Cechy :</p><ul><li>Naciągnij</li><li>Długość: 42 cale</li><li>Układa się poniżej kostki</li><li>Wcięcie na spódnicy ułatwiające chodzenie</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Tatiana Skirt is just plain flirty and fun. The energetic print and short length demand attention no matter what the occasion. Strap on a pair of wedges and your legs will look amazing!</p><p>Features:</p><ul><li>Pull on</li><li>Length: 17""</li><li>Hits mid thigh</li><li>Elastic waist</li><li>Hand wash, line dry</li></ul>","<p>Spódnica Tatiana jest po prostu zalotna i zabawna. Energetyczny nadruk i krótka długość wymagają uwagi bez względu na okazję. Zapnij parę klinów, a Twoje nogi będą wyglądać niesamowicie!</p><p>Cechy:</p><ul><li>Pociągnij</li><li>Długość: 17 ""</li>< li>Uderza do połowy uda</li><li>Elastyczny pas</li><li>Pranie ręczne, suszenie na sznurku</li></ul>",module,Magento_Sample
+"<p>The Davina Skirt is sure to warrant a second glance. While the sheer top layer falls somewhere around the ankles, the interior lining falls above the knee. Add in a long side slit and things just got a lot more interesting.  </p><p>Features:</p><ul><li>Pull on</li><li>Length: 42""</li><li>Hits below the ankle</li><li>Short lining, sheer overlay</li><li>Hand wash, line dry</li></ul>","<p>Spódnica Davina z pewnością zasługuje na drugie spojrzenie. Podczas gdy przezroczysta górna warstwa opada gdzieś w okolicy kostek, wewnętrzna podszewka opada powyżej kolan. Dodaj dłuższą boczną szczelinę i rzeczy stały się o wiele bardziej interesujące.</p><p>Cechy :</p><ul><li>Podciągnij</li><li>Długość: 42 ""</li><li>Trafienia poniżej kostki</li><li>Krótka podszewka, przezroczysta nakładka</li><li>Pranie ręczne, suszenie na sznurku</li></ul>",module,Magento_Sample
+"<p>The Leona Skirt hugs you in all the right places. The rouched waistband adds a little formality to this otherwise casual skirt. Its a-line shape keeps things breezy while still looking put together.  </p><p>Features:</p><ul><li>Pull on</li><li>Length: 44""</li><li>Hits below the ankle</li><li>Thick, rouched waistband</li><li>Hand wash, line dry</li></ul>","<p>Spódnica Leona przytuli Cię we właściwych miejscach. Poszarpany pas dodaje nieco formalności tej zwykłej spódnicy. Jego kształt w formie litery A zapewnia przewiewność, a jednocześnie pasuje na formalne spoktanie.</p><p>Cechy :</p><ul><li>Naciągnij</li><li>Długość: 44 ""</li><li>Układa się poniżej kostki</li><li>Gruby, szorstki pas</li><li>Prać ręcznie, wysuszyć na linii</li></ul>",module,Magento_Sample
+"<p>The Agatha Skirt has a large circumference that lends itself to all sorts of drama. Take it out for a spin. The stretchy, cozy fabric is ready for all kinds of adventure. Just be prepared for whatever lies in store.  </p><p>Features:</p><ul><li>Pull on</li><li>Length: 43""</li><li>Hits below the ankle</li><li>Thick waistband</li><li>Machine wash, line dry</li></ul>","<p>Spódnica Agatha ma duży obwód, który nadaje się do wszelkiego rodzaju dramatów. Weź to na przejażdżkę. Elastyczny, przytulny materiał jest gotowy na wszelkiego rodzaju przygody. Po prostu bądź przygotowany na wszystko, co nas czeka.</p><p>Cechy :</p><ul><li>Naciągnij</li><li>Długość: 43 ""</li><li>Trafienia poniżej kostki</li><li>Gruby pas</li><li>Prać w pralce, suszyć na linii</li></ul>",module,Magento_Sample
+"<p>The Daria Crochet Skirt has a genuine air of innocence about it. From its modest lines to the delicate crochet detail, this skirt just feels fresh. Wear with a soft tee or tank and be on your way. </p><p>Features:</p><ul><li>Pull on</li><li>Length: 26""</li><li>Hits below the knee</li><li>Roll down waist</li><li>Hand wash, line dry</li></ul>","<p>Szydełkowa spódnica Daria ma w sobie autentyczną atmosferę niewinności. Od skromnych linii po delikatne szydełkowe detale, ta spódnica jest po prostu świeża. Noś miękką koszulkę lub zbiornik i ruszaj w drogę.</p><p>Cechy :</p><ul><li>Naciągnij</li><li>Długość: 26 cali</li><li>Trafienia poniżej kolan</li><li>Rozwiń talię</li><li>Prać ręcznie, wysuszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Johanna Skirt is probably the last skirt you'll ever need. Soft jersey fabric makes this the quintessential everyday skirt. Wear it to work. Wear it to the beach. Ditch the sweats and wear it grocery shopping. </p><p>Features:</p><ul><li>Pull on</li><li>Length: 42""</li><li>Hits below the ankle</li><li>Thick waistband</li><li>Machine wash, line dry</li></ul>","<p>Spódnica Johanna to prawdopodobnie ostatnia spódnica, jakiej będziesz potrzebować. Miękki jersey sprawia, że ​​jest to kwintesencja spódnicy na co dzień. Noś go do pracy. Noś go na plażę. Porzuć dresy i załóż je na zakupy spożywcze.</p><p>Cechy :</p><ul><li>Podciągnij</li><li>Długość: 42 ""</li><li>Układa się poniżej kostki</li><li>Gruby pas</li><li>Prać w pralce, suszyć na linii</li></ul>",module,Magento_Sample
+"<p>The Rowena Skirt will have you twirling a little more than usual. Inset kick panels give this skirt more swing than your typical maxi skirt. Try it. We guarantee you'll find more reasons to dance. </p><p>Features:</p><ul><li>Pull on</li><li>Length: 43""</li><li>Hits below the ankle</li><li>Kick pleats</li><li>Machine wash, line dry</li></ul>","<p>Spódnica Rowena sprawi, że będziesz kręcić się trochę bardziej niż zwykle. Wstawione panele kick nadają tej spódnicy więcej rozmachu niż typowa spódnica maxi. Spróbuj. Gwarantujemy, że znajdziesz więcej powodów do tańca.</p><p>Cechy :</p><ul><li>Naciągnij</li><li>Długość: 43 ""</li><li>Trafienia poniżej kostki</li><li>Kopnij plisy</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Bellona Skirt features stretchy, heathered material that moves right along with you. The a-line cut allows for long, easy strides while strategically placed external seams provide texture and contour. </p><p>Features:</p><ul><li>Pull on</li><li>Length: 44""</li><li>Hits below the ankle</li><li>Roll down waist</li><li>Machine wash, line dry</li></ul>","<p>Spódnica Bellona jest wykonana z elastycznego, rozgrzewającego materiału, który przesuwa się wraz z Tobą. Krój w kształcie litery A pozwala na długie, łatwe kroki, a strategicznie rozmieszczone zewnętrzne szwy zapewniają teksturę i kontur.</p><p>Cechy :</p><ul><li>Ubierz na siebie</li><li>Długość: 44 ""</li><li>Układa się poniżej kostki</li><li>Rozwiń talię</li><li>Prać w pralce, wysuszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Liana Lace Shorts are a juxtaposition of new sophistication and classic style. The lace overlay brings back an elegant ornament of femininity without feeling formal or stodgy.     </p><p>Features:</p><ul><li>Set on waist</li><li>Zip fly</li><li>Sit just below the waist</li><li>4"" inseam</li><li>Machine wash, machine dry</li></ul>","<p>Szorty Liana Lace to zestawienie nowego wyrafinowania i klasycznego stylu. Koronkowa nakładka przywraca elegancką ozdobę kobiecości bez uczucia formalności.</p><p>Cechy :</p><ul><li>W pasie</li><li>Rozporek na suwak</li><li>Układa się tuż poniżej talii</li><li>4 ""Długość nogawki w kroku</li><li>Prać w pralce, suszyć w pralce</li></ul>",module,Magento_Sample
+"<p>The Amara Crochet Shorts are just…wow. Rows of varying crochet patterns cover a complementary linen short. These shorts are overflowing with hand-stitched details that will garner attention (the good kind).       </p><p>Features:</p><ul><li>Set on waist</li><li>Side zip</li><li>Sit just below the waist</li><li>3"" inseam</li><li>Hand wash, line dry</li></ul>","<p>Szorty Amara Crochet są po prostu… wow. Rzędy o różnych wzorach szydełkowych pokrywają uzupełniające się spodenki lniane. Te szorty są przepełnione ręcznie szytymi detalami, które przyciągną uwagę (te dobre).</p><p>Cechy :</p><ul><li>W pasie</li><li>Boczny zamek</li><li>Usiądź tuż poniżej talii</li><li>3 ""Długość nogawki w kroku</li><li>Pranie ręczne, suszenie na sznurku</li></ul>",module,Magento_Sample
+"<p>The Portia Shorts take the classic combo of black and white and add the contemporary edge of a dress short. Feminine scalloped edges finish these shorts and make them truly elegant. </p><p>Features:</p><ul><li>Elastic drawstring waist </li><li>Scalloped edges</li><li>Sit just below the waist</li><li>3"" inseam</li><li>Hand wash, line dry</li></ul>","<p>Szorty Portia to klasyczne połączenie czerni i bieli, które dodają współczesnej krawędzi krótkiej sukience. Kobiece, zapiekanki brzegi wykańczają te spodenki i dodają im elegancji.</p><p>Cechy :</p><ul><li>Elastyczny ściągacz w pasie</li><li>Zaokrąglone krawędzie</li><li>Układa się tuż poniżej talii</li><li>3 ""Długość nogawki w kroku</li><li>Pierz ręczne, susz na sznurku</li></ul>",module,Magento_Sample
+"<p>The Lenora Crochet Shorts are perfect for those days when the weather dictates your wardrobe options. The good news is you can keep cool and still look good. These cotton shorts have got you covered. </p><p>Features:</p><ul><li>Elastic waist </li><li>Drawstring waist</li><li>Sit just below the waist</li><li>4"" inseam</li><li>Hand wash, line dry</li></ul>","<p>Szorty Lenory Crochet są idealne w te dni, kiedy pogoda decyduje o wyborze garderoby. Dobra wiadomość jest taka, że ​​możesz zachować spokój i nadal dobrze wyglądać. Te bawełniane szorty zapewnią Ci ochronę.</p><p>Cechy :</p><ul><li>Elastyczny pas</li><li>Talia ze sznurkiem</li><li>Układa się tuż poniżej talii</li><li>4 ""inseam</li><li>Prać ręcznie, wysuszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Bella Eyelet Capris are a reminder of simpler days. Pair these with a vibrant top and you're off for whatever the day holds in store. Prepare yourself for thoughtful design and impeccable seam placement.</p><p>Features:</p><ul><li>Set on waist</li><li>Zip fly</li><li>Sit just below the waist</li><li>26"" inseam</li><li>Machine wash, machine dry</li></ul>","<p>Bella Eyelet Capris to przypomnienie prostszych dni. Połącz je z żywym topem, a będziesz gotowa na wszystko, co przyniesie dzień. Przygotuj się na przemyślany projekt i nienaganne ułożenie szwów.</p><p>Cechy:</p><ul><li>Ustaw w talii</li><li>Rozporek na suwak</li><li>Układa się tuż poniżej talii</li><li>26 ""Długość nogawki w kroku</li><li>Prać w pralce, suszyć w pralce</li></ul>",module,Magento_Sample
+"<p>The Fauna Palazzo Pants are not for the weak of heart. They are a bold fashion statement, and demand a personality to match. These sheer pants will be the life of the party, with or without you. </p><p>Features:</p><ul><li>Elastic waist</li><li>Tie waistband</li><li>Cotton hot pants lining</li><li>32"" inseam</li><li>Hand wash, line dry</li></ul>","<p>Spodnie Fauna Palazzo nie są dla osób o słabym sercu. Są odważnym wyrazem mody i wymagają osobowości. Te prześwitujące spodnie będą prawdziwym życiem imprezy, z tobą lub bez ciebie.</p><p>Cechy :</p><ul><li>Elastyczny pas</li><li>Wiązany pasek</li><li>Bawełniana podszewka w spodniach</li><li>32 "" długość nogawki w kroku</li><li>Prać ręcznie, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Calista Linen Pants are subdued yet classic. Your closet will welcome these versatile additions. Forget everything you know about linen, because things are about to get interesting. </p><p>Features:</p><ul><li>Cotton waistband</li><li>Drawstring waist</li><li>Sits just below the waist</li><li>31"" inseam</li><li>Machine wash, line dry</li></ul>","<p>Spodnie Calista Linen są stonowane, ale klasyczne. W Twojej szafie powitają te wszechstronne dodatki. Zapomnij o wszystkim, co wiesz o lnie, bo zaraz zacznie się interesować.</p><p>Cechy :</p><ul><li>Bawełniany pas</li><li>Talia ze sznurkiem</li><li>Znajduje się tuż poniżej talii</li><li>31 ""Długość nogawki w kroku</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Honora Wide Leg Pants definitely hold their own when it comes to standing out from the crowd. These pants feature a unique design and a varying color palette to make pairing a snap.</p><p>Features:</p><ul><li>Elastic waistband</li><li>Drawstring waist</li><li>Sits just below the waist</li><li>31"" inseam</li><li>Machine wash, line dry</li></ul>","<p>Szerokie spodnie Honora zdecydowanie sprawdzają się, jeśli chodzi o wyróżnianie się z tłumu. Te spodnie mają unikalny krój i zróżnicowaną paletę kolorów, dzięki czemu parowanie jest bardzo proste.</p><p>Cechy:</p><ul><li>Elastyczny pas</li><li>W pasie sznurkiem</ li ><li>Siada tuż poniżej talii</li><li>Wewnętrzna długość nogawki 31 cali</li><li>Prać w pralce, wysuszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>Slip on the Clara Wide Leg Pants and you'll immediately begin to feel something like an ocean breeze sweep over you. These pants are wrinkle-resistant and easy going, just like you. </p><p>Features:</p><ul><li>Cotton fold-down waistband</li><li>Wrinkle-resistant linen</li><li>Sits just below the waist</li><li>32"" inseam</li><li>Hand wash, line dry</li></ul>","<p>Załóż spodnie z szerokimi nogawkami Clara, a od razu poczujesz, jak ogarnia Cię morska bryza. Te spodnie są odporne na zagniecenia i łatwe w noszeniu, tak jak Ty.</p><p>Cechy :</p><ul><li>Bawełniany składany pas</li><li>Len odporny na gniecenie</li><li>Znajduje się tuż poniżej talii</ li ><li>32 ""inseam</li><li>Pranie ręczne, suszenie na sznurku</li></ul>",module,Magento_Sample
+"<p>The Camilla Palazzo Pants are a toss up when it comes to fashion or function. And really it doesn't matter because you'll love them for both. They carry amazing detail without the need for structure. </p><p>Features:</p><ul><li>Elastic waistband</li><li>Pull on</li><li>Sits at the waist</li><li>32"" inseam</li><li>Machine wash, line dry</li></ul>","<p>Spodnie Camilla Palazzo to świetny wybór, jeśli chodzi o modę i funkcjonalność. I naprawdę nie ma to znaczenia, ponieważ pokochasz je za oboje. Niosą niesamowite szczegóły bez potrzeby tworzenia struktury.</p><p>Cechy :</p><ul><li>Elastyczny pas</li><li>Naciągnij</li><li>Siedzi w talii</li><li>32 "" długość nogawki w kroku</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Gloria Palazzo Pants are pretty much the best pants ever. Dress them up or dress them down. Throw them on in lieu of a skirt and feel sweet freedom from the constraints of regular pants. </p><p>Features:</p><ul><li>Elastic waistband</li><li>Pull on</li><li>Sits at the waist</li><li>32"" inseam</li><li>Machine wash, line dry</li></ul>","<p>Spodnie Gloria Palazzo to właściwie najlepsze spodnie . Ubierz je. Załóż je zamiast spódnicy i poczuj słodką wolność od ograniczeń zwykłych spodni.</p><p>Cechy :</p><ul><li>Elastyczny pas</li><li>Naciągnij</li><li>Siedzi w talii</li><li>32 "" inseam</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Selena Pants are one of the more form-fitting pieces in the Venia collection. But don't be fooled by their appearance. These gems are made with soft pima cotton and just the right amount of stretch.</p><p>Features:</p><ul><li>Cotton waistband</li><li>Drawstring waist</li><li>Sits just below waist</li><li>31"" inseam</li><li>Machine wash, line dry</li></ul>","<p>Spodnie Selena to jeden z bardziej dopasowanych elementów w kolekcji Venia. Ale nie daj się zwieść ich wyglądowi. Te klejnoty są wykonane z miękkiej bawełny pima i odpowiednio rozciągliwej.</p><p>Cechy:</p><ul><li>Bawełniany pas</li><li>Sznurek w pasie</li><li>Układa się tuż poniżej talii</li><li>Wewnętrzna długość nogawki 31 cali</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Petra Sundress strikes a delightful balance between fun and functional. The easy style of this dress lends itself to relaxing and having a good time. Put your hands in the pockets and just chill.  </p><p>Features:</p><ul><li>V-neck</li><li>Capped sleeve</li><li>Hits above the knee</li><li>Keyhole back, side pockets</li><li>Hand wash, line dry</li></ul>","<p>Petra Sundress zapewnia wspaniałą równowagę między zabawą a funkcjonalnością. Prosty styl tej sukienki nadaje się do relaksu i dobrej zabawy. Włóż ręce do kieszeni i po prostu wyluzuj.</p><p>Cechy :</p><ul><li>V- dekolt</li><li>Zakryte rękawy</li><li>Układa się nad kolano</li><li>Kieszenie boczne</li><li>Prać ręcznie, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Athena Tank Dress offers a high level of structure &amp; details without sacrificing comfort. The collar and front pocket accents paired with pleating detail give a polished look with little effort.   </p><p>Features:</p><ul><li>Crewneck</li><li>Sleeveless</li><li>Hits above the knee</li><li>Pleated design</li><li>Dry clean only</li></ul>","<p>Sukienka Athena Tank Dress oferuje wysoki poziom struktury i detali bez poświęcania komfortu. Akcenty na kołnierzu i przedniej kieszeni w połączeniu z plisowanymi detalami zapewniają dopracowany wygląd przy niewielkim wysiłku.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Bez rękawów</li><li>Plisowany krój</ li><li>Czyścić tylko chemicznie</li></ul>",module,Magento_Sample
+"<p>The Claudia Dress is made to be paired with your favorite wardrobe basics. The sheer cotton material is perfect over a tank top and a pair of leggings. Gorgeous crochet details complete the look. </p><p>Features:</p><ul><li>Scoop neck</li><li>Short sleeves</li><li>Hits above the knee</li><li>Crochet details</li><li>Hand wash, line dry</li></ul>","<p>Sukienka Claudia została stworzona z myślą o połączeniu z Twoimi ulubionymi podstawami garderoby. Przeźroczysty bawełniany materiał jest idealny na podkoszulek i parę legginsów. Całość dopełniają wspaniałe szydełkowe detale.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Krótkie rękawy</li><li>Układa się powyżej kolana</li><li>Szydełkowe detale</li><li>Prać ręcznie, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Alexia Maxi Dress laughs at the notion that horizontal stripes are a no-no. The pattern in this dress creates a wonderful slimming effect. Add in the exceptionally soft fabric and it's downright irresistible.     </p><p>Features:</p><ul><li>Scoop neck</li><li>Capped sleeves</li><li>Hits at the ankle</li><li>Front pocket</li><li>Machine wash, line dry</li></ul>","<p>Sukienka Maxi Alexia śmieje się, słysząc, że poziome paski są nie do przyjęcia. Wzór w tej sukience tworzy wspaniały efekt wyszczuplający. Dodaj do tego wyjątkowo miękki materiał i po prostu nie można mu się oprzeć.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Zakryte rękawy</li><li>Układa się przy kostkce</li><li>Przednia kieszeń</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Valentina Tank Dress has lines placed in all the right places. What this freeform dress lacks in structure it makes up in exceptional design and composition. Wash &amp; wear care is a bonus.  </p><p>Features:</p><ul><li>Scoop neck</li><li>Piping around the neckline &amp; arms</li><li>Hits at the ankle</li><li>Elastic waist</li><li>Machine wash, line dry</li></ul>","<p>Sukienka Valentina Tank Dress ma linie umieszczone we właściwych miejscach. To, czego brakuje tej sukience o swobodnych kształtach w strukturze, nadaje wyjątkowy design i kompozycja.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Lamówka wokół dekoltu i ramion</li><li>Uderzenia w kostkę</li>< li>Elastyczny pas</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Paulina Tank Dress has the potential to replace your favorite LBD. This dress is chic yet classic, with the flexibility to dress up its delicate draping. No one needs to know you're incredibly comfortable.  </p><p>Features:</p><ul><li>Draped scoop neck</li><li>Lined</li><li>Hits at the knee</li><li>Elastic waist</li><li>Machine wash, line dry</li></ul>","<p>Sukienka Paulina bez rękawów może zastąpić Twój ulubiony model LBD. Ta sukienka jest szykowna, ale klasyczna, z elastycznością ubierania jej delikatnego drapowania. Nikt nie musi wiedzieć, że jesteś niesamowicie wygodny.</p><p>Cechy :</p><ul><li>Drapowany okrągły dekolt</li><li>Podszewka</li><li>Uderzenia w kolano</li><li>Elastyczny pas</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Flora Tank Dress is soft to the touch, featuring a sheer, crushed velvet overlay that adds texture without heat. The vertical pattern of the design elegantly slims and camouflages.    </p><p>Features:</p><ul><li>Scoop neck</li><li>Two layers</li><li>Hits above the knee</li><li>Elastic waist</li><li>Dry clean only</li></ul>","<p>Sukienka Flora Tank jest miękka w dotyku i ma przezroczystą, kruszoną aksamitną nakładkę, która dodaje tekstury bez nagrzewania. Pionowy wzór projektu elegancko wyszczupla i kamuflaż.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Dwie warstwy</li><li>Układa się powyżej kolana</li><li>Elastyczny pas</li><li>Czyścic tylko chemicznie</li></ul>",module,Magento_Sample
+"<p>The Veronica Maxi Dress is literally a tall drink of water. Perfect for those days when you'd rather be sitting on the beach. This dress will keep you feeling cool on the even the hottest days. </p><p>Features:</p><ul><li>Scoop neck</li><li>Knot racerback</li><li>Hits at the ankles</li><li>Elastic waist</li><li>Machine wash, line dry</li></ul>","<p>Sukienka Veronica Maxi to dosłownie łyk wody. Idealne na te dni, kiedy wolisz siedzieć na plaży. Ta sukienka zapewni ci uczucie chłodu nawet w najgorętsze dni.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Wiązane ramiączka</li><li>Układa się doskonale na kostkach</li><li>Elastyczny pas</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Felicia Maxi Dress is your go-to on the days when you don't feel like wearing anything at all. This dress is lightweight without being see-through, and forgiving exactly where you need it to be. </p><p>Features:</p><ul><li>Scoop neck</li><li>Spaghetti straps</li><li>Hits below the ankles</li><li>Elastic waist</li><li>Machine wash, line dry</li></ul>","<p>Sukienka Felicia Maxi to idealny wybór w dni, kiedy nie masz ochoty na nic. Ta sukienka jest lekka, ale nie prześwituje i wybacza dokładnie tam, gdzie jej potrzebujesz.</p><p>Cechy :</p><ul><li>Okrągły dekolt</li><li>Ramiączka spaghetti</li><li>Uderzenia poniżej kostek</li><li>Elastyczny pas</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Karena Halter Dress loves to be the center of attention. The jersey material of this dress resists wrinkles, and hangs beautifully in all the right places. It's perfect for a long day of sun &amp; fun. </p><p>Features:</p><ul><li>Halter top</li><li>Open back, neck tie</li><li>Hits below the knee</li><li>Longer back hemline</li><li>Machine wash, line dry</li></ul>","<p>Sukienka Karena Halter uwielbia być w centrum uwagi. Golfowy materiał tej sukienki jest odporny na zmarszczki i pięknie wisi we wszystkich odpowiednich miejscach. Jest idealny na długi dzień pełen słońca i zabawy.</p><p>Cechy :</p><ul><li>Top na ramiączkach</li><li>Odkryte plecy, wiązanie na szyję</li><li>Uderzenia poniżej kolan</li><li >Dłuższy tył z tyłu</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Candace dress is the perfect escape for the days when you just can't bear the thought of wearing pants. From the serene pattern of the fabric to the incredibly soft material, everything about this dress says “ahhhhh.""</p><p>Features:</p><ul><li>Deep v-neck</li><li>Draped short sleeves</li><li>Hits below the knee</li><li>Front &amp; back ties</li><li>Machine wash, line dry</li></ul>","<p>Sukienka Candace to idealna ucieczka we dni, kiedy nie możesz znieść myśli o noszeniu spodni. Od spokojnego wzoru materiału po niewiarygodnie miękki materiał - wszystko w tej sukience mówi ""ahhhhh"".</p><p>Cechy:</p><ul><li>Głęboki dekolt w szpic</li>< li>Fałdowane krótkie rękawy</li><li>Uderzenia poniżej kolan</li><li>Wiązania z przodu i z tyłu</li><li>Prać w pralce, suszyć na sznurku</li></ul>",module,Magento_Sample
+"<p>The Angelina Tank Dress is simple yet sophisticated. This dress can be thrown over a swimsuit for last minute lunch plans or belted for dinner on the patio. The high-low hemline gives it the perfect amount of swing. </p><p>Features:</p><ul><li>Scoopneck</li><li>Sleeveless</li><li>Hits below the knee</li><li>Longer back hemline</li><li>Machine wash, tumble dry low</li></ul>","<p>Sukienka na ramiączkach Angelina jest prosta, ale wyrafinowana. Tę sukienkę można narzucić na strój kąpielowy, aby zaplanować lunch w ostatniej chwili lub zapiąć pasek na kolację na patio. Wysoko-niski dół zapewnia idealną ilość ruchu.</p><p>Cechy :</p><ul><li>Obcisły dekolt</li><li>Bez rękawów</li><li>Układa się poniżej kolana</li><li>Dłuższy tył z tyłu </li><li>Prać w pralce, suszyć w suszarce bębnowej w niskiej temperaturze</li></ul>",module,Magento_Sample
+"<ul><li>S: 28"" L; M: 30"" L; L: 32"" L</li><li>2"" W</li><li>Cotton, leather</li><li>Fold over front clasp</li><li>Wipe clean</li></ul>","<ul><li>S: 28 ""L; M: 30"" L; L: 32 ""L</li><li>2"" W</li><li>Bawełna, skóra</li><li>Złóż przednie zapięcie</li><li>Wytrzyj do czysta</li></ul>",module,Magento_Sample
+"<ul><li>S: 28"" L; M: 30"" L; L: 32"" L</li><li>1"" W</li><li>100% Leather</li><li>Braided pattern</li><li>Rounded metal buckle</li><li>Wipe clean</li></ul>","<ul><li>S: 28 ""L; M: 30"" L; L: 32 ""L</li><li>1"" S</li><li>100 %skóra</li><li>Pleciony wzór</li><li>Zaokrąglona metalowa klamra</li><li >Czyść</li></ul>",module,Magento_Sample
+"<ul><li>S: 28"" L; M: 30"" L; L: 32"" L</li><li>3"" W</li><li>100% Leather</li><li>Braided pattern</li><li>Rounded metal buckle</li><li>Wipe clean</li></ul>","<ul><li>S: 28 ""L; M: 30"" L; L: 32 ""L</li><li>3"" W</li><li>100 %skóra</li><li>Pleciony wzór</li><li>Zaokrąglona metalowa klamra</li><li >Wyczyść</li></ul>",module,Magento_Sample
+"<ul><li>S: 28"" L; M: 30"" L; L: 32"" L</li><li>4"" W</li><li>Leather, elastic</li><li>Rounded metal buckle</li><li>Wipe clean</li></ul>","<ul><li>S: 28 ""L; M: 30"" L; L: 32 ""L</li><li>4"" S</li><li>Skórzane, elastyczne</li><li>Zaokrąglona metalowa klamra</li><li>Wycieraj</li></ ul>",module,Magento_Sample
+"<p>This is the perfect addition to add a touch of whimsy to your favorite outfit. Oversized for versatility, this scarf will quickly become your new best friend. </p><ul><li>72"" L x 42"" W</li><li>Cotton/Viscose blend</li></ul>","<p>To idealny dodatek, który doda odrobinę fantazji do Twojego ulubionego stroju. Duży szalik, który zapewnia wszechstronność, szybko stanie się Twoim nowym najlepszym przyjacielem.</p><ul><li>72 ""dł. x 42"" szer.</li><li>Mieszanka bawełny i wiskozy</li></ul>",module,Magento_Sample
+"<p>Made of super soft pima cotton, this lightweight scarf is laid out in a chic, continuous loop. Double it or drape it to create the perfect embellishment to any ensemble.</p><ul><li>58"" L x 32"" W</li><li>Cotton/Viscose blend</li></ul>","<p>Ten lekki szalik wykonany z super miękkiej bawełny pima ma szykowną, ciągłą pętelkę. Złącz go lub pofałduj,  aby stworzyć idealną ozdobę dowolnego zestawu.</p><ul><li>58 ""L x 32"" S</li><li>Mieszanka bawełny/wiskozy</li></ul>",module,Magento_Sample
+"Carmina Earrings","Kolczyki Carmina",module,Magento_Sample
+"Augusta Earrings","Kolczyki Augusta",module,Magento_Sample
+"Carmina Necklace","Naszyjnik Carmina",module,Magento_Sample
+"Augusta Necklace","Naszyjnik Augusta",module,Magento_Sample
+"Silver Sol Earrings","Srebrne kolczyki w kolorze soli",module,Magento_Sample
+"Gold Sol Earrings","Kolczyki Gold Sol",module,Magento_Sample
+"Silver Cirque Earrings","Srebrne kolczyki z cyrkoniami",module,Magento_Sample
+"Gold Cirque Earrings","Kolczyki Złoty Cyrk",module,Magento_Sample
+"Gold Omni Bangle Set","Złoty zestaw bransoletek Omni",module,Magento_Sample
+"Semper Bangle Set","Zestaw bransoletek Semper",module,Magento_Sample
+"Gold Veritas Cuff Set","Złoty mankiet Veritas",module,Magento_Sample
+"Silver Amor Bangle Set","Srebrna bransoletka Amor",module,Magento_Sample
+"Venia Stylist Consultation","Konsultacja stylistki Venia",module,Magento_Sample
+"Night Out Collection","Kolekcja Night Out",module,Magento_Sample
+"Salt Water Magazine","Magazyn Salt Water",module,Magento_Sample
+"Augusta Trio","Augusta Trio",module,Magento_Sample
+"Jillian Top","Jillian Top",module,Magento_Sample
+"Valeria Two-Layer Tank","Zbiornik dwuwarstwowy Valeria",module,Magento_Sample
+"Vitalia Top","Vitalia Top",module,Magento_Sample
+"Emilia Cropped Lace Top","Koronkowy top Cropped Emilia",module,Magento_Sample
+"Aurora Sleeveless Blouse","Bluzka bez rękawów Aurora",module,Magento_Sample
+"Serena Blouse","Bluzka Serena",module,Magento_Sample
+"Isabella Sleeveless Blouse","Bluzka bez rękawów Isabella",module,Magento_Sample
+"Cora Open-Back Tank","Zbiornik Cora Open-Back",module,Magento_Sample
+"Anna Draped Top","Anna Draped Top",module,Magento_Sample
+"Susanna Draped Tank","Susanna Draped Tank",module,Magento_Sample
+"Chloe Silk Shell","Chloe Silk Shell",module,Magento_Sample
+"Penelope Peasant Blouse","Bluzka Penelope Peasant",module,Magento_Sample
+"Lorena Cardigan","Kardigan Lorena",module,Magento_Sample
+"Echo Sweater","Sweter Echo",module,Magento_Sample
+"Corina Lace-Back Sweater","Sweter z koronkowym tyłem Corina",module,Magento_Sample
+"Helena Cardigan","Helena Cardigan",module,Magento_Sample
+"Roxana Cropped Sweater","Sweter Roxana Cropped",module,Magento_Sample
+"Brigid Boucle Cardigan","Sweter Brigid Boucle",module,Magento_Sample
+"Sabina Hooded Cardigan","Sweter z kapturem Sabina",module,Magento_Sample
+"Hanna Sweater","Sweter Hanna",module,Magento_Sample
+"Rosalina Cardigan","Kardigan Rosalina",module,Magento_Sample
+"Phoebe Cardigan","Phoebe Cardigan",module,Magento_Sample
+"Juno Sweater","Sweter Juno",module,Magento_Sample
+"Carina Cardigan","Kardigan Carina",module,Magento_Sample
+"Isadora Skirt","Spódnica Isadora",module,Magento_Sample
+"Pomona Skirt","Spódnica Pomona",module,Magento_Sample
+"Samara Skirt","Spódnica Samara",module,Magento_Sample
+"Iona Skirt","Spódnica Iona",module,Magento_Sample
+"Tatiana Skirt","Spódnica Tatiana",module,Magento_Sample
+"Davina Skirt","Spódnica Davina",module,Magento_Sample
+"Leona Skirt","Spódnica Leona",module,Magento_Sample
+"Agatha Skirt","Spódnica Agatha",module,Magento_Sample
+"Daria Crochet Skirt","Szydełkowa spódnica Daria",module,Magento_Sample
+"Johanna Skirt","Spódnica Johanna",module,Magento_Sample
+"Rowena Skirt","Spódnica Rowena",module,Magento_Sample
+"Bellona Skirt","Spódnica Bellona",module,Magento_Sample
+"Liana Lace Shorts","Szorty koronkowe Liana",module,Magento_Sample
+"Amara Crochet Shorts","Szorty Amara Crochet",module,Magento_Sample
+"Portia Shorts","Szorty Portia",module,Magento_Sample
+"Lenora Crochet Shorts","Szorty Lenora Crochet",module,Magento_Sample
+"Bella Eyelet Capris","Rybaczki Bella Eyelet ",module,Magento_Sample
+"Fauna Palazzo Pants","Spodnie Fauna Palazzo",module,Magento_Sample
+"Calista Linen Pants","Spodnie Calista Linen",module,Magento_Sample
+"Honora Wide Leg Pants","Szerokie spodnie Honora",module,Magento_Sample
+"Clara Wide Leg Pants","Szerokie spodnie Clara",module,Magento_Sample
+"Camilla Palazzo Pants","Spodnie Camilla Palazzo",module,Magento_Sample
+"Gloria Palazzo Pants","Spodnie Gloria Palazzo",module,Magento_Sample
+"Selena Pants","Spodnie Selena",module,Magento_Sample
+"Petra Sundress","Petra Sundress",module,Magento_Sample
+"Athena Tank Dress","Sukienka Athena Tank",module,Magento_Sample
+"Claudia Crochet Dress","Sukienka Claudia Crochet",module,Magento_Sample
+"Alexia Maxi Dress","Sukienka Alexia Maxi",module,Magento_Sample
+"Valentina Tank Dress","Sukienka Valentina Tank ",module,Magento_Sample
+"Paulina Draped Tank Dress","Sukienka na ramiączkach Paulina",module,Magento_Sample
+"Flora Tank Dress","Sukienka Flora Tank",module,Magento_Sample
+"Veronica Maxi Dress","Sukienka Maxi Veronica",module,Magento_Sample
+"Felicia Maxi Dress","Sukienka Felicia Maxi",module,Magento_Sample
+"Karena Halter Dress","Sukienka Karena Halter",module,Magento_Sample
+"Candace Dress","Sukienka Candace",module,Magento_Sample
+"Angelina Tank Dress","Sukienka na ramiączkach Angelina",module,Magento_Sample
+"Stretch Belt With Leather Clasp","Elastyczny pasek ze skórzanym zapięciem",module,Magento_Sample
+"Thin Leather Braided Belt","Cienki skórzany pleciony pasek",module,Magento_Sample
+"Thick Leather Braided Belt","Gruby skórzany pleciony pasek",module,Magento_Sample
+"Laser Cut Stretch Belt","Elastyczny pasek wycinany laserowo",module,Magento_Sample
+"Natalia Scarf","Szalik Natalia",module,Magento_Sample
+"Luna Scarf","Szalik Luna",module,Magento_Sample
+"Antonia Infinity Scarf","Szalik Antonia Infinity",module,Magento_Sample
+"Ombre Infinity Scarf","Szalik Ombre Infinity",module,Magento_Sample
+"Carola Infinity Scarf","Szalik Carola Infinity",module,Magento_Sample
+"Dulcea Infinity Scarf","Szalik Dulcea Infinity",module,Magento_Sample
+"<p>CMS homepage content goes here.</p>
+","<p>Miejsce na zawartość strony głównej CMS</p>",module,Magento_Sample
+"<div class=""privacy-policy cms-content"">
+    <div class=""message info"">
+        <span>
+            Please replace this text with you Privacy Policy.
+            Please add any additional cookies your website uses below (e.g. Google Analytics).
+        </span>
+    </div>
+    <p>
+        This privacy policy sets out how this website (hereafter ""the Store"") uses and protects any information that
+        you give the Store while using this website. The Store is committed to ensuring that your privacy is protected.
+        Should we ask you to provide certain information by which you can be identified when using this website, then
+        you can be assured that it will only be used in accordance with this privacy statement. The Store may change
+        this policy from time to time by updating this page. You should check this page from time to time to ensure
+        that you are happy with any changes.
+    </p>
+    <h2>What we collect</h2>
+    <p>We may collect the following information:</p>
+    <ul>
+        <li>name</li>
+        <li>contact information including email address</li>
+        <li>demographic information such as postcode, preferences and interests</li>
+        <li>other information relevant to customer surveys and/or offers</li>
+    </ul>
+    <p>
+        For the exhaustive list of cookies we collect see the <a href=""#list"">List of cookies we collect</a> section.
+    </p>
+    <h2>What we do with the information we gather</h2>
+    <p>
+        We require this information to understand your needs and provide you with a better service,
+        and in particular for the following reasons:
+    </p>
+    <ul>
+        <li>Internal record keeping.</li>
+        <li>We may use the information to improve our products and services.</li>
+        <li>
+            We may periodically send promotional emails about new products, special offers or other information which we
+            think you may find interesting using the email address which you have provided.
+        </li>
+        <li>
+            From time to time, we may also use your information to contact you for market research purposes.
+            We may contact you by email, phone, fax or mail. We may use the information to customise the website
+            according to your interests.
+        </li>
+    </ul>
+    <h2>Security</h2>
+    <p>
+        We are committed to ensuring that your information is secure. In order to prevent unauthorised access or
+        disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and
+        secure the information we collect online.
+    </p>
+    <h2>How we use cookies</h2>
+    <p>
+        A cookie is a small file which asks permission to be placed on your computer's hard drive.
+        Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit
+        a particular site. Cookies allow web applications to respond to you as an individual. The web application
+        can tailor its operations to your needs, likes and dislikes by gathering and remembering information about
+        your preferences.
+    </p>
+    <p>
+        We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page
+        traffic and improve our website in order to tailor it to customer needs. We only use this information for
+        statistical analysis purposes and then the data is removed from the system.
+    </p>
+    <p>
+        Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find
+        useful and which you do not. A cookie in no way gives us access to your computer or any information about you,
+        other than the data you choose to share with us. You can choose to accept or decline cookies.
+        Most web browsers automatically accept cookies, but you can usually modify your browser setting
+        to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+    </p>
+    <h2>Links to other websites</h2>
+    <p>
+        Our website may contain links to other websites of interest. However, once you have used these links
+        to leave our site, you should note that we do not have any control over that other website.
+        Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst
+        visiting such sites and such sites are not governed by this privacy statement.
+        You should exercise caution and look at the privacy statement applicable to the website in question.
+    </p>
+    <h2>Controlling your personal information</h2>
+    <p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+    <ul>
+        <li>
+            whenever you are asked to fill in a form on the website, look for the box that you can click to indicate
+            that you do not want the information to be used by anybody for direct marketing purposes
+        </li>
+        <li>
+            if you have previously agreed to us using your personal information for direct marketing purposes,
+            you may change your mind at any time by letting us know using our Contact Us information
+        </li>
+    </ul>
+    <p>
+        We will not sell, distribute or lease your personal information to third parties unless we have your permission
+        or are required by law to do so. We may use your personal information to send you promotional information
+        about third parties which we think you may find interesting if you tell us that you wish this to happen.
+    </p>
+    <p>
+        You may request details of personal information which we hold about you under the Data Protection Act 1998.
+        A small fee will be payable. If you would like a copy of the information held on you please email us this
+        request using our Contact Us information.
+    </p>
+    <p>
+        If you believe that any information we are holding on you is incorrect or incomplete,
+        please write to or email us as soon as possible, at the above address.
+        We will promptly correct any information found to be incorrect.
+    </p>
+    <h2><a name=""list""></a>List of cookies we collect</h2>
+    <p>The table below lists the cookies we collect and what information they store.</p>
+    <table class=""data-table data-table-definition-list"">
+        <thead>
+        <tr>
+            <th>Cookie Name</th>
+            <th>Cookie Description</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>FORM_KEY</th>
+                <td>Stores randomly generated key used to prevent forged requests.</td>
+            </tr>
+            <tr>
+                <th>PHPSESSID</th>
+                <td>Your session ID on the server.</td>
+            </tr>
+            <tr>
+                <th>GUEST-VIEW</th>
+                <td>Allows guests to view and edit their orders.</td>
+            </tr>
+            <tr>
+                <th>PERSISTENT_SHOPPING_CART</th>
+                <td>A link to information about your cart and viewing history, if you have asked for this.</td>
+            </tr>
+            <tr>
+                <th>STF</th>
+                <td>Information on products you have emailed to friends.</td>
+            </tr>
+            <tr>
+                <th>STORE</th>
+                <td>The store view or language you have selected.</td>
+            </tr>
+            <tr>
+                <th>USER_ALLOWED_SAVE_COOKIE</th>
+                <td>Indicates whether a customer allowed to use cookies.</td>
+            </tr>
+            <tr>
+                <th>MAGE-CACHE-SESSID</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>MAGE-CACHE-STORAGE</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>MAGE-CACHE-STORAGE-SECTION-INVALIDATION</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>MAGE-CACHE-TIMEOUT</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>SECTION-DATA-IDS</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>PRIVATE_CONTENT_VERSION</th>
+                <td>Facilitates caching of content on the browser to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>X-MAGENTO-VARY</th>
+                <td>Facilitates caching of content on the server to make pages load faster.</td>
+            </tr>
+            <tr>
+                <th>MAGE-TRANSLATION-FILE-VERSION</th>
+                <td>Facilitates translation of content to other languages.</td>
+            </tr>
+            <tr>
+                <th>MAGE-TRANSLATION-STORAGE</th>
+                <td>Facilitates translation of content to other languages.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>","<div class=""privacy-policy cms-content"">
+    <div class=""informacje o wiadomości"">
+        <span>
+            Zastąp ten tekst swoją Polityką prywatności.
+            Dodaj poniżej dodatkowe pliki cookie, których używa Twoja witryna (np.Google Analytics).
+       </span>
+   </div>
+    <p>
+        Niniejsza polityka prywatności określa, w jaki sposób ta strona internetowa (zwana dalej ""Sklepem"") wykorzystuje i chroni wszelkie informacje
+        przekazujesz Sklepowi podczas korzystania z tej strony. Sklep zobowiązuje się do zapewnienia ochrony Twojej prywatności.
+        Czy powinniśmy prosić Cię o podanie pewnych informacji, dzięki którym można Cię zidentyfikować podczas korzystania z tej witryny, to
+        możesz mieć pewność, że będzie on używany wyłącznie zgodnie z niniejszym oświadczeniem o ochronie prywatności. Sklep może ulec zmianie
+        tę politykę od czasu do czasu aktualizując tę ​​stronę. Należy od czasu do czasu sprawdzać tę stronę, aby się upewnić
+        że jesteś zadowolony z wszelkich zmian.
+   </p>
+    <h2>Co zbieramy</h2>
+    <p>Możemy zbierać następujące informacje:</p>
+    <ul>
+        <li>imię</li>
+        <li>informacje kontaktowe, w tym adres e-mail</li>
+        <li>informacje demograficzne, takie jak kod pocztowy, preferencje i zainteresowania</li>
+        <li>inne informacje związane z ankietami i/lub ofertami klientów</li>
+   </ul>
+    <p>
+        Wyczerpująca lista plików cookie, które zbieramy, znajduje się w sekcji <a href=""#list"">Lista plików cookie, które zbieramy</a>.
+   </p>
+    <h2>Co robimy z danymi, które zbieramy</h2>
+    <p>
+        Potrzebujemy tych informacji, aby zrozumieć Twoje potrzeby i zapewnić lepszą obsługę,
+        aw szczególności z następujących powodów:
+   </p>
+    <ul>
+        <li>Prowadzenie dokumentacji wewnętrznej.</li>
+        <li>Możemy wykorzystać te informacje do ulepszania naszych produktów i usług.</li>
+        <li>
+            Możemy okresowo wysyłać e-maile promocyjne dotyczące nowych produktów, ofert specjalnych lub innych informacji, które posiadamy
+            myślisz, że możesz być interesujący, korzystając z podanego adresu e-mail.
+       </li>
+        <li>
+            Od czasu do czasu możemy również wykorzystywać Twoje dane, aby kontaktować się z Tobą w celach badawczych.
+            Możemy skontaktować się z Tobą przez e-mail, telefon, faks lub pocztę. Możemy wykorzystać te informacje do dostosowania strony internetowej
+            zgodnie z Twoimi zainteresowaniami.
+       </li>
+   </ul>
+    <h2>Bezpieczeństwo</h2>
+    <p>
+        Dokładamy wszelkich starań, aby Twoje informacje były bezpieczne. Aby zapobiec nieautoryzowanemu dostępowi lub
+        ujawnienia, wprowadziliśmy odpowiednie fizyczne, elektroniczne i zarządcze procedury w celu zabezpieczenia i
+        zabezpieczyć informacje, które zbieramy online.
+   </p>
+    <h2>Jak używamy plików cookie</h2>
+    <p>
+        Plik cookie to mały plik, który prosi o pozwolenie na umieszczenie go na dysku twardym komputera.
+        Po wyrażeniu zgody plik jest dodawany, a plik cookie pomaga analizować ruch internetowy lub informuje Cię, kiedy odwiedzasz
+        konkretnej witrynie. Pliki cookie umożliwiają aplikacjom internetowym reagowanie na Ciebie jako osobę fizyczną. Aplikacja internetowa
+        może dostosować swoje działania do twoich potrzeb, upodobań i niechęci poprzez zbieranie i zapamiętywanie informacji o
+        Twoje preferencje.
+   </p>
+    <p>
+        Używamy plików cookie rejestru ruchu, aby określić, które strony są używane. Pomaga nam to analizować dane o stronie internetowej
+        ruchu i ulepszania naszej strony internetowej w celu dostosowania jej do potrzeb klienta. Używamy tych informacji tylko do
+        analizy statystycznej, a następnie dane są usuwane z systemu.
+   </p>
+    <p>
+        Ogólnie rzecz biorąc, pliki cookie pomagają nam zapewnić lepszą witrynę internetową, umożliwiając nam monitorowanie znalezionych stron
+        przydatne, a których nie. Plik cookie w żaden sposób nie daje nam dostępu do Twojego komputera ani żadnych informacji o Tobie,
+        inne niż dane, które zdecydujesz się nam udostępnić. Możesz zaakceptować lub odrzucić pliki cookie.
+        Większość przeglądarek internetowych automatycznie akceptuje pliki cookie, ale zazwyczaj można zmienić ustawienia przeglądarki
+        do odrzucania plików cookie, jeśli wolisz. Może to uniemożliwić pełne korzystanie ze strony internetowej.
+   </p>
+    <h2>Linki do innych stron internetowych</h2>
+    <p>
+        Nasza strona internetowa może zawierać linki do innych interesujących stron internetowych. Jednak po skorzystaniu z tych linków
+        opuszczając naszą witrynę, należy pamiętać, że nie mamy żadnej kontroli nad tą inną witryną.
+        Dlatego nie możemy być odpowiedzialni za ochronę i prywatność jakichkolwiek informacji, które podajesz podczas
+        odwiedzanie takich witryn i takich witryn nie podlega niniejszemu oświadczeniu o ochronie prywatności.
+        Należy zachować ostrożność i zapoznać się z oświadczeniem o ochronie prywatności mającym zastosowanie do danej witryny internetowej.
+   </p>
+    <h2>Kontrolowanie danych osobowych</h2>
+    <p>Możesz ograniczyć gromadzenie lub wykorzystywanie swoich danych osobowych w następujący sposób:</p>
+    <ul>
+        <li>
+            za każdym razem, gdy zostaniesz poproszony o wypełnienie formularza na stronie internetowej, poszukaj pola, które możesz kliknąć, aby wskazać
+            że nie chcesz, aby te informacje były wykorzystywane przez nikogo do celów marketingu bezpośredniego
+       </li>
+        <li>
+            jeśli wcześniej wyraziłeś zgodę na wykorzystanie Twoich danych osobowych w celach marketingu bezpośredniego,
+            możesz zmienić zdanie w dowolnym momencie, informując nas o tym, korzystając z informacji kontaktowych
+       </li>
+   </ul>
+    <p>
+        Nie będziemy sprzedawać, rozpowszechniać ani dzierżawić Twoich danych osobowych stronom trzecim, chyba że uzyskamy Twoją zgodę
+        lub są do tego wymagane przez prawo. Możemy wykorzystywać Twoje dane osobowe do wysyłania informacji promocyjnych
+        o podmiotach trzecich, które naszym zdaniem mogą Cię zainteresować, jeśli powiesz nam, że chcesz, aby tak się stało.
+   </p>
+    <p>
+        Możesz zażądać szczegółów dotyczących Twoich danych osobowych, które posiadamy zgodnie z ustawą o ochronie danych z 1998 roku.
+        Wymagana będzie niewielka opłata. Jeśli chcesz otrzymać kopię przechowywanych na Twój temat informacji, prześlij nam to pocztą elektroniczną
+        poprosić, korzystając z naszych informacji kontaktowych.
+   </p>
+    <p>
+        Jeśli uważasz, że jakiekolwiek informacje, które posiadamy na Twój temat, są nieprawidłowe lub niekompletne,
+        napisz lub napisz do nas jak najszybciej na powyższy adres.
+        Niezwłocznie poprawimy wszelkie nieprawidłowe informacje.
+   </p>
+    <h2><a name=""list""></a>Lista plików cookie, które zbieramy</h2>
+    <p>Poniższa tabela zawiera listę plików cookie, które zbieramy, oraz informacje, które przechowują.</p>
+    <table class=""data-table data-table-definition-list"">
+        <thead>
+        <tr>
+            <th>Nazwa pliku cookie</th>
+            <th>Opis pliku cookie</th>
+       </tr>
+       </thead>
+        <tbody>
+            <tr>
+                <th>FORM_KEY</th>
+                <td>Przechowuje losowo generowany klucz używany do zapobiegania sfałszowanym żądaniom.</td>
+           </tr>
+            <tr>
+                <th>PHPSESSID</th>
+                <td>Twój identyfikator sesji na serwerze.</td>
+           </tr>
+            <tr>
+                   <th>GUEST-VIEW</th>
+                <td>Umożliwia gościom przeglądanie i edytowanie ich zamówień.</td>
+           </tr>
+            <tr>
+                <th>PERSISTENT_SHOPPING_CART</th>
+                <td>Link do informacji o Twoim koszyku i historii przeglądania, jeśli o to prosiłeś.</td>
+           </tr>
+            <tr>
+                <th>STF</th>
+                <td>Informacje o produktach, które wysłałeś e-mailem do znajomych.</td>
+           </tr>
+            <tr>
+                <th>SKLEP</th>
+                <td>Widok sklepu lub wybrany język.</td>
+           </tr>
+            <tr>
+                <th>USER_ALLOWED_SAVE_COOKIE</th>
+                <td>Wskazuje, czy klient zezwolił na używanie plików cookie.</td>
+           </tr>
+            <tr>
+                <th>MAGE-CACHE-SESSID</th>
+                <td>Ułatwia buforowanie treści w przeglądarce, aby strony ładowały się szybciej.</td>
+           </tr>
+            <tr>
+                <th>MAGE-CACHE-STORAGE</th>
+                <td>Ułatwia buforowanie treści w przeglądarce, aby strony ładowały się szybciej.</td>
+           </tr>
+            <tr>
+                <th>MAGE-CACHE-STORAGE-SECTION-INVALIDATION</th>
+                <td>Ułatwia buforowanie treści w przeglądarce, aby strony ładowały się szybciej.</td>
+           </tr>
+            <tr>
+                <th>MAGE-CACHE-TIMEOUT</th>
+                <td>Ułatwia buforowanie treści w przeglądarce, aby strony ładowały się szybciej.</td>
+           </tr>
+            <tr>
+                <th>SECTION-DATA-IDS</th>
+                <td>Ułatwia buforowanie treści w przeglądarce, aby strony ładowały się szybciej.</td>
+           </tr>
+            <tr>
+                <th>PRIVATE_CONTENT_VERSION</th>
+                <td>Ułatwia buforowanie treści w przeglądarce, aby strony ładowały się szybciej.</td>
+           </tr>
+            <tr>
+                <th>X-MAGENTO-VARY</th>
+                <td>Ułatwia buforowanie treści na serwerze, aby strony ładowały się szybciej.</td>
+           </tr>
+            <tr>
+                <th>MAGE-TRANSLATION-FILE-VERSION</th>
+                <td>Ułatwia tłumaczenie treści na inne języki.</td>
+           </tr>
+            <tr>
+                <th>MAGE-TRANSLATION-STORAGE</th>
+                <td>Ułatwia tłumaczenie treści na inne języki.</td>
+           </tr>
+       </tbody>
+   </table>
+</div>",module,Magento_Sample
+"Latest Issue","Najnowsze wydanie",module,Magento_Sample
+"Sample #1","Próbka nr 1",module,Magento_Sample
+"Sample #2","Próbka nr 2",module,Magento_Sample
+"Sample #3","Próbka nr 3",module,Magento_Sample
