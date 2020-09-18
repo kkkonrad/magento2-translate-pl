@@ -26279,7 +26279,7 @@ More,Więcej,module,MageSuite_ContentConstructorFrontend
 "Next product","Następny produkt",module,MageSuite_ProductNavigation
 "Description Extra","Dodatkowy opis",module,Magento_Sample
 "Video File","Plik wideo",module,Magento_Sample
-"Has Video","Ma wideo",module,Magento_Sample
+"Has Video","Załączone wideo",module,Magento_Sample
 "14K Gold","14K złoto",module,Magento_Sample
 "Sterling Silver","Srebro standardowe",module,Magento_Sample
 Acrylic,Akryl,module,Magento_Sample
@@ -26289,7 +26289,7 @@ Viscose,Wiskoza,module,Magento_Sample
 "Above Knee","Nad kolanem",module,Magento_Sample
 "Below Knee","Poniżej kolana",module,Magento_Sample
 "Ankle Length","Długość kostki",module,Magento_Sample
-"Halter Top","Halter Top",module,Magento_Sample
+"Halter Top","Wiązane na szyi",module,Magento_Sample
 "Short Sleeve","Krótki rękaw",module,Magento_Sample
 "Long Sleeve","Długi rękaw",module,Magento_Sample
 "3/4 Sleeve","Rękaw 3/4",module,Magento_Sample
@@ -26889,3 +26889,7 @@ Bangles,Bransoletki,module,Magento_Sample
 "Sample #1","Próbka nr 1",module,Magento_Sample
 "Sample #2","Próbka nr 2",module,Magento_Sample
 "Sample #3","Próbka nr 3",module,Magento_Sample
+"Fashion Material",Materiał,module,Magento_Sample
+"Fashion Style",Styl,module,Magento_Sample
+"Fashion Color",Kolor,module,Magento_Sample
+"Fashion Size",Rozmiar,module,Magento_Sample
