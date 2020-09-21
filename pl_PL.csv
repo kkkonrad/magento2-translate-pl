@@ -4328,10 +4328,10 @@ Delete,Usuń,module,Magento_Review
 "Update Status","Aktualizuj status",module,Magento_Review
 Customer,Klient,module,Magento_Review
 "Pending Reviews of Customer `%1`","Oczekujące opinie Klienta `%1`",module,Magento_Review
-"Pending Reviews","Niezatwierdzone opinie",module,Magento_Review
+"Pending Reviews","Niezatwierdzone recenzje",module,Magento_Review
 "All Reviews of Customer `%1`","Wszystkie opinie Klienta `%1`",module,Magento_Review
 "All Reviews of Product `%1`","Wszystkie opinie produktu `%1`",module,Magento_Review
-"All Reviews","Lista opinii",module,Magento_Review
+"All Reviews",Recenzje,module,Magento_Review
 Name,Nazwa,module,Magento_Review
 "Product Store Name","Nazwa produktu sklepu",module,Magento_Review
 Price,Cena,module,Magento_Review
@@ -4350,7 +4350,7 @@ Websites,Witryny,module,Magento_Review
 "Sort Order","Kolejność sortowania",module,Magento_Review
 "Rating Information","Informacje o ocenie",module,Magento_Review
 "Product Reviews","Opinie produktu",module,Magento_Review
-"Pending product review(s)","Niezatwierdzone opinie",module,Magento_Review
+"Pending product review(s)","Niezatwierdzone recenzje",module,Magento_Review
 "Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Produkt: <a href=""%1"" target=""_blank"">%2</a><br/>",module,Magento_Review
 "Summary of review: %1 <br/>","Podsumowanie opinii: %1<br/>",module,Magento_Review
 "Review: %1 <br/>","Opinia: %1<br/>",module,Magento_Review
