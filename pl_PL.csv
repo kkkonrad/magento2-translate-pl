@@ -3440,7 +3440,7 @@ Updated,Zaktualizowano,module,Magento_Newsletter
 Sender,Nadawca,module,Magento_Newsletter
 "Template Type","Typ szablonu",module,Magento_Newsletter
 Action,Operacja,module,Magento_Newsletter
-"Queue Newsletter","Kolejki Newsletter",module,Magento_Newsletter
+"Queue Newsletter","Newsletter oczekujący",module,Magento_Newsletter
 "We unsubscribed the people you identified.","Możemy wypisać osoby zidentyfikowane.",module,Magento_Newsletter
 "The problems you identified have been deleted.","Problemy, które zidentyfikowałeś zostały usunięte.",module,Magento_Newsletter
 "Newsletter Problems Report","Raporty problemów z wysyłką newslettera",module,Magento_Newsletter
@@ -8718,7 +8718,7 @@ Cron,Cron,module,Magento_NewRelicReporting
 "Subscription Options","Opcje subskrypcji",module,Magento_Newsletter
 "Allow Guest Subscription","Zezwól na subskrybowanie przez niezalogowanych",module,Magento_Newsletter
 "Need to Confirm","Wymaga potwierdzenia",module,Magento_Newsletter
-"Confirmation Email Sender","Nadawca wiadomości potwierdzenia",module,Magento_Newsletter
+"Confirmation Email Sender","Potwierdzenie wysłania e-maila",module,Magento_Newsletter
 "Confirmation Email Template","Szablon wiadomości potwierdzenia",module,Magento_Newsletter
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_Newsletter
 "Success Email Sender","Nadawca wiadomości o powodzeniu",module,Magento_Newsletter
