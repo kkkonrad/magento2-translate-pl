@@ -3405,7 +3405,7 @@ Reset,Resetuj,module,Magento_Newsletter
 "View Newsletter","Zobacz newsletter",module,Magento_Newsletter
 "Edit Newsletter","Edycja newslettera",module,Magento_Newsletter
 "Queue Information","Informacje o kolejce",module,Magento_Newsletter
-"Queue Date Start","Start kolejki",module,Magento_Newsletter
+"Queue Date Start","Data rozpoczęcia",module,Magento_Newsletter
 "Subscribers From","Subskrybenci od",module,Magento_Newsletter
 Subject,Temat,module,Magento_Newsletter
 "Sender Name","Nazwa nadawcy",module,Magento_Newsletter
@@ -3443,8 +3443,8 @@ Action,Operacja,module,Magento_Newsletter
 "Queue Newsletter","Newsletter oczekujący",module,Magento_Newsletter
 "We unsubscribed the people you identified.","Możemy wypisać osoby zidentyfikowane.",module,Magento_Newsletter
 "The problems you identified have been deleted.","Problemy, które zidentyfikowałeś zostały usunięte.",module,Magento_Newsletter
-"Newsletter Problems Report","Raporty problemów z wysyłką newslettera",module,Magento_Newsletter
-"Newsletter Problem Reports","Raporty problemów z wysyłką newslettera",module,Magento_Newsletter
+"Newsletter Problems Report","Problemy z wysyłką newslettera",module,Magento_Newsletter
+"Newsletter Problem Reports","Problemy z wysyłką newslettera",module,Magento_Newsletter
 "Newsletter Queue","Kolejka newslettera",module,Magento_Newsletter
 "Edit Queue","Edycja kolejki",module,Magento_Newsletter
 "Please correct the newsletter template and try again.","Proszę poprawić szablon newslettera i spróbuj ponownie.",module,Magento_Newsletter
@@ -8731,7 +8731,7 @@ Subscriber,Subskrybent,module,Magento_Newsletter
 "Queue Subject","Temat kolejki",module,Magento_Newsletter
 "Error Code","Kod błędu",module,Magento_Newsletter
 "Error Text","Tekst błędu",module,Magento_Newsletter
-"Queue Start","Start kolejki",module,Magento_Newsletter
+"Queue Start","Rozpoczęcie kolejki",module,Magento_Newsletter
 "Queue End","Koniec kolejki",module,Magento_Newsletter
 Status,Stan,module,Magento_Newsletter
 Processed,Przetworzona,module,Magento_Newsletter
