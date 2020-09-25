@@ -8415,7 +8415,7 @@ CSV,CSV,module,Magento_CustomerImportExport
 "Number of Required Character Classes","Liczba wymaganych znaków klas",module,Magento_Customer
 "Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Liczba znaków różnych klas wymaganych w haśle: małe, wielkich liter, cyfr, znaków specjalnych.",module,Magento_Customer
 "Minimum Password Length","minimalna długość hasła",module,Magento_Customer
-"Maximum Login Failures to Lockout Account","Maxymalna liczba nieudanych prób logowania do blokady konta",module,Magento_Customer
+"Maximum Login Failures to Lockout Account","Maksymalna liczba nieudanych prób logowania do blokady konta",module,Magento_Customer
 "Use 0 to disable account locking.","Użyj 0 aby wyłączyć blokowanie konta.",module,Magento_Customer
 "Lockout Time (minutes)","Czas blokady (w minutach)",module,Magento_Customer
 "Enable Autocomplete on login/forgot password forms","Włącz autouzupełnianie na formularzach logowania/przywracania hasła",module,Magento_Customer
@@ -9677,7 +9677,7 @@ Edit,Edytuj,module,Magento_UrlRewrite
 "User Roles","Role użytkownika",module,Magento_User
 "User Notification Template","Szablon Powiadamianie użytkownika",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_User
-"Maximum Login Failures to Lockout Account","Maxymalna liczba nieudanych prób logowania do blokady konta",module,Magento_User
+"Maximum Login Failures to Lockout Account","Maksymalna liczba nieudanych prób logowania do blokady konta",module,Magento_User
 "We will disable this feature if the value is empty.","Możemy wyłączyć tę funkcję, jeśli wartość jest pusta.",module,Magento_User
 "Lockout Time (minutes)","Czas blokady (w minutach)",module,Magento_User
 "Password Lifetime (days)","Czas życia hasła (dni)",module,Magento_User
