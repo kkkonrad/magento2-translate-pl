@@ -11432,7 +11432,7 @@ Email,E-mail,module,Magento_CustomAttributeManagement
 "A valid password reset token is missing. Enter and try again.","Brak prawidłowego tokena resetowania hasła. Wejdź i spróbuj ponownie.",module,Magento_Customer
 "The customer email is missing. Enter and try again.","Brak e-maila klienta. Wejdź i spróbuj ponownie.",module,Magento_Customer
 "A customer website ID wasn't specified. The ID must be specified to use the website scope.","Identyfikator witryny klienta nie został określony. Aby móc korzystać z zakresu witryny, należy podać identyfikator.",module,Magento_Customer
-"""regionId"" is required. Enter and try again.","""regionId"" jest wymagane. Wejdź i spróbuj ponownie.",module,Magento_Customer
+"""regionId"" is required. Enter and try again.","""regionId"" jest wymagane. Spróbuj ponownie.",module,Magento_Customer
 "Delete %1","Usuń %1",module,Magento_Customer
 "Are you sure you want to delete a %1 record?","Czy na pewno chcesz usunąć rekord %1?",module,Magento_Customer
 "Could not authenticate. Please try again later","Nie można uwierzytelnić. Spróbuj ponownie później",module,Magento_Customer
@@ -13772,7 +13772,7 @@ SKU,SKU,module,Magento_Reminder
 "Item SKU %1 %2","Produkt SKU %1 %2",module,Magento_Reminder
 "Store View","Widok sklepu",module,Magento_Reminder
 "The item was added to shopping cart %1, store view %2.","Element został dodany do koszyka zakupowego %1, widok sklepu %2.",module,Magento_Reminder
-"not from","nie stąd",module,Magento_Reminder
+"not from","nie z",module,Magento_Reminder
 found,znaleziono,module,Magento_Reminder
 "not found","nie znaleziono",module,Magento_Reminder
 "If an item is %1 in the shopping cart and %2 of these conditions match:","Jeśli produkt jest %1 w koszyku zakupowym i %2 jedne z tych warunków daje prawdę:",module,Magento_Reminder
@@ -22042,7 +22042,7 @@ Shorts,Spodenki,module,Magento_Sample
 "They ran too narrow for me and the material was almost too light - seemed pretty flimsy and I don't think they would last very long.","Biegły zbyt wąsko, a materiał był prawie zbyt lekki - wydawał mi się dość liche i nie sądzę, by trwały bardzo długo.",module,Magento_Sample
 "These are really REALLY LIGHT! Not much ","To naprawdę NAPRAWDĘ ŚWIATŁO! Niewiele",module,Magento_Sample
 "These are really REALLY LIGHT! Not much shoe or cushioning. My calves were sore after running in them 5 miles the first time.","To naprawdę NAPRAWDĘ ŚWIATŁO! Niezbyt dużo buta lub amortyzacja. Moje cielęta były obolałe, kiedy po raz pierwszy uciekałem w nich 5 mil.",module,Magento_Sample
-"Not great on slippery grass. I wear them","Nie świetne na śliskiej trawie. Noszę je",module,Magento_Sample
+"Not great on slippery grass. I wear them","Nieodpowiednie na śliskiej trawie. Noszę je",module,Magento_Sample
 "Not great on slippery grass. I wear them mostly for walking around.","Nie świetne na śliskiej trawie. Noszę je głównie do chodzenia.",module,Magento_Sample
 "I used these as racing flats and they we","Użyłem ich jako mieszkania wyścigowe i my",module,Magento_Sample
 "I used these as racing flats and they were awesome. ","Użyłem ich jako mieszkania wyścigowego i były niesamowite.",module,Magento_Sample
