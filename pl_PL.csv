@@ -663,7 +663,7 @@ Delete,Usuń,module,Magento_Braintree
 "Percent Discount","Zniżka procentowa",module,Magento_Bundle
 " -- Select --"," -- Wybierz --",module,Magento_Bundle
 Dynamic,Dynamiczny,module,Magento_Bundle
-Fixed,Stały,module,Magento_Bundle
+Fixed,Stała,module,Magento_Bundle
 "Create New Option","Utwórz nową opcję",module,Magento_Bundle
 "Bundle Items","Powiązane elementy",module,Magento_Bundle
 "Add Products to Option","Dodaj produkty do opcji",module,Magento_Bundle
@@ -14849,7 +14849,7 @@ Proceed,Kontynuuj,module,Magento_SharedCatalog
 "Deselect All","Odznacz wszystko",module,Magento_SharedCatalog
 Assign,Przyporządkuj,module,Magento_SharedCatalog
 Unassign,Odepnij,module,Magento_SharedCatalog
-Fixed,Stały,module,Magento_SharedCatalog
+Fixed,Stała,module,Magento_SharedCatalog
 Discount,Zniżka,module,Magento_SharedCatalog
 Apply,Zastosuj,module,Magento_SharedCatalog
 "Proceed to Store Configuration?","Czy przejść do konfiguracji sklepu?",module,Magento_SharedCatalog
