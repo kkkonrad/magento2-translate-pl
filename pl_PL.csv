@@ -2145,7 +2145,7 @@ Download,Pobierz,module,Magento_Customer
 "Delete Image","Usuń obraz",module,Magento_Customer
 "View Full Size","Zobacz pełen rozmiar",module,Magento_Customer
 "All countries","Wszystkie kraje",module,Magento_Customer
-"Customer Groups","Grupy klienta",module,Magento_Customer
+"Customer Groups","Grupy klientów",module,Magento_Customer
 "Add New Customer Group","Dodaj grupę klientów",module,Magento_Customer
 "Save Customer Group","Zapisz grupę klienta",module,Magento_Customer
 "Delete Customer Group","Usuń grupę klientów",module,Magento_Customer
@@ -8022,7 +8022,7 @@ Back,Cofnij,module,Magento_CatalogRule
 "Rule Name","Nazwa reguły",module,Magento_CatalogRule
 Description,Opis,module,Magento_CatalogRule
 Websites,Witryny,module,Magento_CatalogRule
-"Customer Groups","Grupy klienta",module,Magento_CatalogRule
+"Customer Groups","Grupy klientów",module,Magento_CatalogRule
 From,Od,module,Magento_CatalogRule
 To,Do,module,Magento_CatalogRule
 Priority,Priorytet,module,Magento_CatalogRule
@@ -9233,7 +9233,7 @@ Back,Cofnij,module,Magento_SalesRule
 "Rule Name","Nazwa reguły",module,Magento_SalesRule
 Description,Opis,module,Magento_SalesRule
 Websites,Witryny,module,Magento_SalesRule
-"Customer Groups","Grupy klienta",module,Magento_SalesRule
+"Customer Groups","Grupy klientów",module,Magento_SalesRule
 Coupon,Kupon,module,Magento_SalesRule
 "
                     If you select and save the rule you will be able to generate multiple coupon codes.
@@ -9995,7 +9995,7 @@ File,Plik,module,Magento_AdvancedCheckout
 "View and modify Shopping Cart","Wyświetl i modyfikuj koszyk",module,Magento_AdvancedCheckout
 "Order by SKU Settings","Sortuj po ustawieniach SKU",module,Magento_AdvancedCheckout
 "Enable Order by SKU on My Account in Storefront","Włącz zamówienia przez SKU w moje konto w Witryne sklepowej",module,Magento_AdvancedCheckout
-"Customer Groups","Grupy klienta",module,Magento_AdvancedCheckout
+"Customer Groups","Grupy klientów",module,Magento_AdvancedCheckout
 "Apply Coupon","Zastosuj kupon",module,Magento_AdvancedCheckout
 "Order by SKU Description","Sortuj po opisie SKU",module,Magento_AdvancedCheckout
 "Display a Link to Loading a Spreadsheet","Wyświetl łącze do ładowania arkusza kalkulacyjnego",module,Magento_AdvancedCheckout
@@ -10590,7 +10590,7 @@ Deny,Zabroń,module,Magento_CatalogPermissions
 Enable,Włącz,module,Magento_CatalogPermissions
 "<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.","<strong style=""color:red"">Ostrzeżenie!</strong>Domyślnie ta funkcja ogranicza wszystkie kategorie.",module,Magento_CatalogPermissions
 "Allow Browsing Category","Umożliwia przeglądanie kategorii",module,Magento_CatalogPermissions
-"Customer Groups","Grupy klienta",module,Magento_CatalogPermissions
+"Customer Groups","Grupy klientów",module,Magento_CatalogPermissions
 "Landing Page","Strona docelowa",module,Magento_CatalogPermissions
 "Allow Adding to Cart","Umożliwia dodawanie do koszyka",module,Magento_CatalogPermissions
 "Disallow Catalog Search By","Zablokuj przeszukiwanie katalogów względem",module,Magento_CatalogPermissions
@@ -10628,7 +10628,7 @@ Status,Stan,module,Magento_CatalogRuleStaging
 Active,Aktywny,module,Magento_CatalogRuleStaging
 Inactive,Nieaktywny,module,Magento_CatalogRuleStaging
 Websites,Witryny,module,Magento_CatalogRuleStaging
-"Customer Groups","Grupy klienta",module,Magento_CatalogRuleStaging
+"Customer Groups","Grupy klientów",module,Magento_CatalogRuleStaging
 Conditions,Warunki,module,Magento_CatalogRuleStaging
 Actions,Operacje,module,Magento_CatalogRuleStaging
 Apply,Zastosuj,module,Magento_CatalogRuleStaging
@@ -12900,7 +12900,7 @@ Create,Utwórz,module,Magento_Logging
 "CMS Pages","Strony CMS",module,Magento_Logging
 "CMS Blocks","Bloki CMS",module,Magento_Logging
 Customers,Klienci,module,Magento_Logging
-"Customer Groups","Grupy klienta",module,Magento_Logging
+"Customer Groups","Grupy klientów",module,Magento_Logging
 Reports,Raporty,module,Magento_Logging
 "System Configuration","Konfiguracja systemu",module,Magento_Logging
 "Catalog Price Rules","Reguły cenowe katalogu",module,Magento_Logging
@@ -14572,7 +14572,7 @@ Description,Opis,module,Magento_SalesRuleStaging
 "End Date","Data zakończenia",module,Magento_SalesRuleStaging
 "Rule Information","Informacje o regule",module,Magento_SalesRuleStaging
 Websites,Witryny,module,Magento_SalesRuleStaging
-"Customer Groups","Grupy klienta",module,Magento_SalesRuleStaging
+"Customer Groups","Grupy klientów",module,Magento_SalesRuleStaging
 "Public In RSS Feed","Publiczne w kanale RSS",module,Magento_SalesRuleStaging
 Conditions,Warunki,module,Magento_SalesRuleStaging
 Actions,Operacje,module,Magento_SalesRuleStaging
@@ -14777,7 +14777,7 @@ Products,Produkty,module,Magento_SharedCatalog
 "No shared catalog name is specified in request.","W żądaniu nie podano nazwy katalogu udostępnionego.",module,Magento_SharedCatalog
 "Requested categories don't exist: %categoriesIds.","Żądane kategorie nie istnieją: %categoryIds.",module,Magento_SharedCatalog
 "You cannot unassign a company from the public shared catalog.","Nie można cofnąć przypisania firmy z publicznego katalogu który został udostępniony.",module,Magento_SharedCatalog
-"Customer Groups","Grupy klienta",module,Magento_SharedCatalog
+"Customer Groups","Grupy klientów",module,Magento_SharedCatalog
 "Could not set default customer group","Nie można ustawić domyślnej grupy klientów",module,Magento_SharedCatalog
 "A customer group with this name already exists. Enter a different name to create a shared catalog.","Grupa klientów o tej nazwie już istnieje. Wprowadź inną nazwę, aby utworzyć udostępniony katalog.",module,Magento_SharedCatalog
 "Could not save customer group.","Nie można zapisać grupy klientów.",module,Magento_SharedCatalog
@@ -15857,7 +15857,7 @@ Banner,Baner,module,Magento_Banner
 "Please enter valid currency code: %1","Podaj prawidłowy kod waluty: %1",module,Magento_GiftWrapping
 "Unable to remove gift wrapping %1","Nie można usunąć pakowania %1",module,Magento_GiftWrapping
 "Please correct the invitation code.","Proszę poprawić kod zaproszenia.",module,Magento_Invitation
-"You need to specify a customer ID group.","Musisz określić identyfikator grupy klienta.",module,Magento_Invitation
+"You need to specify a customer ID group.","Musisz określić identyfikator grupy klientów.",module,Magento_Invitation
 "The wrong store is specified.","Określono niepoprawny sklep.",module,Magento_Invitation
 "You can't update this message.","Nie możesz uaktualnić tej wiadomości.",module,Magento_Invitation
 "We can't generate encrypted code.","Nie można wygenerować zaszyfrowanego kodu.",module,Magento_Invitation
