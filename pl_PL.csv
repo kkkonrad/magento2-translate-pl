@@ -9023,14 +9023,14 @@ User,Użytkownik,module,Magento_Paypal
                                 Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.",module,Magento_Paypal
-"Persistent Shopping Cart","Trwały koszyk",module,Magento_Persistent
+"Persistent Shopping Cart","Koszyk stały",module,Magento_Persistent
 "General Options","Opcje ogólne",module,Magento_Persistent
-"Enable Persistence","Włącz trwałą obecność",module,Magento_Persistent
+"Enable Persistence","Włącz stałą obecność",module,Magento_Persistent
 "Persistence Lifetime (seconds)","Czas trwałości (sekundy)",module,Magento_Persistent
 "Enable ""Remember Me""","Włącz Zapamiętaj mnie""""""""",module,Magento_Persistent
 """Remember Me"" Default Value","Domyślna wartość pola ""Zapamiętaj mnie""",module,Magento_Persistent
 "Clear Persistence on Sign Out","Wyczyść trwałą obecność przy wylogowaniu",module,Magento_Persistent
-"Persist Shopping Cart","Trwały koszyk",module,Magento_Persistent
+"Persist Shopping Cart","Koszyk stały",module,Magento_Persistent
 "Product Alerts","Alerty produktów",module,Magento_ProductAlert
 "Allow Alert When Product Price Changes","Zazwól na powiadomienia o zmienach ceny produktu",module,Magento_ProductAlert
 "Allow Alert When Product Comes Back in Stock","Zazwól na powiadomienia o powrocie produktu do stany magazynowego",module,Magento_ProductAlert
