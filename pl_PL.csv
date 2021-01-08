@@ -6090,8 +6090,8 @@ Reset,Resetuj,module,Magento_User
 "Save Role","Zapisz rolę",module,Magento_User
 Roles,Role,module,Magento_User
 "Add New Role","Dodaj rolę",module,Magento_User
-"Role Information","Informacje o roli",module,Magento_User
-"Role Users","Użytkownicy roli",module,Magento_User
+"Role Information","Informacje o rolach",module,Magento_User
+"Role Users","Użytkownicy ról",module,Magento_User
 "User ID","ID użytkownika",module,Magento_User
 "User Name","Nazwa użytkownika",module,Magento_User
 "First Name",Imię,module,Magento_User
@@ -6100,8 +6100,8 @@ Email,E-mail,module,Magento_User
 Status,Stan,module,Magento_User
 Active,Aktywny,module,Magento_User
 Inactive,Nieaktywny,module,Magento_User
-"Role Resources","Zasoby roli",module,Magento_User
-"Role Info","Informacje o roli",module,Magento_User
+"Role Resources","Zasoby ról",module,Magento_User
+"Role Info","Informacje o rolach",module,Magento_User
 "Role Name","Nazwa roli",module,Magento_User
 "Current User Identity Verification","Weryfikacja tożsamości użytkownika",module,Magento_User
 "Your Password","Twoje hasło",module,Magento_User
@@ -11011,7 +11011,7 @@ Description,Opis,module,Magento_Company
 Contacts,Kontakty,module,Magento_Company
 "Sales Representative","Przedstawiciel handlowy",module,Magento_Company
 "Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.","Twoje konto firmowe jest zablokowane i nie możesz składać zamówień. W razie pytań skontaktuj się z administratorem swojej firmy.",module,Magento_Company
-"Role Information","Informacje o roli",module,Magento_Company
+"Role Information","Informacje o  rolach",module,Magento_Company
 "Role Permissions","Uprawnienia roli",module,Magento_Company
 "Save Role","Zapisz rolę",module,Magento_Company
 "Add New User","Dodaj użytkownika",module,Magento_Company
