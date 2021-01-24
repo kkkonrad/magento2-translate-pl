@@ -639,7 +639,7 @@ Country,Kraj,module,Magento_Braintree
 "No authorization transaction to proceed capture.","Nie ma autoryzacji transakcji do kontynuowanie przechwytywania.",module,Magento_Braintree
 "Braintree error response.","Braintree błąd odpowiedzi.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","Nie można pobrać identyfikatora jednorazowego metody płatności.",module,Magento_Braintree
-"Wrong transaction status","Zły stan transakcji",module,Magento_Braintree
+"Wrong transaction status","Nieprawidłowy  stan transakcji",module,Magento_Braintree
 Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_Braintree
 " --Please Select--"," -- Prosimy wybrać --",module,Magento_Braintree
@@ -2752,7 +2752,7 @@ Dropdown,"Lista rozwijana",module,Magento_Eav
 "Entity attribute with id ""%1"" not found","Nie znaleziono jednostki cechy id ""%1""",module,Magento_Eav
 "Attribute set name is empty.","Nazwa cechy jest pusta.",module,Magento_Eav
 "An attribute set named ""%1"" already exists.","Zestaw cech o nazwie '%1' już istnieje.",module,Magento_Eav
-"No options found.","Żadne opcje nie znalezione.",module,Magento_Eav
+"No options found.","Opcje nie zostały odnalezione",module,Magento_Eav
 label,etykieta,module,Magento_Eav
 "Invalid entity supplied: %1","Dostarczono nieprawidłową jednostkę: %1",module,Magento_Eav
 "Attempt to add an invalid object","Dokonano próby dodania nieprawidłowego obiektu",module,Magento_Eav
@@ -4514,7 +4514,7 @@ Promotions,Promocje,module,Magento_SalesRule
 "Invalid data provided","Podano błędne dane",module,Magento_SalesRule
 "Something went wrong while generating coupons. Please review the log and try again.","Coś się zepsuło podczas generowania kuponów. Przejrzyj dziennik i spróbuj ponownie.",module,Magento_SalesRule
 Catalog,Katalog,module,Magento_SalesRule
-"The wrong rule is specified.","Źle określona reguła.",module,Magento_SalesRule
+"The wrong rule is specified.","Określona została nieprawidłowa reguła",module,Magento_SalesRule
 "You saved the rule.","Zapisałeś regułę.",module,Magento_SalesRule
 "Something went wrong while saving the rule data. Please review the error log.","Coś się zepsuło podczas zapisywania danych reguły. Przejrzyj logi błędów.",module,Magento_SalesRule
 Alphanumeric,Alfanumeryczne,module,Magento_SalesRule
@@ -7845,10 +7845,10 @@ Web,Sieć,module,Magento_Backend
 "Base URL","Bazowy URL",module,Magento_Backend
 "Specify URL or {{base_url}} placeholder.","Określ adres URL lub zastępczy {{base_url}}.",module,Magento_Backend
 "Base Link URL","Bazowy URL dla linków",module,Magento_Backend
-"Base URL for Static View Files","Podstawowy adres URL dla widoków statycznych plików",module,Magento_Backend
+"Base URL for Static View Files","Podstawowy adres URL dla plików statycznych",module,Magento_Backend
 "May be empty or start with {{unsecure_base_url}} placeholder.","Może być pusty lub zaczynać się od {{unsecure_base_url}}.",module,Magento_Backend
 "Base URL for User Media Files","Podstawowy adres URL dla plików multimedialnych użytkownika",module,Magento_Backend
-"Base URLs (Secure)","Bazowy URL (bezpieczne)",module,Magento_Backend
+"Base URLs (Secure)","Bazowy URL (szyfrowany)",module,Magento_Backend
 "Secure Base URL","Zabezpieczony bazowy URL",module,Magento_Backend
 "Specify URL or {{base_url}}, or {{unsecure_base_url}} placeholder.","Określ adres URL lub {{base_url}} lub {{unsecure_base_url}} symbol zastępczy.",module,Magento_Backend
 "Secure Base Link URL","Podstawowy bezpieczny adres URL",module,Magento_Backend
@@ -8676,7 +8676,7 @@ Status,Stan,module,Magento_Integration
 "This setting will be applied when all prices in the specific price interval are equal.","Ustawienie zostanie zastosowane kiedy wszystkie ceny w okreslonym przedziale są równe.",module,Magento_LayeredNavigation
 "Interval Division Limit","Limit wewnętrznego podziału",module,Magento_LayeredNavigation
 "Please specify the number of products, that will not be divided into subintervals.","Prosimy sprecyzowac ilość produktów, które nie będą dzielona na podprzedziały.",module,Magento_LayeredNavigation
-"Storage Configuration for Media","Konfiguracja składowania mediów",module,Magento_MediaStorage
+"Storage Configuration for Media","Konfiguracja przechowywania mediów",module,Magento_MediaStorage
 "Media Storage","Składowanie mediów",module,Magento_MediaStorage
 "Select Media Database","Wybierz bazę danych mediów",module,Magento_MediaStorage
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Po wybraniu nowej lokalizacji przechowywania plików, naciśnij przycisk Synchronizuj w celu przeniesienia wszystkich mediów do tej lokalizacji. Media nie będą dostępne w nowej lokalizacji dopóki nie zakończy się proces ich synchronizacji.",module,Magento_MediaStorage
@@ -9555,7 +9555,7 @@ Configuration,Konfiguracja,module,Magento_Theme
 "Default Meta Description","Domyślny Meta opis",module,Magento_Theme
 "Default Meta Keywords","Domyślne Meta słowa kluczowe",module,Magento_Theme
 "This will be included before head closing tag in page HTML.","To będzie załączone przed znacznikiem zamykającym sekcję HEAD w HTML.",module,Magento_Theme
-"Scripts and Style Sheets","Skrypty i arkuszy stylów",module,Magento_Theme
+"Scripts and Style Sheets","Skrypty i arkusze stylów",module,Magento_Theme
 "Display Demo Store Notice","Wyświetlaj informację o wersji demonstracyjnej",module,Magento_Theme
 Header,Nagłówek,module,Magento_Theme
 "Allowed file types: png, gif, jpg, jpeg.","Dozwolone typy plików: png, gif, jpg, jpeg.",module,Magento_Theme
@@ -10276,7 +10276,7 @@ Country,Kraj,module,Magento_BraintreeTwo
 "No authorization transaction to proceed capture.","Nie ma autoryzacji transakcji do kontynuowanie przechwytywania.",module,Magento_BraintreeTwo
 "Braintree error response.","Braintree błąd odpowiedzi.",module,Magento_BraintreeTwo
 "Payment method nonce can\'t be retrieved.","Odpowiedź metody płatności nie może być pobrany.",module,Magento_BraintreeTwo
-"Wrong transaction status","Zły stan transakcji",module,Magento_BraintreeTwo
+"Wrong transaction status","Nieprawidłowy stan transakcji",module,Magento_BraintreeTwo
 Authorize,Autoryzujautoryzuj,module,Magento_BraintreeTwo
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_BraintreeTwo
 " --Please Select--"," -- Prosimy wybrać --",module,Magento_BraintreeTwo
@@ -24438,7 +24438,7 @@ Stock,Zapasy,module,Magento_InventoryProductAlert
 "Parameter ""object"" must be present.","Parametr ""obiect"" musi być obecny.",module,Magento_InventorySales
 "Parameter ""sort_order"" must be present for unrequired conditions.","Parametr ""sort_order"" musi być obecny dla niewymagalnych warunków.",module,Magento_InventorySales
 "Condition has to implement IsProductSalableInterface.","Warunek musi zaimplementować IsProductSalableInterface.",module,Magento_InventorySales
-"Backorders are disabled","Zaległości są wyłączone",module,Magento_InventorySales
+"Backorders are disabled","Zaległe zamówienia są niedostępne",module,Magento_InventorySales
 "There are no source items with the in stock status","Brak produktów źródłowych o statusie w magazynie",module,Magento_InventorySales
 "The fewest you may purchase is %1","Najmniej możesz kupić %1",module,Magento_InventorySales
 "The requested qty exceeds the maximum qty allowed in shopping cart","Żądana ilość przekracza maksymalną ilość dozwoloną w koszyku",module,Magento_InventorySales
@@ -24458,7 +24458,7 @@ Stock,Zapasy,module,Magento_InventoryProductAlert
 "Could not load Sales Channels for Stock","Nie można załadować kanałów sprzedaży dla magazynu",module,Magento_InventorySales
 "Stock has at least one sale channel and could not be deleted.","Magazyn ma co najmniej jeden kanał sprzedaży i nie można go usunąć.",module,Magento_InventorySales
 "Could not replace Sales Channels for Stock","Nie można zastąpić kanałów sprzedaży dla magazynu",module,Magento_InventorySales
-"Wrong condition.","Zły warunek.",module,Magento_InventorySales
+"Wrong condition.","Nieprawidłowy warunek.",module,Magento_InventorySales
 "Source Selection","Wybór źródła",module,Magento_InventoryShippingAdminUi
 "Qty of %1 should be less or equal to %2","Ilość %1 powinna być mniejsza lub równa %2",module,Magento_InventoryShippingAdminUi
 "You should select one or more items to ship.","Powinieneś wybrać jeden lub więcej przedmiotów do wysłania.",module,Magento_InventoryShippingAdminUi
