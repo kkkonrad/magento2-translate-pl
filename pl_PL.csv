@@ -25837,7 +25837,7 @@ Frontend,"Strona sklepu",module,MSP_ReCaptcha
 "Invisible badge position","Niewidoczna pozycja odznaki",module,MSP_ReCaptcha
 "Language Code","Kod języka",module,MSP_ReCaptcha
 "Use in login","Użyj przy logowaniu",module,MSP_ReCaptcha
-"Use in Forgot password","Użyj mną stronie Nie pamiętam hasła",module,MSP_ReCaptcha
+"Use in Forgot password","Używaj na stronie  'Nie pamiętam hasła'",module,MSP_ReCaptcha
 "Use in Contact","Użyj w stronie Kontakt",module,MSP_ReCaptcha
 "Use in Create user","Użyj w Utwórz użytkownika",module,MSP_ReCaptcha
 "Use in Review","Użyj w recenzji",module,MSP_ReCaptcha
