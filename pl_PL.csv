@@ -1790,7 +1790,7 @@ px.,px.,module,Magento_Cms
 [GLOBAL],[GLOBALNY],module,Magento_Config
 [WEBSITE],[WITRYNA],module,Magento_Config
 "[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_Config
-"Use system value","Użyj wartości systemu",module,Magento_Config
+"Use system value","Użyj wartości systemowej",module,Magento_Config
 "Use Default","Użyj domyślnych",module,Magento_Config
 "Use Website","Użyj witryny",module,Magento_Config
 Add,Dodaj,module,Magento_Config
@@ -24495,14 +24495,14 @@ Source:,Źródło:,module,Magento_InventoryShippingAdminUi
 "You cannot proceed with such operation, your reCaptcha reputation is too low.","Nie możesz kontynuować takiej operacji, Twoja reputacja reCaptcha jest zbyt niska.",module,MSP_ReCaptcha
 "Incorrect ReCaptcha validation","Niepoprawna walidacja ReCaptcha",module,MSP_ReCaptcha
 Inline,Inline,module,MSP_ReCaptcha
-"Bottom Right","Prawy dolny",module,MSP_ReCaptcha
+"Bottom Right","Prawa dolna",module,MSP_ReCaptcha
 "Bottom Left","Na dole po lewej",module,MSP_ReCaptcha
 Normal,Normalna,module,MSP_ReCaptcha
 Compact,Kompaktowy,module,MSP_ReCaptcha
 "Light Theme","Lekki motyw",module,MSP_ReCaptcha
 "Dark Theme","Ciemna kompozycja",module,MSP_ReCaptcha
-"Invisible reCaptcha v3","Invisible reCaptcha v3",module,MSP_ReCaptcha
-"Invisible reCaptcha v2","Invisible reCaptcha v2",module,MSP_ReCaptcha
+"Invisible reCaptcha v3","Niewidoczny reCaptcha v3",module,MSP_ReCaptcha
+"Invisible reCaptcha v2","Niewidoczny reCaptcha v2",module,MSP_ReCaptcha
 "reCaptcha v2","reCaptcha v2",module,MSP_ReCaptcha
 "Internal error: Make sure you are using reCaptcha V3 api keys","Błąd wewnętrzny: Upewnij się, że używasz kluczy API reCaptcha V3",module,MSP_ReCaptcha
 Username,"Nazwa użytkownika",module,MSP_TwoFactorAuth
@@ -25838,7 +25838,7 @@ Frontend,"Strona sklepu",module,MSP_ReCaptcha
 "Language Code","Kod języka",module,MSP_ReCaptcha
 "Use in login","Użyj przy logowaniu",module,MSP_ReCaptcha
 "Use in Forgot password","Używaj na stronie  'Nie pamiętam hasła'",module,MSP_ReCaptcha
-"Use in Contact","Użyj w stronie Kontakt",module,MSP_ReCaptcha
+"Use in Contact","Użyj na stronie 'Kontakt'",module,MSP_ReCaptcha
 "Use in Create user","Użyj w Utwórz użytkownika",module,MSP_ReCaptcha
 "Use in Review","Użyj w recenzji",module,MSP_ReCaptcha
 "Use invisible ReCaptcha in newsletter","Używaj niewidocznego ReCaptcha w biuletynie",module,MSP_ReCaptcha
