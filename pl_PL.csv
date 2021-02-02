@@ -25611,7 +25611,7 @@ Delete,Usuń,module,MageSuite_UrlRewriteMassActions
 "Are you sure?","Czy na pewno tego chcesz?",module,MageSuite_UrlRewriteMassActions
 "Custom URL Rewrites","Niestandardowe przepisywanie adresów URL",module,MageSuite_UrlRewrite
 "List of rewrites","Lista przekierowań URL",module,MageSuite_UrlRewrite
-"Chat Settings","ustawienia czatu",module,Dotdigitalgroup_Chat
+"Chat Settings","Ustawienia czatu",module,Dotdigitalgroup_Chat
 Enabled,Włączone,module,Dotdigitalgroup_Chat
 "Configure Chat Widget","Skonfiguruj widżet czatu",module,Dotdigitalgroup_Chat
 "Configure Chat Teams","Skonfiguruj zespoły czatu",module,Dotdigitalgroup_Chat
