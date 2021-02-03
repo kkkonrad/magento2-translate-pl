@@ -7732,7 +7732,7 @@ Schedule,Harmonogram,module,Magento_Backend
 "Content translation","Tłumaczenie treści",module,Magento_Backend
 Settings,Ustawienia,module,Magento_Backend
 Attributes,Atrybuty,module,Magento_Backend
-"Other Settings",Inne,module,Magento_Backend
+"Other Settings","Inne ustawienia",module,Magento_Backend
 "Data Transfer","Transfer danych",module,Magento_Backend
 "Magento Connect","Magento Connect",module,Magento_Backend
 "Connect Manager","Connect Manager",module,Magento_Backend
@@ -9545,7 +9545,7 @@ Configuration,Konfiguracja,module,Magento_Theme
 "Admin empty","Admin pusty",module,Magento_Theme
 "Admin 1column","Admin 1 kolumna",module,Magento_Theme
 "Theme Information","Informacje o motywie",module,Magento_Theme
-"Other Settings",Inne,module,Magento_Theme
+"Other Settings","Inne ustawienia",module,Magento_Theme
 "HTML Head","Nagłówek HTML",module,Magento_Theme
 "Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!","Dozwolone typy plików: ico, png, gif, jpg, jpeg, apng. Nie wszystkie przeglądarki obsługują wszystkie te formaty!",module,Magento_Theme
 "Favicon Icon","Ikonka witryny (favicon)",module,Magento_Theme
