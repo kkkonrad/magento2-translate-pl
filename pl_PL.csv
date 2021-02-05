@@ -8260,7 +8260,7 @@ Payment,Płatność,module,Magento_Checkout
 "CMS No Route Page","Strona CMS Brak przekierowania",module,Magento_Cms
 "CMS No Cookies Page","Strona CMS Brak cookie",module,Magento_Cms
 "Show Breadcrumbs for CMS Pages","Pokaż ścieżki powrotu (okruszki) dla stron CMS",module,Magento_Cms
-"Browser Capabilities Detection","Wykrywanie możliwości przeglądarki",module,Magento_Cms
+"Browser Capabilities Detection","Wykrywanie ustawień przeglądarki",module,Magento_Cms
 "Redirect to CMS-page if Cookies are Disabled","Przekieruj do strony CMS jeśli cookies są wyłączone",module,Magento_Cms
 "Show Notice if JavaScript is Disabled","Pokaż komunikat jeśli JavaScript jest wyłączony",module,Magento_Cms
 "Show Notice if Local Storage is Disabled","Pokaż informację jeśli lokalna baza danych jest niedostępna",module,Magento_Cms
