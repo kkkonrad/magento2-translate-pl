@@ -21920,7 +21920,7 @@ Shorts,Spodenki,module,Magento_Sample
 "Either I'm too short or this inseam is way off. WAY too long! I trip constantly in these.","Albo jestem za krótka, albo ten inseam jest daleko. Zbyt długo! Ciągle podróżuję w nich.",module,Magento_Sample
 "Keeping me warm before games","Utrzymywanie mnie w cieple przed grami",module,Magento_Sample
 "They do the job of keeping me warm before a game. I wear them then and only then-wouldn't wear them anywhere else.","Oni wykonują zadanie utrzymywania ciepła przed meczem. Noszę je wtedy i tylko wtedy - nie nosić ich nigdzie indziej.",module,Magento_Sample
-"There's nothing to dislike","Nie ma nic do niechęci",module,Magento_Sample
+"There's nothing to dislike","Nie ma nic do nie polubienia",module,Magento_Sample
 "There's nothing to dislike about these track pants bc they do everything you want??blocks the wind and keeps you warm. Very happy I got them!","Nie da się niczego nie podoba w tych spodniach, bo robią wszystko, co chcesz, blokują wiatr i utrzymują ciepło. Bardzo się cieszę, że je mam!",module,Magento_Sample
 "The mesh lining sometimes snags","Podszewka siatkowa czasami się zaczepia",module,Magento_Sample
 "The mesh lining sometimes snags when your taking them off but that's pretty common I think. Like them and would recommend.","Podszewka z siatki czasami zaczepia się, gdy je zdejmujesz, ale myślę, że to dość powszechne. Podobnie jak oni i polecam.",module,Magento_Sample
@@ -22272,7 +22272,7 @@ Overheated,Przegrzany,module,Magento_Sample
 "I'm not a fan of really tight or compressed pants so I love these for my yoga classes (not so much for hot yoga, though). ","Nie jestem fanem naprawdę ciasnych lub skompresowanych spodni, więc uwielbiam je na moich zajęciach jogi (nie tyle za gorącą jogę).",module,Magento_Sample
 "Yoga is for hippees","Joga jest dla hipisów",module,Magento_Sample
 "I bought these to hang out in not for yoga. yoga is for hippees!","Kupiłem je, żeby spędzać wolny czas nie na jodze. joga jest dla hipisów!",module,Magento_Sample
-"I can't stop lookin in the mirror! ","Nie mogę przestać patrzeć w lustro!",module,Magento_Sample
+"I can't stop lookin in the mirror! ","Nie mogę przestać patrzeć się w lustro !",module,Magento_Sample
 "Want more colors","Chcesz więcej kolorów",module,Magento_Sample
 "Guys. I have like 10 pairs of these cause they're so comfy, natch! Please make more colors!","Faceci. Mam 10 par tych rzeczy, bo są tak wygodne, natch! Proszę, zrób więcej kolorów!",module,Magento_Sample
 "I have 5 pairs","Mam 5 par",module,Magento_Sample
@@ -23193,7 +23193,7 @@ Configuration,Konfiguracja,module,Magento_Backend
 label,etykieta,module,Magento_Backend
 "The order #%1 cannot be processed.","Zamówienie nr #%1 nie może zostać przetworzone.",module,Magento_Braintree
 "The Payment Token is not available to perform the request.","Token płatności nie jest dostępny aby wykonać żądanie.",module,Magento_Braintree
-"Message is added to queue","Wiadomość jest dodawana do kolejki",module,Magento_Catalog
+"Message is added to queue","Wiadomość została dodana do kolejki",module,Magento_Catalog
 "Update attributes for ' . . ' selected products","Zaktualizuj atrybuty dla ' . . ' wybranych produktów",module,Magento_Catalog
 "The value of attribute(s) ""%1"" must be unique","Wartość atrybutu ""%1"" musi być unikalna",module,Magento_Catalog
 "Sorry, something went wrong during product attributes update. Please see log for details.","Niestety, coś poszło nie tak podczas aktualizacji atrybutów produktu. Szczegółowe informacje można znaleźć w dzienniku.",module,Magento_Catalog
