@@ -7559,7 +7559,7 @@ Admin,Administrator,module,Dotdigitalgroup_Email
 "Show Data Fields To Customer?","Pokaż pola danych klientowi?",module,Dotdigitalgroup_Email
 "Only data fields with visibility public can be shown to customers. You can create more data fields within the Data Mapping section.","Tylko pola danych z widokiem ustawionym jako ""publiczny"" mogą być pokazywane klientom. Możesz utworzyć więcej pól danych w sekcji Mapowanie Danych.",module,Dotdigitalgroup_Email
 "Data Fields To Show","Pola danych do wyświetlenia",module,Dotdigitalgroup_Email
-Developer,Programista,module,Dotdigitalgroup_Email
+Developer,Deweloper,module,Dotdigitalgroup_Email
 "Import Settings","Ustawienia importu",module,Dotdigitalgroup_Email
 "Contact Sync Size","Contact Sync Size",module,Dotdigitalgroup_Email
 "Transactional Data Sync Size","Rozmiar synchronizacji danych transakcyjnych",module,Dotdigitalgroup_Email
@@ -7759,7 +7759,7 @@ Advanced,Zaawansowane,module,Magento_Backend
 "General Contact","Kontakt ogólny",module,Magento_Backend
 "Sales Representative","Przedstawiciel handlowy",module,Magento_Backend
 "Customer Support","Obsługa klienta",module,Magento_Backend
-Developer,Programista,module,Magento_Backend
+Developer,Deweloper,module,Magento_Backend
 Debug,"Tryb debug",module,Magento_Backend
 "Enabled Template Path Hints for Storefront","Włączone podpowiedzi ścieżki szablonu na stronie",module,Magento_Backend
 "Enabled Template Path Hints for Admin","Włączone podpowiedzi ścieżek szablonu w panelu administratora",module,Magento_Backend
@@ -8368,7 +8368,7 @@ Contacts,Kontakty,module,Magento_Contact
 "History Cleanup Every","Czyść historię co",module,Magento_Cron
 "Success History Lifetime","Cała historia sukcesów",module,Magento_Cron
 "Failure History Lifetime","Cała historia niepowodzeń",module,Magento_Cron
-"Use Separate Process","Użyj oddzielnego proesu",module,Magento_Cron
+"Use Separate Process","Użyj oddzielnego procesu",module,Magento_Cron
 Currency,Waluta,module,Magento_CurrencySymbol
 CSV,CSV,module,Magento_CustomerImportExport
 "Excel XML","Excel XML",module,Magento_CustomerImportExport
@@ -10070,7 +10070,7 @@ Dismiss,Zignoruj,module,Magento_AsynchronousOperations
 "Action Log","Dziennik log operacji",module,Magento_AsynchronousOperations
 Report,Raport,module,Magento_AsynchronousOperations
 "Bulk Actions","Masowe przetwarzanie",module,Magento_AsynchronousOperations
-"Action Logs","Dziennik logów operacji",module,Magento_AsynchronousOperations
+"Action Logs","Dziennik zdzarzeń",module,Magento_AsynchronousOperations
 "Days Saved in Log","Dni, zapisane w dzienniku",module,Magento_AsynchronousOperations
 "Description of Operation","Opis operacji",module,Magento_AsynchronousOperations
 Summary,Podsumowanie,module,Magento_AsynchronousOperations
@@ -12853,7 +12853,7 @@ IP-Address,"Adres IP",module,Magento_Logging
 Logging,Rejestrowanie,module,Magento_Logging
 "Action Log","Dziennik log operacji",module,Magento_Logging
 Archive,Archiwizuj,module,Magento_Logging
-"Action Logs","Dziennik logów operacji",module,Magento_Logging
+"Action Logs","Dziennik zdzarzeń",module,Magento_Logging
 "Bulk Actions","Masowe przetwarzanie",module,Magento_Logging
 "Admin Actions Log Archiving","Admin Archiwizacja Akcji Logów",module,Magento_Logging
 "Log Entry Lifetime, Days","Dziennik Bycia Zalogowanym, Dni",module,Magento_Logging
