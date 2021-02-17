@@ -961,7 +961,7 @@ Year,Rok,module,Magento_Catalog
 "Add Product","Dodaj produkt",module,Magento_Catalog
 label,etykieta,module,Magento_Catalog
 "Product Attributes","Atrybuty produktu",module,Magento_Catalog
-"Add New Attribute","Dodaj cechę",module,Magento_Catalog
+"Add New Attribute","Dodaj nowy atrybut",module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
 "Save Attribute","Zapisz cechę",module,Magento_Catalog
 "Save in New Attribute Set","Zapisz w nowym zestawie cech",module,Magento_Catalog
@@ -1468,7 +1468,7 @@ Groups,Grupy,module,Magento_Catalog
 Qty,Ilość,module,Magento_Catalog
 "Out-of-Stock Threshold","Przedział dla braku w magazynie",module,Magento_Catalog
 "Minimum Qty Allowed in Shopping Cart","Minimalna ilość w koszyku",module,Magento_Catalog
-"Maximum Qty Allowed in Shopping Cart","Maksymalna ilość w koszyku",module,Magento_Catalog
+"Maximum Qty Allowed in Shopping Cart","Maksymalna dostępna ilość w koszyku",module,Magento_Catalog
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_Catalog
 Backorders,Rezerwacje,module,Magento_Catalog
 "Notify for Quantity Below","Powiadamiaj o ujemnej ilości",module,Magento_Catalog
@@ -3880,7 +3880,7 @@ Funding,Fundowanie,module,Magento_Paypal
 "General: Withdrawal to Non-Bank Entity","Ogólne: wypłaty do jednostek niebankowych",module,Magento_Paypal
 "General: adjustment of a type not belonging to the other T12xx categories","Ogólne: dostosowanie typu nie należącego do innych kategorii T12xx",module,Magento_Paypal
 "General: bonus of a type not belonging to the other T08xx categories","Ogólne: bonus typu nie należącego do innych kategorii T08xx",module,Magento_Paypal
-"General: event not yet categorized","Ogólne: zdarzenie nie zostało jeszcze skategoryzowane",module,Magento_Paypal
+"General: event not yet categorized","Ogólne: wydarzenie nie zostało jeszcze skategoryzowane",module,Magento_Paypal
 "General: non-payment fee of a type not belonging to the other T01xx categories","Ogólne: brak uiszczenia opłaty dla typu nie należące do innych kategorii T01xx",module,Magento_Paypal
 "General: received payment of a type not belonging to the other T00xx categories","Ogólne: otrzymane typ płatności nie należący do innych kategorii T00xx",module,Magento_Paypal
 "General: reversal of a type not belonging to the other T11xx categories","Ogólne: odwrócenie typu nie należące do innych kategorii T11xx",module,Magento_Paypal
@@ -7613,7 +7613,7 @@ Website,Witryna,module,Dotdigitalgroup_Email
 "Customer Id","Identyfikator klienta",module,Dotdigitalgroup_Email
 "Order Increment Id","Identyfikator zamówienia",module,Dotdigitalgroup_Email
 "Quote Id","Id oferty",module,Dotdigitalgroup_Email
-"Event Name","Nazwa zdarzenia",module,Dotdigitalgroup_Email
+"Event Name","Nazwa wydarzenia",module,Dotdigitalgroup_Email
 "Checkout Method","Metoda realizacji zamówienia",module,Dotdigitalgroup_Email
 "Send At","Wyślij na",module,Dotdigitalgroup_Email
 "Send Id","Identyfikator wysyłki",module,Dotdigitalgroup_Email
@@ -10470,12 +10470,12 @@ remaining,pozostałe,module,Magento_Catalog
 "Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores >Configuration >Content Management.",module,Magento_Catalog
 "Edit Event","Edytuj wydarzenie",module,Magento_CatalogEvent
 "Add Event","Dodaj wydarzenie",module,Magento_CatalogEvent
-Events,Zdarzenia,module,Magento_CatalogEvent
-"Add Catalog Event","Dodaj zdarzenie katalogu",module,Magento_CatalogEvent
+Events,Wydarzenia,module,Magento_CatalogEvent
+"Add Catalog Event","Dodaj wydarzenie katalogu",module,Magento_CatalogEvent
 "Save and Continue Edit","Zapisz i kontynuuj edycję",module,Magento_CatalogEvent
 "Back to Category","Powrót do kategorii",module,Magento_CatalogEvent
-"Edit Catalog Event","Edytuj zdarzenie katalogu",module,Magento_CatalogEvent
-"Catalog Event Information","Informacje o zdarzeniu katalogu",module,Magento_CatalogEvent
+"Edit Catalog Event","Edytuj wydarzenie katalogu",module,Magento_CatalogEvent
+"Catalog Event Information","Informacja o Katalogu Wydarzeń",module,Magento_CatalogEvent
 Category,Kategoria,module,Magento_CatalogEvent
 "Start Date","Data rozpoczęcia",module,Magento_CatalogEvent
 "End Date","Data zakończenia",module,Magento_CatalogEvent
@@ -10494,12 +10494,12 @@ Status,Stan,module,Magento_CatalogEvent
 "Coming Soon",Wkrótce,module,Magento_CatalogEvent
 "Sale Ends In","Sprzedaż kończy się",module,Magento_CatalogEvent
 Catalog,Katalog,module,Magento_CatalogEvent
-"You deleted the event.","Usunięto zdarzenie.",module,Magento_CatalogEvent
-"New Event","Nowe zdarzenie",module,Magento_CatalogEvent
+"You deleted the event.","Usunięto wydarzenie.",module,Magento_CatalogEvent
+"New Event","Nowe wydarzenie",module,Magento_CatalogEvent
 "Default Values","Wartości domyślne",module,Magento_CatalogEvent
 "Something went wrong while saving this event.","Coś się zepsuło podczas zapisywania tego wydarzenia.",module,Magento_CatalogEvent
 "We did not upload your image.","Nie przesłaliśmy twojego obrazu.",module,Magento_CatalogEvent
-"You saved the event.","Zapisano zdarzenie.",module,Magento_CatalogEvent
+"You saved the event.","Zapisano wydarzenie.",module,Magento_CatalogEvent
 "%1 is required.","%1 jest wymagane.",module,Magento_CatalogEvent
 "Please make sure the end date follows the start date.","Upewnij się, że data końcowa następuje po dacie rozpoczęcia.",module,Magento_CatalogEvent
 "Event for selected category","Zdarzenie dla wybranej kategorii",module,Magento_CatalogEvent
@@ -10517,7 +10517,7 @@ Sec,sek,module,Magento_CatalogEvent
 "View Sale","Zobacz sprzedaż",module,Magento_CatalogEvent
 Previous,Poprzedni,module,Magento_CatalogEvent
 Next,Następne,module,Magento_CatalogEvent
-"Catalog Events","Zdarzenia katalogu",module,Magento_CatalogEvent
+"Catalog Events","Katalog Wydarzeń",module,Magento_CatalogEvent
 "Enable Catalog Events Functionality","Włącz funkcjonalność zdarzeń katalogu",module,Magento_CatalogEvent
 "Enable Catalog Event Widget on Storefront","Włącz widget wydarzeń katalogu na stronie",module,Magento_CatalogEvent
 "Number of Events to be Displayed in Event Slider Widget","Liczba zdarzeń, które mają być wyświetlane w przypadku widżetu karuzeli",module,Magento_CatalogEvent
@@ -12522,7 +12522,7 @@ Role,Rola,module,Magento_GiftRegistry
 "Event Data","Data wydarzenia",module,Magento_GiftRegistry
 "Event Information","Informacje o wydarzeniu",module,Magento_GiftRegistry
 "Event Country","Kraj wydarzenia",module,Magento_GiftRegistry
-"My event special","Moje specjalne zdarzenie",module,Magento_GiftRegistry
+"My event special","Moje specjalne wydarzenie",module,Magento_GiftRegistry
 "My special attribute","moje specjalne cechy",module,Magento_GiftRegistry
 "Gift Registry Section","Sekcja rejestru prezentów",module,Magento_GiftRegistry
 "General Options","Opcje ogólne",module,Magento_GiftRegistry
@@ -15179,7 +15179,7 @@ Type,Rodzaj,module,Magento_Support
 Parent,Rodzic,module,Magento_Support
 "Adminhtml Themes List","Lista tematów Adminhtml",module,Magento_Support
 "Frontend Themes List","Lista tematów frontend",module,Magento_Support
-"Event Name","Nazwa zdarzenia",module,Magento_Support
+"Event Name","Nazwa wydarzenia",module,Magento_Support
 "Observer Class","Klasa obserwatora",module,Magento_Support
 Method,Metoda,module,Magento_Support
 "All Admin Events","Wszystkie zdarzenia administracyjne",module,Magento_Support
@@ -15257,7 +15257,7 @@ Data,Dane,module,Magento_Support
 Modules,Moduły,module,Magento_Support
 Logs,Logi,module,Magento_Support
 Attributes,Atrybuty,module,Magento_Support
-Events,Zdarzenia,module,Magento_Support
+Events,Wydarzenia,module,Magento_Support
 Cron,Cron,module,Magento_Support
 Design,Wygląd,module,Magento_Support
 Stores,Sklepy,module,Magento_Support
@@ -16047,7 +16047,7 @@ Edit,Edytuj,module,Magento_Braintree
 "Not shared with other products","Nie dzielone z innymi produktami",module,Magento_Catalog
 "Declare attribute value saving scope","Zadeklaruj zakres zapisywania wartości cechy",module,Magento_Catalog
 "Depends on design theme","Zależy od wyglądu motywu",module,Magento_Catalog
-"We saved the price alert subscription.","Zapisaliśmy subskrypcję alarmu cenowego.",module,Magento_Catalog
+"We saved the price alert subscription.","Zapisaliśmy subskrypcję alertu cenowego.",module,Magento_Catalog
 "We saved the stock notification.","Zapisano powiadomienia o magazynie.",module,Magento_Catalog
 "Images and Videos","Zdjęcia i filmy",module,Magento_Catalog
 "Click here or drag and drop to add images.","Kliknij tutaj, lub przeciągnij i upuść nowe zdjęcia.",module,Magento_Catalog
@@ -16069,7 +16069,7 @@ Edit,Edytuj,module,Magento_Braintree
 "Watermark Opacity, Percent","Przeźroczystość znaku wodnego, w procentach",module,Magento_Catalog
 Watermark,"Znak wodny",module,Magento_Catalog
 "Watermark Position","Pozycja znaku wodnego",module,Magento_Catalog
-"Edit Event...","Edycja zdarzenia...",module,Magento_CatalogEvent
+"Edit Event...","Edycja wydarzenia...",module,Magento_CatalogEvent
 "Add Event...","Dodaj wydarzenie...",module,Magento_CatalogEvent
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Model obiektu musi być instancją \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "Display products availability in stock on Storefront.","Pokazuj dostępność produktów w sklepie.",module,Magento_CatalogInventory
@@ -16644,7 +16644,7 @@ or,lub,module,Amazon_Core
 "the country for your address is not allowed for this store","kraj dla twojego adresu jest niedozwolony dla tego sklepu",module,Amazon_Payment
 "Your session has expired, please reload the page and try again.","Twoja sesja wygasła, załaduj stronę ponownie i spróbuj ponownie.",module,Amazon_Payment
 "The currency selected is not supported by Amazon Pay","Wybrana waluta nie jest obsługiwana przez Amazon Pay",module,Amazon_Payment
-"Capture declined","Odnowa Capture",module,Amazon_Payment
+"Capture declined","Odmowa przechwycenia",module,Amazon_Payment
 "Capture declined for Order #%1","Odrzucono przechwytywanie dla zamówienia nr %1",module,Amazon_Payment
 "Amazon authorize invalid state : Transaction timed out.","Amazon autoryzuje nieprawidłowy stan: Upłynął limit czasu transakcji.",module,Amazon_Payment
 "Captured amount of %1 online","Przechwycona kwota %1 online",module,Amazon_Payment
