@@ -6671,7 +6671,7 @@ Action,Operacja,module,Temando_Shipping
 "Dispatch Information","Informacje o wysyłce",module,Temando_Shipping
 "Carrier Name","Nazwa przewoźnika",module,Temando_Shipping
 "Date Created","Data utworzenia",module,Temando_Shipping
-"Ready At","Ready At",module,Temando_Shipping
+"Ready At","Gotowy na",module,Temando_Shipping
 "Number of included shipments","Liczba dołączonych przesyłek",module,Temando_Shipping
 "Number of failed shipments","Liczba nieudanych przesyłek",module,Temando_Shipping
 Documentation,Dokumentacja,module,Temando_Shipping
@@ -16787,7 +16787,7 @@ Batches,"Partie wysyłek",module,Temando_Shipping
 "Please set API credentials before enabling Magento Shipping.","Ustaw poświadczenia API przed włączeniem Magento Shipping.",module,Temando_Shipping
 "Magento Shipping authentication failed. Please check your credentials.","Uwierzytelnienie Magento Shipping nie powiodło się. Sprawdź swoje dane uwierzytelniające.",module,Temando_Shipping
 "Delivery option processing failed.","Przetwarzanie opcji dostawy nie powiodło się.",module,Temando_Shipping
-"Unable to delete carrier.","Nie można usunąć operatora.",module,Temando_Shipping
+"Unable to delete carrier.","Nie można usunąć przewoźnika.",module,Temando_Shipping
 "Unable to save shipping services.","Nie można zapisać usług wysyłkowych.",module,Temando_Shipping
 "Shipping services for address ""%1"" could not be deleted.","Nie można usunąć usług wysyłkowych dla adresu ""%1"".",module,Temando_Shipping
 "Collection point with id ""%1"" does not exist.","Punkt odbioru o identyfikatorze ""%1"" nie istnieje.",module,Temando_Shipping
@@ -16832,7 +16832,7 @@ Add,Dodaj,module,Temando_Shipping
 "Number of Shipments failed to book","Nie udało się zarezerwować liczby przesyłek",module,Temando_Shipping
 "Date Updated","Data aktualizacji",module,Temando_Shipping
 Batch-id,"Identyfikator partii",module,Temando_Shipping
-"Batch Status","XXX Batch Status",module,Temando_Shipping
+"Batch Status","Status przetwarzania",module,Temando_Shipping
 "Shipping labels for each shipment are consolidated into a single compressed file","Etykiety wysyłkowe dla każdej przesyłki są skonsolidowane w jednym skompresowanym pliku",module,Temando_Shipping
 "Download Documentation","Pobierz dokumentację",module,Temando_Shipping
 "Ship to Name","Wyślij na nazwę",module,Temando_Shipping
@@ -16866,7 +16866,7 @@ Description,Opis,module,Temando_Shipping
 "Collection Point","Punkt skupu",module,Temando_Shipping
 "Recipient Address","Adres odbiorcy",module,Temando_Shipping
 "HS Code","Kod HS",module,Temando_Shipping
-"Country of Manufacture","Kraj pochodzenia",module,Temando_Shipping
+"Country of Manufacture","Kraj produkcji",module,Temando_Shipping
 "Country of Origin","Kraj pochodzenia",module,Temando_Shipping
 "Declared value","Zadeklarowana wartość",module,Temando_Shipping
 "Item details are not available for this shipment.","Szczegóły przedmiotu nie są dostępne dla tej przesyłki.",module,Temando_Shipping
@@ -16879,9 +16879,9 @@ Description,Opis,module,Temando_Shipping
 "Signature Required","Wymagany podpis",module,Temando_Shipping
 Add-Ons,Dodatki,module,Temando_Shipping
 "International Shipment Details","Szczegóły przesyłki międzynarodowej",module,Temando_Shipping
-"Signatory Title","Tytuł sygnatariusza",module,Temando_Shipping
-"Signatory First Name","Imię sygnatariusza",module,Temando_Shipping
-"Signatory Last Name","Nazwisko sygnatariusza",module,Temando_Shipping
+"Signatory Title","Stanowisko osoby podpisującej",module,Temando_Shipping
+"Signatory First Name","Imię osoby podpisującej",module,Temando_Shipping
+"Signatory Last Name","Nazwisko osoby podpisującej",module,Temando_Shipping
 "International Commercial Terms (Incoterm)","Międzynarodowe warunki handlowe (Incoterm)",module,Temando_Shipping
 "Export Reason","Powód eksportu",module,Temando_Shipping
 "Export Category","Eksport kategorii",module,Temando_Shipping
@@ -24757,7 +24757,7 @@ Assigned,Przypisany,module,Temando_Shipping
 "Filter condition %1 is not supported by the API.","Filtr warunek %1 nie jest obsługiwany przez interfejs API.",module,Temando_Shipping
 "Pickup Requested","Zażądano odbioru",module,Temando_Shipping
 "Ready for Pickup","Gotowy do odbioru",module,Temando_Shipping
-"Picked Up",Odebrany,module,Temando_Shipping
+"Picked Up",Odebrano,module,Temando_Shipping
 Cancelled,Anulowane,module,Temando_Shipping
 "Pickup Location","Wybierz miejsce",module,Temando_Shipping
 "Order has no payment information","Zamówienie nie zawiera informacji o płatności",module,Temando_Shipping
@@ -24946,7 +24946,7 @@ Cancel,Anuluj,module,Temando_Shipping
 "Your shipment #%shipment_id for order #%order_id from %store_name has been cancelled.","Twoja przesyłka #%shipment_id for order #%order_id od %store_name  została anulowana.",module,Temando_Shipping
 "Your shipping details are below.","Twoje dane do wysyłki są poniżej.",module,Temando_Shipping
 "Collection Point Selection","Wybór punktu odbioru",module,Temando_Shipping
-"Specific Openings","Określone Otwarcia",module,Temando_Shipping
+"Specific Openings","Określone godziny otwarcia",module,Temando_Shipping
 "Specific Closures","Określone zamknięcia",module,Temando_Shipping
 "Select Pickup Location","Wybierz lokalizację odbioru",module,Temando_Shipping
 "Do not forget about street number","Nie zapomnij o numerze ulicy",theme,frontend/Creativestyle/theme-creativeshop
@@ -26056,11 +26056,11 @@ Enabled,Włączone,module,Smile_ElasticsuiteTracker
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Temando_Shipping
 "Magento Shipping Cancellation Email Template for Guest","Szablon e-maila o anulowaniu Magento Shipping dla gościa",module,Temando_Shipping
 "Magento Shipping Pickup","Odbiór Magento Shipping",module,Temando_Shipping
-"Pickup Status Email Sender",X,module,Temando_Shipping
+"Pickup Status Email Sender","Wysyłanie wiadomości e-mail ze stanem odbioru",module,Temando_Shipping
 "Pickup Ready Template","Szablon gotowy do odbioru",module,Temando_Shipping
-"Pickup Collected Template",X,module,Temando_Shipping
+"Pickup Collected Template","Szablon 'Odebrano'",module,Temando_Shipping
 "Pickup Canceled Template","Szablon anulowanego odbioru",module,Temando_Shipping
-"Send Pickup Ready Email Copy To",X,module,Temando_Shipping
+"Send Pickup Ready Email Copy To","Wyślij wiadomość e-mail 'Gotowy do odbioru'",module,Temando_Shipping
 Comma-separated,"Oddzielone przecinkami",module,Temando_Shipping
 "Send Pickup Ready Email Copy Method","Wyślij e-mail z gotową metodą odbioru",module,Temando_Shipping
 "Order &amp; Account Information","Informacje o zamowieniu i koncie",module,Temando_Shipping
