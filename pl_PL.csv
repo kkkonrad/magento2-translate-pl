@@ -6404,7 +6404,7 @@ Products,Produkty,module,Magento_Widget
 "Remove Layout Update","Usuń aktualizacje układu",module,Magento_Widget
 "Widget Options","Opcje widgetu",module,Magento_Widget
 Settings,Ustawienia,module,Magento_Widget
-"Design Theme","Design tematu",module,Magento_Widget
+"Design Theme","Motyw projektu",module,Magento_Widget
 Continue,Kontynuuj,module,Magento_Widget
 "Please specify a Widget Type.","Proszę podać typ widgetu.",module,Magento_Widget
 CMS,CMS,module,Magento_Widget
@@ -6537,7 +6537,7 @@ Version,Wersja,module,Mageplaza_Core
 "Register Name","Zarejestruj nazwę",module,Mageplaza_Core
 "Register Email","Zarejestruj E - mail",module,Mageplaza_Core
 "Product Key","Klucz produktu",module,Mageplaza_Core
-"One or more Mageplaza extensions are not validated. Click <a href=""%1"">here</a> to validate them.","One or more Mageplaza extensions are not validated. Click <a href=""%1"">here</a> to validate them.",module,Mageplaza_Core
+"One or more Mageplaza extensions are not validated. Click <a href=""%1"">here</a> to validate them.","Co najmniej jedno rozszerzenie Mageplaza nie zostało sprawdzone. Kliknij <a href=""%1""> tutaj </a>, aby je sprawdzić..",module,Mageplaza_Core
 "Installed Mageplaza Modules","Zainstalowane moduły Mageplaza",module,Mageplaza_Core
 "Extension name","Nazwa rozszerzenia",module,Mageplaza_Core
 "Current Version","Obecna wersja",module,Mageplaza_Core
@@ -6662,12 +6662,12 @@ No,Nie,module,Temando_Shipping
 "%1 Shipment(s) were not included in this dispatch"," %1 przesyłek nie zostało uwzględnione w tej paczce",module,Temando_Shipping
 "Steps to find a solution","Kroki, aby znaleźć rozwiązanie",module,Temando_Shipping
 "Review the errors below. If there is an issue which can be resolved with the carrier, please contact them directly.","Przejrzyj poniższe błędy. Jeśli istnieje problem, który można rozwiązać u przewoźnika, skontaktuj się z nim bezpośrednio.",module,Temando_Shipping
-"Try <a href=""%1"">Create Dispatch</a> with the same Carrier and Location to re-attempt to dispatch these.","Try <a href=""%1"">Create Dispatch</a> with the same Carrier and Location to re-attempt to dispatch these.",module,Temando_Shipping
+"Try <a href=""%1"">Create Dispatch</a> with the same Carrier and Location to re-attempt to dispatch these.","Spróbuj <a href=""%1""> Utwórz wysyłkę </a> z tym samym przewoźnikiem i lokalizacją, aby ponowić próbę ich wysłania.",module,Temando_Shipping
 "Contact Magento Shipping Support","Skontaktuj się ze wsparciem wysyłkowym Magento",module,Temando_Shipping
 "Magento Shipping ID","Identyfikator wysyłki Magento",module,Temando_Shipping
 Reason,Powód,module,Temando_Shipping
 Action,Operacja,module,Temando_Shipping
-"View Shipment #%1","Zobacz wysyłkę nr %1",module,Temando_Shipping
+"View Shipment #%1","Zobacz wysyłkę nr #%1",module,Temando_Shipping
 "Dispatch Information","Informacje o wysyłce",module,Temando_Shipping
 "Carrier Name","Nazwa przewoźnika",module,Temando_Shipping
 "Date Created","Data utworzenia",module,Temando_Shipping
@@ -6969,7 +6969,7 @@ Footer,Stopka,theme,frontend/Magento/luma
 "Your %store_name repay order","Twoje zamówienie spłaty %store_name",module,PayU_PaymentGateway
 "%customer_name,","%customer_name,",module,PayU_PaymentGateway
 "Thank you for your order from %store_name.","Dziękujemy za Twoje zamówienie w %store_name.",module,PayU_PaymentGateway
-"You can repay this order by <a href=""%repay_url"">this link</a>.","You can repay this order by <a href=""%repay_url"">this link</a>.",module,PayU_PaymentGateway
+"You can repay this order by <a href=""%repay_url"">this link</a>.","Możesz spłacić to zamówienie, korzystając z <a href=""%repay_url""> tego linku </a>.",module,PayU_PaymentGateway
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Status zamówienia można sprawdzić po <a href=""%account_url"">zalogowaniu się do swojego konta</a>.",module,PayU_PaymentGateway
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Jeśli masz pytania dotyczące Twojego zamówienia, możesz napisać do nas na <a href=""mailto:%store_email"">%store_email</a>",module,PayU_PaymentGateway
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","lub zadzwoń do nas  pod numer <a href=""tel:%store_phone"">%store_phone</a>",module,PayU_PaymentGateway
@@ -9599,8 +9599,7 @@ settings/confirm/title,settings/confirm/title,module,Magento_Ui
                         ","settings/callback/target
                         ",module,Magento_Ui
 "settings/newViewLabel
-                    ","XXX settings/newViewLabel
-                    ",module,Magento_Ui
+                    ","settings/newViewLabel                    ",module,Magento_Ui
 settings/title,settings/title,module,Magento_Ui
 settings/description,settings/description,module,Magento_Ui
 "
@@ -9715,7 +9714,7 @@ Machinable,"Automatyczne pakowanie",module,Magento_Usps
 "Displayed Error Message","Wyświetlony błąd",module,Magento_Usps
 "Ship to Applicable Countries","Dostawa do stosownych krajów",module,Magento_Usps
 "Ship to Specific Countries","Dostawa do wybranych krajów",module,Magento_Usps
-Debug,"Tryb debug",module,Magento_Usps
+Debug,Debugowanie,module,Magento_Usps
 "Show Method if Not Applicable","Pokaż metodę jeśli niedostępna",module,Magento_Usps
 "Sort Order","Kolejność sortowania",module,Magento_Usps
 "Variable ID","ID zmiennej",module,Magento_Variable
@@ -9818,7 +9817,7 @@ Shipping,Dostawa,module,Temando_Shipping
 Enabled,Włączone,module,Temando_Shipping
 Title,Tytuł,module,Temando_Shipping
 "Enable API Logging","Włącz rejestrowanie interfejsu API",module,Temando_Shipping
-"Log all API communication. If set to <em>No</em>, only API errors will be logged.","Log all API communication. If set to<em>No</em>, only API errors will be logged.",module,Temando_Shipping
+"Log all API communication. If set to <em>No</em>, only API errors will be logged.","Rejestruj całą komunikację API. Jeśli jest ustawiona na <em> Nie </em>, rejestrowane będą tylko błędy interfejsu API.",module,Temando_Shipping
 "API Endpoint","Punkt końcowy interfejsu API",module,Temando_Shipping
 "Account ID","Identyfikator konta klienta",module,Temando_Shipping
 "API Token","Token API",module,Temando_Shipping
@@ -24105,8 +24104,8 @@ Sign,Znak,module,MageSuite_ProductPositiveIndicators
 "> greater than",">większe niż",module,MageSuite_ProductPositiveIndicators
 ">= greater than or equal",">= większy lub równy",module,MageSuite_ProductPositiveIndicators
 "< less than","<mniej niż",module,MageSuite_ProductPositiveIndicators
-"<= less than or equal","<= less than or equal",module,MageSuite_ProductPositiveIndicators
-" = equal, exact comparison","XXX = equal, exact comparison",module,MageSuite_ProductPositiveIndicators
+"<= less than or equal","<= mniejszy niż lub równy",module,MageSuite_ProductPositiveIndicators
+" = equal, exact comparison"," = równy, dokładne porównanie",module,MageSuite_ProductPositiveIndicators
 "[] equal to one of many values, separated by a comma","[] równa jednej z wielu wartości, oddzielonych przecinkiem",module,MageSuite_ProductPositiveIndicators
 "% in top best x%, use for numeric values"," % w najlepszych x%, użyj dla wartości liczbowych",module,MageSuite_ProductPositiveIndicators
 "Minimum value to show a Top Indicator. Value in this field is read only and will be calculated automatically in case of % sign chosen.","Minimalna wartość, aby pokazać górny wskaźnik. Wartość w tym polu jest tylko do odczytu i zostanie obliczona automatycznie w przypadku wyboru znaku %.",module,MageSuite_ProductPositiveIndicators
@@ -24610,7 +24609,7 @@ Save,Zapisz,module,Smile_ElasticsuiteCatalog
 "Search Weight","Waga wyszukiwania",module,Smile_ElasticsuiteCatalog
 "Used in spellcheck","Używany w sprawdzaniu pisowni",module,Smile_ElasticsuiteCatalog
 First,Pierwszy,module,Smile_ElasticsuiteCatalog
-Last,Ostatnie,module,Smile_ElasticsuiteCatalog
+Last,Ostatni,module,Smile_ElasticsuiteCatalog
 "Sort products without value when sorting ASC","Sortuj produkty bez wartości podczas sortowania ASC",module,Smile_ElasticsuiteCatalog
 "How the products which are missing values for this attribute should be treated when using it to sort.","Jak należy traktować produkty, w których brakuje wartości tego atrybutu, podczas używania go do sortowania.",module,Smile_ElasticsuiteCatalog
 "Sort products without value when sorting DESC","Sortuj produkty bez wartości podczas sortowania DESC",module,Smile_ElasticsuiteCatalog
@@ -25863,7 +25862,7 @@ Authy,Authy,module,MSP_TwoFactorAuth
 "Configuration reset","Reset konfiguracji",module,MSP_TwoFactorAuth
 "Trusted devices","Zaufane urządzenia",module,MSP_TwoFactorAuth
 "Search terms configuration","Konfiguracja wyszukiwanych haseł",module,Smile_ElasticsuiteAnalytics
-"Max search terms","Maksymslna ilość wszukiwanych haseł",module,Smile_ElasticsuiteAnalytics
+"Max search terms","Maksymalna ilość wszukiwanych haseł",module,Smile_ElasticsuiteAnalytics
 "Maximum number of search terms to display in the search usage report blocks.","Maksymalna liczba wyszukiwanych haseł do wyświetlenia w blokach raportu użycia wyszukiwania.",module,Smile_ElasticsuiteAnalytics
 "Popular search terms","Popularne wyszukiwane hasła",module,Smile_ElasticsuiteAnalytics
 "The terms listed below are the most popular search terms, whether they lead to exact or close matches.<br />The link on a term leads to its edit screen where you can either <a href=""https://github.com/Smile-SA/elasticsuite/wiki/ProductSorting#using-the-merchandiser"" target=""_blank"">merchandise</a> the search results page or configure a redirection - for instance to redirect the user to a dedicated category.<br />The ""conversion rate"" column value is computed as the ratio of the number of sessions where an order was placed and the term(s) searched for on the total number of sessions where the term(s) were searched for.","Terminy wymienione poniżej są najpopularniejszymi wyszukiwanymi hasłami, bez względu na to, czy prowadzą do ścisłych lub ścisłych dopasowań. <br />Link do terminu prowadzi do jego ekranu edycji, gdzie możesz <a href=""https://github.com/Smile-SA /elasticsuite /wiki /ProductSorting#using-the-merchandiser"" target =""_blank "">merchandise</a>strona wyników wyszukiwania lub skonfiguruj przekierowanie - na przykład, aby przekierować użytkownika do dedykowanej kategorii. <Br />Wartość kolumny ""współczynnik konwersji"" oblicza się jako stosunek liczby sesji, w których złożono zamówienie, i wyszukiwanego terminu (ów) do łącznej liczby sesji, w których wyszukiwany był termin (y).",module,Smile_ElasticsuiteAnalytics
@@ -25962,7 +25961,7 @@ Attributes,Atrybuty,module,Smile_ElasticsuiteCatalog
 General,Ogólne,module,Smile_ElasticsuiteCore
 "Fulltext Base Settings","Ustawienia podstawowe Fulltext",module,Smile_ElasticsuiteCore
 "Minimum Should Match","Minimum powinno pasować",module,Smile_ElasticsuiteCore
-"Tie Breaker",X,module,Smile_ElasticsuiteCore
+"Tie Breaker","Runda dodatkowa",module,Smile_ElasticsuiteCore
 "Phrase Match Configuration","Konfiguracja dopasowania do wyrażenia",module,Smile_ElasticsuiteCore
 "Enable Boost on Phrase Match","Włącz wzmocnienie w dopasowaniu do wyrażenia",module,Smile_ElasticsuiteCore
 "Phrase Match Boost Value","Wartość wzmocnienia dopasowania do wyrażenia",module,Smile_ElasticsuiteCore
@@ -25995,7 +25994,7 @@ ElasticSuite,ElasticSuite,module,Smile_ElasticsuiteCore
 "Enable Debug Mode","Włącz tryb debugowania",module,Smile_ElasticsuiteCore
 "When enabled the module will produce logs through Magento logging system.","Po włączeniu moduł będzie generował dzienniki za pośrednictwem systemu rejestrującego Magento.",module,Smile_ElasticsuiteCore
 "Server Connection Timeout","Limit czasu połączenia z serwerem",module,Smile_ElasticsuiteCore
-"In seconds.","W sekundy.",module,Smile_ElasticsuiteCore
+"In seconds.","W sekundach.",module,Smile_ElasticsuiteCore
 "Indices Settings","Ustawienia indeksów",module,Smile_ElasticsuiteCore
 "Indices Alias Name","Nazwa aliasu indeksów",module,Smile_ElasticsuiteCore
 "Indices Name Pattern","Indeks nazwy wzorca",module,Smile_ElasticsuiteCore
@@ -26019,7 +26018,7 @@ Autocomplete,Autouzupełnienie,module,Smile_ElasticsuiteCore
 "ElasticSuite Thesaurus Indexing","Indeksowanie tezaurusa ElasticSuite",module,Smile_ElasticsuiteThesaurus
 "Reindex ElasticSuite search engine thesaurus.","Tezaurus wyszukiwarki Reindex ElasticSuite.",module,Smile_ElasticsuiteThesaurus
 Delete,Usuń,module,Smile_ElasticsuiteThesaurus
-"Are you sure?","Czy na pewno tego chcesz?",module,Smile_ElasticsuiteThesaurus
+"Are you sure?","Czy na pewno?",module,Smile_ElasticsuiteThesaurus
 Name,Nazwa,module,Smile_ElasticsuiteThesaurus
 Expansions,Rozszerzenia,module,Smile_ElasticsuiteThesaurus
 Terms,Warunki,module,Smile_ElasticsuiteThesaurus
