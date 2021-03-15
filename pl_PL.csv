@@ -155,7 +155,7 @@ Total,Razem,module,Dotdigitalgroup_Email
 "See what our customers say about us","Zobacz co nasi klienci mówią o nas",module,Dotdigitalgroup_Email
 "Read Details","Przeczytaj szczegóły",module,Magento_AdminNotification
 "Mark as Read","Oznacz jako przeczytane",module,Magento_AdminNotification
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_AdminNotification
+"Are you sure?","Czy na pewno?",module,Magento_AdminNotification
 Remove,Usuń,module,Magento_AdminNotification
 "Messages Inbox","Skrzynka odbiorcza",module,Magento_AdminNotification
 "You have %1 new system messages","Masz nowe wiadomości systemowe: %1",module,Magento_AdminNotification
@@ -336,7 +336,7 @@ Enable,Włącz,module,Magento_Backend
 "Add Design Change","Dodaj zmianę wyglądu",module,Magento_Backend
 Back,Cofnij,module,Magento_Backend
 Delete,Usuń,module,Magento_Backend
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_Backend
+"Are you sure?","Czy na pewno?",module,Magento_Backend
 Save,Zapisz,module,Magento_Backend
 "Edit Design Change","Edycja zmiany wyglądu",module,Magento_Backend
 "New Store Design Change","Nowa zmiana wyglądu sklepu",module,Magento_Backend
@@ -639,7 +639,7 @@ Country,Kraj,module,Magento_Braintree
 "No authorization transaction to proceed capture.","Nie ma autoryzacji transakcji do kontynuowanie przechwytywania.",module,Magento_Braintree
 "Braintree error response.","Braintree błąd odpowiedzi.",module,Magento_Braintree
 "Payment method nonce can't be retrieved.","Nie można pobrać identyfikatora jednorazowego metody płatności.",module,Magento_Braintree
-"Wrong transaction status","Nieprawidłowy  stan transakcji",module,Magento_Braintree
+"Wrong transaction status","Nieprawidłowy stan transakcji",module,Magento_Braintree
 Authorize,Autoryzujautoryzuj,module,Magento_Braintree
 "Authorize and Capture","Autoryzuj i przechwyć",module,Magento_Braintree
 " --Please Select--"," -- Prosimy wybrać --",module,Magento_Braintree
@@ -961,7 +961,7 @@ Year,Rok,module,Magento_Catalog
 "Add Product","Dodaj produkt",module,Magento_Catalog
 label,etykieta,module,Magento_Catalog
 "Product Attributes","Atrybuty produktu",module,Magento_Catalog
-"Add New Attribute","Dodaj nowy atrybut",module,Magento_Catalog
+"Add New Attribute","Dodaj cechę",module,Magento_Catalog
 Cancel,Anuluj,module,Magento_Catalog
 "Save Attribute","Zapisz cechę",module,Magento_Catalog
 "Save in New Attribute Set","Zapisz w nowym zestawie cech",module,Magento_Catalog
@@ -1085,7 +1085,7 @@ Cross-sells,"Sprzedaże krzyżowe",module,Magento_Catalog
 "Name in %1","Nazwa w %1",module,Magento_Catalog
 Quantity,Ilość,module,Magento_Catalog
 Edit,Edytuj,module,Magento_Catalog
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_Catalog
+"Are you sure?","Czy na pewno?",module,Magento_Catalog
 "Change Status","Zmień status",module,Magento_Catalog
 "Update Attributes","Aktualizuj atrybuty",module,Magento_Catalog
 "start typing to search category","zacznij pisać by szukać kategorii",module,Magento_Catalog
@@ -1214,7 +1214,7 @@ frontend_label,frontend_label,module,Magento_Catalog
 "Automatic (equalize price ranges)","Automatycznie (wyrównuje zakresy cen)",module,Magento_Catalog
 "Automatic (equalize product counts)","Automatycznie (wyrównuje liczbę produktów)",module,Magento_Catalog
 Manual,Ręcznie,module,Magento_Catalog
-Fixed,Stały,module,Magento_Catalog
+Fixed,Stała,module,Magento_Catalog
 Percent,Procent,module,Magento_Catalog
 Discount,Zniżka,module,Magento_Catalog
 " -- Please select --"," --Wybierz--",module,Magento_Catalog
@@ -1468,7 +1468,7 @@ Groups,Grupy,module,Magento_Catalog
 Qty,Ilość,module,Magento_Catalog
 "Out-of-Stock Threshold","Przedział dla braku w magazynie",module,Magento_Catalog
 "Minimum Qty Allowed in Shopping Cart","Minimalna ilość w koszyku",module,Magento_Catalog
-"Maximum Qty Allowed in Shopping Cart","Maksymalna dostępna ilość w koszyku",module,Magento_Catalog
+"Maximum Qty Allowed in Shopping Cart","Maksymalna ilość w koszyku",module,Magento_Catalog
 "Qty Uses Decimals","Ilość używa wartości dziesiętnych",module,Magento_Catalog
 Backorders,Rezerwacje,module,Magento_Catalog
 "Notify for Quantity Below","Powiadamiaj o ujemnej ilości",module,Magento_Catalog
@@ -3111,7 +3111,7 @@ Delete,Usuń,module,Magento_ImportExport
 "Custom Action","Akcja niestandardowa",module,Magento_ImportExport
 "Error message","Komunikat błędu",module,Magento_ImportExport
 "URL key for specified store already exists.","Klucz URL dla wybranego sklepu już istnieje.",module,Magento_ImportExport
-"Entity Attributes","Atrybutyj ednostki",module,Magento_ImportExport
+"Entity Attributes","Atrybuty jednostki",module,Magento_ImportExport
 Continue,Kontynuuj,module,Magento_ImportExport
 "Validation Results","Rezultat walidacji",module,Magento_ImportExport
 "Indexer Management","Zarządzanie indeksacją",module,Magento_Indexer
@@ -4218,11 +4218,11 @@ Customers,Klienci,module,Magento_Reports
 ID,ID,module,Magento_Reports
 "First Name",Imię,module,Magento_Reports
 "Last Name",Nazwisko,module,Magento_Reports
-"Items in Cart","Produkty w Koszyku",module,Magento_Reports
+"Items in Cart","Produkty w koszyku",module,Magento_Reports
 "Products in carts","Produkty w koszyku",module,Magento_Reports
 Carts,Koszyki,module,Magento_Reports
 Name,Nazwa,module,Magento_Reports
-"Wish Lists",Ulubione,module,Magento_Reports
+"Wish Lists","Listy ulubionych",module,Magento_Reports
 "Wish List Purchase","Zakup z Ulubionych",module,Magento_Reports
 "Wish List vs. Regular Order","Ulubione względem zwykłego zamówienia",module,Magento_Reports
 "Times Deleted","Razy Usuwane",module,Magento_Reports
@@ -4324,7 +4324,7 @@ SKU,SKU,module,Magento_Review
 Action,Operacja,module,Magento_Review
 Edit,Edytuj,module,Magento_Review
 Delete,Usuń,module,Magento_Review
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_Review
+"Are you sure?","Czy na pewno?",module,Magento_Review
 "Update Status","Aktualizuj status",module,Magento_Review
 Customer,Klient,module,Magento_Review
 "Pending Reviews of Customer `%1`","Oczekujące opinie Klienta `%1`",module,Magento_Review
@@ -5444,7 +5444,7 @@ Qty,Ilość,module,Magento_Shipping
 "We don't have enough information to create shipping labels. Please make sure your store information and settings are complete.","Nie mamy wystarczających informacji, aby utworzyć adres wysyłki. Proszę upewnij się, że informacje i ustawienia twojego sklepu są kompletne.",module,Magento_Shipping
 "Per Order","Na zamówienie",module,Magento_Shipping
 "Per Package","Za paczkę",module,Magento_Shipping
-Fixed,Stały,module,Magento_Shipping
+Fixed,Stała,module,Magento_Shipping
 Percent,Procent,module,Magento_Shipping
 "Tracking information is unavailable.","Śledzenia informacji jest niedostępne.",module,Magento_Shipping
 message,wiadomość,module,Magento_Shipping
@@ -5486,7 +5486,7 @@ Carrier,Przewoźnik,module,Magento_Shipping
 Title,Tytuł,module,Magento_Shipping
 Number,Numer,module,Magento_Shipping
 Action,Operacja,module,Magento_Shipping
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_Shipping
+"Are you sure?","Czy na pewno?",module,Magento_Shipping
 "Shipping &amp; Handling Information","Wysyłka &amp; Pakowanie – Informacje",module,Magento_Shipping
 "Track Order","Śledź zamówienie",module,Magento_Shipping
 "No shipping information available","Brak informacji o wysyłce",module,Magento_Shipping
@@ -6090,7 +6090,7 @@ Reset,Resetuj,module,Magento_User
 "Save Role","Zapisz rolę",module,Magento_User
 Roles,Role,module,Magento_User
 "Add New Role","Dodaj rolę",module,Magento_User
-"Role Information","Informacje o rolach",module,Magento_User
+"Role Information","Informacje o  rolach",module,Magento_User
 "Role Users","Użytkownicy ról",module,Magento_User
 "User ID","ID użytkownika",module,Magento_User
 "User Name","Nazwa użytkownika",module,Magento_User
@@ -6404,7 +6404,7 @@ Products,Produkty,module,Magento_Widget
 "Remove Layout Update","Usuń aktualizacje układu",module,Magento_Widget
 "Widget Options","Opcje widgetu",module,Magento_Widget
 Settings,Ustawienia,module,Magento_Widget
-"Design Theme","Motyw projektu",module,Magento_Widget
+"Design Theme","Design tematu",module,Magento_Widget
 Continue,Kontynuuj,module,Magento_Widget
 "Please specify a Widget Type.","Proszę podać typ widgetu.",module,Magento_Widget
 CMS,CMS,module,Magento_Widget
@@ -6426,7 +6426,7 @@ All,Wszystko,module,Magento_Widget
 Apply,Zastosuj,module,Magento_Widget
 Page,Strona,module,Magento_Widget
 "Wish List",Ulubione,module,Magento_Wishlist
-"Wish List Sharing","Udostępnianie ulubionych",module,Magento_Wishlist
+"Wish List Sharing","Udostępnianie Ulubionych.",module,Magento_Wishlist
 "My Wish List","Moje Ulubione",module,Magento_Wishlist
 "%1's Wish List","%1 Ulubionych",module,Magento_Wishlist
 "Page not found.","Nie znaleziono strony.",module,Magento_Wishlist
@@ -6498,7 +6498,7 @@ Edit,Edytuj,module,Magento_Wishlist
 "Remove Item","Usuń produkt",module,Magento_Wishlist
 "Remove item","Usuń produkt",module,Magento_Wishlist
 "Add to Compare",Porównaj,module,Magento_Wishlist
-"This Wish List has no Items","Ta lista Ulubionych nie zawiera żadnych produktów",module,Magento_Wishlist
+"This Wish List has no Items","Lista Ulubionych nie zawiera żadnych produktów",module,Magento_Wishlist
 "%1 has been added to your Wish List.","Produkt %1 został dodany do Ulubionych.",module,Magento_Wishlist
 "Click <a href=""%1"">here</a> to continue shopping.","Kliknij <a href=""%1"">tutaj</a>, aby kontynuować zakupy.",module,Magento_Wishlist
 "See Details","Zobacz szczegóły",module,Magento_Wishlist
@@ -8535,7 +8535,7 @@ Enabled,Włączone,module,Magento_Directory
 "Error Email Template","Błąd w szablonie e-mail",module,Magento_Directory
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_Directory
 Frequency,Częstotliwość,module,Magento_Directory
-Service,Usługa,module,Magento_Directory
+Service,"Gwarancja jakości",module,Magento_Directory
 "Start Time","Czas rozpoczęcia",module,Magento_Directory
 "Installed Currencies","Zainstalowane waluty",module,Magento_Directory
 "Zip/Postal Code is Optional for","Kod pocztowy jest Opcjonalnie dla",module,Magento_Directory
@@ -9384,7 +9384,7 @@ CSV,CSV,module,Magento_Search
 "Excel XML","Excel XML",module,Magento_Search
 ID,ID,module,Magento_Search
 Hits,Kliknięcia,module,Magento_Search
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_Search
+"Are you sure?","Czy na pewno?",module,Magento_Search
 "Suggested Terms","Sugerowany termin",module,Magento_Search
 yes,Tak,module,Magento_Search
 no,Nie,module,Magento_Search
@@ -9594,7 +9594,7 @@ Translations,Tłumaczenia,module,Magento_Translation
 settings/label,settings/label,module,Magento_Ui
 settings/confirm/title,settings/confirm/title,module,Magento_Ui
 "settings/confirm/message
-                        ",settings/confirm/message,module,Magento_Ui
+                        ",ustawienia/potwierdzenie/wiadomość,module,Magento_Ui
 "settings/callback/target
                         ","settings/callback/target
                         ",module,Magento_Ui
@@ -9608,12 +9608,10 @@ settings/description,settings/description,module,Magento_Ui
                     ",module,Magento_Ui
 "
                         formElements/*[name(.)=../../@formElement]/settings/description
-                    ","                        formElements/*[name(.)=../../@formElement]/settings/description
-                    ",module,Magento_Ui
+                    ","formElements/*[name (.) =../../@ formElement]/settings/description",module,Magento_Ui
 "
                         formElements/*[name(.)=../../@formElement]/settings/caption
-                    ","                        formElements/*[name(.)=../../@formElement]/settings/caption
-                    ",module,Magento_Ui
+                    ","formElements/* [name (.) = ../../@ formElement]/settings/caption",module,Magento_Ui
 "
                         formElements/*[name(.)=../../@formElement]/settings/title
                     ","                        formElements/*[name(.)=../../@formElement]/settings/title
@@ -9714,7 +9712,7 @@ Machinable,"Automatyczne pakowanie",module,Magento_Usps
 "Displayed Error Message","Wyświetlony błąd",module,Magento_Usps
 "Ship to Applicable Countries","Dostawa do stosownych krajów",module,Magento_Usps
 "Ship to Specific Countries","Dostawa do wybranych krajów",module,Magento_Usps
-Debug,Debugowanie,module,Magento_Usps
+Debug,"Tryb debug",module,Magento_Usps
 "Show Method if Not Applicable","Pokaż metodę jeśli niedostępna",module,Magento_Usps
 "Sort Order","Kolejność sortowania",module,Magento_Usps
 "Variable ID","ID zmiennej",module,Magento_Variable
@@ -12667,7 +12665,7 @@ StatusText,StatusText,module,Magento_GroupedProductStaging
 "A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.","Klient o identyfikatorze ""%1"" nie istnieje. Sprawdź identyfikator i spróbuj ponownie.",module,Magento_Integration
 "Your account is temporarily disabled. Please try again later.","Twoje konto jest tymczasowo wyłączone. Spróbuj później.",module,Magento_Integration
 "The password entered for the current user is invalid. Verify the password and try again.","Hasło wprowadzone dla bieżącego użytkownika jest nieprawidłowe. Sprawdź hasło i spróbuj ponownie.",module,Magento_Integration
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_Integration
+"Are you sure?","Czy na pewno?",module,Magento_Integration
 "System Extensions","Rozszerzenia systemowe",module,Magento_Integration
 "System Integrations","Integracje systemowe",module,Magento_Integration
 Invitations,"Tekst zaproszenia do skomentowania",module,Magento_Invitation
@@ -14346,7 +14344,7 @@ Weight,Waga,module,Magento_Rma
 Carrier,Przewoźnik,module,Magento_Rma
 Title,Tytuł,module,Magento_Rma
 Number,Numer,module,Magento_Rma
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_Rma
+"Are you sure?","Czy na pewno?",module,Magento_Rma
 "Shipping Method","Metoda dostawy",module,Magento_Rma
 "Create Shipping Label","Utwórz etykietę wysyłki",module,Magento_Rma
 "Enabled when authorized items require a new shipment.","Włączone kiedy autoryzowany produkt wymaga nowej przesyłki.",module,Magento_Rma
@@ -15044,7 +15042,7 @@ Report,Raport,module,Magento_Support
 "Paths file cannot be created","Nie można utworzyć ścieżki pliku",module,Magento_Support
 "An item needs to be selected. Select and try again.","Chociaż jeden element musi zostać wybrany. Wybierz i spróbuj ponownie.",module,Magento_Support
 "A total of %1 record(s) have been deleted.","Usunięto %1 rekordów.",module,Magento_Support
-Support,"Wsparcie techniczne",module,Magento_Support
+Support,"Napisz do nas",module,Magento_Support
 "Data Collector","Modułów zbierający dane",module,Magento_Support
 "The backup has been saved.","Kopia zapasowa została zapisana.",module,Magento_Support
 "Failed to save backup with error: %1","Podczas próby zapisu kopii zapasowej wystąpił błąd: %1",module,Magento_Support
@@ -15415,12 +15413,15 @@ Apply,Zastosuj,module,Magento_Ui
 "This link is not allowed.","Ten link jest niedozwolony.",module,Magento_Ui
 settings/confirm/message,ustawienia/potwierdzenie/wiadomość,module,Magento_Ui
 settings/callback/provider,"ustawienia / oddzwanianie / dostawca",module,Magento_Ui
-settings/callback/target,settings/callback/target,module,Magento_Ui
-settings/newViewLabel,settings/newViewLabel,module,Magento_Ui
-settings/addButtonLabel,settings/addButtonLabel,module,Magento_Ui
+settings/callback/target,"settings/callback/target
+                        ",module,Magento_Ui
+settings/newViewLabel,"settings/newViewLabel                    ",module,Magento_Ui
+settings/addButtonLabel,"                        settings/addButtonLabel
+                    ",module,Magento_Ui
 formElements/*[name(.)=../../@formElement]/settings/description,"formElements/*[name (.) =../../@ formElement]/settings/description",module,Magento_Ui
 formElements/*[name(.)=../../@formElement]/settings/caption,"formElements/* [name (.) = ../../@ formElement]/settings/caption",module,Magento_Ui
-formElements/*[name(.)=../../@formElement]/settings/title,formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
+formElements/*[name(.)=../../@formElement]/settings/title,"                        formElements/*[name(.)=../../@formElement]/settings/title
+                    ",module,Magento_Ui
 settings/settingLabel,settings/settingLabel,module,Magento_Ui
 settings/typeSelectorTemplate,settings/typeSelectorTemplate,module,Magento_Ui
 settings/settingTemplate,settings/settingTemplate,module,Magento_Ui
@@ -16388,7 +16389,7 @@ Owner,Właściciel,module,Magento_VersionsCms
 Quantity,Ilość,module,Magento_VersionsCms
 Created,Utworzono,module,Magento_VersionsCms
 Versions,Wersje,module,Magento_VersionsCms
-"Are you sure?","Czy na pewno tego chcesz?",module,Magento_VersionsCms
+"Are you sure?","Czy na pewno?",module,Magento_VersionsCms
 N/A,N/D,module,Magento_VersionsCms
 "Are you sure you want to delete this revision?","Czy na pewno chcesz usunąć tę rewizję?",module,Magento_VersionsCms
 Publish,Publikuj,module,Magento_VersionsCms
@@ -16983,7 +16984,7 @@ Options,Opcje,module,Amazon_Core
 "Authorization Mode","Tryb autoryzacji",module,Amazon_Core
 "Update Mechanism","Zaktualizuj mechanizm",module,Amazon_Core
 Advanced,Zaawansowane,module,Amazon_Core
-Frontend,Frontend,module,Amazon_Core
+Frontend,"Strona sklepu",module,Amazon_Core
 "Button Display Language","Język wyświetlania przycisków",module,Amazon_Core
 "Controls button and widget language. The default is your shop's locale. Available options can be found <a href=""https://payments.amazon.co.uk/developer/documentation/lpwa/201953980#ENTER_LANGUAGE_PARAMETER"">here</a>. Applies only to UK and DE Amazon Merchant Accounts.","Controls button and widget language. The default is your shop's locale. Available options can be found <a href=""https://payments.amazon.co.uk/developer/documentation/lpwa/201953980#ENTER_LANGUAGE_PARAMETER"">here</a>. Applies only to UK and DE Amazon Merchant Accounts.",module,Amazon_Core
 "Button Color","Kolor przycisku",module,Amazon_Core
@@ -22327,7 +22328,7 @@ Cute.,Uroczy.,module,Magento_Sample
 "There's a ton of other t-shirts I'd choose over this one. It's not soft at all and the fabric feels like sandpaper next to my skin-was really hoping for better.","Jest mnóstwo innych t-shirtów, które wybiorę nad tym. Nie jest wcale miękki, a tkanina wygląda jak papier ścierny obok mojej skóry - naprawdę liczyła na coś lepszego.",module,Magento_Sample
 "This T is a no brainer-solid color","Ten T nie jest jednorodnym kolorem",module,Magento_Sample
 "This T is a no brainer-solid color, pairs with everything, and keeps me cool. What more could I want during my run?","Ten T nie jest jednorodnym kolorem, łączy się ze wszystkim i utrzymuje mnie w spokoju. Czego więcej mogłem chcieć podczas mojego biegu?",module,Magento_Sample
-"Thank you! ","Dziękujemy Ci!",module,Magento_Sample
+"Thank you! ",Dziękujemy!,module,Magento_Sample
 "Thank you! I'm so sick of inappropriate workout clothes. This is exactly what I was looking for. Cover yourselves up, ladies!","Dziękuję Ci! Mam dość nieodpowiednich ubrań treningowych. Właśnie tego szukałem. Zakryjcie się, panie!",module,Magento_Sample
 "Um, NOT flattering at ALL.","W żadnym razie nie pochlebia.",module,Magento_Sample
 "Um, NOT flattering at ALL. Too tight and short.","W żadnym razie nie pochlebia. Zbyt ciasne i krótkie.",module,Magento_Sample
@@ -23946,10 +23947,10 @@ Washington,Waszyngton,theme,frontend/Creativestyle/theme-creativeshop
 "Sign Up for Newsletter","Zapisz się, aby otrzymywać newsletter",theme,frontend/Creativestyle/theme-creativeshop
 Pagination,Stronicowanie,theme,frontend/Creativestyle/theme-creativeshop
 Page:,Strona:,theme,frontend/Creativestyle/theme-creativeshop
-"Position - Ascending","Pozycja - rosnąco",theme,frontend/Creativestyle/theme-creativeshop
+"Position - Ascending","Pozycja - Rosnąco",theme,frontend/Creativestyle/theme-creativeshop
 "Position - Descending","Pozycja - malejąco",theme,frontend/Creativestyle/theme-creativeshop
-"Price - Ascending","Cena - rosnąco",theme,frontend/Creativestyle/theme-creativeshop
-"Price - Descending","Cena - malejąco",theme,frontend/Creativestyle/theme-creativeshop
+"Price - Ascending","Cena - Rosnąco",theme,frontend/Creativestyle/theme-creativeshop
+"Price - Descending","Cena - Malejąco",theme,frontend/Creativestyle/theme-creativeshop
 Display,Wyświetl,theme,frontend/Creativestyle/theme-creativeshop
 All,Wszystko,theme,frontend/Creativestyle/theme-creativeshop
 "Decrement product quantity icon","Ikona zmniejszenia ilości produktu",theme,frontend/Creativestyle/theme-creativeshop
@@ -25607,7 +25608,7 @@ Advanced,Zaawansowane,module,MageSuite_TranslationCenter
 "Client secret","Sekret. klucz klienta",module,MageSuite_TranslationCenter
 "Remember that all old URLs related to selected products (including 301 redirects) will be removed. This operation may take some time depending on amount of products selected.","Pamiętaj, że wszystkie stare adresy URL związane z wybranymi produktami (w tym przekierowania 301) zostaną usunięte. Ta operacja może zająć trochę czasu w zależności od ilości wybranych produktów.",module,MageSuite_UrlRegeneration
 Delete,Usuń,module,MageSuite_UrlRewriteMassActions
-"Are you sure?","Czy na pewno tego chcesz?",module,MageSuite_UrlRewriteMassActions
+"Are you sure?","Czy na pewno?",module,MageSuite_UrlRewriteMassActions
 "Custom URL Rewrites","Niestandardowe przepisywanie adresów URL",module,MageSuite_UrlRewrite
 "List of rewrites","Lista przekierowań URL",module,MageSuite_UrlRewrite
 "Chat Settings","Ustawienia czatu",module,Dotdigitalgroup_Chat
@@ -25710,7 +25711,7 @@ Downloads,Pobrania,module,Magento_AdobeStockImageAdminUi
 Undiscovered,Nieodkryty,module,Magento_AdobeStockImageAdminUi
 "Are you sure you want to delete this stock?","Czy na pewno chcesz usunąć ten stan magazynowy?",module,Magento_InventoryAdminUi
 Inventory,Magazyn,module,Magento_InventoryAdminUi
-Stocks,"Stany magazynowe",module,Magento_InventoryAdminUi
+Stocks,Zapasy,module,Magento_InventoryAdminUi
 "Source Information","Informacje o źródle",module,Magento_InventoryAdminUi
 Back,Cofnij,module,Magento_InventoryAdminUi
 Reset,Resetuj,module,Magento_InventoryAdminUi
@@ -25893,7 +25894,7 @@ Model,Model,module,Smile_ElasticsuiteCatalogOptimizer
 Remove,Usuń,module,Smile_ElasticsuiteCatalogOptimizer
 ID,ID,module,Smile_ElasticsuiteCatalogOptimizer
 "Query Text","Tekst zapytania",module,Smile_ElasticsuiteCatalogOptimizer
-"Is Spellchecked","Sprawdzono pisownię",module,Smile_ElasticsuiteCatalogOptimizer
+"Is Spellchecked","Czy sprawdzono pisownię",module,Smile_ElasticsuiteCatalogOptimizer
 Actions,Operacje,module,Smile_ElasticsuiteCatalogOptimizer
 "Select Search Terms","Wybierz wyszukiwane hasła",module,Smile_ElasticsuiteCatalogOptimizer
 Cancel,Anuluj,module,Smile_ElasticsuiteCatalogOptimizer
@@ -25923,7 +25924,7 @@ Active,Aktywny,module,Smile_ElasticsuiteCatalogOptimizer
 Inactive,Nieaktywny,module,Smile_ElasticsuiteCatalogOptimizer
 Status,Stan,module,Smile_ElasticsuiteCatalogOptimizer
 "Product Autocomplete","Autouzupełnianie produktu",module,Smile_ElasticsuiteCatalog
-"Max Size","Maksymalny rozmiar",module,Smile_ElasticsuiteCatalog
+"Max Size","Największy rozmiar",module,Smile_ElasticsuiteCatalog
 "Maximum number of products to display in autocomplete results.","Maksymalna liczba produktów do wyświetlenia w wynikach autouzupełniania.",module,Smile_ElasticsuiteCatalog
 "Product Attributes Autocomplete","Atrybuty produktu Autouzupełnianie",module,Smile_ElasticsuiteCatalog
 "Maximum number of product attributes to display in autocomplete results.","Maksymalna liczba atrybutów produktu do wyświetlenia w wynikach autouzupełniania.",module,Smile_ElasticsuiteCatalog
@@ -26892,3 +26893,391 @@ Bangles,Bransoletki,module,Magento_Sample
 "Fashion Style",Styl,module,Magento_Sample
 "Fashion Color",Kolor,module,Magento_Sample
 "Fashion Size",Rozmiar,module,Magento_Sample
+"About Us","O nas",json,Magento_PwaStudio
+Account,Konto,json,Magento_PwaStudio
+"Hi, {name}","Witaj, {name}",json,Magento_PwaStudio
+"Account Information","Dane konta",json,Magento_PwaStudio
+"Edit Account Information","Edytuj informacje o koncie",json,Magento_PwaStudio
+"Something went wrong. Please refresh and try again.","Coś poszło nie tak. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
+"Account Information - {name}","Informacje o koncie - {name}",json,Magento_PwaStudio
+"Account Information","Dane konta",json,Magento_PwaStudio
+"Address Book","Książka adresowa",json,Magento_PwaStudio
+Communications,Komunikacja,json,Magento_PwaStudio
+"Favorites Lists","Lista Ulubionych",json,Magento_PwaStudio
+"Order History","Historia zamówień",json,Magento_PwaStudio
+"Saved Payments","Zapisane płatności",json,Magento_PwaStudio
+"Sign Out","Wyloguj się",json,Magento_PwaStudio
+"Store Credit & Gift Cards","Przechowuj karty kredytowe i podarunkowe",json,Magento_PwaStudio
+"Toggle My Account Menu","Przełącz menu Moje konto",json,Magento_PwaStudio
+"Sign In","Zaloguj się",json,Magento_PwaStudio
+"Sign In","Zaloguj się",json,Magento_PwaStudio
+"Add New Address","Dodaj nowy adres",json,Magento_PwaStudio
+Apply,Zastosuj,json,Magento_PwaStudio
+Cancel,Anuluj,json,Magento_PwaStudio
+"Change Shipping Information","Zmień informacje o wysyłce",json,Magento_PwaStudio
+"Add an Address","Dodaj adres",json,Magento_PwaStudio
+"Address Book","Książka adresowa",json,Magento_PwaStudio
+"New Address","Nowy adres",json,Magento_PwaStudio
+"Edit Address","Zmień adres",json,Magento_PwaStudio
+"Make this my default address","Ustaw ten adres jako domyślny",json,Magento_PwaStudio
+"Phone {telephone}","Telefon {telephone}",json,Magento_PwaStudio
+Default,Domyślny,json,Magento_PwaStudio
+"You are offline. Some features may be unavailable.","Jesteś offline. Niektóre funkcje mogą być niedostępne.",json,Magento_PwaStudio
+"Sorry! An unexpected error occurred.","Wystąpił nieoczekiwany błąd.",json,Magento_PwaStudio
+"You are online.","Jesteś online.",json,Magento_PwaStudio
+Account,Konto,json,Magento_PwaStudio
+"Sign In","Zaloguj się",json,Magento_PwaStudio
+"No results were found.","Nie znaleziono wyników.",json,Magento_PwaStudio
+"An error occurred while fetching results.","Wystąpił błąd podczas pobierania wyników.",json,Magento_PwaStudio
+"Search term must be at least three characters","Wyszukiwane hasło musi mieć co najmniej trzy znaki",json,Magento_PwaStudio
+"Fetching results...","Pobieranie wyników...",json,Magento_PwaStudio
+"Search for a product","Wyszukaj produkt",json,Magento_PwaStudio
+"{resultCount} items","{resultCount} produkty/ów",json,Magento_PwaStudio
+"Coupon Code","Kod kuponu",json,Magento_PwaStudio
+"There are no items in your cart.","W Twoim koszyku nie ma żadnych przedmiotów.",json,Magento_PwaStudio
+Cart,Koszyk,json,Magento_PwaStudio
+"Cart - {name}","Koszyk - {name}",json,Magento_PwaStudio
+"Toggle mini cart. You have {count} items in your cart.","Przełącz mini koszyk. Masz {count} pozycji w swoim koszyku.",json,Magento_PwaStudio
+Filter,Filtr,json,Magento_PwaStudio
+"Items sorted by ","Elementy posortowane według",json,Magento_PwaStudio
+"All {name}","Wszystkie produkty z {name}",json,Magento_PwaStudio
+"No child categories found.","Nie znaleziono kategorii podrzędnych.",json,Magento_PwaStudio
+"Account successfully created.","Konto pomyślnie utworzone.",json,Magento_PwaStudio
+"You will also receive an email with the details and we will let you know when your order has shipped.","Otrzymasz również e-mail ze szczegółami, a my poinformujemy Cię, kiedy Twoje zamówienie zostanie wysłane.",json,Magento_PwaStudio
+"Billing address same as shipping address","Adres rozliczeniowy taki sam jak adres dostawy",json,Magento_PwaStudio
+Checkout,Zamówienie,json,Magento_PwaStudio
+"Enter Coupon Code","Wprowadź kod kuponu",json,Magento_PwaStudio
+"Create Account","Utwórz konto",json,Magento_PwaStudio
+"Edit Payment Information","Edytuj informacje o płatnościach",json,Magento_PwaStudio
+"Edit Shipping Information","Edytuj informacje o wysyłce",json,Magento_PwaStudio
+"Edit Shipping Method","Edytuj metodę wysyłki",json,Magento_PwaStudio
+"There are no items in your cart.","W Twoim koszyku nie ma żadnych przedmiotów.",json,Magento_PwaStudio
+"There was an error loading payment options. Please try again later.","Wystąpił błąd podczas wczytywania opcji płatności. Spróbuj ponownie później.",json,Magento_PwaStudio
+"Oops! An error occurred while submitting. Please try again.","Ups! Wystąpił błąd podczas przesyłania. Proszę spróbuj ponownie.",json,Magento_PwaStudio
+"Fetching Items in your Order","Pobieranie pozycji z zamówienia",json,Magento_PwaStudio
+"See Gift Options","Zobacz opcje prezentów",json,Magento_PwaStudio
+"Welcome {firstname}!","Witaj {firstname}.",json,Magento_PwaStudio
+"Guest Checkout","Kasa dla gości",json,Magento_PwaStudio
+"Back to Checkout","Powrót do zamówienia.",json,Magento_PwaStudio
+"Account Sign-in","Logowanie na konto",json,Magento_PwaStudio
+" items in your order","produkty/ów w Twoim zamówieniu",json,Magento_PwaStudio
+"Loading Payment","Wczytywanie płatności",json,Magento_PwaStudio
+"Fetching Payment Information","Pobieranie informacji o płatności",json,Magento_PwaStudio
+"Payment is currently unavailable.","Płatność jest obecnie niedostępna.",json,Magento_PwaStudio
+"Order Number: {orderNumber}","Numer zamówienia: {orderNumber}",json,Magento_PwaStudio
+"Order Summary","Podsumowanie zamówienia",json,Magento_PwaStudio
+"Payment Information","Informacje o płatności",json,Magento_PwaStudio
+"3. Payment Information","3. Informacje dotyczące płatności",json,Magento_PwaStudio
+"{selectedPaymentMethod} is not supported for editing.","Edycja {selectedPaymentMethod} nie jest obsługiwana.",json,Magento_PwaStudio
+"{cardType} ending in {lastFour}","Karta {cardType} kończy się {lastFour}",json,Magento_PwaStudio
+"There was an error loading payments.","Wystąpił błąd podczas wczytywania płatności.",json,Magento_PwaStudio
+"Please refresh or try again later.","Odśwież lub spróbuj ponownie później.",json,Magento_PwaStudio
+"Place Order","Złóż zamówienie",json,Magento_PwaStudio
+"Qty : {quantity}","Ilość : {quantity}",json,Magento_PwaStudio
+"Quick Checkout When You Return","Szybka realizacja zamówienia po powrocie",json,Magento_PwaStudio
+"Return to Cart","Powrót do koszyka",json,Magento_PwaStudio
+"Review and Place Order","Przejrzyj i złóż zamówienie",json,Magento_PwaStudio
+"Review Order","Podgląd zamówienia",json,Magento_PwaStudio
+"Set a password and save your information for next time in one easy step!","Ustaw hasło i zapisz informacje w jednym prostym kroku!",json,Magento_PwaStudio
+"2. Shipping Method","2. Metoda wysyłki",json,Magento_PwaStudio
+"SHOW ALL ITEMS","POKAŻ WSZYSTKIE PRODUKTY",json,Magento_PwaStudio
+"Sign In","Zaloguj się",json,Magento_PwaStudio
+"Sign in for Express Checkout","Zaloguj się do ekspresowej realizacji transakcji",json,Magento_PwaStudio
+"Loading Payment","Wczytywanie płatności",json,Magento_PwaStudio
+"Checking Credit Card Information","Sprawdzanie informacji o karcie kredytowej",json,Magento_PwaStudio
+"Checking Credit Card Information","Sprawdzanie informacji o karcie kredytowej",json,Magento_PwaStudio
+"Checking Credit Card Information","Sprawdzanie informacji o karcie kredytowej",json,Magento_PwaStudio
+"Saved Credit Card Information Successfully","Pomyślnie zapisano informacje o karcie kredytowej",json,Magento_PwaStudio
+"An item in your cart is currently out-of-stock and must be removed in order to Checkout. Please return to your cart to remove the item.","Produkt w Twoim koszyku jest obecnie niedostępny i musi zostać usunięty, aby przejść do kasy. Wróć do koszyka, aby usunąć przedmiot.",json,Magento_PwaStudio
+"Subscribe to news and updates","Subskrybuj wiadomości i aktualizacje",json,Magento_PwaStudio
+"Thank you for your order!","Dziękujemy za Twoje zamówienie!",json,Magento_PwaStudio
+"Checkout - {name}","Do kasy - {name}",json,Magento_PwaStudio
+"Receipt - {name}","Paragon - {name}",json,Magento_PwaStudio
+"Shop by category","Kupuj według kategorii",json,Magento_PwaStudio
+"There are no blocks to display","Brak bloków do wyświetlenia",json,Magento_PwaStudio
+"Save Changes","Zapisz zmiany",json,Magento_PwaStudio
+Communications,Komunikacja,json,Magento_PwaStudio
+"Venia E-Newsletter","Newsletter Venia ",json,Magento_PwaStudio
+"We'd like to stay in touch. Please check the boxes next to the communications you'd like to receive.","Chcielibyśmy pozostać w kontakcie. Zaznacz pola obok wiadomości, które chcesz otrzymywać.",json,Magento_PwaStudio
+"Your preferences have been updated.","Twoje preferencje zostały zaktualizowane.",json,Magento_PwaStudio
+Saving,Oszczędzanie,json,Magento_PwaStudio
+"Stay on the cutting edge of fashion; subscribe to the monthly Venia Newsletter.","Bądź na bieżąco z modą; zapisz się do comiesięcznego newslettera Venia.",json,Magento_PwaStudio
+"Communications - {name}","Komunikacja - {name}",json,Magento_PwaStudio
+"Error loading selected shipping method. Please select again.","Błąd podczas ładowania wybranej metody wysyłki. Proszę wybrać ponownie.",json,Magento_PwaStudio
+"Shipping Method","Metoda dostawy",json,Magento_PwaStudio
+"Contact Us","Skontaktuj się z nami",json,Magento_PwaStudio
+Country,Kraj,json,Magento_PwaStudio
+Apply,Zastosuj,json,Magento_PwaStudio
+"Coupon Code","Kod kuponu",json,Magento_PwaStudio
+"Enter code","Wprowadź kod",json,Magento_PwaStudio
+"Something went wrong. Please refresh and try again.","Coś poszło nie tak. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
+Remove,Usuń,json,Magento_PwaStudio
+Cancel,Anuluj,json,Magento_PwaStudio
+"Create an Account","Utwórz konto",json,Magento_PwaStudio
+Email,E-mail,json,Magento_PwaStudio
+"First Name",Imię,json,Magento_PwaStudio
+"Last Name",Nazwisko,json,Magento_PwaStudio
+Password,Hasło,json,Magento_PwaStudio
+"Subscribe to news and updates","Subskrybuj wiadomości i aktualizacje",json,Magento_PwaStudio
+"Create a list","Stwórz listę",json,Magento_PwaStudio
+"New Favorites List","Nowa lista ulubionych",json,Magento_PwaStudio
+"Create a list","Stwórz listę",json,Magento_PwaStudio
+"List Name","Nazwa listy",json,Magento_PwaStudio
+"Make this my default address","Ustaw ten adres jako domyślny",json,Magento_PwaStudio
+"The shipping address you enter will be saved to your address book and set as your default for future purchases.","Wprowadzony adres wysyłki zostanie zapisany w Twojej książce adresowej i ustawiony jako domyślny dla przyszłych zakupów.",json,Magento_PwaStudio
+"Fetching Customer Details...","Pobieranie danych klienta...",json,Magento_PwaStudio
+"Discounts applied","Zastosowano rabaty",json,Magento_PwaStudio
+"Edit Item","Edytuj produkt",json,Magento_PwaStudio
+"Email Signup","Rejestracja przez e-mail",json,Magento_PwaStudio
+Oops!,Uups!,json,Magento_PwaStudio
+"Take me home","Zabierz mnie do domu",json,Magento_PwaStudio
+"Looks like something went wrong. Sorry about that.","Coś poszło nie tak.",json,Magento_PwaStudio
+Optional,Opcjonalnie,json,Magento_PwaStudio
+"See Results","Zobacz wyniki",json,Magento_PwaStudio
+"Clear all","Wyczyść wszystko",json,Magento_PwaStudio
+Filters,Filtry,json,Magento_PwaStudio
+"Enter a {name}","Podaj {name}",json,Magento_PwaStudio
+"Lorem ipsum dolor sit amet, consectetur adipsicing elit, sed do eiusmod tempor incididunt ut labore et dolore.","Lorem ipsum dolor sit amet, consectetur adipsicing elit, sed do eiusmod tempor incididunt ut labore et dolore.",json,Magento_PwaStudio
+"Follow Us!","Sprawdź nas.",json,Magento_PwaStudio
+"Privacy Policy","Polityka prywatności",json,Magento_PwaStudio
+"Terms of Use","Warunki korzystania",json,Magento_PwaStudio
+"Please enter the email address associated with this account.","Wprowadź adres e-mail powiązany z tym kontem.",json,Magento_PwaStudio
+"Recover Password","Odzyskaj hasło.",json,Magento_PwaStudio
+Cancel,Anuluj,json,Magento_PwaStudio
+"Email address","Adres e-mail",json,Magento_PwaStudio
+Submit,Prześlij,json,Magento_PwaStudio
+"Recover Password","Odzyskaj hasło.",json,Magento_PwaStudio
+"If there is an account associated with {email} you will receive an email with a link to change your password.","Jeśli istnieje konto powiązane z {email}, otrzymasz e-mail z linkiem do zmiany hasła.",json,Magento_PwaStudio
+"Balance: ",Saldo:,json,Magento_PwaStudio
+Remove,Usuń,json,Magento_PwaStudio
+Apply,Zastosuj,json,Magento_PwaStudio
+"Balance: ",Saldo:,json,Magento_PwaStudio
+"Enter card number","Podaj numer karty",json,Magento_PwaStudio
+"Gift Card Number","Numer karty podarunkowej",json,Magento_PwaStudio
+"Check balance","Sprawdź saldo",json,Magento_PwaStudio
+"Invalid card. Please try again.","Niewłaściwa karta. Proszę spróbuj ponownie.",json,Magento_PwaStudio
+"There was an error loading applied gift cards. Please refresh and try again.","Wystąpił błąd podczas ładowania zastosowanych kart podarunkowych. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
+"Unable to remove gift card. Please try again.","Nie można usunąć karty upominkowej. Proszę spróbuj ponownie.",json,Magento_PwaStudio
+"Loading Gift Cards...","Wczytywanie kart podarunkowych...",json,Magento_PwaStudio
+"Apply Gift Card","Zastosowanie karty upominkowej",json,Magento_PwaStudio
+"Gift Card(s) applied","Zastosowano kartę podarunkową",json,Magento_PwaStudio
+"Enter your message here","Wpisz tutaj swoją wiadomość",json,Magento_PwaStudio
+"Include gift receipt","Dołącz paragon do prezentu",json,Magento_PwaStudio
+"Include printed card","Dołącz wydrukowaną kartę",json,Magento_PwaStudio
+"Give Back",Oddać,json,Magento_PwaStudio
+Add,Dodaj,json,Magento_PwaStudio
+Cancel,Anuluj,json,Magento_PwaStudio
+Delete,Usuń,json,Magento_PwaStudio
+"Change Password","Zmień hasło",json,Magento_PwaStudio
+City,Miasto,json,Magento_PwaStudio
+Confirm,Potwierdź,json,Magento_PwaStudio
+"Credit Card","Karta kredytowa",json,Magento_PwaStudio
+"Current Password","Bieżące hasło",json,Magento_PwaStudio
+Edit,Edytuj,json,Magento_PwaStudio
+Email,E-mail,json,Magento_PwaStudio
+"First Name",Imię,json,Magento_PwaStudio
+Free,Darmowy,json,Magento_PwaStudio
+Home,"Strona główna",json,Magento_PwaStudio
+"Last Name",Nazwisko,json,Magento_PwaStudio
+"Middle Name","Drugie imię",json,Magento_PwaStudio
+Name,Nazwa,json,Magento_PwaStudio
+"New Password","Nowe hasło",json,Magento_PwaStudio
+Password,Hasło,json,Magento_PwaStudio
+"Phone Number","Numer telefonu",json,Magento_PwaStudio
+Private,Prywatny,json,Magento_PwaStudio
+Public,Publiczny,json,Magento_PwaStudio
+Quantity,Ilość,json,Magento_PwaStudio
+Save,Zapisz,json,Magento_PwaStudio
+"Save and Continue","Zapisz i kontynuuj",json,Magento_PwaStudio
+"Shipping Information","Informacje o dostawie",json,Magento_PwaStudio
+"Shipping Method","Metoda dostawy",json,Magento_PwaStudio
+SKU,SKU,json,Magento_PwaStudio
+"Street Address","Ulica, nr budynku, nr mieszkania (opcjonalnie)",json,Magento_PwaStudio
+"Street Address 2","Adres pocztowy 2",json,Magento_PwaStudio
+Update,Aktualizuj,json,Magento_PwaStudio
+"Continue to Shipping Method","Przejdź do metody wysyłki.",json,Magento_PwaStudio
+"Set a password at the end of guest checkout to create an account in one easy step.","Ustaw hasło gdy gość jest już na ostatnim etapie zakupu,  aby utworzyć konto w jednym prostym kroku.",json,Magento_PwaStudio
+Help,Pomoc,json,Magento_PwaStudio
+"Live Chat","Chat na żywo",json,Magento_PwaStudio
+"Fetching Data...","Pobieranie danych ...",json,Magento_PwaStudio
+Venia,Venia,json,Magento_PwaStudio
+"Something went wrong. Sorry about that.","Coś poszło nie tak. Przepraszamy za niedogodności.",json,Magento_PwaStudio
+"Looks like the page you were hoping to find doesn't exist. Sorry about that.","Wygląda na to, że strona, którą chciałeś znaleźć, nie istnieje.",json,Magento_PwaStudio
+CHECKOUT,"Realizacja zamówienia",json,Magento_PwaStudio
+"Edit Shopping Bag","Edytuj koszyk na zakupy",json,Magento_PwaStudio
+"There are no items in your cart.","W Twoim koszyku nie ma żadnych przedmiotów.",json,Magento_PwaStudio
+"Subtotal: ","Suma częściowa:",json,Magento_PwaStudio
+"{totalQuantity} Items","{totalQuantity} produkty/ów",json,Magento_PwaStudio
+Account,Konto,json,Magento_PwaStudio
+"Create Account","Utwórz konto",json,Magento_PwaStudio
+"Forgot Password","Zapomniane hasło",json,Magento_PwaStudio
+"Main Menu","Menu główne",json,Magento_PwaStudio
+"My Account","Moje konto",json,Magento_PwaStudio
+"Sign In","Zaloguj się",json,Magento_PwaStudio
+"Toggle navigation panel","Przełącz panel nawigacyjny",json,Magento_PwaStudio
+"Sorry! We couldn't find any products.","Nie znaleźliśmy żadnych produktów.",json,Magento_PwaStudio
+"Try one of these categories","Spróbuj jedną z tych kategorii",json,Magento_PwaStudio
+"Order Status","Stan zamówienia",json,Magento_PwaStudio
+"Billing Information","Informacje rozliczeniowe",json,Magento_PwaStudio
+"Buy Again","Kup jeszcze raz",json,Magento_PwaStudio
+Discount,Zniżka,json,Magento_PwaStudio
+"No shipping information","Brak informacji o wysyłce",json,Magento_PwaStudio
+"Order Total",Podsumowanie,json,Magento_PwaStudio
+"Payment Method","Metoda płatności",json,Magento_PwaStudio
+"Print Receipt","Wydrukuj paragon",json,Magento_PwaStudio
+"Qty : {quantity}","Ilość : {quantity}",json,Magento_PwaStudio
+"Return This","Zwróć produkt",json,Magento_PwaStudio
+Shipping,Dostawa,json,Magento_PwaStudio
+"Shipping Information","Informacje o dostawie",json,Magento_PwaStudio
+"Shipping Method","Metoda dostawy",json,Magento_PwaStudio
+Subtotal,"Suma częściowa",json,Magento_PwaStudio
+Tax,Podatek,json,Magento_PwaStudio
+Total,Razem,json,Magento_PwaStudio
+"<strong>Tracking number:</strong> {number}","<strong>Numer śledzenia:</strong> {number}",json,Magento_PwaStudio
+"Waiting for tracking information","Oczekiwanie na informacje o śledzeniu",json,Magento_PwaStudio
+"You don't have any orders yet.","Nie masz jeszcze żadnych zamówień.",json,Magento_PwaStudio
+"Order ""{number}"" was not found.","Nie znaleziono zamówienia ""{number}"".",json,Magento_PwaStudio
+"Load More","Wczytaj więcej",json,Magento_PwaStudio
+"Showing {current} of {total}","Wyświetlam {current} z {total}",json,Magento_PwaStudio
+"Order History","Historia zamówień",json,Magento_PwaStudio
+"Search by Order Number","Szukaj według numeru zamówienia",json,Magento_PwaStudio
+Items,Pozycje,json,Magento_PwaStudio
+Delivered,Dostarczono,json,Magento_PwaStudio
+Processing,Przetwarzam,json,Magento_PwaStudio
+"Ready to ship","Gotowe do wysyłki",json,Magento_PwaStudio
+Shipped,Wysłane,json,Magento_PwaStudio
+Delivered,Dostarczono,json,Magento_PwaStudio
+"Order Date","Data zamówienia",json,Magento_PwaStudio
+"Order #","Zamówienie #",json,Magento_PwaStudio
+"Order Total",Podsumowanie,json,Magento_PwaStudio
+Processing,Przetwarzam,json,Magento_PwaStudio
+"Ready to ship","Gotowe do wysyłki",json,Magento_PwaStudio
+Shipped,Wysłane,json,Magento_PwaStudio
+"Our Story","Nasza historia",json,Magento_PwaStudio
+"move to the first page","przejdź do pierwszej strony",json,Magento_PwaStudio
+"move to the last page","przejdź do ostatniej strony",json,Magento_PwaStudio
+"move to the next page","przejdź do następnej strony",json,Magento_PwaStudio
+"move to the previous page","przejdź do poprzedniej strony",json,Magento_PwaStudio
+"ZIP / Postal Code","Kod pocztowy",json,Magento_PwaStudio
+"Enter Coupon Code","Wprowadź kod kuponu",json,Magento_PwaStudio
+"See Gift Options","Zobacz opcje prezentów",json,Magento_PwaStudio
+"Estimate your Shipping","Oszacuj cenę wysyłki",json,Magento_PwaStudio
+"Proceed to Checkout","Przejdź do kasy",json,Magento_PwaStudio
+"Something went wrong. Please refresh and try again.","Coś poszło nie tak. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
+"Estimated Total","Szacowana łączna kwota",json,Magento_PwaStudio
+Subtotal,"Suma częściowa",json,Magento_PwaStudio
+Total,Razem,json,Magento_PwaStudio
+"Edit item",Edytuj,json,Magento_PwaStudio
+"Move to favorites","Dodaj do ulubionych",json,Magento_PwaStudio
+Out-of-stock,"Brak na stanie",json,Magento_PwaStudio
+"This Product is currently out of stock. Please try again later.","Ten produkt jest obecnie niedostępny. Spróbuj ponownie później.",json,Magento_PwaStudio
+" ea.",ea.,json,Magento_PwaStudio
+"Remove from cart","Usuń z koszyka",json,Magento_PwaStudio
+"Remove from favorites","Usuń z ulubionych",json,Magento_PwaStudio
+"In stock","W magazynie",json,Magento_PwaStudio
+"Out of stock","Brak w magazynie",json,Magento_PwaStudio
+"SKU # {sku}","SKU  # {sku}",json,Magento_PwaStudio
+Unknown,Nieznany,json,Magento_PwaStudio
+"Something went wrong. Please refresh and try again.","Coś poszło nie tak. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
+"Fetching Product Options...","Pobieranie opcji produktu...",json,Magento_PwaStudio
+Quantity,Ilość,json,Magento_PwaStudio
+Update,Aktualizuj,json,Magento_PwaStudio
+"Updating Cart...","Aktualizowanie koszyka ...",json,Magento_PwaStudio
+"Add to Cart","Dodaj do koszyka",json,Magento_PwaStudio
+"There was a problem with your cart. Please refresh the page and try adding the item once more.","Wystąpił problem z Twoim koszykiem. Odśwież stronę i spróbuj jeszcze raz dodać produkt.",json,Magento_PwaStudio
+"There was a problem with your cart. Please sign in again and try adding the item once more.","Wystąpił problem z Twoim koszykiem. Zaloguj się ponownie i spróbuj jeszcze raz dodać element.",json,Magento_PwaStudio
+"Could not add item to cart. Please check required options and try again.","Nie można dodać pozycji do koszyka. Sprawdź wymagane opcje i spróbuj ponownie.",json,Magento_PwaStudio
+"Product Description","Opis produktu",json,Magento_PwaStudio
+" ea.",ea.,json,Magento_PwaStudio
+Out-of-stock,"Brak na stanie",json,Magento_PwaStudio
+"Qty : {quantity}","Ilość : {quantity}",json,Magento_PwaStudio
+"Fetching Cart...","Pobieranie koszyka ...",json,Magento_PwaStudio
+"Selected {label}:","Wybrano {label}:",json,Magento_PwaStudio
+"product's quantity","ilość produktu",json,Magento_PwaStudio
+Sort,Sortuj,json,Magento_PwaStudio
+"Decrease Quantity","Zmniejsz ilość",json,Magento_PwaStudio
+"Increase Quantity","Zwiększ Ilość",json,Magento_PwaStudio
+"Item Quantity","Ilość produktów",json,Magento_PwaStudio
+State,Województwo,json,Magento_PwaStudio
+Register,Zarejestruj,json,Magento_PwaStudio
+"Please enter your email address and new password.","Wprowadź swój adres e-mail i nowe hasło.",json,Magento_PwaStudio
+"Uh oh, something went wrong. Check the link or try again.","Coś poszło nie tak. Sprawdź link lub spróbuj ponownie.",json,Magento_PwaStudio
+"New Password","Nowe hasło",json,Magento_PwaStudio
+"Reset Password","Zresetuj hasło",json,Magento_PwaStudio
+"Your new password has been saved.","Twoje nowe hasło zostało zapisane.",json,Magento_PwaStudio
+"Save Password","Zapisz hasło",json,Magento_PwaStudio
+"Your new password has been saved. Please use this password to sign into your Account.","Twoje nowe hasło zostało zapisane. Użyj tego hasła, aby zalogować się na swoje konto.",json,Magento_PwaStudio
+Returns,Zwroty,json,Magento_PwaStudio
+"Add a credit card","Dodaj kartę kredytową",json,Magento_PwaStudio
+"Something went wrong deleting this payment method. Please refresh and try again.","Coś poszło nie tak podczas usuwania tej formy płatności. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
+"You have no saved payments.","Nie masz zapisanych płatności.",json,Magento_PwaStudio
+"Saved Payments","Zapisane płatności",json,Magento_PwaStudio
+"Product Suggestions","Sugestie dotyczące produktu",json,Magento_PwaStudio
+" in {label}","w {label}",json,Magento_PwaStudio
+Filter,Filtr,json,Magento_PwaStudio
+"No results found. The search term may be missing or invalid.","Nie znaleziono wyników. Być może brakuje wyszukiwanego hasła lub jest ono nieprawidłowe.",json,Magento_PwaStudio
+"No results found!","Brak wyników.",json,Magento_PwaStudio
+"Showing results for <highlight>{term}</highlight>{category, select, null {} other { in <highlight>{category}</highlight>}}:","Wyświetlanie wyników dla <highlight>{term}</highlight> {category, select, null {} other {in <highlight>{category}</highlight>}}:",json,Magento_PwaStudio
+"Showing all results:","Wyświetlanie wszystkich wyników:",json,Magento_PwaStudio
+"Items sorted by ","Produkty posortowane według",json,Magento_PwaStudio
+"{totalCount} items","{totalCount} produkty/ów",json,Magento_PwaStudio
+Search,Szukaj,json,Magento_PwaStudio
+Destination,"Miejsce docelowe",json,Magento_PwaStudio
+"Get Shipping Options","Uzyskaj opcje wysyłki",json,Magento_PwaStudio
+"Loading Methods...","Wczytywanie ...",json,Magento_PwaStudio
+ZIP,"Kod pocztowy",json,Magento_PwaStudio
+"Shipping Information","Informacje o dostawie",json,Magento_PwaStudio
+"1. Shipping Information","1. Informacje o wysyłce",json,Magento_PwaStudio
+"Fetching Shipping Information...","Pobieranie informacji o wysyłce...",json,Magento_PwaStudio
+"Continue to Payment Information","Przejdź do informacji o płatności",json,Magento_PwaStudio
+"Shipping Method","Metoda dostawy",json,Magento_PwaStudio
+"Loading shipping methods...","Wczytuję metody wysyłki ...",json,Magento_PwaStudio
+"I want to estimate my shipping","Chcę oszacować wartość wysyłki",json,Magento_PwaStudio
+"For shipping estimates before proceeding to checkout, please provide the Country, State, and ZIP for the destination of your order.","Aby uzyskać szacunkowe koszty wysyłki przed przejściem do kasy, podaj kraj, stan i kod pocztowy miejsca docelowego zamówienia.",json,Magento_PwaStudio
+"Shipping Methods","Metody dostawy",json,Magento_PwaStudio
+"Error loading shipping methods. Please ensure a shipping address is set and try again.","Błąd podczas wczytywania metod wysyłki. Upewnij się, że adres wysyłki jest podany właściwie i spróbuj ponownie.",json,Magento_PwaStudio
+"Estimated Shipping","Szacowany czas wysyłki",json,Magento_PwaStudio
+Shipping,Dostawa,json,Magento_PwaStudio
+"Create an Account","Utwórz konto",json,Magento_PwaStudio
+"Email address","Adres e-mail",json,Magento_PwaStudio
+"Forgot Password?","Zapomniałeś hasła?",json,Magento_PwaStudio
+"Signing In","Zarejestruj się",json,Magento_PwaStudio
+Password,Hasło,json,Magento_PwaStudio
+"Sign In","Zaloguj się",json,Magento_PwaStudio
+"Sign-in to Your Account","Zaloguj się do swojego konta.",json,Magento_PwaStudio
+"Price: Low to High","Cena: od najniższej do najwyższej",json,Magento_PwaStudio
+"Price: High to Low","Cena: od najwyższej do najniższej",json,Magento_PwaStudio
+"Best Match","Najlepiej dopasowane",json,Magento_PwaStudio
+"An item in your cart is currently out-of-stock and must be removed in order to Checkout.","Produkt w Twoim koszyku jest obecnie niedostępny i musi zostać usunięty, aby przejść do realizacji zamówienia.",json,Magento_PwaStudio
+"Credit Card","Karta kredytowa",json,Magento_PwaStudio
+Delete,Usuń,json,Magento_PwaStudio
+"Estimated Tax","Oszacuj podatek",json,Magento_PwaStudio
+Tax,Podatek,json,Magento_PwaStudio
+"Must contain at least {value} character(s).","Musi zawierać co najmniej {value} znaków.",json,Magento_PwaStudio
+"Must not exceed {value} character(s).","Nie może przekraczać {value} znaków.",json,Magento_PwaStudio
+"Must contain exactly {value} character(s).","Musi zawierać dokładnie {value} znaków.",json,Magento_PwaStudio
+"State ""{value}"" is not a valid state abbreviation.","Stan ""{value}"" nie jest prawidłowym skrótem.",json,Magento_PwaStudio
+"Country ""US"" is not an available country.","""US"" nie jest dostępnym  krajem.",json,Magento_PwaStudio
+"Country ""US"" does not contain any available regions.","Kraj ""US"" nie zawiera żadnych dostępnych regionów.",json,Magento_PwaStudio
+"{value} must match.","{value} musi pasować.",json,Magento_PwaStudio
+"{value} must be different","{value} musi być inna.",json,Magento_PwaStudio
+"Is required.","Jest wymagany",json,Magento_PwaStudio
+"Must be checked.","Musi być zaznaczony.",json,Magento_PwaStudio
+"A password must contain at least 3 of the following: lowercase, uppercase, digits, special characters.","Hasło musi zawierać co najmniej 3 z następujących elementów: małe litery, duże litery, cyfry, znaki specjalne.",json,Magento_PwaStudio
+"There are currently no items in this list","Obecnie na tej liście nie ma żadnych pozycji",json,Magento_PwaStudio
+Private,Prywatny,json,Magento_PwaStudio
+Public,Publiczny,json,Magento_PwaStudio
+"Are you sure you want to delete this product from the list?","Czy na pewno chcesz usunąć ten produkt z listy?",json,Magento_PwaStudio
+Delete,Usuń,json,Magento_PwaStudio
+"There was an error deleting this product. Please try again later.","Wystąpił błąd podczas usuwania tego produktu. Spróbuj ponownie później.",json,Magento_PwaStudio
+"Remove Product from Wishlist","Usuń produkt z listy Ulubionych",json,Magento_PwaStudio
+"Add to Cart","Dodaj do koszyka",json,Magento_PwaStudio
+"Something went wrong. Please refresh and try again.","Coś poszło nie tak. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
+"Copy to","Skopiuj do",json,Magento_PwaStudio
+Remove,Usuń,json,Magento_PwaStudio
+"Move to","Przejdź do",json,Magento_PwaStudio
+Actions,Operacje,json,Magento_PwaStudio
+"Sorry, this feature has been disabled.","Niestety, ale ta funkcja została wyłączona.",json,Magento_PwaStudio
+"Something went wrong. Please refresh and try again.","Coś poszło nie tak. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
+"Favorites Lists","Lista Ulubionych",json,Magento_PwaStudio
+"The wishlist is not currently available.","Ulubione nie są obecnie dostępne.",json,Magento_PwaStudio
