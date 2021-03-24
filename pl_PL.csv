@@ -1798,7 +1798,7 @@ Add,Dodaj,module,Magento_Config
 "Search String","Szukany tekst",module,Magento_Config
 "Design Theme","Design tematu",module,Magento_Config
 "Add \Exception","Dodaj wyjątek",module,Magento_Config
-" -- No Theme --"," --Nie ma templatki--",module,Magento_Config
+" -- No Theme --"," -- brak szablonu --",module,Magento_Config
 Enable,Włącz,module,Magento_Config
 Disable,Wyłącz,module,Magento_Config
 Configuration,Konfiguracja,module,Magento_Config
@@ -2899,9 +2899,9 @@ Ground,Naziemny,module,Magento_Fedex
 "International First","International First",module,Magento_Fedex
 "International Ground","International Ground",module,Magento_Fedex
 "International Priority","Priorytet międzynarodowy ",module,Magento_Fedex
-"Intl Priority Freight","XXX Intl Priority Freight",module,Magento_Fedex
+"Intl Priority Freight","Fracht Priorytetowy",module,Magento_Fedex
 "Priority Overnight","Priorytet na drugi dzień",module,Magento_Fedex
-"Smart Post","Sprytna poczta",module,Magento_Fedex
+"Smart Post","Poczta Smart",module,Magento_Fedex
 "Standard Overnight","Standard na drugi dzień",module,Magento_Fedex
 Freight,Dostawa,module,Magento_Fedex
 "National Freight","Fracht krajowy",module,Magento_Fedex
@@ -6591,7 +6591,7 @@ Actions,Operacje,module,PayU_PaymentGateway
 "Recent Orders","Ostatnie zamówienia",module,PayU_PaymentGateway
 "View All","Zobacz wszystkie",module,PayU_PaymentGateway
 "Select payment method:","Wybierz metodę płatności:",module,PayU_PaymentGateway
-"Please activate ""Magento Social"" integration at System->Integrations","Please activate ""Magento Social"" integration at System->Integrations",module,Shopial_Facebook
+"Please activate ""Magento Social"" integration at System->Integrations","Aktywuj integrację „Magento Social” w System -> Integracje",module,Shopial_Facebook
 "Integrations page","Strona integracji",module,Shopial_Facebook
 "2. Setup your Facebook store","2. Skonfiguruj swój sklep na Facebooku",module,Shopial_Facebook
 "Launch store","Uruchom sklep",module,Shopial_Facebook
@@ -8521,7 +8521,7 @@ Debug,"Tryb debug",module,Magento_Dhl
 "Currency Setup","Ustawienia waluty",module,Magento_Directory
 "Currency Options","Opcje waluty",module,Magento_Directory
 "Base Currency","Waluta podstawowa",module,Magento_Directory
-"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" >""Price"" >""Catalog Price Scope"").",module,Magento_Directory
+"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Waluta bazowa jest używana dla wszystkich transakcji płatności online. Zakres waluty bazowej jest określany przez zakres cen katalogowych (""Katalog"" > ""Cena"" > ""Zakres cen katalogowych"").",module,Magento_Directory
 "Default Display Currency","Domyślna wyświetlana waluta",module,Magento_Directory
 "Allowed Currencies","Dopuszczone waluty",module,Magento_Directory
 "Yahoo Finance Exchange","Yahoo Finance Exchange",module,Magento_Directory
@@ -11041,18 +11041,11 @@ Change,Zmień,module,Magento_Company
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Your company registration request (for the<strong>%company_name</strong>)
-    has been approved and you have been set as the Company Admin.
-    You can now create and manage your company structure.
-    Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.",module,Magento_Company
+    and use other B2B features.","Twoja prośba o rejestrację firmy (dla <strong>% company_name </strong>) została zatwierdzona i zostałeś ustawiony jako administrator firmy. Możesz teraz tworzyć strukturę swojej firmy i zarządzać nią. ",module,Magento_Company
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.","The status of your company<strong>%company_name</strong>
-    is now<strong>Active</strong>.
-    Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.",module,Magento_Company
+    and use other B2B features.","Status Twojej firmy <strong>% company_name </strong> to teraz <strong> Aktywna </strong>. Po zalogowaniu się będziesz mógł składać zamówienia w imieniu swojej firmy i korzystać z innych funkcji B2B.",module,Magento_Company
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Twój typ konta został zmieniony z Administratora firmy na zwykłe konto użytkownika. Jeśli uważasz, że to pomyłka, skontaktuj się ze swoim przełożonym w celu uzyskania szczegółowych informacji.",module,Magento_Company
 "%name,","%name,",module,Magento_Company
 "You have been assigned to %company_name as the Sales Representative.","Zostałeś przypisany do %company_name jako Przedstawiciel handlowy.",module,Magento_Company
@@ -11061,14 +11054,11 @@ Change,Zmień,module,Magento_Company
 "* View and edit company profile in Admin Panel","* Wyświetl i edytuj profil firmy w panelu administracyjnym",module,Magento_Company
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
-    but they will not be able to place orders.","Your company account<strong>%company_name</strong>has been blocked.
-    Your company members can continue using the website,
-    but they will not be able to place orders.",module,Magento_Company
+    but they will not be able to place orders.","Twoje konto firmowe <strong>% company_name </strong> zostało zablokowane. Członkowie Twojej firmy mogą nadal korzystać z witryny, ale nie będą mogli składać zamówień.",module,Magento_Company
 "If you have any questions, please contact the seller.","Jeśli masz jakieś pytania, skontaktuj się ze sprzedawcą.",module,Magento_Company
-"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Your company account<strong>%company_name</strong>has been suspended, pending approval from the seller.",module,Magento_Company
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Twoje konto firmowe <strong>% company_name </strong> zostało zawieszone do czasu zatwierdzenia przez sprzedającego.",module,Magento_Company
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
-    for the following reason:","Your company registration request (for the<strong>%company_name</strong>) has been rejected
-    for the following reason:",module,Magento_Company
+    for the following reason:","Twoja prośba o rejestrację firmy (dla <strong>% company_name </strong>) została odrzucona z następującego powodu:",module,Magento_Company
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","Nie można cofnąć tej akcji. Czy na pewno chcesz usunąć tę firmę? Po usunięciu firmy wszyscy członkowie firmy staną się Nieaktywni.",module,Magento_Company
 "Delete a Company?","Usunąć firmę?",module,Magento_Company
 Cancel,Anuluj,module,Magento_Company
@@ -11104,7 +11094,7 @@ Proceed,Kontynuuj,module,Magento_Company
 General,Ogólne,module,Magento_Company
 "Allow Company Registration from the Storefront","Zezwalaj na rejestrację firmy z widoku sklepu",module,Magento_Company
 "Email Options - Company Registration","Opcje e-mail - rejestracja firmy",module,Magento_Company
-"Company Registration Email Recipient","Company Registration Email Recipient",module,Magento_Company
+"Company Registration Email Recipient","e-mail adresata rejestracji firmy",module,Magento_Company
 "Send Company Registration Email Copy To","Wyślij E-mail Rejestracyjny Firmy Kopiuj Do",module,Magento_Company
 Comma-separated,"Oddzielone przecinkami",module,Magento_Company
 "Send Email Copy Method","Wyślij metodę kopiowania e-mailem",module,Magento_Company
@@ -11229,8 +11219,7 @@ Reverted,Odwrócony,module,Magento_CompanyCredit
 "Please enter a valid %1/%2 currency rate.","Podaj prawidłowy kurs walutowy %1/%2.",module,Magento_CompanyCredit
 "Invoice created for %1","Faktura utworzona dla %1",module,Magento_CompanyCredit
 "The selected credit currency is not valid. 
-                        Customers will not be able to place orders until you update the credit currency.","Wybrana waluta kredytu jest nieprawidłowa.
-                        Klienci nie będą mogli składać zamówień, dopóki nie zaktualizujesz waluty kredytu.",module,Magento_CompanyCredit
+                        Customers will not be able to place orders until you update the credit currency.","Wybrana waluta kredytu jest nieprawidłowa. Klienci nie będą mogli składać zamówień, dopóki nie zaktualizujesz waluty kredytu.",module,Magento_CompanyCredit
 "Store Credit","Kredyt w sklepie",module,Magento_CompanyCredit
 "Refund to Company Credit","Zwrot do kredytu firmowego",module,Magento_CompanyCredit
 "An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","Nie można wystawić faktury za częściowe ilości dla tego zamówienia. Aby kontynuować, zmień określoną ilość na pełną.",module,Magento_CompanyCredit
@@ -11251,7 +11240,7 @@ Edit,Edytuj,module,Magento_CompanyCredit
 "Purchase Order Number","Numer wykupienia zamówienia:",module,Magento_CompanyCredit
 "Charged off the company credit: %1","Obciążony kredyt firmowy: %1",module,Magento_CompanyCredit
 "Purchase Order Number: %1","Wykup zamówienie: %1",module,Magento_CompanyCredit
-"The base currency for %1 has been updated. The currency %2 is still defined as the credit currency for one or more companies. Use the following <a href=""%3"" id=""update-credit-link"">link</a> to perform a bulk operation that updates the credit currency for those companies.","The base currency for %1 has been updated. The currency %2 is still defined as the credit currency for one or more companies. Use the following <a href=""%3"" id=""update-credit-link"">link</a> to perform a bulk operation that updates the credit currency for those companies.",module,Magento_CompanyCredit
+"The base currency for %1 has been updated. The currency %2 is still defined as the credit currency for one or more companies. Use the following <a href=""%3"" id=""update-credit-link"">link</a> to perform a bulk operation that updates the credit currency for those companies.","Zaktualizowano walutę podstawową dla% 1. Waluta% 2 jest nadal zdefiniowana jako waluta kredytu dla co najmniej jednej firmy. Użyj następującego <a href=""%3"" id=""update-credit-link""> linku </a>, aby wykonać zbiorczą operację aktualizującą.",module,Magento_CompanyCredit
 "%1 has exceeded its credit limit (%2) by %3. Its outstanding balance, including this order, currently totals %4."," %1 przekroczył swój limit kredytowy ( %2) o %3. Saldo należności, łącznie z tym zamówieniem, wynosi obecnie %4.",module,Magento_CompanyCredit
 "The credit limit for %1 is %2. Its outstanding balance, including this order, currently totals %3","Limit kredytu dla %1 wynosi %2. Saldo należności, łącznie z tym zamówieniem, wynosi obecnie %3",module,Magento_CompanyCredit
 "Outstanding Balance","Znakomita równowaga",module,Magento_CompanyCredit
@@ -11295,7 +11284,7 @@ Title,Tytuł,module,Magento_CompanyCredit
 "Minimum Order Total","Minimalna suma zamówienia",module,Magento_CompanyCredit
 "Maximum Order Total","Maksymalna suma zamówienia",module,Magento_CompanyCredit
 "Company Credit Change Email Sender","Nadawca e-mail ""Zmiana adresu firmy""",module,Magento_CompanyCredit
-"Send Company Credit Change Email Copy To","XXX Send Company Credit Change Email Copy To",module,Magento_CompanyCredit
+"Send Company Credit Change Email Copy To","Wyślij kopię e-maila z informacją o zmianie kredytu firmowego do",module,Magento_CompanyCredit
 Comma-separated,"Oddzielone przecinkami",module,Magento_CompanyCredit
 "Send Email Copy Method","Wyślij metodę kopiowania e-mailem",module,Magento_CompanyCredit
 "Allocated Email Template","Przydzielony szablon wiadomości e-mail",module,Magento_CompanyCredit
@@ -16181,7 +16170,7 @@ Emails,E-maile,module,Magento_Email
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Dozwolone typy plików: jpg, jpeg, gif, png. Aby zoptymalizować logo dla wyświetlaczy o wysokiej rozdzielczości, prześlij obraz, który jest 3x normalny rozmiar i następnie określić 1 x Wymiary szerokość/wysokość pola poniżej.",module,Magento_Email
 "Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Tylko niezbędne, jeśli obraz został przekazany powyżej. Wpisz liczbę pikseli, bez ""px"".",module,Magento_Email
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Wybrany szablon e-mail oparty na temacie fallback po wybraniu opcji ""Default"".",module,Magento_Email
-"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","To jest twój nowy klucz szyfrowania:<span style=""font-family:monospace;"">%1</span>. Pamiętaj aby napisać go poniżej i dbać o niego!",module,Magento_EncryptionKey
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","To jest twój nowy klucz szyfrowania:<span style=""font-family:monospace;"">%1</span>. Pamiętaj aby zapisać go w bezpiecznym miejscu.",module,Magento_EncryptionKey
 "Transaction has been declined, please, try again later.","Transakcja została odrzucona. Prosimy spróbować ponownie później.",module,Magento_Eway
 "Switch/Solo/Maestro Only","Tylko Switch/Solo/Maestro",module,Magento_Eway
 "Issue Number","Numer wydania",module,Magento_Eway
@@ -24715,7 +24704,7 @@ Pickups,Odbiory,module,Temando_Shipping
 "An error occurred while creating the packing slips.","Wystąpił błąd podczas tworzenia dokumentu dostawy.",module,Temando_Shipping
 "An error occurred while deleting packages.","Wystąpił błąd podczas usuwania pakietów.",module,Temando_Shipping
 "Please see the log files for more detailed information.","Więcej informacji znajdziesz w plikach dziennika.",module,Temando_Shipping
-"Temando Shipping is not properly configured. Please register an account.","Temando Shipping nie jest poprawnie skonfigurowana. Zarejestruj konto.",module,Temando_Shipping
+"Temando Shipping is not properly configured. Please register an account.","Temando Shipping nie jest poprawnie skonfigurowany. Zarejestruj konto.",module,Temando_Shipping
 "Pickup ""%1"" does not exist.","Odbiór ""%1"" nie istnieje.",module,Temando_Shipping
 "There are no packing slips related to selected pickups.","Brak dokumentów dostawy związanych z wybranymi odbiornikami.",module,Temando_Shipping
 "There was an error creating package slip pdf.","Wystąpił błąd podczas tworzenia dokumentu dostawy pdf.",module,Temando_Shipping
@@ -24821,10 +24810,10 @@ Shipping,Dostawa,module,Vertex_Tax
 "%1 - Delivery Duty Unpaid"," %1 - Cło nieopłacone",module,Vertex_Tax
 "%1 - Delivered Ex Quay Duty Unpaid"," %1 - Dostarczono bezcłowo cło ex quay",module,Vertex_Tax
 "%1 - Ex Works"," %1 - Ex Works",module,Vertex_Tax
-"%1 - Free Along Side Ship","XXX %1 - Free Along Side Ship",module,Vertex_Tax
+"%1 - Free Along Side Ship","%1 - Free Along Side Ship",module,Vertex_Tax
 "%1 - Free Carrier"," %1 - bezpłatny przewoźnik",module,Vertex_Tax
-"%1 - Free Onboard Vessel","XXX %1 - Free Onboard Vessel",module,Vertex_Tax
-"%1 - Supplier Ships","XXX %1 - Supplier Ships",module,Vertex_Tax
+"%1 - Free Onboard Vessel","%1 - Free Onboard Vessel",module,Vertex_Tax
+"%1 - Supplier Ships","%1 - Supplier Ships",module,Vertex_Tax
 "Export to file and delete","Eksportuj do pliku i usuń",module,Vertex_Tax
 Delete,Usuń,module,Vertex_Tax
 "Product and Shipping","Produkt i wysyłka",module,Vertex_Tax
@@ -24941,7 +24930,7 @@ Cancel,Anuluj,module,Temando_Shipping
 "Your Pickup <span class=""no-link"">#%pickup_id</span> for Order <span class=""no-link"">#%increment_id</span>","Twój Odbiór <span class=""no-link""># %pickup_id</span>dla zamówienia <span class=""no-link""># %increment_id</span>",module,Temando_Shipping
 "%store_name - Your pickup is ready to be collected"," %store_name - Twoje zamówienie jest gotowe do odbioru",module,Temando_Shipping
 "Items from your recent order #%increment_id are now ready for pickup.","Produkty z Twojego ostatniego zamówienia #%increment_id są teraz gotowe do odbioru.",module,Temando_Shipping
-"Your pickup confirmation is below. Thank you again for your business.","Twoje potwierdzenie odbioru znajduje się poniżej. Jeszcze raz dziękuję za Twój biznes.",module,Temando_Shipping
+"Your pickup confirmation is below. Thank you again for your business.","Twoje potwierdzenie odbioru znajduje się poniżej. Jeszcze raz dziękuję za współpracę.",module,Temando_Shipping
 "Your %store_name shipment has been cancelled","Twoja przesyłka %store_name została anulowana",module,Temando_Shipping
 "Your shipment #%shipment_id for order #%order_id from %store_name has been cancelled.","Twoja przesyłka #%shipment_id for order #%order_id od %store_name  została anulowana.",module,Temando_Shipping
 "Your shipping details are below.","Twoje dane do wysyłki są poniżej.",module,Temando_Shipping
@@ -26903,7 +26892,7 @@ Account,Konto,json,Magento_PwaStudio
 "Account Information","Dane konta",json,Magento_PwaStudio
 "Address Book","Książka adresowa",json,Magento_PwaStudio
 Communications,Komunikacja,json,Magento_PwaStudio
-"Favorites Lists","Lista Ulubionych",json,Magento_PwaStudio
+"Favorites Lists","Lista ulubionych",json,Magento_PwaStudio
 "Order History","Historia zamówień",json,Magento_PwaStudio
 "Saved Payments","Zapisane płatności",json,Magento_PwaStudio
 "Sign Out","Wyloguj się",json,Magento_PwaStudio
@@ -26939,7 +26928,7 @@ Cart,Koszyk,json,Magento_PwaStudio
 "Cart - {name}","Koszyk - {name}",json,Magento_PwaStudio
 "Toggle mini cart. You have {count} items in your cart.","Przełącz mini koszyk. Masz {count} pozycji w swoim koszyku.",json,Magento_PwaStudio
 Filter,Filtr,json,Magento_PwaStudio
-"Items sorted by ","Elementy posortowane według",json,Magento_PwaStudio
+"Items sorted by ","Sortowanie: ",json,Magento_PwaStudio
 "All {name}","Wszystkie produkty z {name}",json,Magento_PwaStudio
 "No child categories found.","Nie znaleziono kategorii podrzędnych.",json,Magento_PwaStudio
 "Account successfully created.","Konto pomyślnie utworzone.",json,Magento_PwaStudio
@@ -26991,7 +26980,7 @@ Checkout,Zamówienie,json,Magento_PwaStudio
 "An item in your cart is currently out-of-stock and must be removed in order to Checkout. Please return to your cart to remove the item.","Produkt w Twoim koszyku jest obecnie niedostępny i musi zostać usunięty, aby przejść do kasy. Wróć do koszyka, aby usunąć przedmiot.",json,Magento_PwaStudio
 "Subscribe to news and updates","Subskrybuj wiadomości i aktualizacje",json,Magento_PwaStudio
 "Thank you for your order!","Dziękujemy za Twoje zamówienie!",json,Magento_PwaStudio
-"Checkout - {name}","Do kasy - {name}",json,Magento_PwaStudio
+"Checkout - {name}","Do kasy",json,Magento_PwaStudio
 "Receipt - {name}","Paragon - {name}",json,Magento_PwaStudio
 "Shop by category","Kupuj według kategorii",json,Magento_PwaStudio
 "There are no blocks to display","Brak bloków do wyświetlenia",json,Magento_PwaStudio
@@ -27106,7 +27095,7 @@ Venia,Venia,json,Magento_PwaStudio
 CHECKOUT,"Realizacja zamówienia",json,Magento_PwaStudio
 "Edit Shopping Bag","Edytuj koszyk na zakupy",json,Magento_PwaStudio
 "There are no items in your cart.","W Twoim koszyku nie ma żadnych przedmiotów.",json,Magento_PwaStudio
-"Subtotal: ","Suma częściowa:",json,Magento_PwaStudio
+"Subtotal: ","Suma częściowa: ",json,Magento_PwaStudio
 "{totalQuantity} Items","{totalQuantity} produkty/ów",json,Magento_PwaStudio
 Account,Konto,json,Magento_PwaStudio
 "Create Account","Utwórz konto",json,Magento_PwaStudio
@@ -27171,7 +27160,7 @@ Total,Razem,json,Magento_PwaStudio
 "Move to favorites","Dodaj do ulubionych",json,Magento_PwaStudio
 Out-of-stock,"Brak na stanie",json,Magento_PwaStudio
 "This Product is currently out of stock. Please try again later.","Ten produkt jest obecnie niedostępny. Spróbuj ponownie później.",json,Magento_PwaStudio
-" ea.",ea.,json,Magento_PwaStudio
+" ea.",sztuka,json,Magento_PwaStudio
 "Remove from cart","Usuń z koszyka",json,Magento_PwaStudio
 "Remove from favorites","Usuń z ulubionych",json,Magento_PwaStudio
 "In stock","W magazynie",json,Magento_PwaStudio
@@ -27188,7 +27177,7 @@ Update,Aktualizuj,json,Magento_PwaStudio
 "There was a problem with your cart. Please sign in again and try adding the item once more.","Wystąpił problem z Twoim koszykiem. Zaloguj się ponownie i spróbuj jeszcze raz dodać element.",json,Magento_PwaStudio
 "Could not add item to cart. Please check required options and try again.","Nie można dodać pozycji do koszyka. Sprawdź wymagane opcje i spróbuj ponownie.",json,Magento_PwaStudio
 "Product Description","Opis produktu",json,Magento_PwaStudio
-" ea.",ea.,json,Magento_PwaStudio
+" ea.",sztuka,json,Magento_PwaStudio
 Out-of-stock,"Brak na stanie",json,Magento_PwaStudio
 "Qty : {quantity}","Ilość : {quantity}",json,Magento_PwaStudio
 "Fetching Cart...","Pobieranie koszyka ...",json,Magento_PwaStudio
@@ -27279,5 +27268,7 @@ Remove,Usuń,json,Magento_PwaStudio
 Actions,Operacje,json,Magento_PwaStudio
 "Sorry, this feature has been disabled.","Niestety, ale ta funkcja została wyłączona.",json,Magento_PwaStudio
 "Something went wrong. Please refresh and try again.","Coś poszło nie tak. Odśwież i spróbuj ponownie.",json,Magento_PwaStudio
-"Favorites Lists","Lista Ulubionych",json,Magento_PwaStudio
+"Favorites Lists","Lista ulubionych",json,Magento_PwaStudio
 "The wishlist is not currently available.","Ulubione nie są obecnie dostępne.",json,Magento_PwaStudio
+Price,Cena,module,Magento_Sample
+Favorites,Ulubione,json,Magento_PwaStudio
