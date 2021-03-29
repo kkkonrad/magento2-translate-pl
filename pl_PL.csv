@@ -6225,7 +6225,7 @@ Resources,Zasoby,module,Magento_User
 "Priority Mail Gift Card Flat Rate Envelope Hold For Pickup","Poczta priorytetowa Karta podarunkowa Koperta ryczałtowa Zatrzymaj do odbioru",module,Magento_Usps
 "Priority Mail Window Flat Rate Envelope","Priority Mail Window Flat Rate Envelope",module,Magento_Usps
 "Priority Mail Window Flat Rate Envelope Hold For Pickup","Priority Mail Window Flat Rate Envelope Hold For Pickup",module,Magento_Usps
-"Priority Mail Small Flat Rate Envelope","Przesyłka pocztowa Mała koperta z płaską stawką",module,Magento_Usps
+"Priority Mail Small Flat Rate Envelope","Przesyłka pocztowa Mała koperta ze stawką zryczałtowaną",module,Magento_Usps
 "Priority Mail Small Flat Rate Envelope Hold For Pickup","Priority Mail Small Flat Rate Envelope Hold For Pickup",module,Magento_Usps
 "Priority Mail Legal Flat Rate Envelope","Priority Mail Legal Flat Rate Envelope",module,Magento_Usps
 "Priority Mail Legal Flat Rate Envelope Hold For Pickup","Priority Mail Legal Flat Rate Envelope Hold For Pickup",module,Magento_Usps
@@ -6274,7 +6274,7 @@ Variable,Zmienna,module,Magento_Usps
 "Small Flat-Rate Box","Małe pudełko ryczałtowe",module,Magento_Usps
 "Medium Flat-Rate Box","Średnie stawki ryczałtowe",module,Magento_Usps
 "Large Flat-Rate Box","Duże pudełko ryczałtowe",module,Magento_Usps
-"Flat-Rate Envelope","Koperta - płaska stawka",module,Magento_Usps
+"Flat-Rate Envelope","Koperta - stawka zryczałtowana",module,Magento_Usps
 "Small Flat-Rate Envelope","Small Flat-Rate Envelope",module,Magento_Usps
 "Window Flat-Rate Envelope","Koperta Window Flat-Rate",module,Magento_Usps
 "Gift Card Flat-Rate Envelope","Gift Card Flat-Rate Envelope",module,Magento_Usps
@@ -8770,7 +8770,7 @@ Instructions,Instrukcje,module,Magento_OfflinePayments
 "Cash On Delivery Payment","Płatne przy odbiorze",module,Magento_OfflinePayments
 "Zero Subtotal Checkout","Zamówienie z zerową podsumą",module,Magento_OfflinePayments
 "Automatically Invoice All Items","Automatycznie fakturuj wszystkie produkty",module,Magento_OfflinePayments
-"Flat Rate","Płaska stawka",module,Magento_OfflineShipping
+"Flat Rate","Stawka zryczałtowana",module,Magento_OfflineShipping
 Enabled,Włączone,module,Magento_OfflineShipping
 "Method Name","Nazwa metody",module,Magento_OfflineShipping
 Price,Cena,module,Magento_OfflineShipping
@@ -16369,7 +16369,7 @@ ui/grid/filters/elements/select,ui/grid/filters/elements/select,module,Magento_U
 "If you did not request this change, please contact us.","Jeśli nie zażądałeś tej zmiany, prosimy o kontakt.",module,Magento_User
 "Reset Password Template","Resetowanie hasła szablon",module,Magento_User
 "First-Class Mail Parcel","First-Class Mail Parcel",module,Magento_Usps
-"Flat-Rate Box","Pudełko - płaska stawka",module,Magento_Usps
+"Flat-Rate Box","Pudełko - stawka zryczałtowana",module,Magento_Usps
 "Add selected page(s) to the tree.","Dodaj wybrane strony do drzewa.",module,Magento_VersionsCms
 "Version Control","Kontrola wersji",module,Magento_VersionsCms
 "Version Label","Wersja etykiety",module,Magento_VersionsCms
