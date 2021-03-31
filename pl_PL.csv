@@ -8783,7 +8783,7 @@ Type,Rodzaj,module,Magento_OfflineShipping
 "Ship to Specific Countries","Dostawa do wybranych krajów",module,Magento_OfflineShipping
 "Show Method if Not Applicable","Pokaż metodę jeśli niedostępna",module,Magento_OfflineShipping
 "Displayed Error Message","Wyświetlony błąd",module,Magento_OfflineShipping
-"Table Rates","Tabele stawek",module,Magento_OfflineShipping
+"Table Rates","Stawki tabeli",module,Magento_OfflineShipping
 Condition,Warunek,module,Magento_OfflineShipping
 "Include Virtual Products in Price Calculation","Włącz produkty wirtualne do obliczania ceny",module,Magento_OfflineShipping
 Export,Eksport,module,Magento_OfflineShipping
