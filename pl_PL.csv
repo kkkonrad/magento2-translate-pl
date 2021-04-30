@@ -9511,7 +9511,7 @@ Taxes,Podatki,module,Magento_Tax
 "Apply Tax On","Zastosuj podatek na",module,Magento_Tax
 "Enable Cross Border Trade","Włącz handel transgraniczny",module,Magento_Tax
 "When catalog price includes tax, enable this setting to fix the price no matter what the customer's tax rate.","Kiedy cena katalog zawiera podatek, włączenie tego ustawienia naprawi cenę bez względu na to, jaka jest ustawiona stawka podatkowa klienta.",module,Magento_Tax
-"Default Tax Destination Calculation","Domyślne obliczanie pochodzenia dla podatku",module,Magento_Tax
+"Default Tax Destination Calculation","Domyślne obliczanie pochodzenia podatku",module,Magento_Tax
 "Default Country","Domyślny kraj",module,Magento_Tax
 "Default State","Domyślne województwo",module,Magento_Tax
 "Default Post Code","Domyślny kod pocztowy",module,Magento_Tax
@@ -9730,7 +9730,7 @@ Name,Nazwa,module,Magento_Variable
 "If empty, UTF-8 will be used.","Jeśli puste, zostanie użyte UTF-8.",module,Magento_Webapi
 "Web Services Configuration","Konfiguracja usług sieci Web",module,Magento_Webapi
 "REST and SOAP configurations, generated WSDL file","konfiguracji REST oraz SOAP, generowanie pliku WSDL",module,Magento_Webapi
-"Fixed Product Taxes","Ustalone podatki produktu",module,Magento_Weee
+"Fixed Product Taxes","Ustalone podatki od produktów",module,Magento_Weee
 "Enable FPT","Włącz FPT",module,Magento_Weee
 "Display Prices In Product Lists","Wyświetlaj ceny na listach produktów",module,Magento_Weee
 "Display Prices On Product View Page","Wyświetlaj ceny na karcie produktu",module,Magento_Weee
