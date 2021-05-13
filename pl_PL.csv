@@ -5651,7 +5651,7 @@ Rate,Stawka,module,Magento_TaxImportExport
 "Zip/Post is Range","Kod pocztowy jest zakresem",module,Magento_TaxImportExport
 "Range From","Zakres od",module,Magento_TaxImportExport
 "Range To","Zakre do",module,Magento_TaxImportExport
-"Tax Zones and Rates","Strefy podatku i cen",module,Magento_TaxImportExport
+"Tax Zones and Rates","Strefy podatku i stawki",module,Magento_TaxImportExport
 "Import and Export Tax Rates","Importuj i eksportuj stawki podatków",module,Magento_TaxImportExport
 "The tax rate has been imported.","Stawka podatku została zaimportowana.",module,Magento_TaxImportExport
 "Invalid file upload attempt","Próba wgrania pliku zakończona niepowodzeniem",module,Magento_TaxImportExport
@@ -5705,7 +5705,7 @@ Sales,Sprzedaż,module,Magento_Tax
 Tax,Podatek,module,Magento_Tax
 "Manage Tax Rates","Zarządzaj stawkami podatków",module,Magento_Tax
 "New Tax Rate","Nowa stawka podatku",module,Magento_Tax
-"Tax Zones and Rates","Strefy podatku i cen",module,Magento_Tax
+"Tax Zones and Rates","Strefy podatku i stawki",module,Magento_Tax
 "We can't delete this tax rate right now.","Nie można teraz usunąć tej stawki podatku.",module,Magento_Tax
 "An error occurred while loading this tax rate.","Wystąpił błąd podczas ładowania tej stawki podatku.",module,Magento_Tax
 "We can't save this rate right now.","Obecnie nie możemy zapisać tej stawki.",module,Magento_Tax
