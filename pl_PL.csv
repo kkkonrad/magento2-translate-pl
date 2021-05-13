@@ -1011,7 +1011,7 @@ Datetime,"Data i czas",module,Magento_Catalog
 Decimal,Dziesiętne,module,Magento_Catalog
 Integer,"Liczba całkowita",module,Magento_Catalog
 "Globally Editable","Edytowalne globalnie",module,Magento_Catalog
-"Attribute Information","Informacje cechy",module,Magento_Catalog
+"Attribute Information","Informacje atrybutu",module,Magento_Catalog
 Properties,Właściwości,module,Magento_Catalog
 "Manage Labels","Zarządzaj etykietami",module,Magento_Catalog
 Visible,Widoczny,module,Magento_Catalog
@@ -3012,8 +3012,8 @@ To,Do,module,Magento_ImportExport
 "We can't filter an attribute with no attribute options.","Nie możemy filtrować cech bez ich opcji.",module,Magento_ImportExport
 "Fixed Price: From","Stała cena: od",module,Magento_ImportExport
 Exclude,Wyłącz,module,Magento_ImportExport
-"Attribute Label","Etykieta cechy",module,Magento_ImportExport
-"Attribute Code","Kod cechy",module,Magento_ImportExport
+"Attribute Label","Etykieta atrybutu",module,Magento_ImportExport
+"Attribute Code","Kod atrybutu",module,Magento_ImportExport
 Filter,Filtr,module,Magento_ImportExport
 "Unknown attribute filter type","Nieznany typ filtru cech",module,Magento_ImportExport
 Download,Pobierz,module,Magento_ImportExport
@@ -5651,7 +5651,7 @@ Rate,Stawka,module,Magento_TaxImportExport
 "Zip/Post is Range","Kod pocztowy jest zakresem",module,Magento_TaxImportExport
 "Range From","Zakres od",module,Magento_TaxImportExport
 "Range To","Zakre do",module,Magento_TaxImportExport
-"Tax Zones and Rates","Strefa podatku i cen",module,Magento_TaxImportExport
+"Tax Zones and Rates","Strefy podatku i cen",module,Magento_TaxImportExport
 "Import and Export Tax Rates","Importuj i eksportuj stawki podatków",module,Magento_TaxImportExport
 "The tax rate has been imported.","Stawka podatku została zaimportowana.",module,Magento_TaxImportExport
 "Invalid file upload attempt","Próba wgrania pliku zakończona niepowodzeniem",module,Magento_TaxImportExport
@@ -5705,7 +5705,7 @@ Sales,Sprzedaż,module,Magento_Tax
 Tax,Podatek,module,Magento_Tax
 "Manage Tax Rates","Zarządzaj stawkami podatków",module,Magento_Tax
 "New Tax Rate","Nowa stawka podatku",module,Magento_Tax
-"Tax Zones and Rates","Strefa podatku i cen",module,Magento_Tax
+"Tax Zones and Rates","Strefy podatku i cen",module,Magento_Tax
 "We can't delete this tax rate right now.","Nie można teraz usunąć tej stawki podatku.",module,Magento_Tax
 "An error occurred while loading this tax rate.","Wystąpił błąd podczas ładowania tej stawki podatku.",module,Magento_Tax
 "We can't save this rate right now.","Obecnie nie możemy zapisać tej stawki.",module,Magento_Tax
@@ -11722,7 +11722,7 @@ subscribed,subskrybowało,module,Magento_CustomerSegment
 "Open Chooser","Otwórz selektor",module,Magento_CustomerSegment
 "Date Range %1 within %2","Zakres dat od %1 do %2",module,Magento_CustomerSegment
 "If Order Addresses match %1 of these Conditions:","Jeżeli adres zamówienia pasuje do warunków %1:",module,Magento_CustomerSegment
-"Order Address Attributes","Cechy adresu zamówienia",module,Magento_CustomerSegment
+"Order Address Attributes","Aatrybuty adresu zamówienia",module,Magento_CustomerSegment
 "Order Address %1","Adres zamówienia %1",module,Magento_CustomerSegment
 "Address Type","Typ adresu",module,Magento_CustomerSegment
 "Order Address %1 a %2 Address","Zamówienia adres %1 %2 adres",module,Magento_CustomerSegment
