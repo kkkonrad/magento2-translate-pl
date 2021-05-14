@@ -23148,7 +23148,7 @@ Today,Dziś,module,Magento_Ui
                         target=""_blank"">DevDocs' Release Information</a>.
                        </p>",module,Magento_ReleaseNotification
 "Limit per cron run","Limit na uruchomienie cron",module,Magento_Sales
-"Import/Export Tax Rates","Import/eksport reguł podatków",module,Magento_TaxImportExport
+"Import/Export Tax Rates","Import/eksport stawek podatkowych",module,Magento_TaxImportExport
 Columns,Kolumny,module,Magento_Ui
 "Clear all","Wyczyść wszystko",module,Magento_Ui
 "of ","z ",module,Magento_Ui
