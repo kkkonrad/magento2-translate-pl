@@ -1377,7 +1377,7 @@ test,Test,module,Magento_Catalog
 "Could not get extension attributes","Nie można uzyskać atrybutów rozszerzenia",module,Magento_Catalog
 message,wiadomość,module,Magento_Catalog
 fl,fl,module,Magento_Catalog
-"Lock wait timeout","XXX Lock wait timeout",module,Magento_Catalog
+"Lock wait timeout","Limit czasu blokady",module,Magento_Catalog
 123,123,module,Magento_Catalog
 Images,Obrazki,module,Magento_Catalog
 Select...,Wybierz...,module,Magento_Catalog
@@ -7546,7 +7546,7 @@ Font,Czcionka,module,Dotdigitalgroup_Email
 "Please provide the link text. If no text provided then default text will be used.","Podaj tekst linku. Jeśli nie podano tekstu, zostanie użyty tekst domyślny.",module,Dotdigitalgroup_Email
 "Product Link Text","Tekst linku produktu",module,Dotdigitalgroup_Email
 Admin,Administrator,module,Dotdigitalgroup_Email
-"Disable Newsletter Success","XXX Disable Newsletter Success",module,Dotdigitalgroup_Email
+"Disable Newsletter Success","Wyłącz powiadamianie o zapisie do newslettera za pomocą e-mail",module,Dotdigitalgroup_Email
 "Disable Customer Success","Wyłącz sukces klienta",module,Dotdigitalgroup_Email
 "Catalog Sync Settings","Ustawienia synchronizacji katalogu",module,Dotdigitalgroup_Email
 "Catalog Values","Wartości katalogowe",module,Dotdigitalgroup_Email
@@ -7584,7 +7584,7 @@ Developer,Deweloper,module,Dotdigitalgroup_Email
 "Reset Wishlist Data","Zresetuj dane listy Ulubionych ",module,Dotdigitalgroup_Email
 "Reset Catalog Data","Zresetuj dane katalogu",module,Dotdigitalgroup_Email
 "Debug Mode","Tryb debugowania",module,Dotdigitalgroup_Email
-"Set the number in seconds that api calls greater will be logged.","XXX Set the number in seconds that api calls greater will be logged.",module,Dotdigitalgroup_Email
+"Set the number in seconds that api calls greater will be logged.","Ustaw liczbę sekund, o którą większe wywołania interfejsu API będą logowane.",module,Dotdigitalgroup_Email
 "Debug Api Calls Time","Debugowanie czasu połączeń API",module,Dotdigitalgroup_Email
 "OAUTH Credentials","Dane uwierzytelniające OAUTH",module,Dotdigitalgroup_Email
 "Client Id","Identyfikator klienta",module,Dotdigitalgroup_Email
@@ -9585,9 +9585,9 @@ Settings,Ustawienia,module,Magento_Theme
 "Translation Strategy","Strategia tłumaczenia",module,Magento_Translation
 Translations,Tłumaczenia,module,Magento_Translation
 "Translation files","Pliki z tłumaczeniami",module,Magento_Translation
-"Label Button 2","Etykieta Button 2",module,Magento_Ui
-"Label Actions One","Oznacz działania ",module,Magento_Ui
-"Label Actions Two","XXX Label Actions Two",module,Magento_Ui
+"Label Button 2","Etykieta przycisku 2",module,Magento_Ui
+"Label Actions One","Działania  etykiety numer jeden",module,Magento_Ui
+"Label Actions Two","Działania etykiety numer dwa",module,Magento_Ui
 "Some Dynamic Actions","Niektóre akcje dynamiczne",module,Magento_Ui
 "Log JS Errors to Session Storage","Dziennika błędów JS do przechowywania sesji",module,Magento_Ui
 "Log JS Errors to Session Storage Key","Dziennik błędów JS do przechowywania klucza sesji",module,Magento_Ui
@@ -17095,7 +17095,7 @@ Consent,Zgoda,module,Dotdigitalgroup_Email
 "Selected border color","Wybrany kolor obramowania",module,Klarna_Kp
 "Text color","Kolor tekstu",module,Klarna_Kp
 "Secondary text color","Dodatkowy kolor tekstu",module,Klarna_Kp
-"Border Radius","XXX Border Radius",module,Klarna_Kp
+"Border Radius","Zaokrąglenie obramowania",module,Klarna_Kp
 "Klarna Payments (North America)","Klarna Payments (Ameryka Północna)",module,Klarna_Kp
 "Klarna Payments (Europe)","Płatności Klarna (Europa)",module,Klarna_Kp
 "When the adapter was changed, please flush Catalog Images Cache.","Po zmianie adaptera opróżnij pamięć podręczną obrazów katalogu.",module,Magento_Backend
@@ -24151,7 +24151,7 @@ label,etykieta,module,Dotdigitalgroup_Email
 "Complete in","Ukończone w",module,Dotdigitalgroup_Email
 "Please select an Engagement Cloud sync to run","Wybierz synchronizację Engagement Cloud, aby uruchomić",module,Dotdigitalgroup_Email
 "Please select a sync","Wybierz synchronizację",module,Dotdigitalgroup_Email
-"dotdigital Engagement Cloud Dashboard","XXX dotdigital Engagement Cloud Dashboard",module,Dotdigitalgroup_Email
+"dotdigital Engagement Cloud Dashboard","Panel Dotdigital Engagement Cloud",module,Dotdigitalgroup_Email
 "Please limit Data Field Name to 20 characters.","Ogranicz nazwę pola danych do 20 znaków.",module,Dotdigitalgroup_Email
 "dotdigital Log Viewer","dotdigital Log Viewer",module,Dotdigitalgroup_Email
 "Engagement Cloud","Engagement Cloud",module,Dotdigitalgroup_Email
@@ -26282,7 +26282,7 @@ Viscose,Wiskoza,module,Magento_Sample
 "Short Sleeve","Krótki rękaw",module,Magento_Sample
 "Long Sleeve","Długi rękaw",module,Magento_Sample
 "3/4 Sleeve","Rękaw 3/4",module,Magento_Sample
-"Slim Fit","XXX Slim Fit",module,Magento_Sample
+"Slim Fit","Dopasowany fason",module,Magento_Sample
 "Wide Leg","Szerokie nogawki",module,Magento_Sample
 "Full Length","Pełna długość",module,Magento_Sample
 "Straight Leg","Noga prosta",module,Magento_Sample
@@ -29020,7 +29020,7 @@ Outset,Początek,module,Magento_PageBuilder
 "Border Color","Kolor obramowania",module,Magento_PageBuilder
 "Border Width","Szerokość obramowania",module,Magento_PageBuilder
 px,pikseli,module,Magento_PageBuilder
-"Border Radius","XXX Border Radius",module,Magento_PageBuilder
+"Border Radius","Zaokrąglenie obramowania",module,Magento_PageBuilder
 "CSS Classes","Klasy CSS",module,Magento_PageBuilder
 "Space separated list of classes.","Oddzielona spacjami lista klas.",module,Magento_PageBuilder
 "Margins and Padding","Marginesy i Paddingi",module,Magento_PageBuilder
