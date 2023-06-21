@@ -27393,7 +27393,7 @@ Locked,Zablokowane,module,Dotdigitalgroup_Email
 "'Rule validation error: attribute attribute must be of type ' .","'Błąd sprawdzania poprawności reguły: atrybut atrybutu musi być typu ' .",module,Dotdigitalgroup_Email
 "Not available",Niedostępne,module,Dotdigitalgroup_Email
 "One or more of your dotdigital automation enrolment tasks have errors: %1. ","Co najmniej jedno zadanie rejestracji dotdigital automation zawiera błędy: %1.",module,Dotdigitalgroup_Email
-"Please go to the <a href=""%1"">Automation Report</a> to review.","Please go to the <a href=""%1"">Automation Report</a> to review.",module,Dotdigitalgroup_Email
+"Please go to the <a href=""%1"">Automation Report</a> to review.","Przejdź do <a href=""%1"">Raportu automatyzacji</a>, aby się z nim zapoznać.",module,Dotdigitalgroup_Email
 "One or more of your dotdigital campaign tasks have errors: %1. ","Co najmniej jedno zadanie kampanii dotdigital zawiera błędy: %1.",module,Dotdigitalgroup_Email
 "Please go to the <a href=""%1"">Campaign Report</a> to review.","Przejdź do <a href=""%1"">raportu z kampanii</a>, aby się z nim zapoznać.",module,Dotdigitalgroup_Email
 "One or more of your dotdigital cron tasks have errors: %1. ","Co najmniej jedno zadanie cron dotdigital zawiera błędy: %1.",module,Dotdigitalgroup_Email
@@ -27489,7 +27489,7 @@ label,etykieta,module,Magento_AdobeStockImageAdminUi
 "The ""%1"" CSV handle is incorrect. Verify the handle and try again.","Handler pliku ""%1"" CSV jest niepoprawny. Sprawdź handler i spróbuj ponownie.",module,Magento_AwsS3
 "An error occurred during ""%1"" execution.","Wystąpił błąd podczas wykonywania ""%1"".",module,Magento_AwsS3
 "An error occurred during ""%1"" fileSeek execution.","Wystąpił błąd podczas ""%1"" wykonywania fileSeek",module,Magento_AwsS3
-"An error occurred during ""%1"" fileFlush execution.","An error occurred during ""%1"" fileFlush execution.",module,Magento_AwsS3
+"An error occurred during ""%1"" fileFlush execution.","Wystąpił błąd podczas wykonywania funkcji fileFlush ""%1"".",module,Magento_AwsS3
 "An error occurred during ""%1"" fileLock execution.","Wystąpił błąd podczas ""%1"" wykonywania fileLock",module,Magento_AwsS3
 "An error occurred during ""%1"" fileUnlock execution.","Wystąpił błąd podczas wykonywania funkcji fileUnlock ""%1"".",module,Magento_AwsS3
 "Bucket and region are required values","Bucket i region to wymagane wartości",module,Magento_AwsS3
@@ -27787,7 +27787,7 @@ Cancel,Anuluj,module,Magento_MediaGalleryUi
 "You have successfully removed the folder.","Pomyślnie usunąłeś folder.",module,Magento_MediaGalleryUi
 "An error occurred on attempt to remove folder.","Wystąpił błąd podczas próby usunięcia folderu.",module,Magento_MediaGalleryUi
 "Retrieving directories list failed.","Pobieranie listy katalogów nie powiodło się.",module,Magento_MediaGalleryUi
-"Image Ids are required and must be of type array.","Image Ids are required and must be of type array.",module,Magento_MediaGalleryUi
+"Image Ids are required and must be of type array.","Identyfikatory obrazów są wymagane i muszą być typu tablica.",module,Magento_MediaGalleryUi
 "The asset ""%title"" has been successfully deleted.","Zasób ""%title"" został pomyślnie usunięty.",module,Magento_MediaGalleryUi
 "%count assets have been successfully deleted.","%count zasobów zostało pomyślnie usuniętych.",module,Magento_MediaGalleryUi
 "An error occurred on attempt to delete image.","Wystąpił błąd podczas próby usunięcia obrazu.",module,Magento_MediaGalleryUi
@@ -27845,7 +27845,7 @@ Save,Zapisz,module,Magento_MediaGalleryUi
 "Sorry, something went wrong during image resize. Please see log for details.","Przepraszamy, coś poszło nie tak podczas zmiany rozmiaru obrazu. Szczegółowe informacje znajdują się w logach.",module,Magento_MediaStorage
 "File validation failed.","Weryfikacja pliku nie powiodła się.",module,Magento_MediaStorage
 "Path ""%value%"" may not include parent directory traversal (""../"", ""..\).""","Ścieżka ""%value%"" może nie obejmować przechodzenia przez katalog nadrzędny (""../"", ""..\).""",module,Magento_MediaStorage
-"Image resize: %1","Image resize: %1",module,Magento_MediaStorage
+"Image resize: %1","Zmiana rozmiaru obrazu: %1",module,Magento_MediaStorage
 "Quote address for failed order ID ""%1"" not found.","Przytaczany adres dla nieudanego zamówienia o ID ""%1"" nie znaleziony.",module,Magento_Multishipping
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Integracja New Relic wymaga agenta newrelic-php5, który nie jest zainstalowany. Więcej
@@ -27939,7 +27939,7 @@ Flex,Flex,module,Magento_Paypal
 "The product that was requested doesn't exist. Verify the product and try again.","Żądany produkt nie istnieje. Sprawdź produkt i spróbuj ponownie.",module,Magento_QuoteGraphQl
 "Could not create empty cart for customer","Nie można utworzyć pustego koszyka dla klienta",module,Magento_QuoteGraphQl
 "The parameter ""destination_cart_id"" cannot be empty","Parametr ""destination_cart_id"" nie może być pusty",module,Magento_QuoteGraphQl
-"The cart doesn't contain the item","The cart doesn't contain the item",module,Magento_QuoteGraphQl
+"The cart doesn't contain the item","Koszyk nie zawiera przedmiotu",module,Magento_QuoteGraphQl
 Error,Błąd,module,Magento_QuoteGraphQl
 "The product quantity should be greater than 0","Ilość produktu powinna być większa niż 0",module,Magento_Quote
 "Could not find a product with SKU ""%sku""","Nie można znaleźć produktu z SKU ""%sku""",module,Magento_Quote
@@ -28009,7 +28009,7 @@ Used,Wykorzystane,module,Magento_SalesRule
 " --Please Select--"," -- Prosimy wybrać --",module,Magento_Search
 modal_title_text,modal_title_text,module,Magento_Security
 "Expiration Date","Data ważności",module,Magento_Security
-"""%1"" must be later than the current date.","""%1"" must be later than the current date.",module,Magento_Security
+"""%1"" must be later than the current date.","""%1"" musi być późniejsza niż bieżąca data.",module,Magento_Security
 """%1"" is not a valid date.","""%1"" nie jest prawidłową datą.",module,Magento_Security
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Błędne logowanie do konta lub konto zostało czasowo zablokowane. Proszę poczekać i spróbować później.",module,Magento_Security
 Warning,Ostrzeżenie,module,Magento_Security
@@ -28212,7 +28212,7 @@ Delete,Usuń,module,PayPal_Braintree
 "Sorry, but something went wrong","Przepraszamy, coś poszło nie tak",module,PayPal_BraintreeGraphQl
 "Validate address","Potwierdź adres",module,Vertex_AddressValidation
 "Update address","Uaktualnij adres",module,Vertex_AddressValidation
-"Address Cleanser is not configured properly.  Could not lookup address","Address Cleanser is not configured properly.  Could not lookup address",module,Vertex_AddressValidation
+"Address Cleanser is not configured properly.  Could not lookup address","Oczyszczanie adresów nie jest poprawnie skonfigurowane. Nie można wyszukać adresu",module,Vertex_AddressValidation
 "'Invalid request. ' .","'Nieprawidłowe żądanie. ' .",module,Vertex_AddressValidation
 "Quote not found","Nie znaleziono cytatu",module,Vertex_AddressValidation
 "Validate &amp; Save","Potwierdź i zapisz",module,Vertex_AddressValidation
@@ -28238,7 +28238,7 @@ N/A,N/D,module,Vertex_Tax
 "Unable to delete Commodity Code","Nie można usunąć kodu towaru",module,Vertex_Tax
 "Unable to save Commodity Code","Nie można zapisać kodu towaru",module,Vertex_Tax
 "Unable to delete Customer Country","Nie można usunąć kraju klienta",module,Vertex_Tax
-"Unable to save Customer Country","Unable to save Customer Country",module,Vertex_Tax
+"Unable to save Customer Country","Nie można zapisać kraju klienta",module,Vertex_Tax
 "Unable to delete Vat Country Code","Nie można usunąć kodu kraju VAT",module,Vertex_Tax
 "Unable to save Vat Country Code","Nie można zapisać kodu VAT kraju ",module,Vertex_Tax
 "Commodity Code","Kod towaru",module,Vertex_Tax
@@ -28329,9 +28329,9 @@ Title,Tytuł,module,Magento_MediaGalleryUi
 "Grid Size","Wielkość siatki",module,Magento_PageBuilder
 "Grid size determines the maximum number of columns available.","Rozmiar siatki określa maksymalną liczbę dostępnych kolumn.",module,Magento_PageBuilder
 "Select a value between 2 and","Wybierz wartość pomiędzy 2 i",module,Magento_PageBuilder
-"Empty Column","Empty Column",module,Magento_PageBuilder
+"Empty Column","Pusta kolumna",module,Magento_PageBuilder
 "Edit Heading Text","Edytuj tekst nagłówka",module,Magento_PageBuilder
-"Enter HTML, CSS or JavaScript code","Enter HTML, CSS or JavaScript code",module,Magento_PageBuilder
+"Enter HTML, CSS or JavaScript code","Wprowadź kod HTML, CSS lub JavaScript",module,Magento_PageBuilder
 "Drag Row, Columns, Tabs, Block, Dynamic Block or HTML Code here","Przeciągnij tutaj wiersz, kolumny, zakładki, blok, blok dynamiczny lub kod HTML",module,Magento_PageBuilder
 "Drag content types or columns here","Przeciągnij tutaj typy zawartości lub kolumny",module,Magento_PageBuilder
 "Edit Slide Text","Edytuj tekst slajdu",module,Magento_PageBuilder
@@ -28422,7 +28422,7 @@ Months,Miesiące,module,PayPal_Braintree
 "Routing Number","Numer rozliczeniowy",module,PayPal_Braintree
 "Account Number","Numer konta",module,PayPal_Braintree
 "Account Type","Typ konta",module,PayPal_Braintree
-"Ownership Type","Ownership Type",module,PayPal_Braintree
+"Ownership Type","Typ własności",module,PayPal_Braintree
 "First Name",Imię,module,PayPal_Braintree
 "Last Name",Nazwisko,module,PayPal_Braintree
 "Business Name","Nazwa firmy",module,PayPal_Braintree
@@ -28599,7 +28599,7 @@ GT,GT,module,Kkkonrad_Translate29
 "Replace Details","Zamień szczegóły",module,Kkkonrad_Translate29
 From,Od,module,Kkkonrad_Translate29
 To,Do,module,Kkkonrad_Translate29
-"Transactional SMS","Transactional SMS",module,Dotdigitalgroup_Sms
+"Transactional SMS","Transakcyjne SMS-y",module,Dotdigitalgroup_Sms
 "Transactional SMS Settings","Ustawienia SMSów transakcyjnych",module,Dotdigitalgroup_Sms
 Enabled,Włączone,module,Dotdigitalgroup_Sms
 "Manage account","Zarządzaj kontem",module,Dotdigitalgroup_Sms
@@ -28961,7 +28961,7 @@ Continuous,Ciągły,module,Magento_PageBuilder
 "Maximum grid size determines the maximum amount of columns available.","Maksymalny rozmiar siatki określa maksymalną liczbę dostępnych kolumn.",module,Magento_PageBuilder
 Banner,Baner,module,Magento_PageBuilder
 "Insert Images...","Wstaw obrazy ...",module,Magento_PageBuilder
-Button,Button,module,Magento_PageBuilder
+Button,Przycisk,module,Magento_PageBuilder
 Buttons,Przyciski,module,Magento_PageBuilder
 Column,Kolumna,module,Magento_PageBuilder
 "Column Group","Grupa kolumn",module,Magento_PageBuilder
@@ -28986,7 +28986,7 @@ Appearance,Wygląd,module,Magento_PageBuilder
 Content,Zawartość,module,Magento_PageBuilder
 "Message Text","Wiadomość tekstowa",module,Magento_PageBuilder
 Link,Odnośnik,module,Magento_PageBuilder
-"Show Button","Show Button",module,Magento_PageBuilder
+"Show Button","Pokaż przycisk",module,Magento_PageBuilder
 Always,Zawsze,module,Magento_PageBuilder
 "On Hover","Po najechaniu (On Hover)",module,Magento_PageBuilder
 "Never Show","Nigdy nie pokazuj",module,Magento_PageBuilder
@@ -28994,7 +28994,7 @@ Always,Zawsze,module,Magento_PageBuilder
 "Button Type","Typ przycisku",module,Magento_PageBuilder
 Primary,podstawowy,module,Magento_PageBuilder
 Secondary,Drugorzędny,module,Magento_PageBuilder
-"Show Overlay","Show Overlay",module,Magento_PageBuilder
+"Show Overlay","Pokaż nakładkę",module,Magento_PageBuilder
 "Overlay Color","Kolor nakładki",module,Magento_PageBuilder
 "No Color","Brak koloru",module,Magento_PageBuilder
 "
@@ -29017,7 +29017,7 @@ Groove,Groove,module,Magento_PageBuilder
 Ridge,Grzbiet,module,Magento_PageBuilder
 Inset,Okienko,module,Magento_PageBuilder
 Outset,Początek,module,Magento_PageBuilder
-"Border Color","Border Color",module,Magento_PageBuilder
+"Border Color","Kolor obramowania",module,Magento_PageBuilder
 "Border Width","Szerokość obramowania",module,Magento_PageBuilder
 px,pikseli,module,Magento_PageBuilder
 "Border Radius","XXX Border Radius",module,Magento_PageBuilder
@@ -29045,7 +29045,7 @@ Fixed,Stała,module,Magento_PageBuilder
 "Background Type","Typ tła",module,Magento_PageBuilder
 "Video URL","Wideo URL",module,Magento_PageBuilder
 "Video URLs can be links to videos on YouTube or Vimeo, or HTTP(S) links to files with valid video extensions (we recommend .mp4)","Adresy URL filmów mogą być linkami do filmów na YouTube lub Vimeo lub linkami HTTP(S) do plików z prawidłowymi rozszerzeniami wideo (zalecamy .mp4)",module,Magento_PageBuilder
-"Infinite Loop","Infinite Loop",module,Magento_PageBuilder
+"Infinite Loop","Nieskończona pętla",module,Magento_PageBuilder
 "Lazy Load","Leniwe ładowanie",module,Magento_PageBuilder
 "Preload video only when it is visible on the screen.","Wstępnie ładuj wideo tylko wtedy, gdy jest widoczne na ekranie.",module,Magento_PageBuilder
 "Play Only When Visible","Odtwórz tylko wtedy, gdy jest widoczny",module,Magento_PageBuilder
@@ -29109,7 +29109,7 @@ ms,ms,module,Magento_PageBuilder
 "Select Products By","Wybierz produkty wg",module,Magento_PageBuilder
 Category,Kategoria,module,Magento_PageBuilder
 SKU,SKU,module,Magento_PageBuilder
-"Product SKUs","Product SKUs",module,Magento_PageBuilder
+"Product SKUs","SKU produktów",module,Magento_PageBuilder
 "Comma separated product SKUs.","Kody SKU produktu oddzielone przecinkami.",module,Magento_PageBuilder
 "Sort By","Sortuj wg",module,Magento_PageBuilder
 "
@@ -29490,7 +29490,7 @@ Logging,Rejestrowanie,module,Vertex_RequestLogging
                     This should be a parameter that is configurable to data from the host system based on an individual company's legal and tax requirements.","Interfejs użytkownika Vertex TaxCentral służy do konfigurowania reguł opodatkowania obowiązujących na tym
                     poziomie. Powinien to być parametr konfigurowalny dla danych z systemu hosta w oparciu o wymagania prawne i podatkowe danej firmy.",module,Vertex_Tax
 "The locationCode attribute on the line item represents the store location code that is used for returns filing","Atrybut locationCode w pozycji pojedynczej reprezentuje kod lokalizacji sklepu, który jest używany do wypełniania zwrotów",module,Vertex_Tax
-"Use Shipping Origin as Source","Use Shipping Origin as Source",module,Vertex_Tax
+"Use Shipping Origin as Source","Użyj źródła wysyłki jako źródła",module,Vertex_Tax
 "Use the address information defined in Sales &gt; Shipping &gt; Origin.  Selecting No allows you to configure the Vertex Seller address separately from the shipping origin.","Użyj informacji adresowych zdefiniowanych w Sprzedaż > Wysyłka > Miejsce pochodzenia. Wybranie opcji Nie umożliwia skonfigurowanie adresu sprzedawcy Vertex niezależnie od pochodzenia wysyłki.",module,Vertex_Tax
 "Street Address","Ulica, nr budynku, nr mieszkania (opcjonalnie)",module,Vertex_Tax
 "The first line of the street address.","Pierwsza linia adresu ulicy.",module,Vertex_Tax
@@ -29521,7 +29521,7 @@ Performance,Wydajność,module,Vertex_Tax
 "Adobe Sign-In is disabled.","Adobe Sign-In jest wyłączony.",module,Magento_AdminAdobeIms
 "Authorization was successful","Autoryzacja powiodła się",module,Magento_AdminAdobeIms
 "Invalid state returned from IMS","Niepoprawny stan zwrócony z IMS",module,Magento_AdminAdobeIms
-"Could not connect to Adobe IMS Service: %1.","Could not connect to Adobe IMS Service: %1.",module,Magento_AdminAdobeIms
+"Could not connect to Adobe IMS Service: %1.","Nie można połączyć się z usługą Adobe IMS: %1.",module,Magento_AdminAdobeIms
 "Could not get a valid response from Adobe IMS Service.","Nie można otrzymać poprawnej odpowiedzi z Adobe IMS Service.",module,Magento_AdminAdobeIms
 "Could not verify the access_token","Nie można zweryfikować access_token",module,Magento_AdminAdobeIms
 "Profile body is empty","Treść profilu jest pusta",module,Magento_AdminAdobeIms
@@ -29580,7 +29580,7 @@ error,błąd,module,Magento_CatalogInventory
 "We cannot create the folder under the selected directory.","Nie możemy utworzyć folderu w wybranym katalogu.",module,Magento_Cms
 "We cannot delete the selected directory.","Nie możemy usunąć wybranego katalogu.",module,Magento_Cms
 "We can't delete the file right now.","Nie możemy teraz usunąć pliku.",module,Magento_Cms
-"We can't upload the file to the current folder right now. Please try another folder.","We can't upload the file to the current folder right now. Please try another folder.",module,Magento_Cms
+"We can't upload the file to the current folder right now. Please try another folder.","Nie możemy teraz przesłać pliku do bieżącego folderu. Spróbuj użyć innego folderu.",module,Magento_Cms
 "Something went wrong while saving this configuration.","Podczas zapisywania tej konfiguracji coś poszło nie tak.",module,Magento_Config
 "Save options","Zapisz opcje",module,Magento_ConfigurableProduct
 "Filter %1 doesn't implement %2","Filtr %1 nie implementuje %2",module,Magento_ConfigurableProduct
@@ -29741,7 +29741,7 @@ SSL,SSL,module,Magento_Backend
 "Limit Number of Products in Grid","Ogranicz liczbę produktów w siatce",module,Magento_Backend
 "Limit total number of products in grid collection.","Ogranicz całkowitą liczbę produktów w kolekcji siatki.",module,Magento_Backend
 "Records Limit","Limit rekordów",module,Magento_Backend
-"Limit total number of products in grid collection if their number is greater than this value. Minimum value: 20000.","Limit total number of products in grid collection if their number is greater than this value. Minimum value: 20000.",module,Magento_Backend
+"Limit total number of products in grid collection if their number is greater than this value. Minimum value: 20000.","Ogranicz całkowitą liczbę produktów w kolekcji siatki, jeśli ich liczba jest większa niż ta wartość. Minimalna wartość: 20000.",module,Magento_Backend
 "Mass Update Attributes","Masowa aktualizacja atrybutów",module,Magento_Catalog
 "Note: Keyboard shortcut to activate editor help : Alt + 0 (Windows) or ⌥0 (MacOS)","Uwaga: Skrót klawiaturowy do aktywacji pomocy edytora : Alt + 0 (Windows) or ⌥0 (MacOS)",module,Magento_Catalog
 "Last Updated At","Ostatnio zaktualizowane o",module,Magento_Catalog
@@ -29774,7 +29774,7 @@ GraphQl,GraphQl,module,Magento_GraphQl
 "Create low quantity notification","Utwórz powiadomienie o małej ilości",module,Magento_InventoryLowQuantityNotificationApi
 "Remove low quantity notification","Usuń powiadomienie o małej ilości",module,Magento_InventoryLowQuantityNotificationApi
 "Inventory Source Selection","Wybór źródła zasobów",module,Magento_InventorySourceSelectionApi
-"Source selection algorithm result","Source selection algorithm result",module,Magento_InventorySourceSelectionApi
+"Source selection algorithm result","Wynik algorytmu wyboru źródła",module,Magento_InventorySourceSelectionApi
 "JWT Authentication","Autentykacja JWT",module,Magento_JwtUserToken
 "Algorithm to sign/encrypt JWTs used for authentication","Algorytm podpisywania/szyfrowania tokenów JWT używanych do uwierzytelniania",module,Magento_JwtUserToken
 "Selected algorithm will define JWT type used (JWS or JWE)","Wybrany algorytm określi używany typ JWT (JWS lub JWE)",module,Magento_JwtUserToken
