@@ -6941,7 +6941,7 @@ Footer,Stopka,theme,frontend/Magento/luma
 "About Us","O nas",theme,frontend/Magento/luma
 "Customer Service","Obsługa klienta",theme,frontend/Magento/luma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>",theme,frontend/Magento/luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Godziny pracy:< br / ><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Godziny pracy:<br /><span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Faktura korygująca do zamówienia %store_name",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Dziękujemy za Twoje zamówienie w %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Status zamówienia można sprawdzić po <a href=""%account_url"">zalogowaniu się do swojego konta</a>.",theme,frontend/Magento/luma
