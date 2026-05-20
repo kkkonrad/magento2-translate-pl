@@ -17574,7 +17574,7 @@ Collections,Kolekcje,module,Magento_Sample
 Training,Trening,module,Magento_Sample
 "Video Download","Film do pobrania",module,Magento_Sample
 Tops,Góry,module,Magento_Sample
-Bottoms,Doły,module,Magento_Sample
+Bottoms,"Dolne części garderoby",module,Magento_Sample
 Jackets,Kurtki,module,Magento_Sample
 "Hoodies & Sweatshirts","Bluzy i bluzy z kapturem",module,Magento_Sample
 Tees,Koszulki,module,Magento_Sample
@@ -22326,7 +22326,7 @@ Cute.,Uroczy.,module,Magento_Sample
 "Light but tight","Lekki, ale obcisły",module,Magento_Sample
 "This shirt is very light but a TIGHT fit! Almost compression-tight.","Ta koszulka jest bardzo lekka, ale BARDZO obcisła! Niemal jak odzież kompresyjna.",module,Magento_Sample
 "Looks and feels aweseom ","Wygląda i leży niesamowicie ",module,Magento_Sample
-"Really like the seams. Looks and feels awesome!","Very podobają mi się szwy. Wygląda i leży niesamowicie!",module,Magento_Sample
+"Really like the seams. Looks and feels awesome!","Bradzo podobają mi się szwy. Wygląda i leży niesamowicie!",module,Magento_Sample
 "Really close-fitting. Do not love.","Bardzo obcisła. Nie jestem zachwycony.",module,Magento_Sample
 "Not at all soft","Wcale nie jest miękka",module,Magento_Sample
 "There's a ton of other t-shirts I'd choose over this one. It's not soft at all and the fabric feels like sandpaper next to my skin-was really hoping for better.","Jest mnóstwo innych koszulek, które wybrałbym zamiast tej. Wcale nie jest miękka, a materiał w dotyku przypomina papier ścierny – naprawdę liczyłem na coś lepszego.",module,Magento_Sample
@@ -26348,7 +26348,7 @@ Cocoa,Kakao,module,Magento_Sample
 12,12,module,Magento_Sample
 Dresses,Sukienki,module,Magento_Sample
 "Fashion Accessories","Akcesoria modowe",module,Magento_Sample
-"Fashion Bottoms","Modne doły",module,Magento_Sample
+"Fashion Bottoms","Modne dolne części garderoby",module,Magento_Sample
 "Fashion Tops","Modne góry",module,Magento_Sample
 Accessories,Akcesoria,module,Magento_Sample
 Belts,Paski,module,Magento_Sample
@@ -30211,9 +30211,9 @@ Men,Mężczyźni,theme,frontend/Satoshi/hyva
 Gear,Akcesoria,theme,frontend/Satoshi/hyva
 Training,Trening,theme,frontend/Satoshi/hyva
 "Tops women","Damskie góry",theme,frontend/Satoshi/hyva
-"Bottoms women","Damskie doły",theme,frontend/Satoshi/hyva
+"Bottoms women","Damskie dolne części garderoby",theme,frontend/Satoshi/hyva
 "Tops men","Męskie góry",theme,frontend/Satoshi/hyva
-"Bottoms men","Męskie doły",theme,frontend/Satoshi/hyva
+"Bottoms men","Męskie dolne części garderoby",theme,frontend/Satoshi/hyva
 "Fitness equipment","Sprzęt fitness",theme,frontend/Satoshi/hyva
 Bags,Torby,theme,frontend/Satoshi/hyva
 Breadcrumbs,Okruszki,theme,frontend/Satoshi/hyva
@@ -32406,348 +32406,348 @@ Cart,Koszyk,module,PayPal_Braintree
 "Text Align","Wyrównanie tekstu",module,PayPal_Braintree
 "Dispute State","Status sporu",module,PayPal_Braintree
 "This is a demo store made by <a href=""https://scandiweb.com/"" tabindex=""1"" class=""hover:underline"">Scandiweb</a>","To jest sklep demonstracyjny stworzony przez <a href=""https://scandiweb.com/"" tabindex=""1"" class=""hover:underline"">Scandiweb</a>",theme,frontend/Satoshi/hyva
-"Removes only Magento-generated cache. Safe to use when refreshing outdated data.","Removes only Magento-generated cache. Safe to use when refreshing outdated data.",module,Magento_Backend
-"Clears all cache data, including shared or external cache. Use if standard cache refresh does not resolve issues.","Clears all cache data, including shared or external cache. Use if standard cache refresh does not resolve issues.",module,Magento_Backend
-"The minimum admin password length must be at least %1 characters.","The minimum admin password length must be at least %1 characters.",module,Magento_Backend
-"CAPTCHA is required.","CAPTCHA is required.",module,Magento_Captcha
+"Removes only Magento-generated cache. Safe to use when refreshing outdated data.","Usuwa tylko pamięć podręczną wygenerowaną przez Magento. Bezpieczne w użyciu podczas odświeżania nieaktualnych danych.",module,Magento_Backend
+"Clears all cache data, including shared or external cache. Use if standard cache refresh does not resolve issues.","Czyści wszystkie dane pamięci podręcznej, w tym pamięć współdzieloną lub zewnętrzną. Użyj, jeśli standardowe odświeżenie pamięci podręcznej nie rozwiązuje problemów.",module,Magento_Backend
+"The minimum admin password length must be at least %1 characters.","Minimalna długość hasła administratora musi wynosić co najmniej %1 znaków.",module,Magento_Backend
+"CAPTCHA is required.","CAPTCHA jest wymagana.",module,Magento_Captcha
 mediaUrlNotAvailable,mediaUrlNotAvailable,module,Magento_CatalogImportExport
-"Only %1 of %2 available","Only %1 of %2 available",module,Magento_CatalogInventory
-"You activated a total of %1 records.","You activated a total of %1 records.",module,Magento_CatalogRule
-"Please select a catalog price rule(s)","Please select a catalog price rule(s)",module,Magento_CatalogRule
-"You deactivated a total of %1 records.","You deactivated a total of %1 records.",module,Magento_CatalogRule
-"A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted.",module,Magento_CatalogRule
-"The rule ID is required.","The rule ID is required.",module,Magento_CatalogRule
-"Update Product Url Rewrites values","Update Product Url Rewrites values",module,Magento_CatalogUrlRewrite
-"Something went wrong while scheduling operations.","Something went wrong while scheduling operations.",module,Magento_CatalogUrlRewrite
-"Sorry, something went wrong during update synchronization. Please see log for details.","Sorry, something went wrong during update synchronization. Please see log for details.",module,Magento_CatalogUrlRewrite
-"Attribute set %1 does not exist.","Attribute set %1 does not exist.",module,Magento_Catalog
-"Invalid file path.","Invalid file path.",module,Magento_Catalog
-"Invalid quote path.","Invalid quote path.",module,Magento_Catalog
-"Invalid order path.","Invalid order path.",module,Magento_Catalog
-Ascending,Ascending,module,Magento_Catalog
-Descending,Descending,module,Magento_Catalog
-"Invalid pool type with namespace: %1","Invalid pool type with namespace: %1",module,Magento_Catalog
-"Temporary table does not exist","Temporary table does not exist",module,Magento_Catalog
-"Invalid input data format. Expected an array of prices.","Invalid input data format. Expected an array of prices.",module,Magento_Catalog
-"Could not acquire lock for SKU %1","Could not acquire lock for SKU %1",module,Magento_Catalog
-"The product with SKU ""%1"" does not exist.","The product with SKU ""%1"" does not exist.",module,Magento_Catalog
-"The product with ID ""%1"" does not exist.","The product with ID ""%1"" does not exist.",module,Magento_Catalog
-"A category cannot be assigned to one of its own descendants.","A category cannot be assigned to one of its own descendants.",module,Magento_Catalog
-"The store that was requested wasn't found.","The store that was requested wasn't found.",module,Magento_Catalog
-"Store with ID ""%1"" not found.","Store with ID ""%1"" not found.",module,Magento_Catalog
-exists,exists,module,Magento_Catalog
-bad,bad,module,Magento_Catalog
-"No such entity!","No such entity!",module,Magento_Catalog
-"Category not found","Category not found",module,Magento_Catalog
-"Invalid value of ""%1"" provided for the %2 field.","Invalid value of ""%1"" provided for the %2 field.",module,Magento_Catalog
-"The product with SKU ""' . . '"" does not exist.","The product with SKU ""' . . '"" does not exist.",module,Magento_Catalog
-"Customer not found","Customer not found",module,Magento_Catalog
-"Error getting group","Error getting group",module,Magento_Catalog
-"Use Default Order","Use Default Order",module,Magento_Catalog
-"Guest Priority – Override with guest cart quantity","Guest Priority – Override with guest cart quantity",module,Magento_Checkout
-"Customer Priority – Override with customer cart quantity","Customer Priority – Override with customer cart quantity",module,Magento_Checkout
-"Merge Quantities – Merge quantities of customer and guest cart","Merge Quantities – Merge quantities of customer and guest cart",module,Magento_Checkout
-"Test error message","Test error message",module,Magento_Checkout
-"Invalid Path","Invalid Path",module,Magento_Cms
-"CMS block contains invalid content — please review and correct the block.","CMS block contains invalid content — please review and correct the block.",module,Magento_Cms
-"CMS page contains invalid content — please review and correct the page.","CMS page contains invalid content — please review and correct the page.",module,Magento_Cms
-"Page not found","Page not found",module,Magento_Cms
-"Some localized error","Some localized error",module,Magento_Cms
-"Cannot merge a list with itself.","Cannot merge a list with itself.",module,Magento_CompareListGraphQl
-"The compare list with ID ""%list_id"" does not exist.","The compare list with ID ""%list_id"" does not exist.",module,Magento_CompareListGraphQl
-"Error setting cookie","Error setting cookie",module,Magento_CompareListGraphQl
-"Cookie size limit reached","Cookie size limit reached",module,Magento_CompareListGraphQl
-"Failed to send cookie","Failed to send cookie",module,Magento_CompareListGraphQl
-"[STORE VIEW]","[STORE VIEW]",module,Magento_ConfigurableProduct
+"Only %1 of %2 available","Dostępne tylko %1 z %2",module,Magento_CatalogInventory
+"You activated a total of %1 records.","Aktywowano łącznie %1 rekordów.",module,Magento_CatalogRule
+"Please select a catalog price rule(s)","Proszę wybrać regułę(y) cenową(e) katalogu",module,Magento_CatalogRule
+"You deactivated a total of %1 records.","Deaktywowano łącznie %1 rekordów.",module,Magento_CatalogRule
+"A total of %1 record(s) were deleted.","Łącznie usunięto %1 rekord(ów).",module,Magento_CatalogRule
+"The rule ID is required.","ID reguły jest wymagane.",module,Magento_CatalogRule
+"Update Product Url Rewrites values","Aktualizuj wartości przekierowań URL produktów",module,Magento_CatalogUrlRewrite
+"Something went wrong while scheduling operations.","Coś poszło nie tak podczas planowania operacji.",module,Magento_CatalogUrlRewrite
+"Sorry, something went wrong during update synchronization. Please see log for details.","Przepraszamy, coś poszło nie tak podczas synchronizacji aktualizacji. Więcej szczegółów znajdziesz w logach.",module,Magento_CatalogUrlRewrite
+"Attribute set %1 does not exist.","Zestaw atrybutów %1 nie istnieje.",module,Magento_Catalog
+"Invalid file path.","Nieprawidłowa ścieżka pliku.",module,Magento_Catalog
+"Invalid quote path.","Nieprawidłowa ścieżka koszyka.",module,Magento_Catalog
+"Invalid order path.","Nieprawidłowa ścieżka zamówienia.",module,Magento_Catalog
+Ascending,Rosnąco,module,Magento_Catalog
+Descending,Malejąco,module,Magento_Catalog
+"Invalid pool type with namespace: %1","Nieprawidłowy typ puli z przestrzenią nazw: %1",module,Magento_Catalog
+"Temporary table does not exist","Tabela tymczasowa nie istnieje",module,Magento_Catalog
+"Invalid input data format. Expected an array of prices.","Nieprawidłowy format danych wejściowych. Oczekiwano tablicy cen.",module,Magento_Catalog
+"Could not acquire lock for SKU %1","Nie można uzyskać blokady dla SKU %1",module,Magento_Catalog
+"The product with SKU ""%1"" does not exist.","Produkt o SKU ""%1"" nie istnieje.",module,Magento_Catalog
+"The product with ID ""%1"" does not exist.","Produkt o ID ""%1"" nie istnieje.",module,Magento_Catalog
+"A category cannot be assigned to one of its own descendants.","Kategoria nie może być przypisana do jednej ze swoich własnych podkategorii (potomków).",module,Magento_Catalog
+"The store that was requested wasn't found.","Żądany sklep nie został znaleziony.",module,Magento_Catalog
+"Store with ID ""%1"" not found.","Nie znaleziono sklepu o ID ""%1"".",module,Magento_Catalog
+exists,istnieje,module,Magento_Catalog
+bad,zły,module,Magento_Catalog
+"No such entity!","Brak takiego obiektu!",module,Magento_Catalog
+"Category not found","Nie znaleziono kategorii",module,Magento_Catalog
+"Invalid value of ""%1"" provided for the %2 field.","Podano nieprawidłową wartość ""%1"" dla pola %2.",module,Magento_Catalog
+"The product with SKU ""' . . '"" does not exist.","Produkt o SKU ""' . . '"" nie istnieje.",module,Magento_Catalog
+"Customer not found","Nie znaleziono klienta",module,Magento_Catalog
+"Error getting group","Błąd podczas pobierania grupy",module,Magento_Catalog
+"Use Default Order","Użyj domyślnego sortowania",module,Magento_Catalog
+"Guest Priority – Override with guest cart quantity","Priorytet gościa – nadpisz ilością z koszyka gościa",module,Magento_Checkout
+"Customer Priority – Override with customer cart quantity","Priorytet klienta – nadpisz ilością z koszyka zalogowanego klienta",module,Magento_Checkout
+"Merge Quantities – Merge quantities of customer and guest cart","Połącz ilości – połącz ilości z koszyka gościa i zalogowanego klienta",module,Magento_Checkout
+"Test error message","Testowy komunikat o błędzie",module,Magento_Checkout
+"Invalid Path","Nieprawidłowa ścieżka",module,Magento_Cms
+"CMS block contains invalid content — please review and correct the block.","Blok CMS zawiera nieprawidłową zawartość — sprawdź i popraw ten blok.",module,Magento_Cms
+"CMS page contains invalid content — please review and correct the page.","Strona CMS zawiera nieprawidłową zawartość — sprawdź i popraw tę stronę.",module,Magento_Cms
+"Page not found","Nie znaleziono strony",module,Magento_Cms
+"Some localized error","Błąd lokalizacji",module,Magento_Cms
+"Cannot merge a list with itself.","Nie można połączyć listy ze samą sobą.",module,Magento_CompareListGraphQl
+"The compare list with ID ""%list_id"" does not exist.","Lista porównawcza o ID ""%list_id"" nie istnieje.",module,Magento_CompareListGraphQl
+"Error setting cookie","Błąd podczas ustawiania ciasteczka",module,Magento_CompareListGraphQl
+"Cookie size limit reached","Osiągnięto limit rozmiaru ciasteczka",module,Magento_CompareListGraphQl
+"Failed to send cookie","Nie udało się wysłać ciasteczka",module,Magento_CompareListGraphQl
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_ConfigurableProduct
 Yes,Tak,module,Magento_ConfigurableProduct
 No,Nie,module,Magento_ConfigurableProduct
-Error,Error,module,Magento_Csp
-"Lock failed","Lock failed",module,Magento_Csp
-"Filesystem error","Filesystem error",module,Magento_Csp
-"Search failed","Search failed",module,Magento_Csp
-"Delete failed","Delete failed",module,Magento_Csp
-"Customer Address with the specified ID is set as default billing address and can not be deleted","Customer Address with the specified ID is set as default billing address and can not be deleted",module,Magento_CustomerGraphQl
-"Customer Address with the specified ID is set as default shipping address and can not be deleted","Customer Address with the specified ID is set as default shipping address and can not be deleted",module,Magento_CustomerGraphQl
-"Could not find an address with the specified ID","Could not find an address with the specified ID",module,Magento_CustomerGraphQl
-"Current customer does not have permission to get address with the specified ID","Current customer does not have permission to get address with the specified ID",module,Magento_CustomerGraphQl
-"Address ""uid"" value must be specified","Address ""uid"" value must be specified",module,Magento_CustomerGraphQl
-"Sharing customer group information is disabled or not configured.","Sharing customer group information is disabled or not configured.",module,Magento_CustomerGraphQl
-"Combined error message","Combined error message",module,Magento_CustomerGraphQl
-"Error 1","Error 1",module,Magento_CustomerGraphQl
-"Error 2","Error 2",module,Magento_CustomerGraphQl
-"Main message","Main message",module,Magento_CustomerGraphQl
-"Main error message","Main error message",module,Magento_CustomerGraphQl
-"Fallback message","Fallback message",module,Magento_CustomerGraphQl
-"Standard error","Standard error",module,Magento_CustomerGraphQl
-"The Date of Birth should not be greater than today.","The Date of Birth should not be greater than today.",module,Magento_CustomerImportExport
-"Invalid Phone Number. The phone number is too long. Enter no more than %1 characters.","Invalid Phone Number. The phone number is too long. Enter no more than %1 characters.",module,Magento_Customer
-"Something went wrong while logging out customer.","Something went wrong while logging out customer.",module,Magento_Customer
-"Date of Birth is invalid.","Date of Birth is invalid.",module,Magento_Customer
-"Date of Birth must be on or after %1.","Date of Birth must be on or after %1.",module,Magento_Customer
-"Date of Birth must be on or before %1.","Date of Birth must be on or before %1.",module,Magento_Customer
-"Invalid address data","Invalid address data",module,Magento_Customer
-"Invalid address","Invalid address",module,Magento_Customer
-"Unable to send mail","Unable to send mail",module,Magento_Customer
-"No such entity.","No such entity.",module,Magento_Customer
-"Original auth error","Original auth error",module,Magento_Customer
-"Incorrect CAPTCHA","Incorrect CAPTCHA",module,Magento_Customer
-"Combined error message","Combined error message",module,Magento_Customer
-"Der Vorname ist ungültig!","Der Vorname ist ungültig!",module,Magento_Customer
-"Der Nachname ist ungültig!","Der Nachname ist ungültig!",module,Magento_Customer
-"Der Vorname ist ungültig!\nDer Nachname ist ungültig!","Der Vorname ist ungültig!\nDer Nachname ist ungültig!",module,Magento_Customer
-"Test message","Test message",module,Magento_Customer
-"Error 1","Error 1",module,Magento_Customer
-"Error 2","Error 2",module,Magento_Customer
-"Main message","Main message",module,Magento_Customer
-"Main error message","Main error message",module,Magento_Customer
-"Fallback message","Fallback message",module,Magento_Customer
-"Standard error","Standard error",module,Magento_Customer
-"Session cleaning failed","Session cleaning failed",module,Magento_Customer
-"Token revocation failed","Token revocation failed",module,Magento_Customer
-"Customer not found","Customer not found",module,Magento_Customer
-"Database error","Database error",module,Magento_Customer
-"Partial sync failed for ""%1"". Error: %2","Partial sync failed for ""%1"". Error: %2",module,Magento_DataExporter
+Error,Błąd,module,Magento_Csp
+"Lock failed","Blokowanie nie powiodło się",module,Magento_Csp
+"Filesystem error","Błąd systemu plików",module,Magento_Csp
+"Search failed","Wyszukiwanie nie powiodło się",module,Magento_Csp
+"Delete failed","Usuwanie nie powiodło się",module,Magento_Csp
+"Customer Address with the specified ID is set as default billing address and can not be deleted","Adres klienta o podanym ID jest ustawiony jako domyślny adres płatności i nie może zostać usunięty",module,Magento_CustomerGraphQl
+"Customer Address with the specified ID is set as default shipping address and can not be deleted","Adres klienta o podanym ID jest ustawiony jako domyślny adres dostawy i nie może zostać usunięty",module,Magento_CustomerGraphQl
+"Could not find an address with the specified ID","Nie można odnaleźć adresu o podanym ID",module,Magento_CustomerGraphQl
+"Current customer does not have permission to get address with the specified ID","Aktualny klient nie ma uprawnień do pobrania adresu o podanym ID",module,Magento_CustomerGraphQl
+"Address ""uid"" value must be specified","Wartość ""uid"" adresu musi być określona",module,Magento_CustomerGraphQl
+"Sharing customer group information is disabled or not configured.","Udostępnianie informacji o grupie klientów jest wyłączone lub nieskonfigurowane.",module,Magento_CustomerGraphQl
+"Combined error message","Połączony komunikat o błędzie",module,Magento_CustomerGraphQl
+"Error 1","Błąd 1",module,Magento_CustomerGraphQl
+"Error 2","Błąd 2",module,Magento_CustomerGraphQl
+"Main message","Główny komunikat",module,Magento_CustomerGraphQl
+"Main error message","Główny komunikat o błędzie",module,Magento_CustomerGraphQl
+"Fallback message","Komunikat zapasowy",module,Magento_CustomerGraphQl
+"Standard error","Standardowy błąd",module,Magento_CustomerGraphQl
+"The Date of Birth should not be greater than today.","Data urodzenia nie może być późniejsza niż dzisiaj.",module,Magento_CustomerImportExport
+"Invalid Phone Number. The phone number is too long. Enter no more than %1 characters.","Nieprawidłowy numer telefonu. Numer telefonu jest za długi. Wprowadź nie więcej niż %1 znaków.",module,Magento_Customer
+"Something went wrong while logging out customer.","Coś poszło nie tak podczas wylogowywania klienta.",module,Magento_Customer
+"Date of Birth is invalid.","Data urodzenia jest nieprawidłowa.",module,Magento_Customer
+"Date of Birth must be on or after %1.","Data urodzenia musi być równa lub późniejsza niż %1.",module,Magento_Customer
+"Date of Birth must be on or before %1.","Data urodzenia musi być równa lub wcześniejsza niż %1.",module,Magento_Customer
+"Invalid address data","Nieprawidłowe dane adresowe",module,Magento_Customer
+"Invalid address","Nieprawidłowy adres",module,Magento_Customer
+"Unable to send mail","Nie można wysłać wiadomości e-mail",module,Magento_Customer
+"No such entity.","Brak takiego obiektu.",module,Magento_Customer
+"Original auth error","Oryginalny błąd autoryzacji",module,Magento_Customer
+"Incorrect CAPTCHA","Nieprawidłowa CAPTCHA",module,Magento_Customer
+"Combined error message","Połączony komunikat o błędzie",module,Magento_Customer
+"Der Vorname ist ungültig!","Imię jest nieprawidłowe!",module,Magento_Customer
+"Der Nachname ist ungültig!","Nazwisko jest nieprawidłowe!",module,Magento_Customer
+"Der Vorname ist ungültig!\nDer Nachname ist ungültig!","Imię jest nieprawidłowe!
+Nazwisko jest nieprawidłowe!",module,Magento_Customer
+"Test message","Wiadomość testowa",module,Magento_Customer
+"Error 1","Błąd 1",module,Magento_Customer
+"Error 2","Błąd 2",module,Magento_Customer
+"Main message","Główny komunikat",module,Magento_Customer
+"Main error message","Główny komunikat o błędzie",module,Magento_Customer
+"Fallback message","Komunikat zapasowy",module,Magento_Customer
+"Standard error","Standardowy błąd",module,Magento_Customer
+"Session cleaning failed","Czyszczenie sesji nie powiodło się",module,Magento_Customer
+"Token revocation failed","Cofnięcie tokenu nie powiodło się",module,Magento_Customer
+"Customer not found","Nie znaleziono klienta",module,Magento_Customer
+"Database error","Błąd bazy danych",module,Magento_Customer
+"Partial sync failed for ""%1"". Error: %2","Częściowa synchronizacja nie powiodła się dla ""%1"". Błąd: %2",module,Magento_DataExporter
 "DHL XML","DHL XML",module,Magento_Dhl
 "DHL REST","DHL REST",module,Magento_Dhl
-"The country isn't available.","The country isn't available.",module,Magento_DirectoryGraphQl
-"""%1"" entity type not set in providers","""%1"" entity type not set in providers",module,Magento_EavGraphQl
-"Admin store attribute option label ""%1"" already exists.","Admin store attribute option label ""%1"" already exists.",module,Magento_Eav
-"Admin store attribute option label '%1' already exists.","Admin store attribute option label '%1' already exists.",module,Magento_Eav
-"Content field contains restricted HTML elements. %1","Content field contains restricted HTML elements. %1",module,Magento_Email
-"Template directives are not allowed in external URLs.","Template directives are not allowed in external URLs.",module,Magento_Email
+"The country isn't available.","Kraj nie jest dostępny.",module,Magento_DirectoryGraphQl
+"""%1"" entity type not set in providers","Typ obiektu ""%1"" nie został ustawiony w dostawcach",module,Magento_EavGraphQl
+"Admin store attribute option label ""%1"" already exists.","Etykieta opcji atrybutu sklepu administratora ""%1"" już istnieje.",module,Magento_Eav
+"Admin store attribute option label '%1' already exists.","Etykieta opcji atrybutu sklepu administratora '%1' już istnieje.",module,Magento_Eav
+"Content field contains restricted HTML elements. %1","Pole zawartości zawiera zabronione elementy HTML. %1",module,Magento_Email
+"Template directives are not allowed in external URLs.","Dyrektywy szablonu nie są dozwolone w zewnętrznych adresach URL.",module,Magento_Email
 "International Priority Express","International Priority Express",module,Magento_Fedex
-First,First,module,Magento_Fedex
-Priority,Priority,module,Magento_Fedex
+First,Pierwsza,module,Magento_Fedex
+Priority,Priorytet,module,Magento_Fedex
 "Priority Express","Priority Express",module,Magento_Fedex
 "Priority Express Freight","Priority Express Freight",module,Magento_Fedex
 "Priority Freight","Priority Freight",module,Magento_Fedex
 "Economy Select","Economy Select",module,Magento_Fedex
-"Request body is too large.","Request body is too large.",module,Magento_GraphQl
-"Export file was not created.","Export file was not created.",module,Magento_ImportExport
-"Source file copying failed","Source file copying failed",module,Magento_ImportExport
-"Could not delete source ""%1"": %2","Could not delete source ""%1"": %2",module,Magento_InventoryAdminUi
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_InventoryAdminUi
-"A total of %1 source(s) skipped: Default Source cannot be deleted.","A total of %1 source(s) skipped: Default Source cannot be deleted.",module,Magento_InventoryAdminUi
-"A total of %1 source(s) skipped: assigned to Stock. Unassign first.","A total of %1 source(s) skipped: assigned to Stock. Unassign first.",module,Magento_InventoryAdminUi
-"A total of %1 source(s) skipped: has Source Items. Remove them first.","A total of %1 source(s) skipped: has Source Items. Remove them first.",module,Magento_InventoryAdminUi
-error,error,module,Magento_InventoryGraphQl
-"Only %1 of %2 available","Only %1 of %2 available",module,Magento_InventorySales
-"Could not acquire inventory lock for SKU: %1. Please try again.","Could not acquire inventory lock for SKU: %1. Please try again.",module,Magento_InventorySales
-"Consumer ""%1"" has max-messages=%2 which exceeds the configured default (%3). This may probably cause high memory usage or long processing times.","Consumer ""%1"" has max-messages=%2 which exceeds the configured default (%3). This may probably cause high memory usage or long processing times.",module,Magento_MessageQueue
-"v2 REST (Legacy)","v2 REST (Legacy)",module,Magento_NewRelicReporting
-"NerdGraph (GraphQL) - Recommended","NerdGraph (GraphQL) - Recommended",module,Magento_NewRelicReporting
-"Test Exception","Test Exception",module,Magento_NewRelicReporting
-"Website not found","Website not found",module,Magento_Newsletter
+"Request body is too large.","Treść żądania jest zbyt duża.",module,Magento_GraphQl
+"Export file was not created.","Plik eksportu nie został utworzony.",module,Magento_ImportExport
+"Source file copying failed","Kopiowanie pliku źródłowego nie powiodło się",module,Magento_ImportExport
+"Could not delete source ""%1"": %2","Nie można usunąć źródła ""%1"": %2",module,Magento_InventoryAdminUi
+"A total of %1 record(s) have been deleted.","Łącznie usunięto %1 rekord(ów).",module,Magento_InventoryAdminUi
+"A total of %1 source(s) skipped: Default Source cannot be deleted.","Pominięto łącznie %1 źródło(a): Źródło domyślne (Default Source) nie może zostać usunięte.",module,Magento_InventoryAdminUi
+"A total of %1 source(s) skipped: assigned to Stock. Unassign first.","Pominięto łącznie %1 źródło(a): przypisane do magazynu (Stock). Odznacz najpierw przypisanie.",module,Magento_InventoryAdminUi
+"A total of %1 source(s) skipped: has Source Items. Remove them first.","Pominięto łącznie %1 źródło(a): posiada pozycje źródłowe (Source Items). Usuń je najpierw.",module,Magento_InventoryAdminUi
+error,błąd,module,Magento_InventoryGraphQl
+"Only %1 of %2 available","Dostępne tylko %1 z %2",module,Magento_InventorySales
+"Could not acquire inventory lock for SKU: %1. Please try again.","Nie można uzyskać blokady zapasów dla SKU: %1. Proszę spróbować ponownie.",module,Magento_InventorySales
+"Consumer ""%1"" has max-messages=%2 which exceeds the configured default (%3). This may probably cause high memory usage or long processing times.","Konsument ""%1"" ma ustawioną wartość max-messages=%2, która przekracza skonfigurowaną wartość domyślną (%3). Może to spowodować wysokie zużycie pamięci lub długi czas przetwarzania.",module,Magento_MessageQueue
+"v2 REST (Legacy)","v2 REST (starsza wersja)",module,Magento_NewRelicReporting
+"NerdGraph (GraphQL) - Recommended","NerdGraph (GraphQL) - zalecane",module,Magento_NewRelicReporting
+"Test Exception","Wyjątek testowy",module,Magento_NewRelicReporting
+"Website not found","Nie znaleziono witryny",module,Magento_Newsletter
 "Access List value ""%1"" is not valid because of item ""%2"".
-                                  Please use only IP addresses and host names.","Access List value ""%1"" is not valid because of item ""%2"".
-                                  Please use only IP addresses and host names.",module,Magento_PageCache
-"Unable to retrieve Payments JS SDK from any of the configured URLs.","Unable to retrieve Payments JS SDK from any of the configured URLs.",module,Magento_PaymentServicesBase
+                                  Please use only IP addresses and host names.","Wartość listy dostępu ""%1"" jest nieprawidłowa z powodu elementu ""%2"".
+                                  Używaj wyłącznie adresów IP i nazw hostów.",module,Magento_PageCache
+"Unable to retrieve Payments JS SDK from any of the configured URLs.","Nie można pobrać pakietu Payments JS SDK z żadnego ze skonfigurowanych adresów URL.",module,Magento_PaymentServicesBase
 Bancontact,Bancontact,module,Magento_PaymentServicesPaypal
 BLIK,BLIK,module,Magento_PaymentServicesPaypal
 eps,eps,module,Magento_PaymentServicesPaypal
 iDEAL,iDEAL,module,Magento_PaymentServicesPaypal
 MyBank,MyBank,module,Magento_PaymentServicesPaypal
 Przelewy24,Przelewy24,module,Magento_PaymentServicesPaypal
-"Missing invoice field in IPN request.","Missing invoice field in IPN request.",module,Magento_Paypal
-"[STORE VIEW]","[STORE VIEW]",module,Magento_ProductVideo
-[GLOBAL],[GLOBAL],module,Magento_ProductVideo
-[WEBSITE],[WEBSITE],module,Magento_ProductVideo
-"Use Default Value","Use Default Value",module,Magento_ProductVideo
+"Missing invoice field in IPN request.","Brak pola faktury w żądaniu IPN.",module,Magento_Paypal
+"[STORE VIEW]","[WIDOK SKLEPU]",module,Magento_ProductVideo
+[GLOBAL],[GLOBALNIE],module,Magento_ProductVideo
+[WEBSITE],[WITRYNA],module,Magento_ProductVideo
+"Use Default Value","Użyj domyślnej wartości",module,Magento_ProductVideo
 Yes,Tak,module,Magento_ProductVideo
 No,Nie,module,Magento_ProductVideo
-"Use Default Order","Use Default Order",module,Magento_ProductVideo
-"Required parameter ""uid"" is missing.","Required parameter ""uid"" is missing.",module,Magento_QuoteCommerceCeGraphQl
-"The shipping address must contain either ""customer_address_id"" or ""customer_address_uid"" or ""address"".","The shipping address must contain either ""customer_address_id"" or ""customer_address_uid"" or ""address"".",module,Magento_QuoteGraphQl
-"The shipping address cannot contain ""customer_address_id"" or ""customer_address_uid"" together with ""address"".","The shipping address cannot contain ""customer_address_id"" or ""customer_address_uid"" together with ""address"".",module,Magento_QuoteGraphQl
-"The billing address must contain either ""customer_address_id"", ""customer_address_uid"", ""address"", or ""same_as_shipping"".","The billing address must contain either ""customer_address_id"", ""customer_address_uid"", ""address"", or ""same_as_shipping"".",module,Magento_QuoteGraphQl
-"The billing address cannot contain ""customer_address_id"" or ""customer_address_uid"" together with ""address"".","The billing address cannot contain ""customer_address_id"" or ""customer_address_uid"" together with ""address"".",module,Magento_QuoteGraphQl
-"A server error stopped your order from being placed. Please try to place your order again","A server error stopped your order from being placed. Please try to place your order again",module,Magento_QuoteGraphQl
-"The requested Payment Method is not available.","The requested Payment Method is not available.",module,Magento_QuoteGraphQl
-"The shipping method is missing. Select the shipping method and try again","The shipping method is missing. Select the shipping method and try again",module,Magento_QuoteGraphQl
+"Use Default Order","Użyj domyślnego sortowania",module,Magento_ProductVideo
+"Required parameter ""uid"" is missing.","Brak wymaganego parametru ""uid"".",module,Magento_QuoteCommerceCeGraphQl
+"The shipping address must contain either ""customer_address_id"" or ""customer_address_uid"" or ""address"".","Adres dostawy musi zawierać ""customer_address_id"", ""customer_address_uid"" lub ""address"".",module,Magento_QuoteGraphQl
+"The shipping address cannot contain ""customer_address_id"" or ""customer_address_uid"" together with ""address"".","Adres dostawy nie może zawierać jednocześnie ""customer_address_id"" lub ""customer_address_uid"" oraz ""address"".",module,Magento_QuoteGraphQl
+"The billing address must contain either ""customer_address_id"", ""customer_address_uid"", ""address"", or ""same_as_shipping"".","Adres płatności musi zawierać ""customer_address_id"", ""customer_address_uid"", ""address"" lub ""same_as_shipping"".",module,Magento_QuoteGraphQl
+"The billing address cannot contain ""customer_address_id"" or ""customer_address_uid"" together with ""address"".","Adres płatności nie może zawierać jednocześnie ""customer_address_id"" lub ""customer_address_uid"" oraz ""address"".",module,Magento_QuoteGraphQl
+"A server error stopped your order from being placed. Please try to place your order again","Błąd serwera uniemożliwił złożenie zamówienia. Proszę spróbować złożyć zamówienie ponownie",module,Magento_QuoteGraphQl
+"The requested Payment Method is not available.","Żądana metoda płatności jest niedostępna.",module,Magento_QuoteGraphQl
+"The shipping method is missing. Select the shipping method and try again","Brak metody dostawy. Wybierz metodę dostawy i spróbuj ponownie",module,Magento_QuoteGraphQl
 test,test,module,Magento_QuoteGraphQl
-"The %1 address contains invalid data: %2","The %1 address contains invalid data: %2",module,Magento_Quote
-"Product not found","Product not found",module,Magento_Review
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_SalesGraphQl
-"""model"" value should be specified","""model"" value should be specified",module,Magento_SalesRuleGraphQl
+"The %1 address contains invalid data: %2","Adres %1 zawiera nieprawidłowe dane: %2",module,Magento_Quote
+"Product not found","Nie znaleziono produktu",module,Magento_Review
+"Sorry, there has been an error processing your request. Please try again later.","Przepraszamy, wystąpił błąd podczas przetwarzania Twojego żądania. Spróbuj ponownie później.",module,Magento_SalesGraphQl
+"""model"" value should be specified","wartość ""model"" powinna być określona",module,Magento_SalesRuleGraphQl
 "%1 %2","%1 %2",module,Magento_SalesRule
-"Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field.",module,Magento_SalesRule
-"Credit memo emails are disabled for this store. No email was sent.","Credit memo emails are disabled for this store. No email was sent.",module,Magento_Sales
-"Invoice emails are disabled for this store. No email was sent.","Invoice emails are disabled for this store. No email was sent.",module,Magento_Sales
-"Order emails are disabled for this store. No email was sent.","Order emails are disabled for this store. No email was sent.",module,Magento_Sales
-"Empty main table name","Empty main table name",module,Magento_Sales
-"Online refund amount must be greater than zero.","Online refund amount must be greater than zero.",module,Magento_Sales
-"Please provide billing address for the order.","Please provide billing address for the order.",module,Magento_Sales
-"Test localized exception","Test localized exception",module,Magento_Sales
-"Product not found","Product not found",module,Magento_Sales
-"No such entity","No such entity",module,Magento_Sales
-"Add to the new order","Add to the new order",module,Magento_Sales
-"Shipment emails are disabled for this store. No email was sent.","Shipment emails are disabled for this store. No email was sent.",module,Magento_Shipping
-Standard,Standard,module,Magento_Sitemap
-"Batch (Memory Optimized)","Batch (Memory Optimized)",module,Magento_Sitemap
-"We can't save the cron expression.","We can't save the cron expression.",module,Magento_Sitemap
-"The website with code %1 that was requested wasn't found. Verify the website and try again.","The website with code %1 that was requested wasn't found. Verify the website and try again.",module,Magento_Store
-"The website with id %1 that was requested wasn't found. Verify the website and try again.","The website with id %1 that was requested wasn't found. Verify the website and try again.",module,Magento_Store
-"not found","not found",module,Magento_Store
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Tax
-"A total of %1 record(s) haven't been deleted. Please see server logs for more details.","A total of %1 record(s) haven't been deleted. Please see server logs for more details.",module,Magento_Tax
-"How do you want to verify identity?","How do you want to verify identity?",module,Magento_TwoFactorAuth
-"Use already configured 2FA provider?","Use already configured 2FA provider?",module,Magento_TwoFactorAuth
-"Send me a link via email","Send me a link via email",module,Magento_TwoFactorAuth
-"You need to verify identity in order to proceed to configure new Two-Factor Authorization","You need to verify identity in order to proceed to configure new Two-Factor Authorization",module,Magento_TwoFactorAuth
+"Invalid value of ""%value"" provided for the %fieldName field.","Podano nieprawidłową wartość ""%value"" dla pola %fieldName.",module,Magento_SalesRule
+"Credit memo emails are disabled for this store. No email was sent.","E-maile z korektami faktury są wyłączone dla tego sklepu. Nie wysłano e-maila.",module,Magento_Sales
+"Invoice emails are disabled for this store. No email was sent.","E-maile z fakturami są wyłączone dla tego sklepu. Nie wysłano e-maila.",module,Magento_Sales
+"Order emails are disabled for this store. No email was sent.","E-maile z zamówieniami są wyłączone dla tego sklepu. Nie wysłano e-maila.",module,Magento_Sales
+"Empty main table name","Pusta nazwa tabeli głównej",module,Magento_Sales
+"Online refund amount must be greater than zero.","Kwota zwrotu online musi być większa od zera.",module,Magento_Sales
+"Please provide billing address for the order.","Proszę podać adres płatności dla zamówienia.",module,Magento_Sales
+"Test localized exception","Testowy wyjątek lokalizacji",module,Magento_Sales
+"Product not found","Nie znaleziono produktu",module,Magento_Sales
+"No such entity","Brak takiego obiektu",module,Magento_Sales
+"Add to the new order","Dodaj do nowego zamówienia",module,Magento_Sales
+"Shipment emails are disabled for this store. No email was sent.","E-maile z wysyłkami są wyłączone dla tego sklepu. Nie wysłano e-maila.",module,Magento_Shipping
+Standard,Standardowy,module,Magento_Sitemap
+"Batch (Memory Optimized)","Wsadowy (zoptymalizowany pod kątem pamięci)",module,Magento_Sitemap
+"We can't save the cron expression.","Nie można zapisać wyrażenia cron.",module,Magento_Sitemap
+"The website with code %1 that was requested wasn't found. Verify the website and try again.","Żądana witryna o kodzie %1 nie została znaleziona. Zweryfikuj witrynę i spróbuj ponownie.",module,Magento_Store
+"The website with id %1 that was requested wasn't found. Verify the website and try again.","Żądana witryna o ID %1 nie została znaleziona. Zweryfikuj witrynę i spróbuj ponownie.",module,Magento_Store
+"not found","nie znaleziono",module,Magento_Store
+"A total of %1 record(s) have been deleted.","Łącznie usunięto %1 rekord(ów).",module,Magento_Tax
+"A total of %1 record(s) haven't been deleted. Please see server logs for more details.","Łącznie %1 rekord(ów) nie zostało usuniętych. Sprawdź logi serwera po więcej szczegółów.",module,Magento_Tax
+"How do you want to verify identity?","Jak chcesz zweryfikować tożsamość?",module,Magento_TwoFactorAuth
+"Use already configured 2FA provider?","Użyć już skonfigurowanego dostawcy 2FA?",module,Magento_TwoFactorAuth
+"Send me a link via email","Wyślij mi link przez e-mail",module,Magento_TwoFactorAuth
+"You need to verify identity in order to proceed to configure new Two-Factor Authorization","Musisz zweryfikować tożsamość, aby przejść do konfiguracji nowej autoryzacji dwuskładnikowej (Two-Factor Authorization)",module,Magento_TwoFactorAuth
 EPS,EPS,module,Magento_Usps
 PERMIT,PERMIT,module,Magento_Usps
-Commercial,Commercial,module,Magento_Usps
-Retail,Retail,module,Magento_Usps
+Commercial,Komercyjne,module,Magento_Usps
+Retail,Detaliczna,module,Magento_Usps
 "USPS Web Tools API","USPS Web Tools API",module,Magento_Usps
 "USPS Rest APIs","USPS Rest APIs",module,Magento_Usps
 "We couldn't connect to USPS at the moment.
-                 Please try again shortly.","We couldn't connect to USPS at the moment.
-                 Please try again shortly.",module,Magento_Usps
-"An error occurred while processing your request.","An error occurred while processing your request.",module,Magento_Usps
+                 Please try again shortly.","W tej chwili nie możemy połączyć się z USPS.
+                 Spróbuj ponownie za chwilę.",module,Magento_Usps
+"An error occurred while processing your request.","Wystąpił błąd podczas przetwarzania Twojego żądania.",module,Magento_Usps
 "Each type of goods in the shipment under certain value or less according to the
                         <a href=""%1"" target=""_blank"">Schedule B Export Codes</a>
                         and the shipment must not require an export license. If any item exceeds this value,
                         an export license is required. A shipment (regardless of value) is going to Canada and does not
                         require an export license. Users may enter <b>%2</b> in the AESITN field if the shipment value
-                        meets the exemption criteria. Please contact USPS for more information.","Each type of goods in the shipment under certain value or less according to the
-                        <a href=""%1"" target=""_blank"">Schedule B Export Codes</a>
-                        and the shipment must not require an export license. If any item exceeds this value,
-                        an export license is required. A shipment (regardless of value) is going to Canada and does not
-                        require an export license. Users may enter <b>%2</b> in the AESITN field if the shipment value
-                        meets the exemption criteria. Please contact USPS for more information.",module,Magento_Usps
-"The package dimensions are invalid. The package %1 must be greater than or equal to %2 inch.","The package dimensions are invalid. The package %1 must be greater than or equal to %2 inch.",module,Magento_Usps
-"The package dimensions are invalid. The package %1 must be less than or equal to %2 inch.","The package dimensions are invalid. The package %1 must be less than or equal to %2 inch.",module,Magento_Usps
-"Failed to prepare package dimensions. Please check the input values.","Failed to prepare package dimensions. Please check the input values.",module,Magento_Usps
-"An unexpected error occurred while preparing package dimensions.","An unexpected error occurred while preparing package dimensions.",module,Magento_Usps
-"'HTTP Exception: ' .","'HTTP Exception: ' .",module,Magento_Usps
-"'Error: ' .","'Error: ' .",module,Magento_Usps
-"Conversion failed","Conversion failed",module,Magento_Usps
-"Method not found","Method not found",module,Magento_Usps
-"Request body must be an array","Request body must be an array",module,Magento_WebapiAsync
-"Store not found","Store not found",module,Magento_WebapiAsync
-"The specified template ""%1"" is not allowed for this widget type.","The specified template ""%1"" is not allowed for this widget type.",module,Magento_Widget
-"The wishlistId is required.","The wishlistId is required.",module,Magento_WishlistGraphQl
-"The wishlist could not be saved.","The wishlist could not be saved.",module,Magento_WishlistGraphQl
-"Cart not found","Cart not found",module,Magento_WishlistGraphQl
-"Invalid content detected in message. Please remove any special codes or scripts.","Invalid content detected in message. Please remove any special codes or scripts.",module,Magento_Wishlist
-"Select Date","Select Date",module,PayPal_Braintree
-"Missing required parameters","Missing required parameters",module,PayPal_Braintree
-"Request payload does not contain correct params","Request payload does not contain correct params",module,PayPal_Braintree
-"Webhook kind of incorrect type","Webhook kind of incorrect type",module,PayPal_Braintree
-"Webhook response data could not be parsed","Webhook response data could not be parsed",module,PayPal_Braintree
-"Webhook response data does not contain account updater daily report","Webhook response data does not contain account updater daily report",module,PayPal_Braintree
-"Payment captured by Braintree. Txn ID: %1","Payment captured by Braintree. Txn ID: %1",module,PayPal_Braintree
-"Payment token entity with gateway_token value: %1 not found.","Payment token entity with gateway_token value: %1 not found.",module,PayPal_Braintree
-"Payment token details invalid","Payment token details invalid",module,PayPal_Braintree
-"Card type %1 not recognised","Card type %1 not recognised",module,PayPal_Braintree
-"A problem occurred when loading the payment token details","A problem occurred when loading the payment token details",module,PayPal_Braintree
-"Pay Upon Invoice","Pay Upon Invoice",module,PayPal_Braintree
+                        meets the exemption criteria. Please contact USPS for more information.","Każdy rodzaj towarów w przesyłce poniżej określonej wartości lub mniej, zgodnie z
+                        <a href=""%1"" target=""_blank"">kodami eksportowymi z Wykazu B (Schedule B Export Codes)</a>
+                        oraz przesyłka nie może wymagać licencji eksportowej. Jeśli którykolwiek element przekroczy tę wartość,
+                        wymagana jest licencja eksportowa. Przesyłka (niezależnie od wartości) wysyłana do Kanady nie wymaga
+                        licencji eksportowej. Użytkownicy mogą wpisać <b>%2</b> w polu AESITN, jeśli wartość przesyłki
+                        spełnia kryteria zwolnienia. Skontaktuj się z USPS, aby uzyskać więcej informacji.",module,Magento_Usps
+"The package dimensions are invalid. The package %1 must be greater than or equal to %2 inch.","Wymiary paczki są nieprawidłowe. Paczka %1 musi mieć rozmiar większy lub równy %2 cala.",module,Magento_Usps
+"The package dimensions are invalid. The package %1 must be less than or equal to %2 inch.","Wymiary paczki są nieprawidłowe. Paczka %1 musi mieć rozmiar mniejszy lub równy %2 cala.",module,Magento_Usps
+"Failed to prepare package dimensions. Please check the input values.","Nie udało się przygotować wymiarów paczki. Proszę sprawdzić wartości wejściowe.",module,Magento_Usps
+"An unexpected error occurred while preparing package dimensions.","Wystąpił nieoczekiwany błąd podczas przygotowywania wymiarów paczki.",module,Magento_Usps
+"'HTTP Exception: ' .","'Wyjątek HTTP: ' .",module,Magento_Usps
+"'Error: ' .","'Błąd: ' .",module,Magento_Usps
+"Conversion failed","Konwersja nie powiodła się",module,Magento_Usps
+"Method not found","Metoda nie znaleziona",module,Magento_Usps
+"Request body must be an array","Treść żądania musi być tablicą",module,Magento_WebapiAsync
+"Store not found","Nie znaleziono sklepu",module,Magento_WebapiAsync
+"The specified template ""%1"" is not allowed for this widget type.","Określony szablon ""%1"" nie jest dozwolony dla tego typu widgetu.",module,Magento_Widget
+"The wishlistId is required.","wishlistId jest wymagane.",module,Magento_WishlistGraphQl
+"The wishlist could not be saved.","Nie można zapisać listy życzeń.",module,Magento_WishlistGraphQl
+"Cart not found","Nie znaleziono koszyka",module,Magento_WishlistGraphQl
+"Invalid content detected in message. Please remove any special codes or scripts.","Wykryto nieprawidłową zawartość w wiadomości. Usuń wszelkie specjalne kody lub skrypty.",module,Magento_Wishlist
+"Select Date","Wybierz datę",module,PayPal_Braintree
+"Missing required parameters","Brak wymaganych parametrów",module,PayPal_Braintree
+"Request payload does not contain correct params","Ładunek żądania nie zawiera poprawnych parametrów",module,PayPal_Braintree
+"Webhook kind of incorrect type","Nieprawidłowy typ webhooka",module,PayPal_Braintree
+"Webhook response data could not be parsed","Nie można sparsować danych odpowiedzi webhooka",module,PayPal_Braintree
+"Webhook response data does not contain account updater daily report","Dane odpowiedzi webhooka nie zawierają dziennego raportu aktualizacji konta",module,PayPal_Braintree
+"Payment captured by Braintree. Txn ID: %1","Płatność pobrana przez Braintree. ID transakcji: %1",module,PayPal_Braintree
+"Payment token entity with gateway_token value: %1 not found.","Nie znaleziono tokenu płatności o wartości gateway_token: %1.",module,PayPal_Braintree
+"Payment token details invalid","Szczegóły tokenu płatności są nieprawidłowe",module,PayPal_Braintree
+"Card type %1 not recognised","Typ karty %1 nie został rozpoznany",module,PayPal_Braintree
+"A problem occurred when loading the payment token details","Wystąpił problem podczas ładowania szczegółów tokenu płatności",module,PayPal_Braintree
+"Pay Upon Invoice","Zapłać na podstawie faktury (Pay Upon Invoice)",module,PayPal_Braintree
 BLIK,BLIK,module,PayPal_Braintree
-"""Cannot create PayPal order. Message: "" .","""Cannot create PayPal order. Message: "" .",module,PayPal_Braintree
-METHOD_UNAVAILABLE,METHOD_UNAVAILABLE,module,PayPal_Braintree
-"Missing PayPal order ID","Missing PayPal order ID",module,PayPal_Braintree
-"Could not find cart with ID ""%1""","Could not find cart with ID ""%1""",module,PayPal_Braintree
-COUNTRY_ERROR,COUNTRY_ERROR,module,PayPal_Braintree
-STATE_ERROR,STATE_ERROR,module,PayPal_Braintree
-ZIP_ERROR,ZIP_ERROR,module,PayPal_Braintree
-ADDRESS_ERROR,ADDRESS_ERROR,module,PayPal_Braintree
-"The invoice will be created automatically once Braintree confirms the payment via webhook. This process can take up to 30 minutes. Manual invoice creation is not required and may result in duplicate records.","The invoice will be created automatically once Braintree confirms the payment via webhook. This process can take up to 30 minutes. Manual invoice creation is not required and may result in duplicate records.",module,PayPal_Braintree
-"Braintree Transaction: %1","Braintree Transaction: %1",module,PayPal_Braintree
-"After your order has been processed, you will receive an email from Ratepay (Rechnungskauf mit Ratepay) containing bank details and instructions for payment within 30 days. Please also check your spam folder.","After your order has been processed, you will receive an email from Ratepay (Rechnungskauf mit Ratepay) containing bank details and instructions for payment within 30 days. Please also check your spam folder.",module,PayPal_Braintree
-"Add a new Google Pay account","Add a new Google Pay account",module,PayPal_Braintree
-"Please note you will be taken away from the site to update your Google Pay details.","Please note you will be taken away from the site to update your Google Pay details.",module,PayPal_Braintree
-"Add New GooglePay Card","Add New GooglePay Card",module,PayPal_Braintree
-"Express Checkout","Express Checkout",module,Magento_PaymentServicesPaypal
-"Or proceed with the standard checkout","Or proceed with the standard checkout",module,Magento_PaymentServicesPaypal
-"2FA user identity verification required for %name","2FA user identity verification required for %name",module,Magento_TwoFactorAuth
-"You need to verify identity in order to proceed to configure new Two-Factor Authorization for %store","You need to verify identity in order to proceed to configure new Two-Factor Authorization for %store",module,Magento_TwoFactorAuth
-"Once you place an order, pay within 30 days. Our partner Ratepay will send you payment instructions.","Once you place an order, pay within 30 days. Our partner Ratepay will send you payment instructions.",module,PayPal_Braintree
-"There are currently no available payment methods with your selected shipping/billing address or cart total.","There are currently no available payment methods with your selected shipping/billing address or cart total.",module,PayPal_Braintree
-"Please enter %1 or more characters, using both numeric and alphabetic.","Please enter %1 or more characters, using both numeric and alphabetic.",lib,lib/web/mage/validation.js
-"You are not authorized to access this resource.","You are not authorized to access this resource.",module,Magento_Checkout
-"Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content.",module,Magento_PageBuilder
-"Permission Error","Permission Error",module,Magento_PageBuilder
-"Failed to set billing address","Failed to set billing address",module,Magento_PaymentServicesPaypal
-"Payment method is not eligible","Payment method is not eligible",module,Magento_PaymentServicesPaypal
-"Collapse all","Collapse all",module,Magento_User
-"Expand all","Expand all",module,Magento_User
-"Expand selected","Expand selected",module,Magento_User
-"Unable to get shipping method for selected address.","Unable to get shipping method for selected address.",module,PayPal_Braintree
-"Unable to process the offer.","Unable to process the offer.",module,PayPal_Braintree
-"By clicking on the button, you agree to the <a href='https://www.ratepay.com/legal-payment-terms' target='_blank'>terms of payment</a> and <a href='https://www.ratepay.com/legal-payment-dataprivacy' target='_blank'>performance of a risk check</a> from the payment partner, Ratepay. You also agree to PayPal’s <a href='https://www.paypal.com/us/legalhub/paypal/privacy-full' target='_blank'>privacy statement</a>. If your request to purchase upon invoice is accepted, the purchase price claim will be assigned to Ratepay, and you may only pay Ratepay, not the merchant.","By clicking on the button, you agree to the <a href='https://www.ratepay.com/legal-payment-terms' target='_blank'>terms of payment</a> and <a href='https://www.ratepay.com/legal-payment-dataprivacy' target='_blank'>performance of a risk check</a> from the payment partner, Ratepay. You also agree to PayPal’s <a href='https://www.paypal.com/us/legalhub/paypal/privacy-full' target='_blank'>privacy statement</a>. If your request to purchase upon invoice is accepted, the purchase price claim will be assigned to Ratepay, and you may only pay Ratepay, not the merchant.",module,PayPal_Braintree
-"Could not process your order.","Could not process your order.",module,PayPal_Braintree
-"The combination of your name and address could not be validated. Please correct your data and try again.","The combination of your name and address could not be validated. Please correct your data and try again.",module,PayPal_Braintree
-"It is not possible to use the selected payment method. This decision is based on automated data processing.","It is not possible to use the selected payment method. This decision is based on automated data processing.",module,PayPal_Braintree
-"You can find further information in the <a href='https://www.ratepay.com/en/ratepay-data-privacy-statement/' target='_blank'>Ratepay Data Privacy Statement</a> or you can contact Ratepay using this <a href='https://www.ratepay.com/en/contact/' target='_blank'>contact form</a>.","You can find further information in the <a href='https://www.ratepay.com/en/ratepay-data-privacy-statement/' target='_blank'>Ratepay Data Privacy Statement</a> or you can contact Ratepay using this <a href='https://www.ratepay.com/en/contact/' target='_blank'>contact form</a>.",module,PayPal_Braintree
-"Defer non-critical head scripts","Defer non-critical head scripts",module,Magento_Backend
-"Non-critical scripts loaded in the head section will automatically receive ""defer"" attribute.","Non-critical scripts loaded in the head section will automatically receive ""defer"" attribute.",module,Magento_Backend
-"Minimum Admin Password Length","Minimum Admin Password Length",module,Magento_Backend
-"Minimum number of characters required for admin user passwords. Values below 7 are not allowed.","Minimum number of characters required for admin user passwords. Values below 7 are not allowed.",module,Magento_Backend
-Websites,Websites,module,Magento_CatalogImportExport
-"Product Listing Sort by Order","Product Listing Sort by Order",module,Magento_Catalog
-"Compared Products Sidebar Template","Compared Products Sidebar Template",module,Magento_Catalog
-"Cart Merge Preference","Cart Merge Preference",module,Magento_Checkout
-"Allow to retrieve applied customer group details via GraphQL API","Allow to retrieve applied customer group details via GraphQL API",module,Magento_Customer
-"DHL Type","DHL Type",module,Magento_Dhl
-"API KEY","API KEY",module,Magento_Dhl
-"API Secret","API Secret",module,Magento_Dhl
-"Enable Query Characters Limit","Enable Query Characters Limit",module,Magento_GraphQl
-"Allowed number of characters in a graphQL query","Allowed number of characters in a graphQL query",module,Magento_GraphQl
-"Maximum number of characters allowed in a graphql request.","Maximum number of characters allowed in a graphql request.",module,Magento_GraphQl
-"Are you sure you want to delete selected source?","Are you sure you want to delete selected source?",module,Magento_InventoryAdminUi
-"Deployment API Mode","Deployment API Mode",module,Magento_NewRelicReporting
-"Choose between legacy v2 REST API or modern NerdGraph (GraphQL)","Choose between legacy v2 REST API or modern NerdGraph (GraphQL)",module,Magento_NewRelicReporting
-"New Relic API URL (Nerd Graph)","New Relic API URL (Nerd Graph)",module,Magento_NewRelicReporting
-"Nerd Graph endpoint for deployments (Recommended)","Nerd Graph endpoint for deployments (Recommended)",module,Magento_NewRelicReporting
-"Entity GUID (NerdGraph)","Entity GUID (NerdGraph)",module,Magento_NewRelicReporting
-"Application Entity GUID for NerdGraph. Leave empty for auto-detection from App ID.","Application Entity GUID for NerdGraph. Leave empty for auto-detection from App ID.",module,Magento_NewRelicReporting
-"New Relic API URL (v2 REST)","New Relic API URL (v2 REST)",module,Magento_NewRelicReporting
-"Legacy v2 REST API endpoint for deployments","Legacy v2 REST API endpoint for deployments",module,Magento_NewRelicReporting
-"Buyer Country","Buyer Country",module,Magento_PaymentServicesBase
-"<strong>Buyer Country</strong> field value will only be used in Sandbox Environment to simulate the buyer experience at front-end.","<strong>Buyer Country</strong> field value will only be used in Sandbox Environment to simulate the buyer experience at front-end.",module,Magento_PaymentServicesBase
-"Enable sending Paypal Line Items","Enable sending Paypal Line Items",module,Magento_PaymentServicesPaypal
-"Show Apple Pay at start of checkout","Show Apple Pay at start of checkout",module,Magento_PaymentServicesPaypal
-"Show Google Pay at start of checkout","Show Google Pay at start of checkout",module,Magento_PaymentServicesPaypal
-"Show buttons at start of checkout","Show buttons at start of checkout",module,Magento_PaymentServicesPaypal
-"Local Payment Methods","Local Payment Methods",module,Magento_PaymentServicesPaypal
-"Allowed Payment Methods","Allowed Payment Methods",module,Magento_PaymentServicesPaypal
+"""Cannot create PayPal order. Message: "" .","""Nie można utworzyć zamówienia PayPal. Komunikat: "" .",module,PayPal_Braintree
+METHOD_UNAVAILABLE,METODA_NIEDOSTĘPNA,module,PayPal_Braintree
+"Missing PayPal order ID","Brak identyfikatora zamówienia PayPal",module,PayPal_Braintree
+"Could not find cart with ID ""%1""","Nie można znaleźć koszyka o ID ""%1""",module,PayPal_Braintree
+COUNTRY_ERROR,BŁĄD_KRAJU,module,PayPal_Braintree
+STATE_ERROR,BŁĄD_WOJEWÓDZTWA,module,PayPal_Braintree
+ZIP_ERROR,BŁĄD_KODU_POCZTOWEGO,module,PayPal_Braintree
+ADDRESS_ERROR,BŁĄD_ADRESU,module,PayPal_Braintree
+"The invoice will be created automatically once Braintree confirms the payment via webhook. This process can take up to 30 minutes. Manual invoice creation is not required and may result in duplicate records.","Faktura zostanie utworzona automatycznie, gdy Braintree potwierdzi płatność za pomocą webhooka. Ten proces może potrwać do 30 minut. Ręczne tworzenie faktury nie jest wymagane i może skutkować zduplikowanymi rekordami.",module,PayPal_Braintree
+"Braintree Transaction: %1","Transakcja Braintree: %1",module,PayPal_Braintree
+"After your order has been processed, you will receive an email from Ratepay (Rechnungskauf mit Ratepay) containing bank details and instructions for payment within 30 days. Please also check your spam folder.","Po przetworzeniu zamówienia otrzymasz e-mail od firmy Ratepay (zakup na fakturę z Ratepay) zawierający dane bankowe oraz instrukcje dotyczące płatności w ciągu 30 dni. Sprawdź również folder spam.",module,PayPal_Braintree
+"Add a new Google Pay account","Dodaj nowe konto Google Pay",module,PayPal_Braintree
+"Please note you will be taken away from the site to update your Google Pay details.","Pamiętaj, że zostaniesz przekierowany poza stronę, aby zaktualizować dane Google Pay.",module,PayPal_Braintree
+"Add New GooglePay Card","Dodaj nową kartę Google Pay",module,PayPal_Braintree
+"Express Checkout","Ekspresowa kasa (Express Checkout)",module,Magento_PaymentServicesPaypal
+"Or proceed with the standard checkout","Lub przejdź do standardowego procesu zamówienia",module,Magento_PaymentServicesPaypal
+"2FA user identity verification required for %name","Wymagana weryfikacja tożsamości 2FA dla %name",module,Magento_TwoFactorAuth
+"You need to verify identity in order to proceed to configure new Two-Factor Authorization for %store","Musisz zweryfikować tożsamość, aby przejść do konfiguracji nowej autoryzacji dwuskładnikowej (Two-Factor Authorization) dla %store",module,Magento_TwoFactorAuth
+"Once you place an order, pay within 30 days. Our partner Ratepay will send you payment instructions.","Po złożeniu zamówienia opłać je w ciągu 30 dni. Nasz partner Ratepay wyśle Ci instrukcje płatności.",module,PayPal_Braintree
+"There are currently no available payment methods with your selected shipping/billing address or cart total.","Obecnie nie ma dostępnych metod płatności dla wybranego adresu dostawy/płatności lub sumy koszyka.",module,PayPal_Braintree
+"Please enter %1 or more characters, using both numeric and alphabetic.","Wpisz %1 lub więcej znaków, używając zarówno cyfr, jak i liter.",lib,lib/web/mage/validation.js
+"You are not authorized to access this resource.","Nie masz uprawnień do dostępu do tego zasobu.",module,Magento_Checkout
+"Sorry, you need permissions to view this content.","Przepraszamy, potrzebujesz uprawnień, aby zobaczyć tę zawartość.",module,Magento_PageBuilder
+"Permission Error","Błąd uprawnień",module,Magento_PageBuilder
+"Failed to set billing address","Nie udało się ustawić adresu płatności",module,Magento_PaymentServicesPaypal
+"Payment method is not eligible","Metoda płatności nie kwalifikuje się",module,Magento_PaymentServicesPaypal
+"Collapse all","Zwiń wszystko",module,Magento_User
+"Expand all","Rozwiń wszystko",module,Magento_User
+"Expand selected","Rozwiń zaznaczone",module,Magento_User
+"Unable to get shipping method for selected address.","Nie można pobrać metody dostawy dla wybranego adresu.",module,PayPal_Braintree
+"Unable to process the offer.","Nie można przetworzyć oferty.",module,PayPal_Braintree
+"By clicking on the button, you agree to the <a href='https://www.ratepay.com/legal-payment-terms' target='_blank'>terms of payment</a> and <a href='https://www.ratepay.com/legal-payment-dataprivacy' target='_blank'>performance of a risk check</a> from the payment partner, Ratepay. You also agree to PayPal’s <a href='https://www.paypal.com/us/legalhub/paypal/privacy-full' target='_blank'>privacy statement</a>. If your request to purchase upon invoice is accepted, the purchase price claim will be assigned to Ratepay, and you may only pay Ratepay, not the merchant.","Klikając przycisk, zgadzasz się na <a href='https://www.ratepay.com/legal-payment-terms' target='_blank'>warunki płatności<\/a> oraz <a href='https://www.ratepay.com/legal-payment-dataprivacy' target='_blank'>przeprowadzenie oceny ryzyka<\/a> przez partnera płatniczego Ratepay. Zgadzasz się również na <a href='https://www.paypal.com/us/legalhub/paypal/privacy-full' target='_blank'>oświadczenie o ochronie prywatności<\/a> firmy PayPal. Jeśli Twój wniosek o zakup na fakturę zostanie zaakceptowany, roszczenie o zapłatę ceny zakupu zostanie przeniesione na Ratepay, a Ty będziesz dokonywać płatności wyłącznie na rzecz Ratepay, a nie sprzedawcy.",module,PayPal_Braintree
+"Could not process your order.","Nie można przetworzyć zamówienia.",module,PayPal_Braintree
+"The combination of your name and address could not be validated. Please correct your data and try again.","Połączenie Twojego imienia, nazwiska i adresu nie mogło zostać zweryfikowane. Popraw swoje dane i spróbuj ponownie.",module,PayPal_Braintree
+"It is not possible to use the selected payment method. This decision is based on automated data processing.","Nie jest możliwe użycie wybranej metody płatności. Decyzja ta opiera się na zautomatyzowanym przetwarzaniu danych.",module,PayPal_Braintree
+"You can find further information in the <a href='https://www.ratepay.com/en/ratepay-data-privacy-statement/' target='_blank'>Ratepay Data Privacy Statement</a> or you can contact Ratepay using this <a href='https://www.ratepay.com/en/contact/' target='_blank'>contact form</a>.","Więcej informacji znajdziesz w <a href='https://www.ratepay.com/en/ratepay-data-privacy-statement/' target='_blank'>Oświadczeniu o ochronie prywatności Ratepay<\/a> lub możesz skontaktować się z Ratepay, korzystając z tego <a href='https://www.ratepay.com/en/contact/' target='_blank'>formularza kontaktowego<\/a>.",module,PayPal_Braintree
+"Defer non-critical head scripts","Opóźnij niekrytyczne skrypty w sekcji head (defer)",module,Magento_Backend
+"Non-critical scripts loaded in the head section will automatically receive ""defer"" attribute.","Niekrytyczne skrypty ładowane w sekcji head automatycznie otrzymają atrybut ""defer"".",module,Magento_Backend
+"Minimum Admin Password Length","Minimalna długość hasła administratora",module,Magento_Backend
+"Minimum number of characters required for admin user passwords. Values below 7 are not allowed.","Minimalna liczba znaków wymagana dla haseł użytkowników administracyjnych. Wartości poniżej 7 są niedozwolone.",module,Magento_Backend
+Websites,Witryny,module,Magento_CatalogImportExport
+"Product Listing Sort by Order","Sortowanie listy produktów według zamówienia/kolejności",module,Magento_Catalog
+"Compared Products Sidebar Template","Szablon paska bocznego porównywanych produktów",module,Magento_Catalog
+"Cart Merge Preference","Preferencja łączenia koszyków",module,Magento_Checkout
+"Allow to retrieve applied customer group details via GraphQL API","Zezwól na pobieranie szczegółów przypisanej grupy klientów przez GraphQL API",module,Magento_Customer
+"DHL Type","Typ DHL",module,Magento_Dhl
+"API KEY","KLUCZ API",module,Magento_Dhl
+"API Secret","Hasło API (Secret)",module,Magento_Dhl
+"Enable Query Characters Limit","Włącz limit znaków zapytania",module,Magento_GraphQl
+"Allowed number of characters in a graphQL query","Dozwolona liczba znaków w zapytaniu GraphQL",module,Magento_GraphQl
+"Maximum number of characters allowed in a graphql request.","Maksymalna liczba znaków dozwolona w żądaniu GraphQL.",module,Magento_GraphQl
+"Are you sure you want to delete selected source?","Czy na pewno chcesz usunąć wybrane źródło?",module,Magento_InventoryAdminUi
+"Deployment API Mode","Tryb wdrożeniowego API",module,Magento_NewRelicReporting
+"Choose between legacy v2 REST API or modern NerdGraph (GraphQL)","Wybierz między starszym interfejsem v2 REST API a nowoczesnym NerdGraph (GraphQL)",module,Magento_NewRelicReporting
+"New Relic API URL (Nerd Graph)","Nowy adres URL API Relic (Nerd Graph)",module,Magento_NewRelicReporting
+"Nerd Graph endpoint for deployments (Recommended)","Punkt końcowy Nerd Graph dla wdrożeń (zalecane)",module,Magento_NewRelicReporting
+"Entity GUID (NerdGraph)","GUID podmiotu (NerdGraph)",module,Magento_NewRelicReporting
+"Application Entity GUID for NerdGraph. Leave empty for auto-detection from App ID.","GUID podmiotu aplikacji dla NerdGraph. Pozostaw puste w celu automatycznego wykrywania na podstawie identyfikatora aplikacji.",module,Magento_NewRelicReporting
+"New Relic API URL (v2 REST)","Nowy adres URL API Relic (v2 REST)",module,Magento_NewRelicReporting
+"Legacy v2 REST API endpoint for deployments","Starszy punkt końcowy v2 REST API dla wdrożeń",module,Magento_NewRelicReporting
+"Buyer Country","Kraj kupującego",module,Magento_PaymentServicesBase
+"<strong>Buyer Country</strong> field value will only be used in Sandbox Environment to simulate the buyer experience at front-end.","Wartość pola <strong>Kraj kupującego<\/strong> będzie używana tylko w środowisku testowym (Sandbox) do symulacji doświadczeń kupującego.",module,Magento_PaymentServicesBase
+"Enable sending Paypal Line Items","Włącz wysyłanie pozycji zamówienia PayPal (Line Items)",module,Magento_PaymentServicesPaypal
+"Show Apple Pay at start of checkout","Pokaż Apple Pay na początku kasy",module,Magento_PaymentServicesPaypal
+"Show Google Pay at start of checkout","Pokaż Google Pay na początku kasy",module,Magento_PaymentServicesPaypal
+"Show buttons at start of checkout","Pokaż przyciski na początku kasy",module,Magento_PaymentServicesPaypal
+"Local Payment Methods","Lokalne metody płatności",module,Magento_PaymentServicesPaypal
+"Allowed Payment Methods","Dozwolone metody płatności",module,Magento_PaymentServicesPaypal
 "Any particular payment method will only be visible to customers who's billing address is
-                                valid and website's base currency matches for that method, regardless of the method being enabled here.","Any particular payment method will only be visible to customers who's billing address is
-                                valid and website's base currency matches for that method, regardless of the method being enabled here.",module,Magento_PaymentServicesPaypal
+                                valid and website's base currency matches for that method, regardless of the method being enabled here.","Dana metoda płatności będzie widoczna tylko dla klientów, których adres rozliczeniowy jest prawidłowy, a waluta bazowa witryny pasuje do tej metody, niezależnie od tego, czy metoda została tutaj włączona.",module,Magento_PaymentServicesPaypal
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
                         <p>To learn more about new features, see our latest Release Notes in
                         <a href=""https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
-                        <p>To learn more about new features, see our latest Release Notes in
-                        <a href=""https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview""
-                        target=""_blank"">DevDocs' Release Information</a>.
-                        </p>",module,Magento_ReleaseNotification
-"GraphQl Configurations","GraphQl Configurations",module,Magento_SalesRule
-"Share Applied Cart Rules","Share Applied Cart Rules",module,Magento_SalesRule
-"Generation Method","Generation Method",module,Magento_Sitemap
-"Standard method processes all data in memory. Batch method uses memory-optimized processing for large catalogs.","Standard method processes all data in memory. Batch method uses memory-optimized processing for large catalogs.",module,Magento_Sitemap
-Delete,Delete,module,Magento_Tax
-"Are you sure you want to delete selected items?","Are you sure you want to delete selected items?",module,Magento_Tax
-"USPS Type","USPS Type",module,Magento_Usps
-"Consumer Key","Consumer Key",module,Magento_Usps
-"Consumer Secret","Consumer Secret",module,Magento_Usps
-"Account Type","Account Type",module,Magento_Usps
-"Pricing Options","Pricing Options",module,Magento_Usps
-"Account Number","Account Number",module,Magento_Usps
-"Customer Registration ID (CRID)","Customer Registration ID (CRID)",module,Magento_Usps
-"Mailer Identifier (MID)","Mailer Identifier (MID)",module,Magento_Usps
-"Manifest MID","Manifest MID",module,Magento_Usps
+                        <p>Spróbujemy pokazać to ponownie przy następnym logowaniu do Panelu Administracyjnego Magento.<\/p>
+                        <p>Aby dowiedzieć się więcej o nowych funkcjach, zapoznaj się z naszymi najnowszymi informacjami o wydaniu w
+                        <a href=""https:\/\/experienceleague.adobe.com\/en\/docs\/commerce-operations\/release\/notes\/overview""
+                        target=""_blank"">Informacjach o Wydaniach w DevDocs<\/a>.
+                        <\/p>",module,Magento_ReleaseNotification
+"GraphQl Configurations","Konfiguracje GraphQl",module,Magento_SalesRule
+"Share Applied Cart Rules","Udostępniaj zastosowane reguły koszyka",module,Magento_SalesRule
+"Generation Method","Metoda generowania",module,Magento_Sitemap
+"Standard method processes all data in memory. Batch method uses memory-optimized processing for large catalogs.","Metoda standardowa przetwarza wszystkie dane w pamięci. Metoda wsadowa (Batch) wykorzystuje zoptymalizowane pod kątem pamięci przetwarzanie dla dużych katalogów.",module,Magento_Sitemap
+Delete,Usuń,module,Magento_Tax
+"Are you sure you want to delete selected items?","Czy na pewno chcesz usunąć wybrane elementy?",module,Magento_Tax
+"USPS Type","Typ USPS",module,Magento_Usps
+"Consumer Key","Klucz klienta (Consumer Key)",module,Magento_Usps
+"Consumer Secret","Hasło klienta (Consumer Secret)",module,Magento_Usps
+"Account Type","Typ konta",module,Magento_Usps
+"Pricing Options","Opcje wyceny",module,Magento_Usps
+"Account Number","Numer konta",module,Magento_Usps
+"Customer Registration ID (CRID)","Identyfikator rejestracji klienta (CRID)",module,Magento_Usps
+"Mailer Identifier (MID)","Identyfikator nadawcy (MID)",module,Magento_Usps
+"Manifest MID","MID manifestu",module,Magento_Usps
 AES/ITN,AES/ITN,module,Magento_Usps
 "Braintree Payments (by <a href=""https://www.gene.co.uk/gene-braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>) v4.8.0 -
-                    <a href=""https://support.gene.co.uk/support/solutions/articles/35000315897"" target=""_blank"" rel=""noopener noreferrer"">Release notes</a>","Braintree Payments (by <a href=""https://www.gene.co.uk/gene-braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>) v4.8.0 -
-                    <a href=""https://support.gene.co.uk/support/solutions/articles/35000315897"" target=""_blank"" rel=""noopener noreferrer"">Release notes</a>",module,PayPal_Braintree
-"Display on Product Page","Display on Product Page",module,PayPal_Braintree
-"Display on Mini Cart & Cart Page","Display on Mini Cart & Cart Page",module,PayPal_Braintree
-"Display at Start of Checkout","Display at Start of Checkout",module,PayPal_Braintree
-"Contact Preference","Contact Preference",module,PayPal_Braintree
+                    <a href=""https://support.gene.co.uk/support/solutions/articles/35000315897"" target=""_blank"" rel=""noopener noreferrer"">Release notes</a>","Płatności Braintree (od <a href=""https:\/\/www.gene.co.uk\/gene-braintree-payments\/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce<\/a>) v4.8.0 -
+                    <a href=""https:\/\/support.gene.co.uk\/support\/solutions\/articles\/35000315897"" target=""_blank"" rel=""noopener noreferrer"">Informacje o wydaniu (Release notes)<\/a>",module,PayPal_Braintree
+"Display on Product Page","Wyświetlaj na stronie produktu",module,PayPal_Braintree
+"Display on Mini Cart & Cart Page","Wyświetlaj w minikoszyku i na stronie koszyka",module,PayPal_Braintree
+"Display at Start of Checkout","Wyświetlaj na początku kasy",module,PayPal_Braintree
+"Contact Preference","Preferencje kontaktu",module,PayPal_Braintree
 "<p>Our top-selling yoga prop, the 4-inch, high-quality Sprite Foam Yoga Brick is popular among yoga novices and studio professionals alike. An essential yoga accessory, the yoga brick is a critical tool for finding balance and alignment in many common yoga poses. Choose from 5 color options.</p>
 <ul>
 <li>Standard Large Size: 4"" x 6"" x 9"".
