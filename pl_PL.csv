@@ -17573,7 +17573,7 @@ Collections,Kolekcje,module,Magento_Sample
 "New Luma Yoga Collection","Nowa kolekcja do jogi Luma",module,Magento_Sample
 Training,Trening,module,Magento_Sample
 "Video Download","Film do pobrania",module,Magento_Sample
-Tops,Góry,module,Magento_Sample
+Tops,"Górne części garderoby",module,Magento_Sample
 Bottoms,"Dolne części garderoby",module,Magento_Sample
 Jackets,Kurtki,module,Magento_Sample
 "Hoodies & Sweatshirts","Bluzy i bluzy z kapturem",module,Magento_Sample
@@ -26349,7 +26349,7 @@ Cocoa,Kakao,module,Magento_Sample
 Dresses,Sukienki,module,Magento_Sample
 "Fashion Accessories","Akcesoria modowe",module,Magento_Sample
 "Fashion Bottoms","Modne dolne części garderoby",module,Magento_Sample
-"Fashion Tops","Modne góry",module,Magento_Sample
+"Fashion Tops","Modne górne części garderoby",module,Magento_Sample
 Accessories,Akcesoria,module,Magento_Sample
 Belts,Paski,module,Magento_Sample
 Jewelry,Biżuteria,module,Magento_Sample
@@ -30210,9 +30210,9 @@ Women,Kobiety,theme,frontend/Satoshi/hyva
 Men,Mężczyźni,theme,frontend/Satoshi/hyva
 Gear,Akcesoria,theme,frontend/Satoshi/hyva
 Training,Trening,theme,frontend/Satoshi/hyva
-"Tops women","Damskie góry",theme,frontend/Satoshi/hyva
+"Tops women","Damskie górne części garderoby",theme,frontend/Satoshi/hyva
 "Bottoms women","Damskie dolne części garderoby",theme,frontend/Satoshi/hyva
-"Tops men","Męskie góry",theme,frontend/Satoshi/hyva
+"Tops men","Męskie górne części garderoby",theme,frontend/Satoshi/hyva
 "Bottoms men","Męskie dolne części garderoby",theme,frontend/Satoshi/hyva
 "Fitness equipment","Sprzęt fitness",theme,frontend/Satoshi/hyva
 Bags,Torby,theme,frontend/Satoshi/hyva
