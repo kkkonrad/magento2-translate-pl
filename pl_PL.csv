@@ -32675,11 +32675,11 @@ ADDRESS_ERROR,BŁĄD_ADRESU,module,PayPal_Braintree
 "Expand selected","Rozwiń zaznaczone",module,Magento_User
 "Unable to get shipping method for selected address.","Nie można pobrać metody dostawy dla wybranego adresu.",module,PayPal_Braintree
 "Unable to process the offer.","Nie można przetworzyć oferty.",module,PayPal_Braintree
-"By clicking on the button, you agree to the <a href='https://www.ratepay.com/legal-payment-terms' target='_blank'>terms of payment</a> and <a href='https://www.ratepay.com/legal-payment-dataprivacy' target='_blank'>performance of a risk check</a> from the payment partner, Ratepay. You also agree to PayPal’s <a href='https://www.paypal.com/us/legalhub/paypal/privacy-full' target='_blank'>privacy statement</a>. If your request to purchase upon invoice is accepted, the purchase price claim will be assigned to Ratepay, and you may only pay Ratepay, not the merchant.","Klikając przycisk, zgadzasz się na <a href='https://www.ratepay.com/legal-payment-terms' target='_blank'>warunki płatności<\/a> oraz <a href='https://www.ratepay.com/legal-payment-dataprivacy' target='_blank'>przeprowadzenie oceny ryzyka<\/a> przez partnera płatniczego Ratepay. Zgadzasz się również na <a href='https://www.paypal.com/us/legalhub/paypal/privacy-full' target='_blank'>oświadczenie o ochronie prywatności<\/a> firmy PayPal. Jeśli Twój wniosek o zakup na fakturę zostanie zaakceptowany, roszczenie o zapłatę ceny zakupu zostanie przeniesione na Ratepay, a Ty będziesz dokonywać płatności wyłącznie na rzecz Ratepay, a nie sprzedawcy.",module,PayPal_Braintree
+"By clicking on the button, you agree to the <a href='https://www.ratepay.com/legal-payment-terms' target='_blank'>terms of payment</a> and <a href='https://www.ratepay.com/legal-payment-dataprivacy' target='_blank'>performance of a risk check</a> from the payment partner, Ratepay. You also agree to PayPal’s <a href='https://www.paypal.com/us/legalhub/paypal/privacy-full' target='_blank'>privacy statement</a>. If your request to purchase upon invoice is accepted, the purchase price claim will be assigned to Ratepay, and you may only pay Ratepay, not the merchant.","Klikając przycisk, zgadzasz się na <a href='https://www.ratepay.com/legal-payment-terms' target='_blank'>warunki płatności</a> oraz <a href='https://www.ratepay.com/legal-payment-dataprivacy' target='_blank'>przeprowadzenie oceny ryzyka</a> przez partnera płatniczego Ratepay. Zgadzasz się również na <a href='https://www.paypal.com/us/legalhub/paypal/privacy-full' target='_blank'>oświadczenie o ochronie prywatności</a> firmy PayPal. Jeśli Twój wniosek o zakup na fakturę zostanie zaakceptowany, roszczenie o zapłatę ceny zakupu zostanie przeniesione na Ratepay, a Ty będziesz dokonywać płatności wyłącznie na rzecz Ratepay, a nie sprzedawcy.",module,PayPal_Braintree
 "Could not process your order.","Nie można przetworzyć zamówienia.",module,PayPal_Braintree
 "The combination of your name and address could not be validated. Please correct your data and try again.","Połączenie Twojego imienia, nazwiska i adresu nie mogło zostać zweryfikowane. Popraw swoje dane i spróbuj ponownie.",module,PayPal_Braintree
 "It is not possible to use the selected payment method. This decision is based on automated data processing.","Nie jest możliwe użycie wybranej metody płatności. Decyzja ta opiera się na zautomatyzowanym przetwarzaniu danych.",module,PayPal_Braintree
-"You can find further information in the <a href='https://www.ratepay.com/en/ratepay-data-privacy-statement/' target='_blank'>Ratepay Data Privacy Statement</a> or you can contact Ratepay using this <a href='https://www.ratepay.com/en/contact/' target='_blank'>contact form</a>.","Więcej informacji znajdziesz w <a href='https://www.ratepay.com/en/ratepay-data-privacy-statement/' target='_blank'>Oświadczeniu o ochronie prywatności Ratepay<\/a> lub możesz skontaktować się z Ratepay, korzystając z tego <a href='https://www.ratepay.com/en/contact/' target='_blank'>formularza kontaktowego<\/a>.",module,PayPal_Braintree
+"You can find further information in the <a href='https://www.ratepay.com/en/ratepay-data-privacy-statement/' target='_blank'>Ratepay Data Privacy Statement</a> or you can contact Ratepay using this <a href='https://www.ratepay.com/en/contact/' target='_blank'>contact form</a>.","Więcej informacji znajdziesz w <a href='https://www.ratepay.com/en/ratepay-data-privacy-statement/' target='_blank'>Oświadczeniu o ochronie prywatności Ratepay</a> lub możesz skontaktować się z Ratepay, korzystając z tego <a href='https://www.ratepay.com/en/contact/' target='_blank'>formularza kontaktowego</a>.",module,PayPal_Braintree
 "Defer non-critical head scripts","Opóźnij niekrytyczne skrypty w sekcji head (defer)",module,Magento_Backend
 "Non-critical scripts loaded in the head section will automatically receive ""defer"" attribute.","Niekrytyczne skrypty ładowane w sekcji head automatycznie otrzymają atrybut ""defer"".",module,Magento_Backend
 "Minimum Admin Password Length","Minimalna długość hasła administratora",module,Magento_Backend
@@ -32705,7 +32705,7 @@ Websites,Witryny,module,Magento_CatalogImportExport
 "New Relic API URL (v2 REST)","Nowy adres URL API Relic (v2 REST)",module,Magento_NewRelicReporting
 "Legacy v2 REST API endpoint for deployments","Starszy punkt końcowy v2 REST API dla wdrożeń",module,Magento_NewRelicReporting
 "Buyer Country","Kraj kupującego",module,Magento_PaymentServicesBase
-"<strong>Buyer Country</strong> field value will only be used in Sandbox Environment to simulate the buyer experience at front-end.","Wartość pola <strong>Kraj kupującego<\/strong> będzie używana tylko w środowisku testowym (Sandbox) do symulacji doświadczeń kupującego.",module,Magento_PaymentServicesBase
+"<strong>Buyer Country</strong> field value will only be used in Sandbox Environment to simulate the buyer experience at front-end.","Wartość pola <strong>Kraj kupującego</strong> będzie używana tylko w środowisku testowym (Sandbox) do symulacji doświadczeń kupującego.",module,Magento_PaymentServicesBase
 "Enable sending Paypal Line Items","Włącz wysyłanie pozycji zamówienia PayPal (Line Items)",module,Magento_PaymentServicesPaypal
 "Show Apple Pay at start of checkout","Pokaż Apple Pay na początku kasy",module,Magento_PaymentServicesPaypal
 "Show Google Pay at start of checkout","Pokaż Google Pay na początku kasy",module,Magento_PaymentServicesPaypal
@@ -32720,11 +32720,11 @@ Websites,Witryny,module,Magento_CatalogImportExport
                         <a href=""https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>Spróbujemy pokazać to ponownie przy następnym logowaniu do Panelu Administracyjnego Magento.<\/p>
+                        <p>Spróbujemy pokazać to ponownie przy następnym logowaniu do Panelu Administracyjnego Magento.</p>
                         <p>Aby dowiedzieć się więcej o nowych funkcjach, zapoznaj się z naszymi najnowszymi informacjami o wydaniu w
-                        <a href=""https:\/\/experienceleague.adobe.com\/en\/docs\/commerce-operations\/release\/notes\/overview""
-                        target=""_blank"">Informacjach o Wydaniach w DevDocs<\/a>.
-                        <\/p>",module,Magento_ReleaseNotification
+                        <a href=""https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview""
+                        target=""_blank"">Informacjach o Wydaniach w DevDocs</a>.
+                        </p>",module,Magento_ReleaseNotification
 "GraphQl Configurations","Konfiguracje GraphQl",module,Magento_SalesRule
 "Share Applied Cart Rules","Udostępniaj zastosowane reguły koszyka",module,Magento_SalesRule
 "Generation Method","Metoda generowania",module,Magento_Sitemap
@@ -32742,8 +32742,8 @@ Delete,Usuń,module,Magento_Tax
 "Manifest MID","MID manifestu",module,Magento_Usps
 AES/ITN,AES/ITN,module,Magento_Usps
 "Braintree Payments (by <a href=""https://www.gene.co.uk/gene-braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>) v4.8.0 -
-                    <a href=""https://support.gene.co.uk/support/solutions/articles/35000315897"" target=""_blank"" rel=""noopener noreferrer"">Release notes</a>","Płatności Braintree (od <a href=""https:\/\/www.gene.co.uk\/gene-braintree-payments\/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce<\/a>) v4.8.0 -
-                    <a href=""https:\/\/support.gene.co.uk\/support\/solutions\/articles\/35000315897"" target=""_blank"" rel=""noopener noreferrer"">Informacje o wydaniu (Release notes)<\/a>",module,PayPal_Braintree
+                    <a href=""https://support.gene.co.uk/support/solutions/articles/35000315897"" target=""_blank"" rel=""noopener noreferrer"">Release notes</a>","Płatności Braintree (od <a href=""https://www.gene.co.uk/gene-braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>) v4.8.0 -
+                    <a href=""https://support.gene.co.uk/support/solutions/articles/35000315897"" target=""_blank"" rel=""noopener noreferrer"">Informacje o wydaniu (Release notes)</a>",module,PayPal_Braintree
 "Display on Product Page","Wyświetlaj na stronie produktu",module,PayPal_Braintree
 "Display on Mini Cart & Cart Page","Wyświetlaj w minikoszyku i na stronie koszyka",module,PayPal_Braintree
 "Display at Start of Checkout","Wyświetlaj na początku kasy",module,PayPal_Braintree
